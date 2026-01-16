@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Looks like the Monado works on more than just Mechon.[XENO:n ]\nI gotta say, that's pretty awesome![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Reyn... I just realised something.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT6 ]Huh?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The future I see... It isn't set.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "I think it's more like a warning.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]A warning?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Yeah... A warning about what will happen.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "What will happen if I don't do anything,[XENO:n ]\nor if I can't do anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]So I can use this power to change the future.[XENO:n ]\nAnd that's exactly what I intend to do.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You've got my vote.[XENO:n ]\nAnd if you really can do that...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "I think Fiorung would have liked it too.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Yeah.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]Right, let's get moving.[XENO:n ]\nWe're nearly at the Giant God's knee.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

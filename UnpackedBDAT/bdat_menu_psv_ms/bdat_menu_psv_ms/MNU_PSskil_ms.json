@@ -1,0 +1,1014 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows medium weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 2,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nMore HP is restored when[XENO:n ]\nreviving a party member."
+    },
+    {
+      "$id": 3,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nSuccessfully completed[XENO:n ]\nquests award more EXP."
+    },
+    {
+      "$id": 4,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nBoosts physical defence[XENO:n ]\nand ether defence."
+    },
+    {
+      "$id": 5,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chain attack[XENO:n ]\ndamage."
+    },
+    {
+      "$id": 6,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nHealing Arts restore[XENO:n ]\nmore HP."
+    },
+    {
+      "$id": 7,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nRestores HP to an[XENO:n ]\nencouraged ally."
+    },
+    {
+      "$id": 8,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nHeals the party slightly[XENO:n ]\nafter a chain attack."
+    },
+    {
+      "$id": 9,
+      "style": 75,
+      "name": "\\[Battle Party\\] Causes[XENO:n ]\nBurst Bonding to fill more[XENO:n ]\nof the Party Gauge."
+    },
+    {
+      "$id": 10,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\nChain Link."
+    },
+    {
+      "$id": 11,
+      "style": 75,
+      "name": "\\[Battle Party\\] [XENO:n ]\nIncreases tension gained[XENO:n ]\nfrom Battle Start Bonding."
+    },
+    {
+      "$id": 12,
+      "style": 75,
+      "name": "\\[Battle Party\\] Agility Up[XENO:n ]\nbuff at start of battle with[XENO:n ]\nhigher level enemies."
+    },
+    {
+      "$id": 13,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nReduces weight of[XENO:n ]\nequipment."
+    },
+    {
+      "$id": 14,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases chance of[XENO:n ]\nFever when gem crafting."
+    },
+    {
+      "$id": 15,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nImproves Arts with Bonus[XENO:n ]\nEffects from behind."
+    },
+    {
+      "$id": 16,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants EXP when Vision[XENO:n ]\nTags are destroyed."
+    },
+    {
+      "$id": 17,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows low-value items to[XENO:n ]\nbe offered when trading."
+    },
+    {
+      "$id": 18,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nAgility Up when a party[XENO:n ]\nmember is Incapacitated."
+    },
+    {
+      "$id": 19,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts physical and ether[XENO:n ]\ndefence for the party."
+    },
+    {
+      "$id": 20,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nTalent Gauge will be at[XENO:n ]\nmax after a vision."
+    },
+    {
+      "$id": 21,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends time before a[XENO:n ]\nvision becomes reality."
+    },
+    {
+      "$id": 22,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces aggro drawn[XENO:n ]\nfrom using Arts."
+    },
+    {
+      "$id": 23,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of Burst[XENO:n ]\nBonding after evasion."
+    },
+    {
+      "$id": 24,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces aggro when[XENO:n ]\ndamage is taken."
+    },
+    {
+      "$id": 25,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants immunity to[XENO:n ]\ndebuffs that reduce stats."
+    },
+    {
+      "$id": 26,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows medium weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 27,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants Phys[XENO:n ]\nDef Up at start of battle[XENO:n ]\nwith higher level enemies."
+    },
+    {
+      "$id": 28,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nPrevents Incapacitation[XENO:n ]\nfrom lowering tension."
+    },
+    {
+      "$id": 29,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases tension when[XENO:n ]\ndamage is taken."
+    },
+    {
+      "$id": 30,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts physical defence[XENO:n ]\nwhen HP is at half."
+    },
+    {
+      "$id": 31,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows heavy weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 32,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases aggro drawn[XENO:n ]\nby Mad Taunt."
+    },
+    {
+      "$id": 33,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nRestores HP to an[XENO:n ]\nencouraged ally."
+    },
+    {
+      "$id": 34,
+      "style": 75,
+      "name": "\\[Battle Party\\] Strength Up[XENO:n ]\nbuff at start of battle with[XENO:n ]\nhigher level enemies."
+    },
+    {
+      "$id": 35,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nFurther increases aggro[XENO:n ]\ndrawn by Mad Taunt."
+    },
+    {
+      "$id": 36,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases Max HP."
+    },
+    {
+      "$id": 37,
+      "style": 75,
+      "name": "\\[Battle Party\\] Agility Up[XENO:n ]\nbuff at start of battle with[XENO:n ]\nhigher level enemies."
+    },
+    {
+      "$id": 38,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases attack power[XENO:n ]\nof equipped weapon."
+    },
+    {
+      "$id": 39,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases AP awarded[XENO:n ]\nin battle."
+    },
+    {
+      "$id": 40,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nFurther increases[XENO:n ]\nMax HP."
+    },
+    {
+      "$id": 41,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\nChain Link."
+    },
+    {
+      "$id": 42,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nHeals the party after a[XENO:n ]\nchain attack."
+    },
+    {
+      "$id": 43,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBattle Start Bonding grants[XENO:n ]\nHaste buff to the party."
+    },
+    {
+      "$id": 44,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nStrength Up when a party[XENO:n ]\nmember is Incapacitated."
+    },
+    {
+      "$id": 45,
+      "style": 75,
+      "name": "\\[Battle Party\\] Boosts the[XENO:n ]\naffinity gained when[XENO:n ]\nencouraging an ally."
+    },
+    {
+      "$id": 46,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts Mad Taunt's effect[XENO:n ]\non non-targeted enemies."
+    },
+    {
+      "$id": 47,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nHaste to the party when[XENO:n ]\nan enemy is defeated."
+    },
+    {
+      "$id": 48,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\ndouble attack."
+    },
+    {
+      "$id": 49,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Haste buff when[XENO:n ]\nan attack misses."
+    },
+    {
+      "$id": 50,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nFills Talent Gauge when[XENO:n ]\ndamage is taken."
+    },
+    {
+      "$id": 51,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows medium weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 52,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases counterattack[XENO:n ]\nrate when HP is at half."
+    },
+    {
+      "$id": 53,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases amount of HP[XENO:n ]\nrestored when revived."
+    },
+    {
+      "$id": 54,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases damage of[XENO:n ]\ncritical hits."
+    },
+    {
+      "$id": 55,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nFills Party Gauge if two[XENO:n ]\nallies are Incapacitated."
+    },
+    {
+      "$id": 56,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Strength Up buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 57,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases damage of the[XENO:n ]\nfirst strike of a battle."
+    },
+    {
+      "$id": 58,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases movement[XENO:n ]\nspeed."
+    },
+    {
+      "$id": 59,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces physical[XENO:n ]\ndamage taken."
+    },
+    {
+      "$id": 60,
+      "style": 75,
+      "name": "\\[Battle Party\\] All Stats Up[XENO:n ]\nbuff at start of battle with[XENO:n ]\nhigher-level monsters."
+    },
+    {
+      "$id": 61,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases block rate[XENO:n ]\nwhen HP is at half."
+    },
+    {
+      "$id": 62,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nRarely grants Haste buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 63,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases EXP awarded[XENO:n ]\nfrom battle."
+    },
+    {
+      "$id": 64,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces Ether damage[XENO:n ]\ntaken."
+    },
+    {
+      "$id": 65,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Haste buff to the[XENO:n ]\nparty after Burst Bonding."
+    },
+    {
+      "$id": 66,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nchain attack damage[XENO:n ]\nwhen in battle with Shulk."
+    },
+    {
+      "$id": 67,
+      "style": 75,
+      "name": "\\[Battle Party\\] Increases[XENO:n ]\nArts damage if warned[XENO:n ]\nof a vision by Shulk."
+    },
+    {
+      "$id": 68,
+      "style": 75,
+      "name": "\\[Battle Party\\] Restores[XENO:n ]\nHP when taking damage[XENO:n ]\nwhen in battle with Shulk."
+    },
+    {
+      "$id": 69,
+      "style": 75,
+      "name": "\\[Battle Party\\] Prevents[XENO:n ]\ntension from becoming[XENO:n ]\nlow if in battle with Shulk."
+    },
+    {
+      "$id": 70,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nAll Stats Up buff when[XENO:n ]\nencouraged by Shulk."
+    },
+    {
+      "$id": 71,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts next Arts damage[XENO:n ]\nwhen warned of a vision."
+    },
+    {
+      "$id": 72,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nTurns all counterattacks[XENO:n ]\ninto critical hits."
+    },
+    {
+      "$id": 73,
+      "style": 75,
+      "name": "\\[Battle Party\\] Dealing[XENO:n ]\ndamage will occasionally[XENO:n ]\nmax the Talent Gauge."
+    },
+    {
+      "$id": 74,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nTurns all double attacks[XENO:n ]\ninto critical hits."
+    },
+    {
+      "$id": 75,
+      "style": 75,
+      "name": "\\[Battle Party\\] Increases[XENO:n ]\ntension by one level[XENO:n ]\nwhen using Talent Arts."
+    },
+    {
+      "$id": 76,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows medium weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 77,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIn battle, boosts strength[XENO:n ]\nwhen HP is at max."
+    },
+    {
+      "$id": 78,
+      "style": 75,
+      "name": "\\[Battle Party\\] Increases[XENO:n ]\ntension after successful[XENO:n ]\nBattle Start Bonding."
+    },
+    {
+      "$id": 79,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases aggro drawn[XENO:n ]\nwhen dealing damage."
+    },
+    {
+      "$id": 80,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants HP Up buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 81,
+      "style": 75,
+      "name": "\\[Battle Party\\] Greatly[XENO:n ]\nincreases aggro when[XENO:n ]\nno armour is equipped."
+    },
+    {
+      "$id": 82,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases agility when[XENO:n ]\nHP is at half."
+    },
+    {
+      "$id": 83,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\ndouble attack."
+    },
+    {
+      "$id": 84,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nReduces weight of[XENO:n ]\nequipment."
+    },
+    {
+      "$id": 85,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nGreatly increases agility[XENO:n ]\nwith no armour equipped."
+    },
+    {
+      "$id": 86,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends the duration of[XENO:n ]\nauras."
+    },
+    {
+      "$id": 87,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces the effects of[XENO:n ]\nSpike attacks."
+    },
+    {
+      "$id": 88,
+      "style": 75,
+      "name": "\\[Battle Party\\] Reduces[XENO:n ]\ndepletion rate of Party[XENO:n ]\nGauge outside of battle."
+    },
+    {
+      "$id": 89,
+      "style": 75,
+      "name": "\\[Always Active\\] Improves[XENO:n ]\nphysical and ether def.[XENO:n ]\nof light equipment."
+    },
+    {
+      "$id": 90,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nRestores HP when[XENO:n ]\ndealing a critical hit."
+    },
+    {
+      "$id": 91,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Haste buff at[XENO:n ]\nstart of battle."
+    },
+    {
+      "$id": 92,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\ncounter-attack."
+    },
+    {
+      "$id": 93,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases tension gained[XENO:n ]\nafter a critical hit."
+    },
+    {
+      "$id": 94,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases tension gained[XENO:n ]\nwhen using Arts."
+    },
+    {
+      "$id": 95,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nFills Party Gauge when[XENO:n ]\nactivating an Aura."
+    },
+    {
+      "$id": 96,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nGreatly reduces weight of[XENO:n ]\nequipment."
+    },
+    {
+      "$id": 97,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants HP Up buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 98,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows heavy weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 99,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces physical[XENO:n ]\ndamage taken."
+    },
+    {
+      "$id": 100,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants immunity to[XENO:n ]\nBlow-Down attacks."
+    },
+    {
+      "$id": 101,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows medium weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 102,
+      "style": 75,
+      "name": "\\[Battle Party\\] Greatly[XENO:n ]\nboosts power of Healing[XENO:n ]\nArts in chain attacks."
+    },
+    {
+      "$id": 103,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends range of[XENO:n ]\nlong-distance Arts."
+    },
+    {
+      "$id": 104,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases agility."
+    },
+    {
+      "$id": 105,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces cooldown of[XENO:n ]\nHealing Arts."
+    },
+    {
+      "$id": 106,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nBoosts physical defence."
+    },
+    {
+      "$id": 107,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases ether."
+    },
+    {
+      "$id": 108,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Physical Defence[XENO:n ]\nUp buff at start of battle."
+    },
+    {
+      "$id": 109,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases ether when HP[XENO:n ]\nis at half."
+    },
+    {
+      "$id": 110,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces the duration of[XENO:n ]\nCool Off."
+    },
+    {
+      "$id": 111,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases damage dealt[XENO:n ]\nby ether Arts attacks."
+    },
+    {
+      "$id": 112,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nPhysical Protect to party[XENO:n ]\nwith Battle Start Bonding."
+    },
+    {
+      "$id": 113,
+      "style": 75,
+      "name": "\\[Always Active\\] Improves[XENO:n ]\nphys. and ether defence[XENO:n ]\nof medium weight armour."
+    },
+    {
+      "$id": 114,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases tension when[XENO:n ]\ntaking damage."
+    },
+    {
+      "$id": 115,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows heavy weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 116,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nHealing Arts after being[XENO:n ]\nwarned of a vision."
+    },
+    {
+      "$id": 117,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nHealing Arts restore[XENO:n ]\nmore HP."
+    },
+    {
+      "$id": 118,
+      "style": 75,
+      "name": "\\[Battle Party\\] Heals the[XENO:n ]\nparty slightly after a[XENO:n ]\nsuccessful Burst Bonding."
+    },
+    {
+      "$id": 119,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Ether Protect buff[XENO:n ]\nwith Battle Start Bonding."
+    },
+    {
+      "$id": 120,
+      "style": 75,
+      "name": "\\[Battle Party\\] Heals[XENO:n ]\nremaining party members[XENO:n ]\nwhen Incapacitated."
+    },
+    {
+      "$id": 121,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nImproves block rate."
+    },
+    {
+      "$id": 122,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases chance of a[XENO:n ]\ncounter-attack."
+    },
+    {
+      "$id": 123,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nEther Up buff when an[XENO:n ]\nally defeats an enemy."
+    },
+    {
+      "$id": 124,
+      "style": 75,
+      "name": "\\[Battle Party\\] Strength Up[XENO:n ]\nand Phys Def Up when[XENO:n ]\nan ally is Incapacitated."
+    },
+    {
+      "$id": 125,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nGreatly increases ether."
+    },
+    {
+      "$id": 126,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases strength[XENO:n ]\nduring the day."
+    },
+    {
+      "$id": 127,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows low-value items to[XENO:n ]\nbe offered when trading."
+    },
+    {
+      "$id": 128,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces cooldown[XENO:n ]\nduring the day."
+    },
+    {
+      "$id": 129,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nchance of monsters[XENO:n ]\ndropping silver chests."
+    },
+    {
+      "$id": 130,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases EXP awarded[XENO:n ]\nin battles during the day."
+    },
+    {
+      "$id": 131,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases movement[XENO:n ]\nspeed."
+    },
+    {
+      "$id": 132,
+      "style": 75,
+      "name": "\\[Always Active\\] Awards[XENO:n ]\nthe same AP regardless[XENO:n ]\nof participation in battle."
+    },
+    {
+      "$id": 133,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAwards more EXP when[XENO:n ]\ndiscovering a Landmark."
+    },
+    {
+      "$id": 134,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nHealing Arts used on an[XENO:n ]\nally with half HP."
+    },
+    {
+      "$id": 135,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nchance of monsters[XENO:n ]\ndropping gold chests."
+    },
+    {
+      "$id": 136,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows items to be sold[XENO:n ]\nfor a higher price."
+    },
+    {
+      "$id": 137,
+      "style": 75,
+      "name": "\\[Always Active\\] Awards[XENO:n ]\nthe same EXP regardless[XENO:n ]\nof participation in battle."
+    },
+    {
+      "$id": 138,
+      "style": 75,
+      "name": "\\[Battle Party\\] Lets Riki[XENO:n ]\nsteal AP with Yoink! and[XENO:n ]\nshare it with the party."
+    },
+    {
+      "$id": 139,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants immunity to[XENO:n ]\nStrength Down debuff."
+    },
+    {
+      "$id": 140,
+      "style": 75,
+      "name": "\\[Battle Party\\] Lets Riki[XENO:n ]\nsteal EXP with Yoink! and[XENO:n ]\nshare it with the party."
+    },
+    {
+      "$id": 141,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nAllows heavy weight[XENO:n ]\narmour to be equipped."
+    },
+    {
+      "$id": 142,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nGreatly increases[XENO:n ]\nstrength."
+    },
+    {
+      "$id": 143,
+      "style": 75,
+      "name": "\\[Battle Party\\] Halves the[XENO:n ]\nParty Gauge usage[XENO:n ]\nwhen reviving allies."
+    },
+    {
+      "$id": 144,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases Spike damage[XENO:n ]\ndealt."
+    },
+    {
+      "$id": 145,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases resistance to[XENO:n ]\nall debuffs."
+    },
+    {
+      "$id": 146,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases strength during[XENO:n ]\nthe night."
+    },
+    {
+      "$id": 147,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases agility when[XENO:n ]\nHP is at half."
+    },
+    {
+      "$id": 148,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces cooldown during[XENO:n ]\nthe night."
+    },
+    {
+      "$id": 149,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nImproves accuracy of[XENO:n ]\nback attacks."
+    },
+    {
+      "$id": 150,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases EXP awarded[XENO:n ]\nin battles during the night."
+    },
+    {
+      "$id": 151,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases HP received[XENO:n ]\nfrom Healing Arts."
+    },
+    {
+      "$id": 152,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases HP absorbed[XENO:n ]\nby water-type Arts."
+    },
+    {
+      "$id": 153,
+      "style": 75,
+      "name": "\\[Always Active\\] Increases[XENO:n ]\nchance of finding rare[XENO:n ]\ncrystals from deposits."
+    },
+    {
+      "$id": 154,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends Chill duration[XENO:n ]\nwhen dealt to an enemy."
+    },
+    {
+      "$id": 155,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nGreatly increases ether."
+    },
+    {
+      "$id": 156,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases agility."
+    },
+    {
+      "$id": 157,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts Wind damage."
+    },
+    {
+      "$id": 158,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Ether Up buff at[XENO:n ]\nstart of battle."
+    },
+    {
+      "$id": 159,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts electric damage."
+    },
+    {
+      "$id": 160,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases accuracy of[XENO:n ]\nether attacks."
+    },
+    {
+      "$id": 161,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases ether."
+    },
+    {
+      "$id": 162,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends Poison duration[XENO:n ]\nwhen dealt to an enemy."
+    },
+    {
+      "$id": 163,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases strength during[XENO:n ]\nthe night."
+    },
+    {
+      "$id": 164,
+      "style": 75,
+      "name": "\\[Battle Party\\] Prevents[XENO:n ]\nreduction of accuracy[XENO:n ]\nwhen tension falls."
+    },
+    {
+      "$id": 165,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants immunity to[XENO:n ]\nEther Down debuff."
+    },
+    {
+      "$id": 166,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces tension loss[XENO:n ]\nwhen an attack fails."
+    },
+    {
+      "$id": 167,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts damage dealt to[XENO:n ]\nenemies suffering Sleep."
+    },
+    {
+      "$id": 168,
+      "style": 75,
+      "name": "\\[Battle Party\\] When an[XENO:n ]\naura is active, increases[XENO:n ]\ndamage dealt to Telethia."
+    },
+    {
+      "$id": 169,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nExtends Blaze duration[XENO:n ]\nwhen dealt to an enemy."
+    },
+    {
+      "$id": 170,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGreatly reduces the[XENO:n ]\neffects of Spike attacks."
+    },
+    {
+      "$id": 171,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nImproves block rate."
+    },
+    {
+      "$id": 172,
+      "style": 75,
+      "name": "\\[Always Active\\] Improves[XENO:n ]\nether defence the more[XENO:n ]\nheavy equipment is worn."
+    },
+    {
+      "$id": 173,
+      "style": 75,
+      "name": "\\[Always Active\\] Strength,[XENO:n ]\nether, agility and HP up[XENO:n ]\nif no gems are equipped."
+    },
+    {
+      "$id": 174,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces damage taken[XENO:n ]\nfrom ether area attacks."
+    },
+    {
+      "$id": 175,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces aggro drawn[XENO:n ]\nwhile an aura is active."
+    },
+    {
+      "$id": 176,
+      "style": 75,
+      "name": "\\[Always Active\\] Allows[XENO:n ]\nspecial armour from[XENO:n ]\nMachine God to be equipped."
+    },
+    {
+      "$id": 177,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases counter-attack[XENO:n ]\nrate when HP is at half."
+    },
+    {
+      "$id": 178,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases amount of HP[XENO:n ]\nrestored when revived."
+    },
+    {
+      "$id": 179,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases damage of[XENO:n ]\ncritical hits."
+    },
+    {
+      "$id": 180,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nFills Party Gauge if two[XENO:n ]\nallies are Incapacitated."
+    },
+    {
+      "$id": 181,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Strength Up buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 182,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases damage of the[XENO:n ]\nfirst strike of a battle."
+    },
+    {
+      "$id": 183,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases movement[XENO:n ]\nspeed."
+    },
+    {
+      "$id": 184,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces physical[XENO:n ]\ndamage taken."
+    },
+    {
+      "$id": 185,
+      "style": 75,
+      "name": "\\[Battle Party\\] All Stats Up[XENO:n ]\nbuff at start of battle with[XENO:n ]\nhigher-level monsters."
+    },
+    {
+      "$id": 186,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nIncreases block rate[XENO:n ]\nwhen HP is at half."
+    },
+    {
+      "$id": 187,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nRarely grants Haste buff[XENO:n ]\nat start of battle."
+    },
+    {
+      "$id": 188,
+      "style": 75,
+      "name": "\\[Always Active\\][XENO:n ]\nIncreases EXP awarded[XENO:n ]\nfrom battle."
+    },
+    {
+      "$id": 189,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nReduces Ether damage[XENO:n ]\ntaken."
+    },
+    {
+      "$id": 190,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nGrants Haste buff to the[XENO:n ]\nparty after Burst Bonding."
+    },
+    {
+      "$id": 191,
+      "style": 75,
+      "name": "\\[Battle Party\\] Improves[XENO:n ]\nchain attack damage[XENO:n ]\nwhen in battle with Shulk."
+    },
+    {
+      "$id": 192,
+      "style": 75,
+      "name": "\\[Battle Party\\] Increases[XENO:n ]\nArts damage if warned[XENO:n ]\nof a vision by Shulk."
+    },
+    {
+      "$id": 193,
+      "style": 75,
+      "name": "\\[Battle Party\\] Restores[XENO:n ]\nHP when taking damage[XENO:n ]\nwhen in battle with Shulk."
+    },
+    {
+      "$id": 194,
+      "style": 75,
+      "name": "\\[Battle Party\\] Prevents[XENO:n ]\ntension from becoming[XENO:n ]\nlow if in battle with Shulk."
+    },
+    {
+      "$id": 195,
+      "style": 75,
+      "name": "\\[Battle Party\\] Grants[XENO:n ]\nAll Stats Up buff when[XENO:n ]\nencouraged by Shulk."
+    },
+    {
+      "$id": 196,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nBoosts next Arts damage[XENO:n ]\nwhen warned of a vision."
+    },
+    {
+      "$id": 197,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nTurns all counter-attacks[XENO:n ]\ninto critical hits."
+    },
+    {
+      "$id": 198,
+      "style": 75,
+      "name": "\\[Battle Party\\] Dealing[XENO:n ]\ndamage will occasionally[XENO:n ]\nmax the Talent Gauge."
+    },
+    {
+      "$id": 199,
+      "style": 75,
+      "name": "\\[Battle Party\\][XENO:n ]\nTurns all double attacks[XENO:n ]\ninto critical hits."
+    },
+    {
+      "$id": 200,
+      "style": 75,
+      "name": "\\[Battle Party\\] Increases[XENO:n ]\ntension by one level[XENO:n ]\nwhen using Talent Arts."
+    }
+  ]
+}

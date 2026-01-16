@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "That's the two pieces of Black[XENO:n ]\nStyrene we needed to find.[XENO:wait wait=key ][System:PageBreak ]These will get the rebuilding[XENO:n ]\nmoving along back in Colony 6.[XENO:wait wait=key ][System:PageBreak ]We should get them back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "That's the second Angel Engine X.[XENO:wait wait=key ][System:PageBreak ]We'd better take them to Colony 6.[XENO:n ]\nThey must be eager to get them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Kyles said he needed three[XENO:n ]\nAdvanced Frames.[XENO:wait wait=key ][System:PageBreak ]Let's get them to him so he can[XENO:n ]\nmake a new gun.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

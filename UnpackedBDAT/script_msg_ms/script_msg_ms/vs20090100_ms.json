@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "...This place looks promising.[XENO:n ]\nWe can take a break here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "So tell us...\nWhat were you two doing out there?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Rather... How did you even get here at all?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Meh-meh...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "A-about that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Melia, I think these two must have\ncome on the Junks.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "What?![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

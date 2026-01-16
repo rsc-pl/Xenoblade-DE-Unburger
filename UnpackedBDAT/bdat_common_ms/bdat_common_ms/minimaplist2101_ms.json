@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 8,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 2,
+      "style": 8,
+      "name": "Upper Level"
+    }
+  ]
+}

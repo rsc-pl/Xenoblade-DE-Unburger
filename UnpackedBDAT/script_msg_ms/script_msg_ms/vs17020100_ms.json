@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "We've relocated the High Entia and[XENO:n ]\nNopon refugees to Colony 6.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Thankfully the Mechon did us a favour by[XENO:n ]\nfortifying it for us. It should hold out for a while.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]It's ironic.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "We want to escape Zanza but we[XENO:n ]\ncan't leave his body, the Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Well...this is our home.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Princess, I have to know. Should we be[XENO:n ]\nworried about the evacuated High Entia?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]I cannot be sure, but I believe not.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]All those who survived are part Homs like me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Understood.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "If they ever do transform, I will be among them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]If that time comes, you know what to do.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Are you sure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Everyone is obliged to accept their fate.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]No way![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "There's no way Kallian would leave the fate of the[XENO:n ]\nHigh Entia to you if that was gonna happen![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Precisely.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]And Melia... If we are to survive, we must[XENO:n ]\nfight Zanza and the Telethia.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "It may not be the case with all of them,[XENO:n ]\nbut a large number of Telethia were once[XENO:n ]\nHigh Entia - your subjects and your brethren.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I am prepared for that.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Even if it means harming my brethren,[XENO:n ]\nit is for the protection of the survivors.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "That is the final wish of my father and brother.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I will fight! To free the souls stolen by Zanza.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You are a fighter, Melia. We will need[XENO:n ]\nall your strength in the fight ahead.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]How's Shulk?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]He's going to make it.[XENO:n ]\nHis wound has closed.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I think Meyneth used the last of[XENO:n ]\nher power to protect him...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]So he's OK.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Linada is tending to him now.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "Fiorung?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "He won't wake up.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "It's like his consciousness has sunk[XENO:n ]\nto the bottom of a cold, dark lake.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "I keep saying his name but he doesn't respond.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "Zanza's gonna pay for this![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]What if the Telethia attack?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Then we'll have to fight without Shulk.[XENO:n ]\nThat's why we've strengthened our defences.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]That weapon I made should come in handy as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]We're backed into a corner,[XENO:n ]\nbut we'll give it all we've got.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Can your resistance truly achieve anything?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "What do you mean by that, Alvis?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Exactly what I said. We were all born of the Giant God, of Zanza.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "It is Zanza's will that the Telethia return[XENO:n ]\nus to the body from whence we came.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "Whether we die of old age or in battle,[XENO:n ]\nwe all eventually return to the Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]We cannot escape this fate. Am I wrong?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You've got it backwards, man.[XENO:n ]\nJust 'cos he thinks it, doesn't make it so.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "We decide whether to keep living or not.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I agree.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Even though he is our creator, that does not[XENO:n ]\nafford him the right to take our lives on a whim.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But that is the thinking of a Homs.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "He is a god. Such morals cannot apply to gods.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]So you think we should just shut up and die?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "If that is the fate decided by a god.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]You are mistaken if you think we will simply[XENO:n ]\naccept such a fate and wait to die.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]We'll never stop fighting.[XENO:n ]\nNot till the end![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]To Zanza, the outcome is the same.[XENO:n ]\nThus your logic is flawed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]It ain't the outcome that's important.[XENO:n ]\nIt's the will to fight back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Even if you die in vain?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Alvis! Whose side are you on?![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "You scared or something?![XENO:n ]\nFrightened of a few Telethia?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Stop this. There's no point fighting[XENO:n ]\namongst ourselves![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "Fiorung?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "Sorry. I need to go and get some air.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

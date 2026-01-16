@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "If you're all ready, let me know[XENO:n ]\nwhat you've been up to.[XENO:wait wait=key ][System:PageBreak ]Looks like you've been through[XENO:n ]\na lot. Tell me about it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Tell Dickson what has happened/・Not right now ][XENO:del del=all ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Machine God crystals look different[XENO:n ]\nfrom Giant God ones. Did you know?[XENO:wait wait=key ][System:PageBreak ]The one next to me is like what[XENO:n ]\nyou will find on Machine God.[XENO:wait wait=key ][System:PageBreak ]It might be because the ether[XENO:n ]\nflow there is different.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:shp shp=19 ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Have you finished your[XENO:n ]\npreparations?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Have you finished preparing?[XENO:wait wait=key ][System:PageBreak ]Galahad Fortress is the enemy's[XENO:n ]\nfront line base.[XENO:wait wait=key ][System:PageBreak ]You cannot afford to be[XENO:n ]\nunderprepared.[XENO:wait wait=key ][System:PageBreak ]You must take this chance to[XENO:n ]\nready everything you may need.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "You carry the fate of Giant God[XENO:n ]\non your shoulders.[XENO:wait wait=key ][System:PageBreak ]However we too shall join the fight[XENO:n ]\nas part of the allied force.[XENO:wait wait=key ][System:PageBreak ]We will seize victory as one![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "We have been busy building up[XENO:n ]\nthe allied force.[XENO:wait wait=key ][System:PageBreak ]Even so, Dickson told us to come[XENO:n ]\nhere to bring you supplies.[XENO:wait wait=key ][System:PageBreak ]He is probably worried about[XENO:n ]\nyou all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Don't forget that everyone in the[XENO:n ]\nallied force is behind you.[XENO:wait wait=key ][System:PageBreak ]But don't go getting yourselves[XENO:n ]\nhurt.[XENO:wait wait=key ][System:PageBreak ]We need you to finish this thing[XENO:n ]\nonce and for all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Some of us will remain here to[XENO:n ]\nsupport you after Dickson leaves.[XENO:wait wait=key ][System:PageBreak ]Come and see us when you need[XENO:n ]\nany supplies.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "I'm, I mean, we're banking[XENO:n ]\neverything on you.[XENO:wait wait=key ][System:PageBreak ]I'll be fighting as part of[XENO:n ]\nthe allied force.[XENO:wait wait=key ][System:PageBreak ]I'll be right behind you all the way.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

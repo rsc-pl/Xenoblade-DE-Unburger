@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]These shackles... They must be the reason[XENO:n ]\nthe Monado can't hurt people as well.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Does that have something to do[XENO:n ]\nwith the faced Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "You must find that out by yourself.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I will remove those shackles for you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "But you must take the Monado[XENO:n ]\nand free me from this prison.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Free me, and the Monado will[XENO:n ]\ncut down anything you wish.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Nothing but a god can stand in your way![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Don't do it, Shulk![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "But Melia, why?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Something's not right. The forefathers[XENO:n ]\nmust have had good reason to seal him![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I need that power. I thought you[XENO:n ]\nof all people would understand![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "I do...but... It's just...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Hold on a minute! He only said[XENO:n ]\nhe'd release this new power.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]Sounds like a good idea to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]But...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Melia, please understand.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "I must do what I set out to.[XENO:n ]\nThe Mechon must pay![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

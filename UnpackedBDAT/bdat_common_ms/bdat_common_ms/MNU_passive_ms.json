@@ -1,0 +1,159 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Skill Trees"
+    },
+    {
+      "$id": 2,
+      "style": 2,
+      "name": "sec"
+    },
+    {
+      "$id": 3,
+      "style": 2,
+      "name": "SP"
+    },
+    {
+      "$id": 4,
+      "style": 2,
+      "name": "pts"
+    },
+    {
+      "$id": 5,
+      "style": 8,
+      "name": "SP"
+    },
+    {
+      "$id": 6,
+      "style": 7,
+      "name": "Bonding Coins"
+    },
+    {
+      "$id": 7,
+      "style": 1,
+      "name": "枚"
+    },
+    {
+      "$id": 8,
+      "style": 8,
+      "name": "Coin Cost"
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Effect Value"
+    },
+    {
+      "$id": 10,
+      "style": 9,
+      "name": "Effect Time"
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "\\[Active\\]"
+    },
+    {
+      "$id": 12,
+      "style": 9,
+      "name": "\\[Passive\\]"
+    },
+    {
+      "$id": 13,
+      "style": 45,
+      "name": "Reset Bonding Coins and[XENO:n ]\nchange Skill Link."
+    },
+    {
+      "$id": 14,
+      "style": 45,
+      "name": "Use Bonding Coins to[XENO:n ]\nset Skill Link."
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Bonding Required"
+    },
+    {
+      "$id": 16,
+      "style": 117,
+      "name": "If you remove this skill,[XENO:n ]\nheavy equipment currently in use[XENO:n ]\nwill also be removed."
+    },
+    {
+      "$id": 17,
+      "style": 117,
+      "name": "If you remove this skill,[XENO:n ]\nmedium equipment currently in use[XENO:n ]\nwill also be removed."
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Remove"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Don't remove"
+    },
+    {
+      "$id": 20,
+      "style": 45,
+      "name": "You haven't learnt[XENO:n ]\nthis skill yet."
+    },
+    {
+      "$id": 21,
+      "style": 45,
+      "name": "You don't have enough[XENO:n ]\nBonding Coins to select this."
+    },
+    {
+      "$id": 22,
+      "style": 13,
+      "name": "Skill Branches"
+    },
+    {
+      "$id": 23,
+      "style": 13,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 26,
+      "style": 45,
+      "name": "You can't select skills[XENO:n ]\nof different types."
+    },
+    {
+      "$id": 27,
+      "style": 45,
+      "name": "This skill is already assigned[XENO:n ]\nto another slot."
+    },
+    {
+      "$id": 28,
+      "style": 45,
+      "name": "同一のスキルのため[XENO:n ]\n選択できません"
+    },
+    {
+      "$id": 29,
+      "style": 3,
+      "name": "----"
+    }
+  ]
+}

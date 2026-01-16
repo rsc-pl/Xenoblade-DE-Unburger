@@ -1,0 +1,2314 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Stiff Hair"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Broken Antenna"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Small Shell"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Small Scale"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Filthy Wing"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Perforated Oar"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Muddy Pelt"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Bunnit Paw"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Tough Bunnit Wood"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Caterpile Syrup"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Sweet Nectar"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Rock Krabble Shell"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Raw Piranhax Meat"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Sharp Antol Jaw"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Vang Tooth"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Yolkless Flamii Egg"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Medicinal Brog Oil"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Ancient Armour"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Iron Krabble Shell"
+    },
+    {
+      "$id": 20,
+      "style": 11,
+      "name": "Fresh Sardi Meat"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Special Bunnit Iron"
+    },
+    {
+      "$id": 22,
+      "style": 11,
+      "name": "Fresh Armu Milk"
+    },
+    {
+      "$id": 23,
+      "style": 11,
+      "name": "Tokilos Wing"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Lucky Skeeter Wing"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Krabble Artwork"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Maternal Armu Milk"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Quality Antol Jaw"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Vang Hair Clip"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Laughing Brog Bag"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Quality Maris Shell"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Quality Rhana Claw"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Wet Hair"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Old Insect Leg"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Rough Skin"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Small Claw"
+    },
+    {
+      "$id": 36,
+      "style": 11,
+      "name": "Bunniv Paw"
+    },
+    {
+      "$id": 37,
+      "style": 11,
+      "name": "Tatty Bunniv Wood"
+    },
+    {
+      "$id": 38,
+      "style": 11,
+      "name": "Heavy Bunniv Iron"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Caterpile Poison"
+    },
+    {
+      "$id": 40,
+      "style": 11,
+      "name": "Black Nectar"
+    },
+    {
+      "$id": 41,
+      "style": 11,
+      "name": "Moving Lizard Tail"
+    },
+    {
+      "$id": 42,
+      "style": 11,
+      "name": "Blue Vang Wing"
+    },
+    {
+      "$id": 43,
+      "style": 11,
+      "name": "Croaking Brog Bag"
+    },
+    {
+      "$id": 44,
+      "style": 11,
+      "name": "Insect Jaw"
+    },
+    {
+      "$id": 45,
+      "style": 11,
+      "name": "Mollusc Mucus"
+    },
+    {
+      "$id": 46,
+      "style": 11,
+      "name": "Broken Pincer"
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Arachno Ear"
+    },
+    {
+      "$id": 48,
+      "style": 11,
+      "name": "Arachno Silk"
+    },
+    {
+      "$id": 49,
+      "style": 11,
+      "name": "Brog Smelling Salts"
+    },
+    {
+      "$id": 50,
+      "style": 11,
+      "name": "Krabble Stone"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Giant Queen Jaw"
+    },
+    {
+      "$id": 52,
+      "style": 11,
+      "name": "Broken Part S"
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Broken Part M"
+    },
+    {
+      "$id": 54,
+      "style": 11,
+      "name": "Broken Part L"
+    },
+    {
+      "$id": 55,
+      "style": 11,
+      "name": "Genuine Plug"
+    },
+    {
+      "$id": 56,
+      "style": 11,
+      "name": "Genuine Frame"
+    },
+    {
+      "$id": 57,
+      "style": 11,
+      "name": "Genuine Shaft"
+    },
+    {
+      "$id": 58,
+      "style": 11,
+      "name": "Genuine Plate"
+    },
+    {
+      "$id": 59,
+      "style": 11,
+      "name": "Genuine Chamber"
+    },
+    {
+      "$id": 60,
+      "style": 11,
+      "name": "Genuine Crank"
+    },
+    {
+      "$id": 61,
+      "style": 11,
+      "name": "Smelly Hide"
+    },
+    {
+      "$id": 62,
+      "style": 11,
+      "name": "Fleecy Fur"
+    },
+    {
+      "$id": 63,
+      "style": 11,
+      "name": "Cracked Bill"
+    },
+    {
+      "$id": 64,
+      "style": 11,
+      "name": "Small Insect Leg"
+    },
+    {
+      "$id": 65,
+      "style": 11,
+      "name": "Strong Insect Leg"
+    },
+    {
+      "$id": 66,
+      "style": 11,
+      "name": "Slimy Tongue"
+    },
+    {
+      "$id": 67,
+      "style": 11,
+      "name": "Worn-Out Weapon"
+    },
+    {
+      "$id": 68,
+      "style": 11,
+      "name": "Rusty Part M"
+    },
+    {
+      "$id": 69,
+      "style": 11,
+      "name": "Rusty Part S"
+    },
+    {
+      "$id": 70,
+      "style": 11,
+      "name": "Rusty Part L"
+    },
+    {
+      "$id": 71,
+      "style": 11,
+      "name": "Small Dorsal Fin"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "Thick Armu Milk"
+    },
+    {
+      "$id": 73,
+      "style": 11,
+      "name": "Ardun Horn"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "Spotted Volff Hide"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "Fertile Flamii Egg"
+    },
+    {
+      "$id": 76,
+      "style": 11,
+      "name": "Bunnit Sapling"
+    },
+    {
+      "$id": 77,
+      "style": 11,
+      "name": "Bunnit Scrap Iron"
+    },
+    {
+      "$id": 78,
+      "style": 11,
+      "name": "Sharp Hox Spur"
+    },
+    {
+      "$id": 79,
+      "style": 11,
+      "name": "Sticky Web Fibre"
+    },
+    {
+      "$id": 80,
+      "style": 11,
+      "name": "Living Antol Eye"
+    },
+    {
+      "$id": 81,
+      "style": 11,
+      "name": "Giant King Jaw"
+    },
+    {
+      "$id": 82,
+      "style": 11,
+      "name": "Vang Third Molar"
+    },
+    {
+      "$id": 83,
+      "style": 11,
+      "name": "Flier Straw"
+    },
+    {
+      "$id": 84,
+      "style": 11,
+      "name": "Glowing Wisp Fluid"
+    },
+    {
+      "$id": 85,
+      "style": 11,
+      "name": "Thick Nectar"
+    },
+    {
+      "$id": 86,
+      "style": 11,
+      "name": "Ornate Lizard Claw"
+    },
+    {
+      "$id": 87,
+      "style": 11,
+      "name": "Brog Leg Meat"
+    },
+    {
+      "$id": 88,
+      "style": 11,
+      "name": "Ponio Neck Meat"
+    },
+    {
+      "$id": 89,
+      "style": 11,
+      "name": "Tirkin Crest"
+    },
+    {
+      "$id": 90,
+      "style": 11,
+      "name": "Tirkin Tail Feather"
+    },
+    {
+      "$id": 91,
+      "style": 11,
+      "name": "Generic Shaft"
+    },
+    {
+      "$id": 92,
+      "style": 11,
+      "name": "Generic Blade"
+    },
+    {
+      "$id": 93,
+      "style": 11,
+      "name": "Generic Plug"
+    },
+    {
+      "$id": 94,
+      "style": 11,
+      "name": "Generic Crank"
+    },
+    {
+      "$id": 95,
+      "style": 11,
+      "name": "Piranhax Roe"
+    },
+    {
+      "$id": 96,
+      "style": 11,
+      "name": "Fatty Sardi Meat"
+    },
+    {
+      "$id": 97,
+      "style": 11,
+      "name": "Light Rain Element"
+    },
+    {
+      "$id": 98,
+      "style": 11,
+      "name": "Generic Unit"
+    },
+    {
+      "$id": 99,
+      "style": 11,
+      "name": "Quality Web Fibre"
+    },
+    {
+      "$id": 100,
+      "style": 11,
+      "name": "Perfect Queen Jaw"
+    },
+    {
+      "$id": 101,
+      "style": 11,
+      "name": "Clear Torta Soup"
+    },
+    {
+      "$id": 102,
+      "style": 11,
+      "name": "Tatty Insect Wing"
+    },
+    {
+      "$id": 103,
+      "style": 11,
+      "name": "Red Wing"
+    },
+    {
+      "$id": 104,
+      "style": 11,
+      "name": "Slender Horn"
+    },
+    {
+      "$id": 105,
+      "style": 11,
+      "name": "Serrated Insect Leg"
+    },
+    {
+      "$id": 106,
+      "style": 11,
+      "name": "Small Oar"
+    },
+    {
+      "$id": 107,
+      "style": 11,
+      "name": "Flier Wing"
+    },
+    {
+      "$id": 108,
+      "style": 11,
+      "name": "Bitter Wisp Fluid"
+    },
+    {
+      "$id": 109,
+      "style": 11,
+      "name": "Red Rhogul Wing"
+    },
+    {
+      "$id": 110,
+      "style": 11,
+      "name": "100th Hox Spur"
+    },
+    {
+      "$id": 111,
+      "style": 11,
+      "name": "Crystal Antol Eye"
+    },
+    {
+      "$id": 112,
+      "style": 11,
+      "name": "Thunder Element"
+    },
+    {
+      "$id": 113,
+      "style": 11,
+      "name": "Small Upa Light"
+    },
+    {
+      "$id": 114,
+      "style": 11,
+      "name": "Flier Allure Scale"
+    },
+    {
+      "$id": 115,
+      "style": 11,
+      "name": "Wisp Glow Stick"
+    },
+    {
+      "$id": 116,
+      "style": 11,
+      "name": "Strong Hox Horn"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "Antol Pheromones"
+    },
+    {
+      "$id": 118,
+      "style": 11,
+      "name": "Hard Pincer"
+    },
+    {
+      "$id": 119,
+      "style": 11,
+      "name": "Shed Lizard Claw"
+    },
+    {
+      "$id": 120,
+      "style": 11,
+      "name": "Krabble Fixed Part"
+    },
+    {
+      "$id": 121,
+      "style": 11,
+      "name": "Rich Krabble Egg"
+    },
+    {
+      "$id": 122,
+      "style": 11,
+      "name": "Black Vang Fang"
+    },
+    {
+      "$id": 123,
+      "style": 11,
+      "name": "Cracked Part S"
+    },
+    {
+      "$id": 124,
+      "style": 11,
+      "name": "Cracked Part M"
+    },
+    {
+      "$id": 125,
+      "style": 11,
+      "name": "Cracked Part L"
+    },
+    {
+      "$id": 126,
+      "style": 11,
+      "name": "Upgraded Frame"
+    },
+    {
+      "$id": 127,
+      "style": 11,
+      "name": "Upgraded Spindle"
+    },
+    {
+      "$id": 128,
+      "style": 11,
+      "name": "Upgraded Shaft"
+    },
+    {
+      "$id": 129,
+      "style": 11,
+      "name": "Upgraded Plunger"
+    },
+    {
+      "$id": 130,
+      "style": 11,
+      "name": "Sticky Mucus"
+    },
+    {
+      "$id": 131,
+      "style": 11,
+      "name": "Cracked Claw"
+    },
+    {
+      "$id": 132,
+      "style": 11,
+      "name": "Ordinary Hide"
+    },
+    {
+      "$id": 133,
+      "style": 11,
+      "name": "Smelly Antenna"
+    },
+    {
+      "$id": 134,
+      "style": 11,
+      "name": "Shoddy Weapon"
+    },
+    {
+      "$id": 135,
+      "style": 11,
+      "name": "Rainstorm Element"
+    },
+    {
+      "$id": 136,
+      "style": 11,
+      "name": "Tornado Element"
+    },
+    {
+      "$id": 137,
+      "style": 11,
+      "name": "Glowing Upa Seed"
+    },
+    {
+      "$id": 138,
+      "style": 11,
+      "name": "Rhogul Axe Crest"
+    },
+    {
+      "$id": 139,
+      "style": 11,
+      "name": "Vang Milk Tooth"
+    },
+    {
+      "$id": 140,
+      "style": 11,
+      "name": "Twin Flamii Eggs"
+    },
+    {
+      "$id": 141,
+      "style": 11,
+      "name": "Quadwing Bag"
+    },
+    {
+      "$id": 142,
+      "style": 11,
+      "name": "Bunnia Scent Wood"
+    },
+    {
+      "$id": 143,
+      "style": 11,
+      "name": "Bunnia Ham"
+    },
+    {
+      "$id": 144,
+      "style": 11,
+      "name": "Potent Brog Poison"
+    },
+    {
+      "$id": 145,
+      "style": 11,
+      "name": "White Brog Liver"
+    },
+    {
+      "$id": 146,
+      "style": 11,
+      "name": "Fancy Volff Hide"
+    },
+    {
+      "$id": 147,
+      "style": 11,
+      "name": "Caterpile Vinegar"
+    },
+    {
+      "$id": 148,
+      "style": 11,
+      "name": "Igna Hide Jacket"
+    },
+    {
+      "$id": 149,
+      "style": 11,
+      "name": "Igna Stone Pot"
+    },
+    {
+      "$id": 150,
+      "style": 11,
+      "name": "Guardian's Wing"
+    },
+    {
+      "$id": 151,
+      "style": 11,
+      "name": "Gogol Snack Stash"
+    },
+    {
+      "$id": 152,
+      "style": 11,
+      "name": "Queen Cocoon"
+    },
+    {
+      "$id": 153,
+      "style": 11,
+      "name": "Upa Death Stone"
+    },
+    {
+      "$id": 154,
+      "style": 11,
+      "name": "Element Fragment"
+    },
+    {
+      "$id": 155,
+      "style": 11,
+      "name": "Caterpile Silk"
+    },
+    {
+      "$id": 156,
+      "style": 11,
+      "name": "Andos Fire Armour"
+    },
+    {
+      "$id": 157,
+      "style": 11,
+      "name": "Diamond Brog Eye"
+    },
+    {
+      "$id": 158,
+      "style": 11,
+      "name": "Immortal Moss"
+    },
+    {
+      "$id": 159,
+      "style": 11,
+      "name": "Tokilos King Egg"
+    },
+    {
+      "$id": 160,
+      "style": 11,
+      "name": "Demon Web Fibre"
+    },
+    {
+      "$id": 161,
+      "style": 11,
+      "name": "Lucky Arachno Box"
+    },
+    {
+      "$id": 162,
+      "style": 11,
+      "name": "Vang Star Wing"
+    },
+    {
+      "$id": 163,
+      "style": 11,
+      "name": "Gogol Horn"
+    },
+    {
+      "$id": 164,
+      "style": 11,
+      "name": "Black Queen Fibre"
+    },
+    {
+      "$id": 165,
+      "style": 11,
+      "name": "Arachno Sickle"
+    },
+    {
+      "$id": 166,
+      "style": 11,
+      "name": "Ardun Elder Beard"
+    },
+    {
+      "$id": 167,
+      "style": 11,
+      "name": "Ancient Sardi Meat"
+    },
+    {
+      "$id": 168,
+      "style": 11,
+      "name": "Lizard Moon Jewel"
+    },
+    {
+      "$id": 169,
+      "style": 11,
+      "name": "Tirkin Elder Medal"
+    },
+    {
+      "$id": 170,
+      "style": 11,
+      "name": "Bunniv Club"
+    },
+    {
+      "$id": 171,
+      "style": 11,
+      "name": "Quadwing Treasure"
+    },
+    {
+      "$id": 172,
+      "style": 11,
+      "name": "Flamii Waterfall Orb"
+    },
+    {
+      "$id": 173,
+      "style": 11,
+      "name": "Wisp Sun Bead"
+    },
+    {
+      "$id": 174,
+      "style": 11,
+      "name": "Hox Daylight Spur"
+    },
+    {
+      "$id": 175,
+      "style": 11,
+      "name": "Silver Rhogul Wing"
+    },
+    {
+      "$id": 176,
+      "style": 11,
+      "name": "Demonic Everflame"
+    },
+    {
+      "$id": 177,
+      "style": 11,
+      "name": "Ocean Elixir of Life"
+    },
+    {
+      "$id": 178,
+      "style": 11,
+      "name": "Giant God Ether"
+    },
+    {
+      "$id": 179,
+      "style": 11,
+      "name": "Infinite Telethia Pen"
+    },
+    {
+      "$id": 180,
+      "style": 11,
+      "name": "Telethia Compass"
+    },
+    {
+      "$id": 181,
+      "style": 11,
+      "name": "Glacier Element"
+    },
+    {
+      "$id": 182,
+      "style": 11,
+      "name": "Lucky Fang"
+    },
+    {
+      "$id": 183,
+      "style": 11,
+      "name": "Sky Jewel"
+    },
+    {
+      "$id": 184,
+      "style": 11,
+      "name": "Quirky Liver"
+    },
+    {
+      "$id": 185,
+      "style": 11,
+      "name": "Peachy Leg Joint"
+    },
+    {
+      "$id": 186,
+      "style": 11,
+      "name": "Thin Blood"
+    },
+    {
+      "$id": 187,
+      "style": 11,
+      "name": "Floppy Crest"
+    },
+    {
+      "$id": 188,
+      "style": 11,
+      "name": "Cloudy Eyeball"
+    },
+    {
+      "$id": 189,
+      "style": 11,
+      "name": "Sweaty Cloth"
+    },
+    {
+      "$id": 190,
+      "style": 11,
+      "name": "Worn Muscle Fibre"
+    },
+    {
+      "$id": 191,
+      "style": 11,
+      "name": "Musky Nectar"
+    },
+    {
+      "$id": 192,
+      "style": 11,
+      "name": "Decrepit Wing"
+    },
+    {
+      "$id": 193,
+      "style": 11,
+      "name": "Piranhax Belly Meat"
+    },
+    {
+      "$id": 194,
+      "style": 11,
+      "name": "Rich Sardi Meat"
+    },
+    {
+      "$id": 195,
+      "style": 11,
+      "name": "Bloody Brog Sweat"
+    },
+    {
+      "$id": 196,
+      "style": 11,
+      "name": "Eks Iron Heart"
+    },
+    {
+      "$id": 197,
+      "style": 11,
+      "name": "All-Seeing Eye"
+    },
+    {
+      "$id": 198,
+      "style": 11,
+      "name": "Tasty Ansel Wing"
+    },
+    {
+      "$id": 199,
+      "style": 11,
+      "name": "Feris Blood"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Magic Stone"
+    },
+    {
+      "$id": 201,
+      "style": 11,
+      "name": "Upa Ember"
+    },
+    {
+      "$id": 202,
+      "style": 11,
+      "name": "Hode Camouflage"
+    },
+    {
+      "$id": 203,
+      "style": 11,
+      "name": "Hode Plank"
+    },
+    {
+      "$id": 204,
+      "style": 11,
+      "name": "Fancy Orluga Mask"
+    },
+    {
+      "$id": 205,
+      "style": 11,
+      "name": "Orluga Grass Skirt"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "Green Eluca Juice"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "Royal Apis Nectar"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "Delicious Vang Tail"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "Iron Antol Fibre"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "Telethia Feather"
+    },
+    {
+      "$id": 211,
+      "style": 11,
+      "name": "Telethia Pouch"
+    },
+    {
+      "$id": 212,
+      "style": 11,
+      "name": "Drizzle Element"
+    },
+    {
+      "$id": 213,
+      "style": 11,
+      "name": "Dust Element"
+    },
+    {
+      "$id": 214,
+      "style": 11,
+      "name": "Old Dragon Spine"
+    },
+    {
+      "$id": 215,
+      "style": 11,
+      "name": "Jagged Tail"
+    },
+    {
+      "$id": 216,
+      "style": 11,
+      "name": "Slimy Epithelium"
+    },
+    {
+      "$id": 217,
+      "style": 11,
+      "name": "Rotten Meat"
+    },
+    {
+      "$id": 218,
+      "style": 11,
+      "name": "Juicy Wild Meat"
+    },
+    {
+      "$id": 219,
+      "style": 11,
+      "name": "Scratched Jewel"
+    },
+    {
+      "$id": 220,
+      "style": 11,
+      "name": "Chipped Talon"
+    },
+    {
+      "$id": 221,
+      "style": 11,
+      "name": "Refined Ponytail"
+    },
+    {
+      "$id": 222,
+      "style": 11,
+      "name": "Large Hoof"
+    },
+    {
+      "$id": 223,
+      "style": 11,
+      "name": "Sturdy Armour"
+    },
+    {
+      "$id": 224,
+      "style": 11,
+      "name": "Lexos Beard"
+    },
+    {
+      "$id": 225,
+      "style": 11,
+      "name": "Hiln Coin Purse"
+    },
+    {
+      "$id": 226,
+      "style": 11,
+      "name": "Dense Ansel Meat"
+    },
+    {
+      "$id": 227,
+      "style": 11,
+      "name": "Ekidno Jaw Gristle"
+    },
+    {
+      "$id": 228,
+      "style": 11,
+      "name": "Juicy Laia Fish"
+    },
+    {
+      "$id": 229,
+      "style": 11,
+      "name": "Glossy Grady Fan"
+    },
+    {
+      "$id": 230,
+      "style": 11,
+      "name": "Pagul Hot Pot"
+    },
+    {
+      "$id": 231,
+      "style": 11,
+      "name": "Silver Eks Plate"
+    },
+    {
+      "$id": 232,
+      "style": 11,
+      "name": "Murky Eluca Water"
+    },
+    {
+      "$id": 233,
+      "style": 11,
+      "name": "Shiny Kromar Hide"
+    },
+    {
+      "$id": 234,
+      "style": 11,
+      "name": "Slick Kromar Stone"
+    },
+    {
+      "$id": 235,
+      "style": 11,
+      "name": "Hode Ponytail"
+    },
+    {
+      "$id": 236,
+      "style": 11,
+      "name": "Luxury Hode Wood"
+    },
+    {
+      "$id": 237,
+      "style": 11,
+      "name": "Orluga Slacks"
+    },
+    {
+      "$id": 238,
+      "style": 11,
+      "name": "Aqueous Andos Oil"
+    },
+    {
+      "$id": 239,
+      "style": 11,
+      "name": "Skyray Flesh"
+    },
+    {
+      "$id": 240,
+      "style": 11,
+      "name": "Squall Element"
+    },
+    {
+      "$id": 241,
+      "style": 11,
+      "name": "Ghost Mask"
+    },
+    {
+      "$id": 242,
+      "style": 11,
+      "name": "Assassin Mask"
+    },
+    {
+      "$id": 243,
+      "style": 11,
+      "name": "Protection Mask"
+    },
+    {
+      "$id": 244,
+      "style": 11,
+      "name": "Used Cylinder"
+    },
+    {
+      "$id": 245,
+      "style": 11,
+      "name": "New Cylinder"
+    },
+    {
+      "$id": 246,
+      "style": 11,
+      "name": "Old Remote Device"
+    },
+    {
+      "$id": 247,
+      "style": 11,
+      "name": "Andos Alloy Plate"
+    },
+    {
+      "$id": 248,
+      "style": 11,
+      "name": "Andos Antenna"
+    },
+    {
+      "$id": 249,
+      "style": 11,
+      "name": "Astas Remote Unit"
+    },
+    {
+      "$id": 250,
+      "style": 11,
+      "name": "Rufus Control Unit"
+    },
+    {
+      "$id": 251,
+      "style": 11,
+      "name": "Taruko's Mask"
+    },
+    {
+      "$id": 252,
+      "style": 11,
+      "name": "Telethia Membrane"
+    },
+    {
+      "$id": 253,
+      "style": 11,
+      "name": "Black Fog Deposits"
+    },
+    {
+      "$id": 254,
+      "style": 11,
+      "name": "Lightning Element"
+    },
+    {
+      "$id": 255,
+      "style": 11,
+      "name": "Refined Horn"
+    },
+    {
+      "$id": 256,
+      "style": 11,
+      "name": "Hard Backbone"
+    },
+    {
+      "$id": 257,
+      "style": 11,
+      "name": "Salt-Roasted Bird"
+    },
+    {
+      "$id": 258,
+      "style": 11,
+      "name": "Fine-Quality Belt"
+    },
+    {
+      "$id": 259,
+      "style": 11,
+      "name": "Iron Lump"
+    },
+    {
+      "$id": 260,
+      "style": 11,
+      "name": "Dirty Snow Wing"
+    },
+    {
+      "$id": 261,
+      "style": 11,
+      "name": "Old Dragon Fang"
+    },
+    {
+      "$id": 262,
+      "style": 11,
+      "name": "Ories Horn"
+    },
+    {
+      "$id": 263,
+      "style": 11,
+      "name": "Frozen Aries Meat"
+    },
+    {
+      "$id": 264,
+      "style": 11,
+      "name": "Golden Eks Heart"
+    },
+    {
+      "$id": 265,
+      "style": 11,
+      "name": "Moramora Meat Pie"
+    },
+    {
+      "$id": 266,
+      "style": 11,
+      "name": "Ansel Fish Pie"
+    },
+    {
+      "$id": 267,
+      "style": 11,
+      "name": "Slobos Ice Rock"
+    },
+    {
+      "$id": 268,
+      "style": 11,
+      "name": "Apis Gold Nugget"
+    },
+    {
+      "$id": 269,
+      "style": 11,
+      "name": "Aged Chilkin Hair"
+    },
+    {
+      "$id": 270,
+      "style": 11,
+      "name": "Lucky Chilkin Ring"
+    },
+    {
+      "$id": 271,
+      "style": 11,
+      "name": "Silver Lexos Heart"
+    },
+    {
+      "$id": 272,
+      "style": 11,
+      "name": "Taos Phoenix Egg"
+    },
+    {
+      "$id": 273,
+      "style": 11,
+      "name": "Pagul Cold Pie"
+    },
+    {
+      "$id": 274,
+      "style": 11,
+      "name": "Soya Paste Shell"
+    },
+    {
+      "$id": 275,
+      "style": 11,
+      "name": "Antol Fire Pouch"
+    },
+    {
+      "$id": 276,
+      "style": 11,
+      "name": "Tasty Vang Feather"
+    },
+    {
+      "$id": 277,
+      "style": 11,
+      "name": "Feris Aged Ale"
+    },
+    {
+      "$id": 278,
+      "style": 11,
+      "name": "Hox Flint"
+    },
+    {
+      "$id": 279,
+      "style": 11,
+      "name": "Antol Sleeping Bag"
+    },
+    {
+      "$id": 280,
+      "style": 11,
+      "name": "Mumca's Razor"
+    },
+    {
+      "$id": 281,
+      "style": 11,
+      "name": "Snow Element"
+    },
+    {
+      "$id": 282,
+      "style": 11,
+      "name": "Fire Element"
+    },
+    {
+      "$id": 283,
+      "style": 11,
+      "name": "Dull Stone"
+    },
+    {
+      "$id": 284,
+      "style": 11,
+      "name": "Yellow Slobos Rock"
+    },
+    {
+      "$id": 285,
+      "style": 11,
+      "name": "Lexos Dragon Elixir"
+    },
+    {
+      "$id": 286,
+      "style": 11,
+      "name": "Element Chunk"
+    },
+    {
+      "$id": 287,
+      "style": 11,
+      "name": "Corona Element"
+    },
+    {
+      "$id": 288,
+      "style": 11,
+      "name": "Gigawatt Element"
+    },
+    {
+      "$id": 289,
+      "style": 11,
+      "name": "Regal Pterix Wing"
+    },
+    {
+      "$id": 290,
+      "style": 11,
+      "name": "Giant Sauros Fang"
+    },
+    {
+      "$id": 291,
+      "style": 11,
+      "name": "Mammut Horn"
+    },
+    {
+      "$id": 292,
+      "style": 11,
+      "name": "Royal Kromar Pike"
+    },
+    {
+      "$id": 293,
+      "style": 11,
+      "name": "Grady Colour Roe"
+    },
+    {
+      "$id": 294,
+      "style": 11,
+      "name": "Tude Jewel Shell"
+    },
+    {
+      "$id": 295,
+      "style": 11,
+      "name": "Thick Rhana Hide"
+    },
+    {
+      "$id": 296,
+      "style": 11,
+      "name": "Telethia Mirror"
+    },
+    {
+      "$id": 297,
+      "style": 11,
+      "name": "Telethia Ring"
+    },
+    {
+      "$id": 298,
+      "style": 11,
+      "name": "Telethia Tear"
+    },
+    {
+      "$id": 299,
+      "style": 11,
+      "name": "Lexos God Elixir"
+    },
+    {
+      "$id": 300,
+      "style": 11,
+      "name": "Normal Part S"
+    },
+    {
+      "$id": 301,
+      "style": 11,
+      "name": "Normal Part M"
+    },
+    {
+      "$id": 302,
+      "style": 11,
+      "name": "Normal Part L"
+    },
+    {
+      "$id": 303,
+      "style": 11,
+      "name": "Quality Jet"
+    },
+    {
+      "$id": 304,
+      "style": 11,
+      "name": "Quality Core"
+    },
+    {
+      "$id": 305,
+      "style": 11,
+      "name": "Quality Unit"
+    },
+    {
+      "$id": 306,
+      "style": 11,
+      "name": "Quality Fuse"
+    },
+    {
+      "$id": 307,
+      "style": 11,
+      "name": "Quality Plunger"
+    },
+    {
+      "$id": 308,
+      "style": 11,
+      "name": "Quality Shaft"
+    },
+    {
+      "$id": 309,
+      "style": 11,
+      "name": "Quality Plate"
+    },
+    {
+      "$id": 310,
+      "style": 11,
+      "name": "Quality Plug"
+    },
+    {
+      "$id": 311,
+      "style": 11,
+      "name": "Quality Frame"
+    },
+    {
+      "$id": 312,
+      "style": 11,
+      "name": "Quality Crank"
+    },
+    {
+      "$id": 313,
+      "style": 11,
+      "name": "Mumca's Claws"
+    },
+    {
+      "$id": 314,
+      "style": 11,
+      "name": "Precision Core"
+    },
+    {
+      "$id": 315,
+      "style": 11,
+      "name": "Refined Part S"
+    },
+    {
+      "$id": 316,
+      "style": 11,
+      "name": "Refined Part M"
+    },
+    {
+      "$id": 317,
+      "style": 11,
+      "name": "Refined Part L"
+    },
+    {
+      "$id": 318,
+      "style": 11,
+      "name": "Quality Thruster"
+    },
+    {
+      "$id": 319,
+      "style": 11,
+      "name": "Quality Lens"
+    },
+    {
+      "$id": 320,
+      "style": 11,
+      "name": "Old Part S"
+    },
+    {
+      "$id": 321,
+      "style": 11,
+      "name": "Old Part M"
+    },
+    {
+      "$id": 322,
+      "style": 11,
+      "name": "Twisted Leg"
+    },
+    {
+      "$id": 323,
+      "style": 11,
+      "name": "Fatty Fish Belly"
+    },
+    {
+      "$id": 324,
+      "style": 11,
+      "name": "Succulent Meat"
+    },
+    {
+      "$id": 325,
+      "style": 11,
+      "name": "Squishy Cartilage"
+    },
+    {
+      "$id": 326,
+      "style": 11,
+      "name": "Gooey Gunge"
+    },
+    {
+      "$id": 327,
+      "style": 11,
+      "name": "Dated Plug"
+    },
+    {
+      "$id": 328,
+      "style": 11,
+      "name": "Dated Crank"
+    },
+    {
+      "$id": 329,
+      "style": 11,
+      "name": "Dated Frame"
+    },
+    {
+      "$id": 330,
+      "style": 11,
+      "name": "Dated Plate"
+    },
+    {
+      "$id": 331,
+      "style": 11,
+      "name": "Pretty Flamii Leg"
+    },
+    {
+      "$id": 332,
+      "style": 11,
+      "name": "Piranhax Fishmeal"
+    },
+    {
+      "$id": 333,
+      "style": 11,
+      "name": "Pterix Energy Egg"
+    },
+    {
+      "$id": 334,
+      "style": 11,
+      "name": "Ponio Hoof Seal"
+    },
+    {
+      "$id": 335,
+      "style": 11,
+      "name": "Krabble Back Moss"
+    },
+    {
+      "$id": 336,
+      "style": 11,
+      "name": "Krabble Detergent"
+    },
+    {
+      "$id": 337,
+      "style": 11,
+      "name": "Royal Volff Hide"
+    },
+    {
+      "$id": 338,
+      "style": 11,
+      "name": "Electric Upa Tears"
+    },
+    {
+      "$id": 339,
+      "style": 11,
+      "name": "Silver Antol Fibre"
+    },
+    {
+      "$id": 340,
+      "style": 11,
+      "name": "Flier Bloom Scale"
+    },
+    {
+      "$id": 341,
+      "style": 11,
+      "name": "Wisp Bliss Ring"
+    },
+    {
+      "$id": 342,
+      "style": 11,
+      "name": "Tough Part S"
+    },
+    {
+      "$id": 343,
+      "style": 11,
+      "name": "Tough Part M"
+    },
+    {
+      "$id": 344,
+      "style": 11,
+      "name": "Tough Part L"
+    },
+    {
+      "$id": 345,
+      "style": 11,
+      "name": "Reinforced Jet"
+    },
+    {
+      "$id": 346,
+      "style": 11,
+      "name": "Reinforced Thruster"
+    },
+    {
+      "$id": 347,
+      "style": 11,
+      "name": "Reinforced Lens"
+    },
+    {
+      "$id": 348,
+      "style": 11,
+      "name": "Reinforced Plate"
+    },
+    {
+      "$id": 349,
+      "style": 11,
+      "name": "Reinforced Crank"
+    },
+    {
+      "$id": 350,
+      "style": 11,
+      "name": "Reinforced Frame"
+    },
+    {
+      "$id": 351,
+      "style": 11,
+      "name": "Reinforced Plug"
+    },
+    {
+      "$id": 352,
+      "style": 11,
+      "name": "Reinforced Plunger"
+    },
+    {
+      "$id": 353,
+      "style": 11,
+      "name": "Reinforced Unit"
+    },
+    {
+      "$id": 354,
+      "style": 11,
+      "name": "Fine Part S"
+    },
+    {
+      "$id": 355,
+      "style": 11,
+      "name": "Fine Part M"
+    },
+    {
+      "$id": 356,
+      "style": 11,
+      "name": "Fine Part L"
+    },
+    {
+      "$id": 357,
+      "style": 11,
+      "name": "Advanced Frame"
+    },
+    {
+      "$id": 358,
+      "style": 11,
+      "name": "Advanced Plug"
+    },
+    {
+      "$id": 359,
+      "style": 11,
+      "name": "Advanced Jet"
+    },
+    {
+      "$id": 360,
+      "style": 11,
+      "name": "Reinforced Core"
+    },
+    {
+      "$id": 361,
+      "style": 11,
+      "name": "Bloodstained Face"
+    },
+    {
+      "$id": 362,
+      "style": 11,
+      "name": "New Part S"
+    },
+    {
+      "$id": 363,
+      "style": 11,
+      "name": "New Part M"
+    },
+    {
+      "$id": 364,
+      "style": 11,
+      "name": "New Part L"
+    },
+    {
+      "$id": 365,
+      "style": 11,
+      "name": "Advanced Core"
+    },
+    {
+      "$id": 366,
+      "style": 11,
+      "name": "Advanced Lens"
+    },
+    {
+      "$id": 367,
+      "style": 11,
+      "name": "Advanced Thruster"
+    },
+    {
+      "$id": 368,
+      "style": 11,
+      "name": "Advanced Plate"
+    },
+    {
+      "$id": 369,
+      "style": 11,
+      "name": "Advanced Crank"
+    },
+    {
+      "$id": 370,
+      "style": 11,
+      "name": "Advanced Chamber"
+    },
+    {
+      "$id": 371,
+      "style": 11,
+      "name": "Gado's Gun Turret"
+    },
+    {
+      "$id": 372,
+      "style": 11,
+      "name": "Leader's Plate"
+    },
+    {
+      "$id": 373,
+      "style": 11,
+      "name": "Active Cells"
+    },
+    {
+      "$id": 374,
+      "style": 11,
+      "name": "Nutritious Microbes"
+    },
+    {
+      "$id": 375,
+      "style": 11,
+      "name": "Giant Protein"
+    },
+    {
+      "$id": 376,
+      "style": 11,
+      "name": "Wing of Light"
+    },
+    {
+      "$id": 377,
+      "style": 11,
+      "name": "Quality Selua Cell"
+    },
+    {
+      "$id": 378,
+      "style": 11,
+      "name": "Flexible Selua Cell"
+    },
+    {
+      "$id": 379,
+      "style": 11,
+      "name": "Steel Selua Cell"
+    },
+    {
+      "$id": 380,
+      "style": 11,
+      "name": "Hot Selua Cell"
+    },
+    {
+      "$id": 381,
+      "style": 11,
+      "name": "Telethia Tome"
+    },
+    {
+      "$id": 382,
+      "style": 11,
+      "name": "Telethia Stem Cell"
+    },
+    {
+      "$id": 383,
+      "style": 11,
+      "name": "Telethia Light Wing"
+    },
+    {
+      "$id": 384,
+      "style": 11,
+      "name": "Telethia Letter"
+    },
+    {
+      "$id": 385,
+      "style": 11,
+      "name": "Telethia Tear Jewel"
+    },
+    {
+      "$id": 386,
+      "style": 11,
+      "name": "Element Essence"
+    },
+    {
+      "$id": 387,
+      "style": 11,
+      "name": "Glowing Retina"
+    },
+    {
+      "$id": 388,
+      "style": 11,
+      "name": "Dark Claw"
+    },
+    {
+      "$id": 389,
+      "style": 11,
+      "name": "Sharp Ear"
+    },
+    {
+      "$id": 390,
+      "style": 11,
+      "name": "Tough Tendon"
+    },
+    {
+      "$id": 391,
+      "style": 11,
+      "name": "Gale Element"
+    },
+    {
+      "$id": 392,
+      "style": 11,
+      "name": "Desert Element"
+    },
+    {
+      "$id": 393,
+      "style": 11,
+      "name": "Flood Element"
+    },
+    {
+      "$id": 394,
+      "style": 11,
+      "name": "Inferno Element"
+    },
+    {
+      "$id": 395,
+      "style": 11,
+      "name": "Bolt Element"
+    },
+    {
+      "$id": 396,
+      "style": 11,
+      "name": "Blizzard Element"
+    },
+    {
+      "$id": 397,
+      "style": 11,
+      "name": "Ageshu Meat Cut"
+    },
+    {
+      "$id": 398,
+      "style": 11,
+      "name": "Crimson Egel Eye"
+    },
+    {
+      "$id": 399,
+      "style": 11,
+      "name": "Deinos Tongue"
+    },
+    {
+      "$id": 400,
+      "style": 11,
+      "name": "Laia Intestine"
+    },
+    {
+      "$id": 401,
+      "style": 11,
+      "name": "Steel Obart Claw"
+    },
+    {
+      "$id": 402,
+      "style": 11,
+      "name": "Long Barg Ear"
+    },
+    {
+      "$id": 403,
+      "style": 11,
+      "name": "Balgas Lung"
+    },
+    {
+      "$id": 404,
+      "style": 11,
+      "name": "Adam's Apple"
+    },
+    {
+      "$id": 405,
+      "style": 11,
+      "name": "Alcar's Inferno Eye"
+    },
+    {
+      "$id": 406,
+      "style": 11,
+      "name": "Dickson's Amulet"
+    },
+    {
+      "$id": 407,
+      "style": 11,
+      "name": "Heavy Hoof"
+    },
+    {
+      "$id": 408,
+      "style": 11,
+      "name": "Firm Skin"
+    },
+    {
+      "$id": 409,
+      "style": 11,
+      "name": "Pure-White Fang"
+    },
+    {
+      "$id": 410,
+      "style": 11,
+      "name": "Poisonous Needle"
+    },
+    {
+      "$id": 411,
+      "style": 11,
+      "name": "Lead Carapace"
+    },
+    {
+      "$id": 412,
+      "style": 11,
+      "name": "Grey Shell"
+    },
+    {
+      "$id": 413,
+      "style": 11,
+      "name": "Quality Pelt"
+    },
+    {
+      "$id": 414,
+      "style": 11,
+      "name": "Quality Horn"
+    },
+    {
+      "$id": 415,
+      "style": 11,
+      "name": "Quality Skin"
+    },
+    {
+      "$id": 416,
+      "style": 11,
+      "name": "Quality Beak"
+    },
+    {
+      "$id": 417,
+      "style": 11,
+      "name": "Quality Insect Jaw"
+    },
+    {
+      "$id": 418,
+      "style": 11,
+      "name": "Quality Scale"
+    },
+    {
+      "$id": 419,
+      "style": 11,
+      "name": "Quality Roe"
+    },
+    {
+      "$id": 420,
+      "style": 11,
+      "name": "Mana Fragment"
+    },
+    {
+      "$id": 421,
+      "style": 11,
+      "name": "Fossilised Bone"
+    },
+    {
+      "$id": 422,
+      "style": 11,
+      "name": "Mana Chunk"
+    },
+    {
+      "$id": 423,
+      "style": 11,
+      "name": "Warrior Race's Seal"
+    },
+    {
+      "$id": 424,
+      "style": 11,
+      "name": "Azure Flamii Wing"
+    },
+    {
+      "$id": 425,
+      "style": 11,
+      "name": "Libertas Glyph"
+    },
+    {
+      "$id": 426,
+      "style": 11,
+      "name": "Ratio Glyph"
+    },
+    {
+      "$id": 427,
+      "style": 11,
+      "name": "Experia Glyph"
+    },
+    {
+      "$id": 428,
+      "style": 11,
+      "name": "Scienti Glyph"
+    },
+    {
+      "$id": 429,
+      "style": 11,
+      "name": "Esse Glyph"
+    },
+    {
+      "$id": 430,
+      "style": 11,
+      "name": "Dialek Glyph"
+    },
+    {
+      "$id": 431,
+      "style": 11,
+      "name": "Spathi Glyph"
+    },
+    {
+      "$id": 432,
+      "style": 11,
+      "name": "Tempus Glyph"
+    },
+    {
+      "$id": 433,
+      "style": 11,
+      "name": "Creare Glyph"
+    },
+    {
+      "$id": 434,
+      "style": 11,
+      "name": "Natura Glyph"
+    },
+    {
+      "$id": 435,
+      "style": 11,
+      "name": "Veritas Glyph"
+    },
+    {
+      "$id": 436,
+      "style": 11,
+      "name": "Thick Shell"
+    },
+    {
+      "$id": 437,
+      "style": 11,
+      "name": "Orthlus' Liver"
+    },
+    {
+      "$id": 438,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 439,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 440,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 441,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 442,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 443,
+      "style": 11,
+      "name": "Wild Beast's Bone"
+    },
+    {
+      "$id": 444,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 445,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 446,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 447,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 448,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 449,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 450,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 451,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 452,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 453,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 454,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 455,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 456,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 457,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 458,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 459,
+      "style": 11,
+      "name": "Stone"
+    },
+    {
+      "$id": 460,
+      "style": 11,
+      "name": "Stone"
+    }
+  ]
+}

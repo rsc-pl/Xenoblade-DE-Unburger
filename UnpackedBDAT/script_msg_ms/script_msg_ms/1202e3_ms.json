@@ -1,0 +1,279 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Hey, Melia...[XENO:wait wait=key ][System:PageBreak ]I wanted to talk to you.[XENO:n ]\nAbout...you-know-who.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "You mean Shulk?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Yeah. I was wondering about...[XENO:n ]\nyou and him, you know?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "You're being rather vague, Carna.[XENO:n ]\nWhat were you wondering?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Well, you know... About Shulk...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Do you still like him?/・Have you given up? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Could you not have simply asked[XENO:n ]\nin the first place?[XENO:wait wait=key ][System:PageBreak ]Well...I do have something[XENO:n ]\nI need to tell you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "You had a breakthrough?![XENO:n ]\nOh, this is great![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Not a breakthrough, Carna.[XENO:wait wait=key ][System:PageBreak ]In fact, quite the opposite.[XENO:n ]\nI have decided to give up.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "You don't want to pursue him?[XENO:wait wait=key ][System:PageBreak ]Did you at least tell him[XENO:n ]\nhow you feel?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "I did not. He remains[XENO:n ]\nblissfully unaware.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・That is just like you, Melia./・That breaks my heart. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Always thinking of others,[XENO:n ]\nbut secretly hurting inside.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I-it is not that bad.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "You don't fool me for a second.[XENO:n ]\nCarna can tell from a mile away.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "How do you do that?[XENO:wait wait=key ][System:PageBreak ]All right. I admit it has been hard.[XENO:wait wait=key ][System:PageBreak ]I have already lived for[XENO:n ]\na great number of years.[XENO:wait wait=key ][System:PageBreak ]But never before have[XENO:n ]\nI experienced these emotions.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "I'm truly sorry, Melia. I wish[XENO:n ]\nI could have done more to help.[XENO:wait wait=key ][System:PageBreak ]I should have paid more attention[XENO:n ]\nto how you were doing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "You are not at fault here, Carna.[XENO:wait wait=key ][System:PageBreak ]You have already lost someone.[XENO:n ]\nMy hurt cannot compare to that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Melia...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "I have decided that Shulk and[XENO:n ]\nFiorung deserve a future together.[XENO:wait wait=key ][System:PageBreak ]So I shall watch from afar and[XENO:n ]\nwish them every happiness.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Well...it's a shame, but maybe[XENO:n ]\nit's for the best.[XENO:wait wait=key ][System:PageBreak ]And I've no doubt those two will[XENO:n ]\nbe really happy together.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "How can you just give up without[XENO:n ]\ntelling him how you feel?[XENO:wait wait=key ][System:PageBreak ]You'll only live to regret it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Will I? I am not so sure.[XENO:wait wait=key ][System:PageBreak ]I feel I may be happier this way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Hmm. Well, if you're sure...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "I am. I know that I will cherish the[XENO:n ]\ntime I spent with Shulk forever.[XENO:wait wait=key ][System:PageBreak ]My task is clear.[XENO:wait wait=key ][System:PageBreak ]I must see Shulk and Fiorung[XENO:n ]\nachieve true happiness together.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "That makes sense I suppose.[XENO:wait wait=key ][System:PageBreak ]And anyway, everything'll be fine![XENO:n ]\nWe're going to find you a nice lad.[XENO:wait wait=key ][System:PageBreak ]Imagine the queue for a chance to[XENO:n ]\ndate a pretty girl like you![XENO:wait wait=key ][System:PageBreak ]It'd probably stretch around[XENO:n ]\nboth feet of the Giant God![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "You really think so?[XENO:wait wait=key ][System:PageBreak ]Thank you, Carna![XENO:n ]\nI hope you find love again...[XENO:wait wait=key ][System:PageBreak ]Maybe even with...you know...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "What was that? With who, Melia?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Do not worry, Carna.[XENO:n ]\nIt will come to you...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Hah. What chance do I have?[XENO:wait wait=key ][System:PageBreak ]Do you honestly think there is[XENO:n ]\nany room in Shulk's heart for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Why would you say that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Fiorung admitted to me her feelings.[XENO:n ]\nShe...wants to be with Shulk.[XENO:wait wait=key ][System:PageBreak ]I will never best her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "So she told you...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "Yet I feel...strangely relieved.[XENO:wait wait=key ][System:PageBreak ]As if I can move on with my life[XENO:n ]\nand forget this pain in my heart.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:sel sel=・Stop putting on a brave face!/・I agree. It's for the best. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "If you didn't do that all the time,[XENO:n ]\nthings might go better for you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Whatever do you mean?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "If you opened yourself up a bit,[XENO:n ]\nshared your doubts with others.[XENO:wait wait=key ][System:PageBreak ]Before today, I doubted whether[XENO:n ]\nyou could handle it all, Melia.[XENO:wait wait=key ][System:PageBreak ]You're always telling everyone[XENO:n ]\nelse not to worry about you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "We are who we are.[XENO:wait wait=key ][System:PageBreak ]I find it difficult to change,[XENO:n ]\nas all of us do.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Well, I'm only trying to give you[XENO:n ]\nsome friendly advice.[XENO:wait wait=key ][System:PageBreak ]I'd never want you to change too[XENO:n ]\ndrastically. None of us would.[XENO:wait wait=key ][System:PageBreak ]We all like you just how you are![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Thank you for saying that, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "And next time, whoever you go for,[XENO:n ]\nthey'll be putty in your hands![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "I, er, certainly hope so.[XENO:n ]\nThank you, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "You have to move on or you'll[XENO:n ]\njust feel even worse.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Indeed. I will not pine over him.[XENO:n ]\nThere are other fish in the sea.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "Now you're talking, Melia.[XENO:wait wait=key ][System:PageBreak ]But I wish I found it so easy[XENO:n ]\nto put the past behind me...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "What do you mean, Carna?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Oh, nothing. It's silly really.[XENO:wait wait=key ][System:PageBreak ]I'm just finding it hard[XENO:n ]\nto forget about...him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Gado, you mean...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "His last words to me were[XENO:n ]\n'I've fulfilled my promise'...[XENO:wait wait=key ][System:PageBreak ]But why did that mean he had[XENO:n ]\nto go and die on me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Mourning is a part of acceptance.[XENO:wait wait=key ][System:PageBreak ]Try to turn that sadness into[XENO:n ]\na celebration of his life.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]And I do hope you get together[XENO:n ]\nwith Reyn. He'll make you happy...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "You're right, Melia, although it's[XENO:n ]\neasier said than done. Thank you.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

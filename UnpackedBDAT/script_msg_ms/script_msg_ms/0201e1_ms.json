@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Look, Reyn![XENO:wait wait=key ][System:PageBreak ]This geological formation...[XENO:n ]\nIt's incredible![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]It sure is. This breeze[XENO:n ]\nain't bad either.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT6 ]Reyn, are you OK?[XENO:wait wait=key ][System:PageBreak ]You don't normally want to talk[XENO:n ]\nabout geology and the weather.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Uh... OK, yeah, I'm a bit on edge.[XENO:wait wait=key ][System:PageBreak ]Just tell it to me straight, Shulk.[XENO:wait wait=key ][System:PageBreak ]Is it me or are there a ton of[XENO:n ]\nspiders around here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Yes, there are quite a few.[XENO:wait wait=key ][System:PageBreak ]Oh yeah! Now I remember![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・You're scared of spiders!/・You love spiders! ][XENO:del del=all ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Reyn, are you OK?[XENO:n ]\nYou don't look so good.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Sorry, Shulk. Mind if we[XENO:n ]\ntake a break for a bit?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]That's not a problem at all.[XENO:wait wait=key ][System:PageBreak ]Hmm. I'm just trying to think[XENO:n ]\nwhen your phobia started.[XENO:wait wait=key ][System:PageBreak ]If I remember right, it was[XENO:n ]\nthat time when...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Come on, man, don't remind me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・I played a prank on you!/・Fiorung played a prank on you! ][XENO:del del=all ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I'm sorry, Reyn. I shouldn't have[XENO:n ]\nstuck that spider in your shoe.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]Too right you shouldn't![XENO:wait wait=key ][System:PageBreak ]When I went to put my shoe on[XENO:n ]\nI nearly jumped out of my skin![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT24 ]You should be glad it didn't[XENO:n ]\nmake me scared of shoes![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Don't make me feel bad![XENO:n ]\nI said I was sorry.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Yeah, I know. We were just[XENO:n ]\nkids back then, anyway.[XENO:wait wait=key ][System:PageBreak ]Boys will be boys and all that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT19 ]That reminds me.[XENO:wait wait=key ][System:PageBreak ]Do you remember why I put[XENO:n ]\nthat spider in your shoe?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Umm... Not really.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "You hid a caterpillar in my sock[XENO:n ]\ndrawer! Did you forget?[XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Haha! Oh yeah... Sorry, man.[XENO:wait wait=key ][System:PageBreak ]Hey, Shulk, don't you[XENO:n ]\nhave a phobia?[XENO:wait wait=key ][System:PageBreak ]There's something you're afraid[XENO:n ]\nof, but I can't remember what.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]It's caterpillars, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "She stuck a spider in your food.[XENO:n ]\nIt was hilarious![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]Oh yeah, that was gross![XENO:n ]\nHow could she do that?![XENO:wait wait=key ][System:PageBreak ]Hey, wait a minute![XENO:n ]\nThat never happened![XENO:wait wait=key ][System:PageBreak ]It was your fault![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Wh-what? Are you sure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Don't tell me you've forgotten.[XENO:wait wait=key ][System:PageBreak ]You stuck a spider in my shoe[XENO:n ]\nwhen we were kids.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Oh... Uh... Sorry about that.[XENO:n ]\nAre you sure it was me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]Yes! And for the record,[XENO:n ]\nI hated it![XENO:wait wait=key ][System:PageBreak ]How could you forget that?[XENO:wait wait=key ][System:PageBreak ]It's your fault I have this[XENO:n ]\nhorrible fear of spiders![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Hey, no need to make such[XENO:n ]\na big deal out of it![XENO:wait wait=key ][System:PageBreak ]I don't even remember why I did it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Are you kidding me?![XENO:wait wait=key ][System:PageBreak ]You did it because... Er... OK,[XENO:n ]\nI guess I don't remember either.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]On the plus side...[XENO:wait wait=key ][System:PageBreak ]If we both forgot, it can't have[XENO:n ]\nbeen much of a reason![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Yes! He's totally forgotten about[XENO:n ]\nthe prank I played on him.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]And I can't say I'm gonna[XENO:n ]\ncomplain![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]All these strange and exciting[XENO:n ]\nspiders around...[XENO:wait wait=key ][System:PageBreak ]No wonder you look nervous![XENO:wait wait=key ][System:PageBreak ]I bet you can barely contain[XENO:n ]\nyour excitement![XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ][XENO:type type=anger ]You must be kidding![XENO:wait wait=key ][System:PageBreak ]I'm starting to feel sick just[XENO:n ]\nlooking at the ugly things![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]Haha, gotcha! I was[XENO:n ]\nonly joking, Reyn.[XENO:wait wait=key ][System:PageBreak ]Don't be so uptight! It's just[XENO:n ]\na few creepy crawlies.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:type type=anger ]For the record, it's 'cos of you[XENO:n ]\nthat I have a phobia of spiders.[XENO:wait wait=key ][System:PageBreak ]I hope you haven't forgot about[XENO:n ]\nwhat you did when we were kids.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT15 ]I remember. Relax.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]You know how sorry I was.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:type type=anger ]You shouldn't have done it[XENO:n ]\nin the first place, man![XENO:wait wait=key ][System:PageBreak ]Why the heck did you have to go[XENO:n ]\nand stick a spider in my shoe?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:sel sel=・You were bugging me./・It needed a good home. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You put a caterpillar in my[XENO:n ]\ndrawer, remember?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT6 ]Umm... Really? I sorta remember.[XENO:n ]\nI might have, but who knows?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]See! You're the bad guy here.[XENO:n ]\nWhy did you do it, Reyn?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]I dunno.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT15 ]Mmm... No, can't remember.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT6 ]Well, that's the end of that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Both of us have awful memories.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Guess we're two peas from[XENO:n ]\nthe same pod![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If I recall, your shoe looked just[XENO:n ]\nthe right size for the spider.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Oi! Only my feet get to live in[XENO:n ]\nmy shoes! No bugs allowed![XENO:wait wait=key ][System:PageBreak ]I've had enough of this.[XENO:n ]\nI'm outta here, Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]You want to get moving already?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT22 ]Right! The spiders can stay away[XENO:n ]\nor suffer the consequences![XENO:wait wait=key ][System:PageBreak ]You better watch your back too,[XENO:n ]\nShulk! You'll regret that prank![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]At least you're back to your[XENO:n ]\nold self again![XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]Hey, that's not the point![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT4 ]Oh, forget it. You're always one[XENO:n ]\nstep ahead of me anyway.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Are you saying that Zanza is to blame[XENO:n ]\nfor Machine God' devastation?![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]It's Zanza's sword that I'm using![XENO:n ]\nDoes this mean we're enemies?![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "And if so, why are you...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Shulk! Calm down![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]Sorry...I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "I will take you to the Machine God capital, Agniratha.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Is that your plan? Lead us straight to the gates[XENO:n ]\nof our enemy? Deliver us into Egil's hands?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "It will be quicker to show you than to explain.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Then you will understand the history of Machine God[XENO:n ]\nand the battle between the two titans.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Up ahead is a lift that leads to the Central[XENO:n ]\nFactory within the chest of the Machine God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "The capital, Agniratha,[XENO:n ]\nlies just beyond there.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

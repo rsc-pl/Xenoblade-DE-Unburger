@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Call Panel"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Activation Panel"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "GF Master Power Panel"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "1F Master Power Panel"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Cylinder Activation Panel"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "3rd Lift Activation Panel"
+    },
+    {
+      "$id": 11,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 12,
+      "style": 14,
+      "name": "3F Master Power Panel"
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 14,
+      "style": 14,
+      "name": "Cylinder Activation Panel"
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 16,
+      "style": 14,
+      "name": "Bulkhead Control Panel"
+    },
+    {
+      "$id": 17,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 18,
+      "style": 14,
+      "name": "1st Power Supply Panel"
+    },
+    {
+      "$id": 19,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 20,
+      "style": 14,
+      "name": "2nd Power Supply Panel"
+    },
+    {
+      "$id": 21,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 22,
+      "style": 14,
+      "name": "High-Velocity Lift Panel"
+    },
+    {
+      "$id": 23,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 24,
+      "style": 14,
+      "name": "High-Velocity Lift Door"
+    },
+    {
+      "$id": 25,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 26,
+      "style": 14,
+      "name": "Call Panel"
+    },
+    {
+      "$id": 27,
+      "style": 14,
+      "name": "Activation Panel"
+    },
+    {
+      "$id": 28,
+      "style": 117,
+      "name": "It doesn't look like it will activate.[XENO:n ]\nMaybe the device that can be seen below[XENO:n ]\nis the lift activation device."
+    }
+  ]
+}

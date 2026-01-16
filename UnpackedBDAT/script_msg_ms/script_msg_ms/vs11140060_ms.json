@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Nice one! We did it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "This should prevent them from mobilising any[XENO:n ]\nlarge Mechon squads for now. Hopefully we've[XENO:n ]\nimproved the allied force's chances.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Hold steady, my brother.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Friends! Here here![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "It looks like the door's been unlocked.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Nice. Let's get down to the blast furnace.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "If we're lucky, Fiorung might be down there.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

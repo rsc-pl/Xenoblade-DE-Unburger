@@ -1,0 +1,269 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Riki and friends camp here once![XENO:n ]\nRiki talked to Dundun for ages![XENO:wait wait=key ][System:PageBreak ]Riki catch fish for Dundun and[XENO:n ]\nDundun say, 'Yum yum!'[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Is that so?[XENO:wait wait=key ][System:PageBreak ]I expect you stayed up rather late[XENO:n ]\nchatting away under the moonlight![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Melly right![XENO:wait wait=key ][System:PageBreak ]But Melly shut eyes very early[XENO:n ]\nso Melly not eat any grill fish.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]What is 'grill fish', Riki?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Melly not know?[XENO:wait wait=key ][System:PageBreak ]Grill fish so yum yum that[XENO:n ]\nDundun's eyes pop out![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Most intriguing./・That sounds gruesome. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Melly must eat! Melly not[XENO:n ]\nforget taste later![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]You've definitely piqued[XENO:n ]\nmy interest![XENO:wait wait=key ][System:PageBreak ]If you recommend it that highly,[XENO:n ]\nI will have to give it a try.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Yay! Melly be very happy![XENO:wait wait=key ][System:PageBreak ]Riki find yum yum fish for[XENO:n ]\nMelly to eat.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Teehee. Why thank you, Riki![XENO:wait wait=key ][System:PageBreak ]But we have places to go.[XENO:wait wait=key ][System:PageBreak ]We should leave your culinary[XENO:n ]\ndelights until another time.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Boooring! Riki catch it now![XENO:n ]\nGrill fish tastier than tasty![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・But how will you catch it?/・I appreciate the offer, but no. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Leave it to Riki![XENO:wait wait=key ][System:PageBreak ]Riki splish splash in water[XENO:n ]\nand get fish really quick![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I doubt you will catch a fish[XENO:n ]\nas easily as that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Melly wrong! Splish splash[XENO:n ]\nnot easy![XENO:wait wait=key ][System:PageBreak ]But Riki has bestest flip flap[XENO:n ]\nwings in all of village![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Splish splash, flip flap?[XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][System:PageBreak ]Are you sure about this, Riki?[XENO:wait wait=key ][System:PageBreak ]What if something happens?[XENO:n ]\nWe're the only ones here.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Riki will set ground on fire too![XENO:wait wait=key ][System:PageBreak ]Melly can sit and wait for[XENO:n ]\nRiki's special grill fish.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I can see you won't be persuaded.[XENO:wait wait=key ][System:PageBreak ]I suppose I have no choice but[XENO:n ]\nto wait for your return, Riki.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Melly will love fish![XENO:n ]\nRiki return very soon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]He seems a tad too excited...[XENO:wait wait=key ][System:PageBreak ]But I hope he's going to[XENO:n ]\ncook up a storm![XENO:wait wait=key ][System:PageBreak ]Hmm. Perhaps I will[XENO:n ]\nregret saying that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Riki know Melly want to eat![XENO:n ]\nMelly MUST eat![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I like to try new things, but...[XENO:wait wait=key ][System:PageBreak ]Don't we both have more[XENO:n ]\nimportant things to do?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Important things wait! Riki[XENO:n ]\nvery quick at catching fish![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Calm down, Riki. I only meant[XENO:n ]\nthat I do not want to eat right now.[XENO:wait wait=key ][System:PageBreak ]I can still try it another time.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]But...but...but... OK.[XENO:n ]\nSo Melly have it later?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I would love to![XENO:n ]\nThank you, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Riki promise![XENO:wait wait=key ][System:PageBreak ]Riki catch lots and lots of fish[XENO:n ]\nand bring them all to Melly![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I can't wait![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Melly mean! Why Melly so mean?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Oh, I'm sorry, Riki.[XENO:wait wait=key ][System:PageBreak ]The way you described it just[XENO:n ]\nsounded a little too much for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Melly not want to eat fish?[XENO:n ]\nFish not yum yum?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Well... The thing is, this 'grill fish'[XENO:n ]\nof yours sounds a little plain.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]But that why it tastes yum yum![XENO:wait wait=key ][System:PageBreak ]Melly should close her eyes[XENO:n ]\nand then eat fish![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・Eat it blindfolded?!/・That sounds like a bad idea. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Oooh. Melly shout at Riki![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]You expect me to eat something[XENO:n ]\nI cannot even see?[XENO:wait wait=key ][System:PageBreak ]You are failing to persuade me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Riki sorry. Riki just want[XENO:n ]\nMelly to eat fish...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If I ate it begrudgingly, that would[XENO:n ]\nbe disrespectful to the fish.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki think so too. In that case[XENO:n ]\nMelly should not eat fish![XENO:wait wait=key ][System:PageBreak ]Next time Riki find food[XENO:n ]\nMelly like lots and lots.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "That sounds like a great idea.[XENO:n ]\nYou can make my favourite![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Riki can't wait to cook for Melly![XENO:wait wait=key ][System:PageBreak ]Heropon always learn[XENO:n ]\nfrom mistakes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]How very big of you, Riki.[XENO:n ]\nI look forward to it![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Melly not like Riki's idea?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "If you say it tastes delicious,[XENO:n ]\nI have no reason to doubt you.[XENO:wait wait=key ][System:PageBreak ]But I admit blindfolding myself[XENO:n ]\nsounds rather adventurous.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Riki only grill fish, Melly.[XENO:n ]\nMelly gobble it all up fast![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Do you really expect me to eat[XENO:n ]\nsomething I cannot even see?[XENO:wait wait=key ][System:PageBreak ]I am afraid your skills of[XENO:n ]\npersuasion are somewhat lacking.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Riki sorry. Riki just want[XENO:n ]\nMelly to eat fish...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Cooking for someone is all about[XENO:n ]\nlearning their likes and dislikes.[XENO:wait wait=key ][System:PageBreak ]You cook for the person who eats.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Riki understand.[XENO:n ]\nMelly not upset now?[XENO:wait wait=key ][System:PageBreak ]Riki sorry for blindfold idea.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I'm not upset, Riki.[XENO:wait wait=key ][System:PageBreak ]I still want to eat your food,[XENO:n ]\neven if it's strange and unusual.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]OK, Melly! Riki cook a storm![XENO:wait wait=key ][System:PageBreak ]Riki make Melly's stomach big[XENO:n ]\nand round with yum yum food![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

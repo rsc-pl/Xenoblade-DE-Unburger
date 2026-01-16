@@ -1,0 +1,289 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Fiorung! Fiorung![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "What is it, Riki?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "What this thing, Fiorung?[XENO:wait wait=key ][System:PageBreak ]Riki think wow![XENO:n ]\nRiki like it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "This is a statue made to look like[XENO:n ]\nthe High Entia forefathers.[XENO:wait wait=key ][System:PageBreak ]Melia told us, remember?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・Forefathers were important?/・Poor father? Like Riki? ][XENO:del del=all ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Very. They're said to be the[XENO:n ]\nfounders of Melia's family line.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "So Melly's great-grampypons![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "That's right.[XENO:wait wait=key ][System:PageBreak ]They are credited with bringing[XENO:n ]\ncivilisation to Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Melly's relatives very clever![XENO:n ]\nRiki think it cool![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Why don't you let her know that.[XENO:n ]\nI'm sure she'd appreciate it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Fiorung! Riki want to be king![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "A king, huh? Sounds like[XENO:n ]\na lot of fun![XENO:wait wait=key ][System:PageBreak ]All right. If you get to be king,[XENO:n ]\nwhat will you do?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:sel sel=・Give out free money!/・Make weapons! Fight Dinobeast! ][XENO:del del=all ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Are you sure that's a good idea?[XENO:wait wait=key ][System:PageBreak ]Isn't it better if people work[XENO:n ]\nto earn money?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Not everyone![XENO:wait wait=key ][System:PageBreak ]Just people who have injuries![XENO:n ]\nAnd old people![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Oh, I see what you mean.[XENO:n ]\nHelp those who need it.[XENO:wait wait=key ][System:PageBreak ]I thought you were saying people[XENO:n ]\nwouldn't need to work at all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Fiorung bad Hom Hom! Riki has[XENO:n ]\nbeen alive for long time![XENO:wait wait=key ][System:PageBreak ]Riki know better than that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "I'm sorry, Riki.[XENO:wait wait=key ][System:PageBreak ]I know your family depends on you[XENO:n ]\nto bring home the pollen.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Riki want to be richer than Bird[XENO:n ]\nPeople AND be good daddypon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Teehee. That's a nice goal, Riki.[XENO:n ]\nI'm sure you can do it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "A force to fight the Telethia...[XENO:n ]\nThat's quite ambitious, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "Riki want to help everyone and[XENO:n ]\nstop Dinobeast at same time![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Don't forget me in your squad![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Fiorung want to hear Riki's idea[XENO:n ]\nfor weapon?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Ooh! Tell me, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Riki put Dinobeast's favourite[XENO:n ]\nfood on ground.[XENO:wait wait=key ][System:PageBreak ]When Dinobeast come to eat,[XENO:n ]\nRiki spring big trap to catch them![XENO:wait wait=key ][System:PageBreak ]Riki pull lever and ground collapse[XENO:n ]\nand make Dinobeast fall into hole![XENO:wait wait=key ][System:PageBreak ]Then throw sand on Dinobeast[XENO:n ]\nto bury it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "That's your plan?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "Yes. Fiorung not like Riki's plan?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Well... It's not that I don't like it...[XENO:wait wait=key ][System:PageBreak ]But how about you leave[XENO:n ]\nthe trap building to Shulk?[XENO:wait wait=key ][System:PageBreak ]A king should think more[XENO:n ]\nabout his kingly duties.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Fiorung right! Riki need[XENO:n ]\nto be good king![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]If the Telethia were that stupid,[XENO:n ]\nnobody would be scared of them![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "N-no, Riki. I said 'forefathers'.[XENO:wait wait=key ][System:PageBreak ]I'm sure he wasn't poor like you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Fiorung sure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "Fairly sure![XENO:wait wait=key ][System:PageBreak ]They're the founders of[XENO:n ]\nMelia's family line.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "So that means...Melly's[XENO:n ]\ngreat-grampypons?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Yes. Exactly.[XENO:wait wait=key ][System:PageBreak ]They're even credited with[XENO:n ]\nbringing civilisation to Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Hmm...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "What's wrong?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:sel sel=・Forefather really that special?/・Riki want to meet statue man! ][XENO:del del=all ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "What do you mean?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Riki see Dinobeast.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "What? When you look[XENO:n ]\nat this statue?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "Statue look like old Bird People[XENO:n ]\nking. Look like Dinobeast king too![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Then you're seeing something[XENO:n ]\nI can't, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Riki have special seeing powers?![XENO:n ]\nThank you, Fiorung![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "I wasn't complimenting you,[XENO:n ]\nbut you're welcome.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "That would be amazing![XENO:wait wait=key ][System:PageBreak ]Imagine all the things[XENO:n ]\nyou could ask him![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Riki think old Bird People[XENO:n ]\nwere very very big![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Melia said something similar.[XENO:n ]\nBut it could all be legend...[XENO:wait wait=key ][System:PageBreak ]Anyway, I doubt they were quite[XENO:n ]\nas big as this statue.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "Riki very jealous...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Jealous? Why?[XENO:wait wait=key ][System:PageBreak ]Because of their size?[XENO:n ]\nYou're a great size, Riki.[XENO:wait wait=key ][System:PageBreak ]I bet it's not all roses being big.[XENO:wait wait=key ][System:PageBreak ]Think about your littlepon[XENO:n ]\ngrowing to be giants![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "B-b-but that sound bad, Fiorung![XENO:n ]\nRiki scared just thinking about it.[XENO:wait wait=key ][System:PageBreak ]Littlepon crush whole of village![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]And you wouldn't be so[XENO:n ]\ncute and cuddly![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "Fiorung? Hello?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "Sorry. Drifted off there. Anyway,[XENO:n ]\nI wonder where the others are...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

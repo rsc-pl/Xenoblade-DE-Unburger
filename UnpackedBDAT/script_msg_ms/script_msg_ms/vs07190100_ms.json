@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Now you can return with your head held high, my dear.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Indeed. Thank you, Donga.[XENO:n ]\nMy thanks for your gracious help.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Not at all! Peace has been restored to the[XENO:n ]\nMakna region. On behalf of all Nopon, thank you![XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Chief Donga is very fond of Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]Same Hom Hom, different world.[XENO:n ]\nNot fair if you ask me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Chief Donga.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Will you kindly grant these Homs passage[XENO:n ]\nto Eryth Sea? It is my promise to them.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Without question! These Hom Hom[XENO:n ]\nfought valiantly in aid of our village.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]And a request by you, my dear,[XENO:n ]\ncannot go unanswered.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "I shall inform the villagers at once.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]You are too kind.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The Chief has spoken.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "You should depart for Eryth Sea at once.[XENO:n ]\nPrepare your things and see me when you are ready.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

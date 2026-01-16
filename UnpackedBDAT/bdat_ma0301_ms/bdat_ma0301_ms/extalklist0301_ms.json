@@ -1,0 +1,1484 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Do you want to make a trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "You really don't mind if I take this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad about it, so take this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Bye!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "So, you want to make a trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Wow, this is amazing!\n[XENO:wait wait=key ][System:PageBreak ]Here, take this as a thank you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Hope to see you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "You would like to trade, you say?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Are you sure...?[XENO:n ]\nHow very generous of you!\n[XENO:wait wait=key ][System:PageBreak ]Please, take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "I look forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Trade with me!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Ooh! This is nice!\n[XENO:wait wait=key ][System:PageBreak ]I guess I should give you this in return.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Come again if you want to trade.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "You're here for a trade, right?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Hey, this is nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "In that case, I'll see you later.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Let's trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have a little something extra.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "See ya!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "What's that you say? A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Take care.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "So you want to trade, do you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Wow! This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "See you next time, yeah?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][System:PageBreak ]Suppose I better give you[XENO:n ]\nsomething in return.\n[XENO:wait wait=key ][System:PageBreak ]Well take it then!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "You wanna trade at a time like this?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "You're givin' me this?!\n[XENO:wait wait=key ][System:PageBreak ]Looks like I came out on top!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "See ya!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "A trade? No problem.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "You're letting me have this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad taking it from you...[XENO:n ]\nHere, take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "You want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "This is amazing!\n[XENO:wait wait=key ][System:PageBreak ]I'll throw this in too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "So long!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "So you're here to trade.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "I don't know what to say.[XENO:n ]\nI feel bad taking this from you.\n[XENO:wait wait=key ][System:PageBreak ]Please accept this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Looking forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "You wish to make an exchange?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Oh my! This is surprising.\n[XENO:wait wait=key ][System:PageBreak ]I must reimburse you.[XENO:n ]\nPlease. Take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Well then, I bid you farewell.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "We can make a trade, [XENO:n ]\nif that's what you want.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:type type=think ]Woah![XENO:n ]What's this?\n[XENO:wait wait=key ][System:PageBreak ]This isn't really[XENO:n ]a fair exchange.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Right then, I bid you adieu.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "You'll trade with me?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "Reeeeeally?! Woopee!\n[XENO:wait wait=key ][System:PageBreak ]It's just what I wanted so[XENO:n ]\nhere's something extra!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "See you next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "Are you going to trade with me?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "Let's do this quickly.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, take this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "Let's do it again sometime!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "You wish to make an exchange?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "Oh my! This is surprising.\n[XENO:wait wait=key ][System:PageBreak ]I must reimburse you.[XENO:n ]\nPlease. Take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "Well then, I bid you farewell.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "You're here to trade, are you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "This is great!\n[XENO:wait wait=key ][System:PageBreak ]Here, I insist you take this with you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "Be seeing you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "Goodness me! Look at this!\n[XENO:wait wait=key ][System:PageBreak ]I'll let you have this as well!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "I've had enough of trading!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "Trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "This nice!\n[XENO:wait wait=key ][System:PageBreak ]You take this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "Goodbye friend!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "Trade time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "Oh-ho!\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho-hooo!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "Trade again next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "Fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Have this!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "Trade again sometime!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "This great!\n[XENO:wait wait=key ][System:PageBreak ]Owe you bigtime...\n[XENO:wait wait=key ][System:PageBreak ]So give you this!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "Discount next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "Trade with you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "Oh! What's this?[XENO:n ]\nPretty glowingness!\n[XENO:wait wait=key ][System:PageBreak ]Will treasure this.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "Trade with you any time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "Ooh! This a good one!\n[XENO:wait wait=key ][System:PageBreak ]You have you this in exchange!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "Thanks!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "Let's make trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "Ya-hoh!\n[XENO:wait wait=key ][System:PageBreak ]Take this as well too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "Oh-ho!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "A trade? A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "That not fair on you!\n[XENO:wait wait=key ][System:PageBreak ]So I give you this little treasure too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "Be well!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "Trading?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "Oh-ho! Good!\n[XENO:wait wait=key ][System:PageBreak ]You take this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "See you next times!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "We wishes to trade, yes?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "Oooh! Splennndid!\n[XENO:wait wait=key ][System:PageBreak ]I give you this wooonderful[XENO:n ]\nthing as extra! Here you go!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "I take my leave!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "Ooh! Trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "Oh?\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho?\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho-ho-ho-ho-hoooo!!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "OK! Trade done!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Meh! Trades!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Fine!\n[XENO:wait wait=key ][System:PageBreak ]Take this as well!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Hmm grrr!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "Trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "What's this?\n[XENO:wait wait=key ][System:PageBreak ]Then you take this!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "Goodbye friend!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "Trade time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "Oh-ho!\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho-hooo!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "Trade again next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "Fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Have this!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "Trade again sometime!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "This great!\n[XENO:wait wait=key ][System:PageBreak ]Owe you bigtime...\n[XENO:wait wait=key ][System:PageBreak ]So give you this!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "Discount next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "Trade with you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "Oh! What's this?[XENO:n ]\nPretty glowingness!\n[XENO:wait wait=key ][System:PageBreak ]Will treasure this.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "Trade with you any time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "Trading time?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "Ooh! This a good one!\n[XENO:wait wait=key ][System:PageBreak ]You have this in exchange!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "Thanks!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "Let's make trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "Ya-hoh!\n[XENO:wait wait=key ][System:PageBreak ]Take this as well too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "Oh-ho!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "A trade? A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "That not fair on you!\n[XENO:wait wait=key ][System:PageBreak ]So I give you this little treasure too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "Be well!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "Trading?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "Oh-ho! Good!\n[XENO:wait wait=key ][System:PageBreak ]You take this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "See you next times!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "We wishes to trade, yes?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "Oooh! Splennndid!\n[XENO:wait wait=key ][System:PageBreak ]I give you this wooonderful[XENO:n ]\nthing as extra! Here you go!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "I take my leave!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "Ooh! Trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "Oh?\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho?\n[XENO:wait wait=key ][System:PageBreak ]Oh-ho-ho-ho-ho-ho-hoooo!!!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "OK! Trade done!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Meh! Trades!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Fine!\n[XENO:wait wait=key ][System:PageBreak ]Take this as well!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Hmm grrr!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "Do you want to make a trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "You really don't mind if I take this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad about it, so take this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "Bye!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "So, you want to make an exchange.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "Wow, this is amazing!\n[XENO:wait wait=key ][System:PageBreak ]Wait a sec. Here, take this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "Hope to see you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "You would like to trade, you say?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "Are you sure...?[XENO:n ]\nHow very generous of you!\n[XENO:wait wait=key ][System:PageBreak ]Please, take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "I look forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "Trade with me!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 158,
+      "style": 126,
+      "name": "Ooh! This is nice!\n[XENO:wait wait=key ][System:PageBreak ]I guess I should give you this in return.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 159,
+      "style": 126,
+      "name": "Looking forward to our next encounter!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 160,
+      "style": 126,
+      "name": "You're here for a trade, right?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 161,
+      "style": 126,
+      "name": "Hey, this is nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 162,
+      "style": 126,
+      "name": "In that case, I'll see you later.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 163,
+      "style": 126,
+      "name": "Let's trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 164,
+      "style": 126,
+      "name": "Nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have a little something extra.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 165,
+      "style": 126,
+      "name": "Bye!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 166,
+      "style": 126,
+      "name": "What's that you say? A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 167,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 168,
+      "style": 126,
+      "name": "Take care.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 169,
+      "style": 126,
+      "name": "So you want to trade, do you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 170,
+      "style": 126,
+      "name": "Wow! This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 171,
+      "style": 126,
+      "name": "See you next time, yeah?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 172,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 173,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 174,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 175,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 176,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][System:PageBreak ]Suppose I better give you[XENO:n ]\nsomething in return.\n[XENO:wait wait=key ][System:PageBreak ]Well take it then!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 177,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 178,
+      "style": 126,
+      "name": "You wanna trade at a time like this?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 179,
+      "style": 126,
+      "name": "You're givin' me this?!\n[XENO:wait wait=key ][System:PageBreak ]Looks like I came out on top!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 180,
+      "style": 126,
+      "name": "See ya!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 181,
+      "style": 126,
+      "name": "A trade? No problem.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 182,
+      "style": 126,
+      "name": "You're letting me have this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad taking it from you...[XENO:n ]\nHere, take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 183,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 184,
+      "style": 126,
+      "name": "You want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 185,
+      "style": 126,
+      "name": "This is amazing!\n[XENO:wait wait=key ][System:PageBreak ]I'll throw this in too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 186,
+      "style": 126,
+      "name": "So long!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 187,
+      "style": 126,
+      "name": "So you're here to trade.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 188,
+      "style": 126,
+      "name": "I don't know what to say.[XENO:n ]\nI feel bad taking this from you.\n[XENO:wait wait=key ][System:PageBreak ]Please accept this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 189,
+      "style": 126,
+      "name": "Looking forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 190,
+      "style": 126,
+      "name": "You wish to make an exchange?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 191,
+      "style": 126,
+      "name": "Wow! I'm quite taken aback...\n[XENO:wait wait=key ][System:PageBreak ]I'd feel better if you took this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 192,
+      "style": 126,
+      "name": "I look forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 193,
+      "style": 126,
+      "name": "Well now! Is it a trade you're after?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 194,
+      "style": 126,
+      "name": "[XENO:type type=think ]Look at what they gave me![XENO:n ]\nAre they of right mind?[XENO:wait wait=key ][System:PageBreak ]Surely this is not a fair exchange.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 195,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 196,
+      "style": 126,
+      "name": "Swap with me!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 197,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 198,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 199,
+      "style": 126,
+      "name": "A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 200,
+      "style": 126,
+      "name": "Reeeeeally?! Woopee!\n[XENO:wait wait=key ][System:PageBreak ]It's just what I wanted so[XENO:n ]\nhere's something extra!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 201,
+      "style": 126,
+      "name": "See you next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 202,
+      "style": 126,
+      "name": "Are you going to trade with me?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 203,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 204,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 205,
+      "style": 126,
+      "name": "Let's do this quickly.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 206,
+      "style": 126,
+      "name": "This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, take this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 207,
+      "style": 126,
+      "name": "Let's do it again sometime!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 208,
+      "style": 126,
+      "name": "You wish to make an exchange?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 209,
+      "style": 126,
+      "name": "Oh my! This is surprising.\n[XENO:wait wait=key ][System:PageBreak ]I must reimburse you.[XENO:n ]\nPlease. Take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 210,
+      "style": 126,
+      "name": "Well then, I bid you farewell.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 211,
+      "style": 126,
+      "name": "You're here to trade, are you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 212,
+      "style": 126,
+      "name": "This is great!\n[XENO:wait wait=key ][System:PageBreak ]Here, I insist you take this with you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 213,
+      "style": 126,
+      "name": "Be seeing you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 214,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 215,
+      "style": 126,
+      "name": "Goodness me! Look at this!\n[XENO:wait wait=key ][System:PageBreak ]I'll let you have this as well!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 216,
+      "style": 126,
+      "name": "I've had enough of trading!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 217,
+      "style": 126,
+      "name": "Do you want to make a trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 218,
+      "style": 126,
+      "name": "You really don't mind if I take this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad about it, so take this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 219,
+      "style": 126,
+      "name": "Bye!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 220,
+      "style": 126,
+      "name": "So, you want to make an exchange.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 221,
+      "style": 126,
+      "name": "Wow, this is amazing!\n[XENO:wait wait=key ][System:PageBreak ]Wait a sec. Here, take this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 222,
+      "style": 126,
+      "name": "Hope to see you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 223,
+      "style": 126,
+      "name": "You would like to trade, you say?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 224,
+      "style": 126,
+      "name": "Are you sure...?[XENO:n ]\nHow very generous of you!\n[XENO:wait wait=key ][System:PageBreak ]Please, take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 225,
+      "style": 126,
+      "name": "I look forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 226,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 227,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 228,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 229,
+      "style": 126,
+      "name": "Trade with me I say!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 230,
+      "style": 126,
+      "name": "Oh! This is good!\n[XENO:wait wait=key ][System:PageBreak ]I have to have it. Take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 231,
+      "style": 126,
+      "name": "Looking forward to our next encounter!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 232,
+      "style": 126,
+      "name": "You're here for a trade, right?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 233,
+      "style": 126,
+      "name": "Hey, this is nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 234,
+      "style": 126,
+      "name": "In that case, I'll see you later.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 235,
+      "style": 126,
+      "name": "Let's trade!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 236,
+      "style": 126,
+      "name": "Nice!\n[XENO:wait wait=key ][System:PageBreak ]Here, have a little something extra.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 237,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 238,
+      "style": 126,
+      "name": "What's that you say? A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 239,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 240,
+      "style": 126,
+      "name": "Take care.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 241,
+      "style": 126,
+      "name": "So you want to trade, do you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 242,
+      "style": 126,
+      "name": "Wow! This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, have this too!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 243,
+      "style": 126,
+      "name": "See you next time, yeah?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 244,
+      "style": 126,
+      "name": "What's that you say? A trade is it?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 245,
+      "style": 126,
+      "name": "Well, we can hardly call[XENO:n ]\nthis a fair exchange.\n[XENO:wait wait=key ][System:PageBreak ]Here. I insist you take this in return.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 246,
+      "style": 126,
+      "name": "Until next time then.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 247,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 248,
+      "style": 126,
+      "name": "Is this what I think it is?\n[XENO:wait wait=key ][System:PageBreak ]Suppose I better give you[XENO:n ]\nsomething in return.\n[XENO:wait wait=key ][System:PageBreak ]Well take it then!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 249,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 250,
+      "style": 126,
+      "name": "You wanna trade at a time like this?!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 251,
+      "style": 126,
+      "name": "You're givin' me this?!\n[XENO:wait wait=key ][System:PageBreak ]Looks like I came out on top!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 252,
+      "style": 126,
+      "name": "See ya!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 253,
+      "style": 126,
+      "name": "A trade? No problem.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 254,
+      "style": 126,
+      "name": "You're letting me have this?\n[XENO:wait wait=key ][System:PageBreak ]I feel bad taking it from you...[XENO:n ]\nHere, take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 255,
+      "style": 126,
+      "name": "See you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 256,
+      "style": 126,
+      "name": "You want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 257,
+      "style": 126,
+      "name": "This is amazing!\n[XENO:wait wait=key ][System:PageBreak ]I'll throw this in too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 258,
+      "style": 126,
+      "name": "So long!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 259,
+      "style": 126,
+      "name": "So you're here to trade.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 260,
+      "style": 126,
+      "name": "I don't know what to say.[XENO:n ]\nI feel bad taking this from you.\n[XENO:wait wait=key ][System:PageBreak ]Please accept this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 261,
+      "style": 126,
+      "name": "Looking forward to seeing you again.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 262,
+      "style": 126,
+      "name": "So you're here to trade.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 263,
+      "style": 126,
+      "name": "Oh my! This is surprising.\n[XENO:wait wait=key ][System:PageBreak ]I must reimburse you.[XENO:n ]\nPlease. Take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 264,
+      "style": 126,
+      "name": "Well then, I bid you farewell.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 265,
+      "style": 126,
+      "name": "We can make a trade, [XENO:n ]\nif that's what you want.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 266,
+      "style": 126,
+      "name": "[XENO:type type=think ]Woah![XENO:n ]What's this?\n[XENO:wait wait=key ][System:PageBreak ]This isn't really[XENO:n ]a fair exchange.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 267,
+      "style": 126,
+      "name": "Right then, I bid you adieu.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 268,
+      "style": 126,
+      "name": "You'll trade with me?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 269,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 270,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 271,
+      "style": 126,
+      "name": "A trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 272,
+      "style": 126,
+      "name": "Reeeeeally?! Woopee!\n[XENO:wait wait=key ][System:PageBreak ]It's just what I wanted so[XENO:n ]\nhere's something extra!\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 273,
+      "style": 126,
+      "name": "See you next time!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 274,
+      "style": 126,
+      "name": "Are you going to trade with me?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 275,
+      "style": 126,
+      "name": "Oh! [XENO:n ]I don't feel right taking this off you.\n[XENO:wait wait=key ][System:PageBreak ]Have this as well to square things up.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 276,
+      "style": 126,
+      "name": "Right then. See you next time.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 277,
+      "style": 126,
+      "name": "Let's do this quickly.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 278,
+      "style": 126,
+      "name": "This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here, take this as well.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 279,
+      "style": 126,
+      "name": "Let's do it again sometime!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 280,
+      "style": 126,
+      "name": "You wish to make an exchange?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 281,
+      "style": 126,
+      "name": "Oh my! This is surprising.\n[XENO:wait wait=key ][System:PageBreak ]I must reimburse you.[XENO:n ]\nPlease. Take this.\n[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 282,
+      "style": 126,
+      "name": "Well then, I bid you farewell.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 283,
+      "style": 126,
+      "name": "You're here to trade, are you?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 284,
+      "style": 126,
+      "name": "This is great!\n[XENO:wait wait=key ][System:PageBreak ]Here, I insist you take this with you!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 285,
+      "style": 126,
+      "name": "Be seeing you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 286,
+      "style": 126,
+      "name": "Oh, you want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 287,
+      "style": 126,
+      "name": "Goodness me! Look at this!\n[XENO:wait wait=key ][System:PageBreak ]I'll let you have this as well!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 288,
+      "style": 126,
+      "name": "I've had enough of trading!\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 289,
+      "style": 126,
+      "name": "Do I want to trade?[XENO:n ]\nI suppose so.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 290,
+      "style": 126,
+      "name": "I can't allow you to make a loss.[XENO:n ]\nI insist you take this item too.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 291,
+      "style": 126,
+      "name": "Please don't ask me to trade with you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 292,
+      "style": 126,
+      "name": "Huh? You want to trade?\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 293,
+      "style": 126,
+      "name": "This is fantastic!\n[XENO:wait wait=key ][System:PageBreak ]Here's a little something extra for you.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 294,
+      "style": 126,
+      "name": "Take care.\n[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

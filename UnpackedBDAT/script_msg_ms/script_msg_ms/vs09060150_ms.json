@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]So they've got a new crown princess.[XENO:n ]\nThree cheers for Melia.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Right, but we're still no closer to that[XENO:n ]\nmurdering faced Mechon.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Once we reach Prison Island,[XENO:n ]\nwe'll get our chance.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I've seen us there. It must be true.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Shulk, man.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Maybe we can still persuade big wings?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Melia's crown princess now, I reckon[XENO:n ]\nthe Emperor might change his mind.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Maybe.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]Reyn. The Emperor's request was clear.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Give him time.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "There's more to this island than we know.[XENO:n ]\nThings are at play here that reach beyond our understanding.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Dundun right! Riki and friends visit Melly now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Hey! The adults are talking, pops![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Riki want to see Melly.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "Riki think Melly sad too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]She might like the distraction.[XENO:n ]\nAll those stiff ceremonial duties...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "You decide, Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]Riki say yes![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

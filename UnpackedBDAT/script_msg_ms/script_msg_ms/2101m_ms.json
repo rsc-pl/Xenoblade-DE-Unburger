@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "We've found the two Black Liver[XENO:n ]\nBeans for Colony 6.[XENO:wait wait=key ][System:PageBreak ]I can't wait to see the happy looks[XENO:n ]\non everyone's faces.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "That's the last of the three[XENO:n ]\nFlexible Selua Cells.[XENO:wait wait=key ][System:PageBreak ]We'd better get them back to[XENO:n ]\nColony 6.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

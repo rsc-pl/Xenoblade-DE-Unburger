@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "What do we do now?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "We have to find the others.[XENO:n ]\nI know they're alive.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "I can feel it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Everyone's gonna be surprised[XENO:n ]\nwhen they see you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Everyone being...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Reyn, Dunban, and there are a few[XENO:n ]\nothers we met along the way.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Carna, Riki and Melia. I just[XENO:n ]\nknow you're gonna like them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "It looks like you've been through a lot as well.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Yeah, but nothing's gonna separate us now.[XENO:n ]\nCome on, let's start searching.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Legend of the Sage"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "Challenge of the Sage"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "Final Challenge of the Sage"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "Bridge Repair"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "Monster Quest 1"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Monster Quest 2"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "Monster Quest 3"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "Monster Quest 4"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "Challenge"
+    },
+    {
+      "$id": 10,
+      "style": 17,
+      "name": "Challenge 2"
+    },
+    {
+      "$id": 11,
+      "style": 17,
+      "name": "Mystery Girl Rescue"
+    }
+  ]
+}

@@ -1,0 +1,4529 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Not Equipped"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Not Equipped"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Not Equipped"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Not Equipped"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Not Equipped"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Colony Cap"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Colony Top"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Colony Cuffs"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Colony Bottoms"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Colony Shoes"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Middle Gear"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Middle Armour"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Middle Gauntlets"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Middle Leggings"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Middle Boots"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Round Cap"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Round Top"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Round Gloves"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Round Bottoms"
+    },
+    {
+      "$id": 20,
+      "style": 11,
+      "name": "Round Shoes"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Nopon Cap"
+    },
+    {
+      "$id": 22,
+      "style": 11,
+      "name": "Nopon Top"
+    },
+    {
+      "$id": 23,
+      "style": 11,
+      "name": "Nopon Gloves"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Nopon Bottoms"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Nopon Shoes"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Crest Cap"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Crest Top"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Crest Gloves"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Crest Bottoms"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Crest Shoes"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Ether Goggles"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Ether Frame"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Ether Arms"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Ether Boosters"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Nemesis Drones"
+    },
+    {
+      "$id": 36,
+      "style": 11,
+      "name": "Empress Mask"
+    },
+    {
+      "$id": 37,
+      "style": 11,
+      "name": "Dyed Top"
+    },
+    {
+      "$id": 38,
+      "style": 11,
+      "name": "Sabre Gloves"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Dyed Bottoms"
+    },
+    {
+      "$id": 40,
+      "style": 11,
+      "name": "Dyed Mules"
+    },
+    {
+      "$id": 41,
+      "style": 11,
+      "name": "Seacle Cap"
+    },
+    {
+      "$id": 42,
+      "style": 11,
+      "name": "Seacle Top"
+    },
+    {
+      "$id": 43,
+      "style": 11,
+      "name": "Seacle Gloves"
+    },
+    {
+      "$id": 44,
+      "style": 11,
+      "name": "Seacle Bottoms"
+    },
+    {
+      "$id": 45,
+      "style": 11,
+      "name": "Seacle Shoes"
+    },
+    {
+      "$id": 46,
+      "style": 14,
+      "name": "Head Bandages - Dummy"
+    },
+    {
+      "$id": 47,
+      "style": 14,
+      "name": "Torso Bandages"
+    },
+    {
+      "$id": 48,
+      "style": 14,
+      "name": "Arm Bandages"
+    },
+    {
+      "$id": 49,
+      "style": 14,
+      "name": "Waist Bandages - Dummy"
+    },
+    {
+      "$id": 50,
+      "style": 14,
+      "name": "Leg Bandages - Dummy"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Lagoon Gear"
+    },
+    {
+      "$id": 52,
+      "style": 11,
+      "name": "Lagoon Armour"
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Lagoon Gauntlets"
+    },
+    {
+      "$id": 54,
+      "style": 11,
+      "name": "Lagoon Leggings"
+    },
+    {
+      "$id": 55,
+      "style": 11,
+      "name": "Lagoon Boots"
+    },
+    {
+      "$id": 56,
+      "style": 11,
+      "name": "Prototype Helm"
+    },
+    {
+      "$id": 57,
+      "style": 11,
+      "name": "Parlour Jacket"
+    },
+    {
+      "$id": 58,
+      "style": 11,
+      "name": "Protector Amulet"
+    },
+    {
+      "$id": 59,
+      "style": 11,
+      "name": "Stylish Belt"
+    },
+    {
+      "$id": 60,
+      "style": 11,
+      "name": "Prototype Greaves"
+    },
+    {
+      "$id": 61,
+      "style": 11,
+      "name": "Homs Military Cap"
+    },
+    {
+      "$id": 62,
+      "style": 11,
+      "name": "Bikini Top"
+    },
+    {
+      "$id": 63,
+      "style": 11,
+      "name": "Homs Gauntlets"
+    },
+    {
+      "$id": 64,
+      "style": 11,
+      "name": "Bikini Bottoms"
+    },
+    {
+      "$id": 65,
+      "style": 11,
+      "name": "Homs Military Boots"
+    },
+    {
+      "$id": 66,
+      "style": 11,
+      "name": "Corporal Cap"
+    },
+    {
+      "$id": 67,
+      "style": 11,
+      "name": "Corporal Attire"
+    },
+    {
+      "$id": 68,
+      "style": 11,
+      "name": "Corporal Gauntlets"
+    },
+    {
+      "$id": 69,
+      "style": 11,
+      "name": "Corporal Belt"
+    },
+    {
+      "$id": 70,
+      "style": 11,
+      "name": "Corporal Boots"
+    },
+    {
+      "$id": 71,
+      "style": 11,
+      "name": "Prairie Cap"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "Prairie Attire"
+    },
+    {
+      "$id": 73,
+      "style": 11,
+      "name": "Prairie Gauntlets"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "Prairie Trousers"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "Infantry Boots"
+    },
+    {
+      "$id": 76,
+      "style": 11,
+      "name": "Safety Helmet"
+    },
+    {
+      "$id": 77,
+      "style": 11,
+      "name": "Homs Chestplate"
+    },
+    {
+      "$id": 78,
+      "style": 11,
+      "name": "Lime Bangle"
+    },
+    {
+      "$id": 79,
+      "style": 11,
+      "name": "Hide Belt"
+    },
+    {
+      "$id": 80,
+      "style": 11,
+      "name": "Survivor Shoes"
+    },
+    {
+      "$id": 81,
+      "style": 11,
+      "name": "Pine Headgear"
+    },
+    {
+      "$id": 82,
+      "style": 11,
+      "name": "Aqua Top"
+    },
+    {
+      "$id": 83,
+      "style": 11,
+      "name": "Beech Bangle"
+    },
+    {
+      "$id": 84,
+      "style": 11,
+      "name": "Aqua Bottoms"
+    },
+    {
+      "$id": 85,
+      "style": 11,
+      "name": "Webbed Sandals"
+    },
+    {
+      "$id": 86,
+      "style": 11,
+      "name": "Sky Cap"
+    },
+    {
+      "$id": 87,
+      "style": 11,
+      "name": "Sky Top"
+    },
+    {
+      "$id": 88,
+      "style": 11,
+      "name": "Sky Gloves"
+    },
+    {
+      "$id": 89,
+      "style": 11,
+      "name": "Sky Bottoms"
+    },
+    {
+      "$id": 90,
+      "style": 11,
+      "name": "Sky Shoes"
+    },
+    {
+      "$id": 91,
+      "style": 11,
+      "name": "Ocean Earrings"
+    },
+    {
+      "$id": 92,
+      "style": 11,
+      "name": "Swimming Top"
+    },
+    {
+      "$id": 93,
+      "style": 11,
+      "name": "Gravity Stone Band"
+    },
+    {
+      "$id": 94,
+      "style": 11,
+      "name": "Swimming Bottoms"
+    },
+    {
+      "$id": 95,
+      "style": 11,
+      "name": "Hover Shoes"
+    },
+    {
+      "$id": 96,
+      "style": 11,
+      "name": "Abyss Earrings"
+    },
+    {
+      "$id": 97,
+      "style": 11,
+      "name": "Royal Top"
+    },
+    {
+      "$id": 98,
+      "style": 11,
+      "name": "Royal Gloves"
+    },
+    {
+      "$id": 99,
+      "style": 11,
+      "name": "Royal Bottoms"
+    },
+    {
+      "$id": 100,
+      "style": 11,
+      "name": "Royal Shoes"
+    },
+    {
+      "$id": 101,
+      "style": 11,
+      "name": "Aid Cap"
+    },
+    {
+      "$id": 102,
+      "style": 11,
+      "name": "Infantry Attire"
+    },
+    {
+      "$id": 103,
+      "style": 11,
+      "name": "Warm Gloves"
+    },
+    {
+      "$id": 104,
+      "style": 11,
+      "name": "Engineer Belt"
+    },
+    {
+      "$id": 105,
+      "style": 11,
+      "name": "Ice Climbing Boots"
+    },
+    {
+      "$id": 106,
+      "style": 11,
+      "name": "Forest Cap"
+    },
+    {
+      "$id": 107,
+      "style": 11,
+      "name": "Twin Tree Vest"
+    },
+    {
+      "$id": 108,
+      "style": 11,
+      "name": "Great Tree Bracelet"
+    },
+    {
+      "$id": 109,
+      "style": 11,
+      "name": "Twin Tree Trousers"
+    },
+    {
+      "$id": 110,
+      "style": 11,
+      "name": "School Shoes"
+    },
+    {
+      "$id": 111,
+      "style": 11,
+      "name": "Glory Gear"
+    },
+    {
+      "$id": 112,
+      "style": 11,
+      "name": "Glory Armour"
+    },
+    {
+      "$id": 113,
+      "style": 11,
+      "name": "Glory Gauntlets"
+    },
+    {
+      "$id": 114,
+      "style": 11,
+      "name": "Glory Leggings"
+    },
+    {
+      "$id": 115,
+      "style": 11,
+      "name": "Glory Boots"
+    },
+    {
+      "$id": 116,
+      "style": 11,
+      "name": "Ether IV Goggles"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "Ether IV Frame"
+    },
+    {
+      "$id": 118,
+      "style": 11,
+      "name": "Ether IV Arms"
+    },
+    {
+      "$id": 119,
+      "style": 11,
+      "name": "Ether IV Boosters"
+    },
+    {
+      "$id": 120,
+      "style": 11,
+      "name": "Mitra Drones"
+    },
+    {
+      "$id": 121,
+      "style": 11,
+      "name": "Power Goggles"
+    },
+    {
+      "$id": 122,
+      "style": 11,
+      "name": "Power Frame"
+    },
+    {
+      "$id": 123,
+      "style": 11,
+      "name": "Power Arms"
+    },
+    {
+      "$id": 124,
+      "style": 11,
+      "name": "Power Boosters"
+    },
+    {
+      "$id": 125,
+      "style": 11,
+      "name": "Attack V Goggles"
+    },
+    {
+      "$id": 126,
+      "style": 11,
+      "name": "F Attack Goggles"
+    },
+    {
+      "$id": 127,
+      "style": 11,
+      "name": "F Attack Frame"
+    },
+    {
+      "$id": 128,
+      "style": 11,
+      "name": "F Attack Arms"
+    },
+    {
+      "$id": 129,
+      "style": 11,
+      "name": "F Attack Boosters"
+    },
+    {
+      "$id": 130,
+      "style": 11,
+      "name": "Grizzly Drones"
+    },
+    {
+      "$id": 131,
+      "style": 11,
+      "name": "F Power Goggles"
+    },
+    {
+      "$id": 132,
+      "style": 11,
+      "name": "F Power Frame"
+    },
+    {
+      "$id": 133,
+      "style": 11,
+      "name": "F Power Arms"
+    },
+    {
+      "$id": 134,
+      "style": 11,
+      "name": "F Power Boosters"
+    },
+    {
+      "$id": 135,
+      "style": 11,
+      "name": "Attack V Frame"
+    },
+    {
+      "$id": 136,
+      "style": 11,
+      "name": "Speed II Goggles"
+    },
+    {
+      "$id": 137,
+      "style": 11,
+      "name": "Speed II Frame"
+    },
+    {
+      "$id": 138,
+      "style": 11,
+      "name": "Speed II Arms"
+    },
+    {
+      "$id": 139,
+      "style": 11,
+      "name": "Speed II Boosters"
+    },
+    {
+      "$id": 140,
+      "style": 11,
+      "name": "Attack V Arms"
+    },
+    {
+      "$id": 141,
+      "style": 11,
+      "name": "H Speed Goggles"
+    },
+    {
+      "$id": 142,
+      "style": 11,
+      "name": "H Speed Frame"
+    },
+    {
+      "$id": 143,
+      "style": 11,
+      "name": "H Speed Arms"
+    },
+    {
+      "$id": 144,
+      "style": 11,
+      "name": "H Speed Boosters"
+    },
+    {
+      "$id": 145,
+      "style": 11,
+      "name": "Sakura Drones"
+    },
+    {
+      "$id": 146,
+      "style": 11,
+      "name": "H Attack Goggles"
+    },
+    {
+      "$id": 147,
+      "style": 11,
+      "name": "H Attack Frame"
+    },
+    {
+      "$id": 148,
+      "style": 11,
+      "name": "H Attack Arms"
+    },
+    {
+      "$id": 149,
+      "style": 11,
+      "name": "H Attack Boosters"
+    },
+    {
+      "$id": 150,
+      "style": 11,
+      "name": "Attack V Boosters"
+    },
+    {
+      "$id": 151,
+      "style": 11,
+      "name": "Power III Goggles"
+    },
+    {
+      "$id": 152,
+      "style": 11,
+      "name": "Power III Frame"
+    },
+    {
+      "$id": 153,
+      "style": 11,
+      "name": "Power III Arms"
+    },
+    {
+      "$id": 154,
+      "style": 11,
+      "name": "Power III Boosters"
+    },
+    {
+      "$id": 155,
+      "style": 11,
+      "name": "Power V Goggles"
+    },
+    {
+      "$id": 156,
+      "style": 11,
+      "name": "Z Speed Goggles"
+    },
+    {
+      "$id": 157,
+      "style": 11,
+      "name": "Z Speed Frame"
+    },
+    {
+      "$id": 158,
+      "style": 11,
+      "name": "Z Speed Arms"
+    },
+    {
+      "$id": 159,
+      "style": 11,
+      "name": "Z Speed Boosters"
+    },
+    {
+      "$id": 160,
+      "style": 11,
+      "name": "Loki Drones"
+    },
+    {
+      "$id": 161,
+      "style": 11,
+      "name": "Z Power Goggles"
+    },
+    {
+      "$id": 162,
+      "style": 11,
+      "name": "Z Power Frame"
+    },
+    {
+      "$id": 163,
+      "style": 11,
+      "name": "Z Power Arms"
+    },
+    {
+      "$id": 164,
+      "style": 11,
+      "name": "Z Power Boosters"
+    },
+    {
+      "$id": 165,
+      "style": 11,
+      "name": "Power V Frame"
+    },
+    {
+      "$id": 166,
+      "style": 11,
+      "name": "Speed IV Goggles"
+    },
+    {
+      "$id": 167,
+      "style": 11,
+      "name": "Speed IV Frame"
+    },
+    {
+      "$id": 168,
+      "style": 11,
+      "name": "Speed IV Arms"
+    },
+    {
+      "$id": 169,
+      "style": 11,
+      "name": "Speed IV Boosters"
+    },
+    {
+      "$id": 170,
+      "style": 11,
+      "name": "Ardi Drones"
+    },
+    {
+      "$id": 171,
+      "style": 11,
+      "name": "Attack IV Goggles"
+    },
+    {
+      "$id": 172,
+      "style": 11,
+      "name": "Attack IV Frame"
+    },
+    {
+      "$id": 173,
+      "style": 11,
+      "name": "Attack IV Arms"
+    },
+    {
+      "$id": 174,
+      "style": 11,
+      "name": "Attack IV Boosters"
+    },
+    {
+      "$id": 175,
+      "style": 11,
+      "name": "Idun Drones"
+    },
+    {
+      "$id": 176,
+      "style": 11,
+      "name": "Power IV Goggles"
+    },
+    {
+      "$id": 177,
+      "style": 11,
+      "name": "Power IV Frame"
+    },
+    {
+      "$id": 178,
+      "style": 11,
+      "name": "Power IV Arms"
+    },
+    {
+      "$id": 179,
+      "style": 11,
+      "name": "Power IV Boosters"
+    },
+    {
+      "$id": 180,
+      "style": 11,
+      "name": "Power V Arms"
+    },
+    {
+      "$id": 181,
+      "style": 11,
+      "name": "General's Cap"
+    },
+    {
+      "$id": 182,
+      "style": 11,
+      "name": "General's Attire"
+    },
+    {
+      "$id": 183,
+      "style": 11,
+      "name": "General's Gauntlets"
+    },
+    {
+      "$id": 184,
+      "style": 11,
+      "name": "General's Belt"
+    },
+    {
+      "$id": 185,
+      "style": 11,
+      "name": "General's Boots"
+    },
+    {
+      "$id": 186,
+      "style": 11,
+      "name": "Crest Cap"
+    },
+    {
+      "$id": 187,
+      "style": 11,
+      "name": "Shell Armour"
+    },
+    {
+      "$id": 188,
+      "style": 11,
+      "name": "Shell Gauntlets"
+    },
+    {
+      "$id": 189,
+      "style": 11,
+      "name": "Shell Leggings"
+    },
+    {
+      "$id": 190,
+      "style": 11,
+      "name": "Shell Boots"
+    },
+    {
+      "$id": 191,
+      "style": 11,
+      "name": "Colonel Cap"
+    },
+    {
+      "$id": 192,
+      "style": 11,
+      "name": "Colonel Attire"
+    },
+    {
+      "$id": 193,
+      "style": 11,
+      "name": "Colonel Gauntlets"
+    },
+    {
+      "$id": 194,
+      "style": 11,
+      "name": "Colonel Belt"
+    },
+    {
+      "$id": 195,
+      "style": 11,
+      "name": "Colonel Boots"
+    },
+    {
+      "$id": 196,
+      "style": 11,
+      "name": "Ruby Glasses"
+    },
+    {
+      "$id": 197,
+      "style": 11,
+      "name": "Shade Glasses"
+    },
+    {
+      "$id": 198,
+      "style": 11,
+      "name": "Oriental Glasses"
+    },
+    {
+      "$id": 199,
+      "style": 11,
+      "name": "Master Glasses"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Sabre Drones"
+    },
+    {
+      "$id": 201,
+      "style": 11,
+      "name": "Grace Cap"
+    },
+    {
+      "$id": 202,
+      "style": 11,
+      "name": "Grace Top"
+    },
+    {
+      "$id": 203,
+      "style": 11,
+      "name": "Grace Gloves"
+    },
+    {
+      "$id": 204,
+      "style": 11,
+      "name": "Grace Bottoms"
+    },
+    {
+      "$id": 205,
+      "style": 11,
+      "name": "Grace Shoes"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "Argos Gear"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "Argos Armour"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "Argos Gauntlets"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "Argos Leggings"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "Argos Boots"
+    },
+    {
+      "$id": 211,
+      "style": 11,
+      "name": "Titan Helm"
+    },
+    {
+      "$id": 212,
+      "style": 11,
+      "name": "Titan Plate"
+    },
+    {
+      "$id": 213,
+      "style": 11,
+      "name": "Titan Arms"
+    },
+    {
+      "$id": 214,
+      "style": 11,
+      "name": "Titan Greaves"
+    },
+    {
+      "$id": 215,
+      "style": 11,
+      "name": "Titan Sabatons"
+    },
+    {
+      "$id": 216,
+      "style": 11,
+      "name": "Nine Cap"
+    },
+    {
+      "$id": 217,
+      "style": 11,
+      "name": "Nine Top"
+    },
+    {
+      "$id": 218,
+      "style": 11,
+      "name": "Nine Cuffs"
+    },
+    {
+      "$id": 219,
+      "style": 11,
+      "name": "Nine Bottoms"
+    },
+    {
+      "$id": 220,
+      "style": 11,
+      "name": "Nine Shoes"
+    },
+    {
+      "$id": 221,
+      "style": 11,
+      "name": "Battle Gear"
+    },
+    {
+      "$id": 222,
+      "style": 11,
+      "name": "Battle Armour"
+    },
+    {
+      "$id": 223,
+      "style": 11,
+      "name": "Battle Gauntlets"
+    },
+    {
+      "$id": 224,
+      "style": 11,
+      "name": "Battle Leggings"
+    },
+    {
+      "$id": 225,
+      "style": 11,
+      "name": "Battle Boots"
+    },
+    {
+      "$id": 226,
+      "style": 11,
+      "name": "Light Cap"
+    },
+    {
+      "$id": 227,
+      "style": 11,
+      "name": "Light Top"
+    },
+    {
+      "$id": 228,
+      "style": 11,
+      "name": "Light Gloves"
+    },
+    {
+      "$id": 229,
+      "style": 11,
+      "name": "Light Bottoms"
+    },
+    {
+      "$id": 230,
+      "style": 11,
+      "name": "Light Shoes"
+    },
+    {
+      "$id": 231,
+      "style": 11,
+      "name": "Swimming Gel"
+    },
+    {
+      "$id": 232,
+      "style": 11,
+      "name": "Swimming Oil"
+    },
+    {
+      "$id": 233,
+      "style": 11,
+      "name": "Swimming Cream"
+    },
+    {
+      "$id": 234,
+      "style": 11,
+      "name": "Swimming Trunks"
+    },
+    {
+      "$id": 235,
+      "style": 11,
+      "name": "Swimming Sandals"
+    },
+    {
+      "$id": 236,
+      "style": 11,
+      "name": "Caravan Gear"
+    },
+    {
+      "$id": 237,
+      "style": 11,
+      "name": "Caravan Armour"
+    },
+    {
+      "$id": 238,
+      "style": 11,
+      "name": "Caravan Gauntlets"
+    },
+    {
+      "$id": 239,
+      "style": 11,
+      "name": "Caravan Leggings"
+    },
+    {
+      "$id": 240,
+      "style": 11,
+      "name": "Caravan Boots"
+    },
+    {
+      "$id": 241,
+      "style": 11,
+      "name": "Leather Cap"
+    },
+    {
+      "$id": 242,
+      "style": 11,
+      "name": "Leather Top"
+    },
+    {
+      "$id": 243,
+      "style": 11,
+      "name": "Leather Gloves"
+    },
+    {
+      "$id": 244,
+      "style": 11,
+      "name": "Leather Bottoms"
+    },
+    {
+      "$id": 245,
+      "style": 11,
+      "name": "Leather Shoes"
+    },
+    {
+      "$id": 246,
+      "style": 11,
+      "name": "Regnas Gear"
+    },
+    {
+      "$id": 247,
+      "style": 11,
+      "name": "Regnas Armour"
+    },
+    {
+      "$id": 248,
+      "style": 11,
+      "name": "Regnas Gauntlets"
+    },
+    {
+      "$id": 249,
+      "style": 11,
+      "name": "Regnas Leggings"
+    },
+    {
+      "$id": 250,
+      "style": 11,
+      "name": "Regnas Boots"
+    },
+    {
+      "$id": 251,
+      "style": 11,
+      "name": "Warrior Helm"
+    },
+    {
+      "$id": 252,
+      "style": 11,
+      "name": "Warrior Plate"
+    },
+    {
+      "$id": 253,
+      "style": 11,
+      "name": "Warrior Arms"
+    },
+    {
+      "$id": 254,
+      "style": 11,
+      "name": "Warrior Cuisses"
+    },
+    {
+      "$id": 255,
+      "style": 11,
+      "name": "Warrior Greaves"
+    },
+    {
+      "$id": 256,
+      "style": 11,
+      "name": "Ranger Cap"
+    },
+    {
+      "$id": 257,
+      "style": 11,
+      "name": "Ranger Top"
+    },
+    {
+      "$id": 258,
+      "style": 11,
+      "name": "Ranger Gloves"
+    },
+    {
+      "$id": 259,
+      "style": 11,
+      "name": "Ranger Bottoms"
+    },
+    {
+      "$id": 260,
+      "style": 11,
+      "name": "Ranger Shoes"
+    },
+    {
+      "$id": 261,
+      "style": 11,
+      "name": "Soil Gear"
+    },
+    {
+      "$id": 262,
+      "style": 11,
+      "name": "Soil Armour"
+    },
+    {
+      "$id": 263,
+      "style": 11,
+      "name": "Soil Gauntlets"
+    },
+    {
+      "$id": 264,
+      "style": 11,
+      "name": "Soil Leggings"
+    },
+    {
+      "$id": 265,
+      "style": 11,
+      "name": "Soil Boots"
+    },
+    {
+      "$id": 266,
+      "style": 11,
+      "name": "Field Cap"
+    },
+    {
+      "$id": 267,
+      "style": 11,
+      "name": "Field Top"
+    },
+    {
+      "$id": 268,
+      "style": 11,
+      "name": "Field Gloves"
+    },
+    {
+      "$id": 269,
+      "style": 11,
+      "name": "Field Bottoms"
+    },
+    {
+      "$id": 270,
+      "style": 11,
+      "name": "Field Shoes"
+    },
+    {
+      "$id": 271,
+      "style": 11,
+      "name": "Hunter Gear"
+    },
+    {
+      "$id": 272,
+      "style": 11,
+      "name": "Hunter Armour"
+    },
+    {
+      "$id": 273,
+      "style": 11,
+      "name": "Hunter Gauntlets"
+    },
+    {
+      "$id": 274,
+      "style": 11,
+      "name": "Hunter Leggings"
+    },
+    {
+      "$id": 275,
+      "style": 11,
+      "name": "Hunter Boots"
+    },
+    {
+      "$id": 276,
+      "style": 11,
+      "name": "Diver Cap"
+    },
+    {
+      "$id": 277,
+      "style": 11,
+      "name": "Diver Top"
+    },
+    {
+      "$id": 278,
+      "style": 11,
+      "name": "Diver Gloves"
+    },
+    {
+      "$id": 279,
+      "style": 11,
+      "name": "Diver Bottoms"
+    },
+    {
+      "$id": 280,
+      "style": 11,
+      "name": "Diver Shoes"
+    },
+    {
+      "$id": 281,
+      "style": 11,
+      "name": "Quark Gear"
+    },
+    {
+      "$id": 282,
+      "style": 11,
+      "name": "Quark Armour"
+    },
+    {
+      "$id": 283,
+      "style": 11,
+      "name": "Quark Gauntlets"
+    },
+    {
+      "$id": 284,
+      "style": 11,
+      "name": "Quark Leggings"
+    },
+    {
+      "$id": 285,
+      "style": 11,
+      "name": "Quark Boots"
+    },
+    {
+      "$id": 286,
+      "style": 11,
+      "name": "Legar Gear"
+    },
+    {
+      "$id": 287,
+      "style": 11,
+      "name": "Legar Armour"
+    },
+    {
+      "$id": 288,
+      "style": 11,
+      "name": "Legar Gauntlets"
+    },
+    {
+      "$id": 289,
+      "style": 11,
+      "name": "Legar Leggings"
+    },
+    {
+      "$id": 290,
+      "style": 11,
+      "name": "Legar Boots"
+    },
+    {
+      "$id": 291,
+      "style": 11,
+      "name": "Pelt Cap"
+    },
+    {
+      "$id": 292,
+      "style": 11,
+      "name": "Pelt Top"
+    },
+    {
+      "$id": 293,
+      "style": 11,
+      "name": "Pelt Gloves"
+    },
+    {
+      "$id": 294,
+      "style": 11,
+      "name": "Pelt Bottoms"
+    },
+    {
+      "$id": 295,
+      "style": 11,
+      "name": "Pelt Shoes"
+    },
+    {
+      "$id": 296,
+      "style": 11,
+      "name": "Grand Gear"
+    },
+    {
+      "$id": 297,
+      "style": 11,
+      "name": "Grand Armour"
+    },
+    {
+      "$id": 298,
+      "style": 11,
+      "name": "Grand Gauntlets"
+    },
+    {
+      "$id": 299,
+      "style": 11,
+      "name": "Grand Leggings"
+    },
+    {
+      "$id": 300,
+      "style": 11,
+      "name": "Grand Boots"
+    },
+    {
+      "$id": 301,
+      "style": 11,
+      "name": "Guardis Helm"
+    },
+    {
+      "$id": 302,
+      "style": 11,
+      "name": "Guardis Chest"
+    },
+    {
+      "$id": 303,
+      "style": 11,
+      "name": "Guardis Arms"
+    },
+    {
+      "$id": 304,
+      "style": 11,
+      "name": "Guardis Cuisses"
+    },
+    {
+      "$id": 305,
+      "style": 11,
+      "name": "Guardis Greaves"
+    },
+    {
+      "$id": 306,
+      "style": 11,
+      "name": "Mist Gel"
+    },
+    {
+      "$id": 307,
+      "style": 11,
+      "name": "Mist Oil"
+    },
+    {
+      "$id": 308,
+      "style": 11,
+      "name": "Mist Cream"
+    },
+    {
+      "$id": 309,
+      "style": 11,
+      "name": "Mist Trunks"
+    },
+    {
+      "$id": 310,
+      "style": 11,
+      "name": "Mist Sandals"
+    },
+    {
+      "$id": 311,
+      "style": 11,
+      "name": "Swep Gear"
+    },
+    {
+      "$id": 312,
+      "style": 11,
+      "name": "Swep Armour"
+    },
+    {
+      "$id": 313,
+      "style": 11,
+      "name": "Swep Gauntlets"
+    },
+    {
+      "$id": 314,
+      "style": 11,
+      "name": "Swep Leggings"
+    },
+    {
+      "$id": 315,
+      "style": 11,
+      "name": "Swep Boots"
+    },
+    {
+      "$id": 316,
+      "style": 11,
+      "name": "Iron Gear"
+    },
+    {
+      "$id": 317,
+      "style": 11,
+      "name": "Iron Armour"
+    },
+    {
+      "$id": 318,
+      "style": 11,
+      "name": "Iron Gauntlets"
+    },
+    {
+      "$id": 319,
+      "style": 11,
+      "name": "Iron Leggings"
+    },
+    {
+      "$id": 320,
+      "style": 11,
+      "name": "Iron Boots"
+    },
+    {
+      "$id": 321,
+      "style": 11,
+      "name": "Makna Cap"
+    },
+    {
+      "$id": 322,
+      "style": 11,
+      "name": "Makna Top"
+    },
+    {
+      "$id": 323,
+      "style": 11,
+      "name": "Makna Gloves"
+    },
+    {
+      "$id": 324,
+      "style": 11,
+      "name": "Makna Bottoms"
+    },
+    {
+      "$id": 325,
+      "style": 11,
+      "name": "Makna Shoes"
+    },
+    {
+      "$id": 326,
+      "style": 11,
+      "name": "Nopol Gear"
+    },
+    {
+      "$id": 327,
+      "style": 11,
+      "name": "Nopol Armour"
+    },
+    {
+      "$id": 328,
+      "style": 11,
+      "name": "Nopol Gauntlets"
+    },
+    {
+      "$id": 329,
+      "style": 11,
+      "name": "Nopol Leggings"
+    },
+    {
+      "$id": 330,
+      "style": 11,
+      "name": "Nopol Boots"
+    },
+    {
+      "$id": 331,
+      "style": 11,
+      "name": "Jungle Cap"
+    },
+    {
+      "$id": 332,
+      "style": 11,
+      "name": "Jungle Top"
+    },
+    {
+      "$id": 333,
+      "style": 11,
+      "name": "Jungle Gloves"
+    },
+    {
+      "$id": 334,
+      "style": 11,
+      "name": "Jungle Bottoms"
+    },
+    {
+      "$id": 335,
+      "style": 11,
+      "name": "Jungle Shoes"
+    },
+    {
+      "$id": 336,
+      "style": 11,
+      "name": "Rescue Cap"
+    },
+    {
+      "$id": 337,
+      "style": 11,
+      "name": "Rescue Top"
+    },
+    {
+      "$id": 338,
+      "style": 11,
+      "name": "Rescue Cuffs"
+    },
+    {
+      "$id": 339,
+      "style": 11,
+      "name": "Rescue Bottoms"
+    },
+    {
+      "$id": 340,
+      "style": 11,
+      "name": "Rescue Shoes"
+    },
+    {
+      "$id": 341,
+      "style": 11,
+      "name": "Eryth Gear"
+    },
+    {
+      "$id": 342,
+      "style": 11,
+      "name": "Eryth Armour"
+    },
+    {
+      "$id": 343,
+      "style": 11,
+      "name": "Eryth Gauntlets"
+    },
+    {
+      "$id": 344,
+      "style": 11,
+      "name": "Eryth Leggings"
+    },
+    {
+      "$id": 345,
+      "style": 11,
+      "name": "Eryth Boots"
+    },
+    {
+      "$id": 346,
+      "style": 11,
+      "name": "Grady Helm"
+    },
+    {
+      "$id": 347,
+      "style": 11,
+      "name": "Grady Chest"
+    },
+    {
+      "$id": 348,
+      "style": 11,
+      "name": "Grady Arms"
+    },
+    {
+      "$id": 349,
+      "style": 11,
+      "name": "Grady Cuisses"
+    },
+    {
+      "$id": 350,
+      "style": 11,
+      "name": "Grady Greaves"
+    },
+    {
+      "$id": 351,
+      "style": 11,
+      "name": "Panther Cap"
+    },
+    {
+      "$id": 352,
+      "style": 11,
+      "name": "Panther Top"
+    },
+    {
+      "$id": 353,
+      "style": 11,
+      "name": "Panther Gloves"
+    },
+    {
+      "$id": 354,
+      "style": 11,
+      "name": "Panther Bottoms"
+    },
+    {
+      "$id": 355,
+      "style": 11,
+      "name": "Panther Shoes"
+    },
+    {
+      "$id": 356,
+      "style": 11,
+      "name": "Mithril Gear"
+    },
+    {
+      "$id": 357,
+      "style": 11,
+      "name": "Mithril Armour"
+    },
+    {
+      "$id": 358,
+      "style": 11,
+      "name": "Mithril Gauntlets"
+    },
+    {
+      "$id": 359,
+      "style": 11,
+      "name": "Mithril Leggings"
+    },
+    {
+      "$id": 360,
+      "style": 11,
+      "name": "Mithril Boots"
+    },
+    {
+      "$id": 361,
+      "style": 11,
+      "name": "League Gear"
+    },
+    {
+      "$id": 362,
+      "style": 11,
+      "name": "League Armour"
+    },
+    {
+      "$id": 363,
+      "style": 11,
+      "name": "League Gauntlets"
+    },
+    {
+      "$id": 364,
+      "style": 11,
+      "name": "League Leggings"
+    },
+    {
+      "$id": 365,
+      "style": 11,
+      "name": "League Boots"
+    },
+    {
+      "$id": 366,
+      "style": 11,
+      "name": "Jail Cap"
+    },
+    {
+      "$id": 367,
+      "style": 11,
+      "name": "Jail Top"
+    },
+    {
+      "$id": 368,
+      "style": 11,
+      "name": "Jail Gloves"
+    },
+    {
+      "$id": 369,
+      "style": 11,
+      "name": "Jail Bottoms"
+    },
+    {
+      "$id": 370,
+      "style": 11,
+      "name": "Jail Shoes"
+    },
+    {
+      "$id": 371,
+      "style": 11,
+      "name": "Brandle Gear"
+    },
+    {
+      "$id": 372,
+      "style": 11,
+      "name": "Brandle Armour"
+    },
+    {
+      "$id": 373,
+      "style": 11,
+      "name": "Brandle Gauntlets"
+    },
+    {
+      "$id": 374,
+      "style": 11,
+      "name": "Brandle Leggings"
+    },
+    {
+      "$id": 375,
+      "style": 11,
+      "name": "Brandle Boots"
+    },
+    {
+      "$id": 376,
+      "style": 11,
+      "name": "Snow Glasses"
+    },
+    {
+      "$id": 377,
+      "style": 11,
+      "name": "Snow Oil"
+    },
+    {
+      "$id": 378,
+      "style": 11,
+      "name": "Snow Cream"
+    },
+    {
+      "$id": 379,
+      "style": 11,
+      "name": "Snow Trunks"
+    },
+    {
+      "$id": 380,
+      "style": 11,
+      "name": "Snow Sandals"
+    },
+    {
+      "$id": 381,
+      "style": 11,
+      "name": "Amethyst Gear"
+    },
+    {
+      "$id": 382,
+      "style": 11,
+      "name": "Amethyst Armour"
+    },
+    {
+      "$id": 383,
+      "style": 11,
+      "name": "Amethyst Gauntlets"
+    },
+    {
+      "$id": 384,
+      "style": 11,
+      "name": "Amethyst Leggings"
+    },
+    {
+      "$id": 385,
+      "style": 11,
+      "name": "Amethyst Boots"
+    },
+    {
+      "$id": 386,
+      "style": 11,
+      "name": "Heavy Gear"
+    },
+    {
+      "$id": 387,
+      "style": 11,
+      "name": "Heavy Armour"
+    },
+    {
+      "$id": 388,
+      "style": 11,
+      "name": "Heavy Gauntlets"
+    },
+    {
+      "$id": 389,
+      "style": 11,
+      "name": "Heavy Leggings"
+    },
+    {
+      "$id": 390,
+      "style": 11,
+      "name": "Heavy Boots"
+    },
+    {
+      "$id": 391,
+      "style": 11,
+      "name": "Brave Cap"
+    },
+    {
+      "$id": 392,
+      "style": 11,
+      "name": "Brave Top"
+    },
+    {
+      "$id": 393,
+      "style": 11,
+      "name": "Brave Gloves"
+    },
+    {
+      "$id": 394,
+      "style": 11,
+      "name": "Brave Bottoms"
+    },
+    {
+      "$id": 395,
+      "style": 11,
+      "name": "Brave Shoes"
+    },
+    {
+      "$id": 396,
+      "style": 11,
+      "name": "Stellar Gear"
+    },
+    {
+      "$id": 397,
+      "style": 11,
+      "name": "Stellar Armour"
+    },
+    {
+      "$id": 398,
+      "style": 11,
+      "name": "Stellar Gauntlets"
+    },
+    {
+      "$id": 399,
+      "style": 11,
+      "name": "Stellar Leggings"
+    },
+    {
+      "$id": 400,
+      "style": 11,
+      "name": "Stellar Boots"
+    },
+    {
+      "$id": 401,
+      "style": 11,
+      "name": "Orion Cap"
+    },
+    {
+      "$id": 402,
+      "style": 11,
+      "name": "Orion Top"
+    },
+    {
+      "$id": 403,
+      "style": 11,
+      "name": "Orion Gloves"
+    },
+    {
+      "$id": 404,
+      "style": 11,
+      "name": "Orion Bottoms"
+    },
+    {
+      "$id": 405,
+      "style": 11,
+      "name": "Orion Shoes"
+    },
+    {
+      "$id": 406,
+      "style": 11,
+      "name": "Sleek Glasses"
+    },
+    {
+      "$id": 407,
+      "style": 11,
+      "name": "Sleek Oil"
+    },
+    {
+      "$id": 408,
+      "style": 11,
+      "name": "Sleek Cream"
+    },
+    {
+      "$id": 409,
+      "style": 11,
+      "name": "Sleek Trunks"
+    },
+    {
+      "$id": 410,
+      "style": 11,
+      "name": "Sleek Sandals"
+    },
+    {
+      "$id": 411,
+      "style": 11,
+      "name": "Gemini Gear"
+    },
+    {
+      "$id": 412,
+      "style": 11,
+      "name": "Gemini Armour"
+    },
+    {
+      "$id": 413,
+      "style": 11,
+      "name": "Gemini Gauntlets"
+    },
+    {
+      "$id": 414,
+      "style": 11,
+      "name": "Gemini Leggings"
+    },
+    {
+      "$id": 415,
+      "style": 11,
+      "name": "Gemini Boots"
+    },
+    {
+      "$id": 416,
+      "style": 11,
+      "name": "Taurus Helm"
+    },
+    {
+      "$id": 417,
+      "style": 11,
+      "name": "Taurus Plate"
+    },
+    {
+      "$id": 418,
+      "style": 11,
+      "name": "Taurus Arms"
+    },
+    {
+      "$id": 419,
+      "style": 11,
+      "name": "Taurus Cuisses"
+    },
+    {
+      "$id": 420,
+      "style": 11,
+      "name": "Taurus Greaves"
+    },
+    {
+      "$id": 421,
+      "style": 11,
+      "name": "Alcyone Cap"
+    },
+    {
+      "$id": 422,
+      "style": 11,
+      "name": "Alcyone Top"
+    },
+    {
+      "$id": 423,
+      "style": 11,
+      "name": "Alcyone Gloves"
+    },
+    {
+      "$id": 424,
+      "style": 11,
+      "name": "Alcyone Bottoms"
+    },
+    {
+      "$id": 425,
+      "style": 11,
+      "name": "Alcyone Shoes"
+    },
+    {
+      "$id": 426,
+      "style": 11,
+      "name": "Retrieved Gear"
+    },
+    {
+      "$id": 427,
+      "style": 11,
+      "name": "Retrieved Armour"
+    },
+    {
+      "$id": 428,
+      "style": 11,
+      "name": "Retrieved Gauntlets"
+    },
+    {
+      "$id": 429,
+      "style": 11,
+      "name": "Retrieved Leggings"
+    },
+    {
+      "$id": 430,
+      "style": 11,
+      "name": "Retrieved Boots"
+    },
+    {
+      "$id": 431,
+      "style": 11,
+      "name": "M100 Helm"
+    },
+    {
+      "$id": 432,
+      "style": 11,
+      "name": "M100 Plate"
+    },
+    {
+      "$id": 433,
+      "style": 11,
+      "name": "M100 Arms"
+    },
+    {
+      "$id": 434,
+      "style": 11,
+      "name": "M100 Cuisses"
+    },
+    {
+      "$id": 435,
+      "style": 11,
+      "name": "M100 Greaves"
+    },
+    {
+      "$id": 436,
+      "style": 11,
+      "name": "Hierax Cap"
+    },
+    {
+      "$id": 437,
+      "style": 11,
+      "name": "Hierax Top"
+    },
+    {
+      "$id": 438,
+      "style": 11,
+      "name": "Hierax Gloves"
+    },
+    {
+      "$id": 439,
+      "style": 11,
+      "name": "Hierax Bottoms"
+    },
+    {
+      "$id": 440,
+      "style": 11,
+      "name": "Hierax Shoes"
+    },
+    {
+      "$id": 441,
+      "style": 11,
+      "name": "Rondine Cap"
+    },
+    {
+      "$id": 442,
+      "style": 11,
+      "name": "Rondine Top"
+    },
+    {
+      "$id": 443,
+      "style": 11,
+      "name": "Rondine Gloves"
+    },
+    {
+      "$id": 444,
+      "style": 11,
+      "name": "Rondine Bottoms"
+    },
+    {
+      "$id": 445,
+      "style": 11,
+      "name": "Rondine Shoes"
+    },
+    {
+      "$id": 446,
+      "style": 11,
+      "name": "Rafaga Gear"
+    },
+    {
+      "$id": 447,
+      "style": 11,
+      "name": "Rafaga Armour"
+    },
+    {
+      "$id": 448,
+      "style": 11,
+      "name": "Rafaga Gauntlets"
+    },
+    {
+      "$id": 449,
+      "style": 11,
+      "name": "Rafaga Leggings"
+    },
+    {
+      "$id": 450,
+      "style": 11,
+      "name": "Rafaga Boots"
+    },
+    {
+      "$id": 451,
+      "style": 11,
+      "name": "Lancelot Gear"
+    },
+    {
+      "$id": 452,
+      "style": 11,
+      "name": "Lancelot Armour"
+    },
+    {
+      "$id": 453,
+      "style": 11,
+      "name": "Lancelot Gauntlets"
+    },
+    {
+      "$id": 454,
+      "style": 11,
+      "name": "Lancelot Leggings"
+    },
+    {
+      "$id": 455,
+      "style": 11,
+      "name": "Lancelot Boots"
+    },
+    {
+      "$id": 456,
+      "style": 11,
+      "name": "Rex Helm"
+    },
+    {
+      "$id": 457,
+      "style": 11,
+      "name": "Rex Chest"
+    },
+    {
+      "$id": 458,
+      "style": 11,
+      "name": "Rex Arms"
+    },
+    {
+      "$id": 459,
+      "style": 11,
+      "name": "Rex Cuisses"
+    },
+    {
+      "$id": 460,
+      "style": 11,
+      "name": "Rex Greaves"
+    },
+    {
+      "$id": 461,
+      "style": 11,
+      "name": "Gracielle Helm"
+    },
+    {
+      "$id": 462,
+      "style": 11,
+      "name": "Gracielle Chest"
+    },
+    {
+      "$id": 463,
+      "style": 11,
+      "name": "Gracielle Arms"
+    },
+    {
+      "$id": 464,
+      "style": 11,
+      "name": "Gracielle Cuisses"
+    },
+    {
+      "$id": 465,
+      "style": 11,
+      "name": "Gracielle Greaves"
+    },
+    {
+      "$id": 466,
+      "style": 11,
+      "name": "Ledios Helm"
+    },
+    {
+      "$id": 467,
+      "style": 11,
+      "name": "Ledios Plate"
+    },
+    {
+      "$id": 468,
+      "style": 11,
+      "name": "Ledios Arms"
+    },
+    {
+      "$id": 469,
+      "style": 11,
+      "name": "Ledios Cuisses"
+    },
+    {
+      "$id": 470,
+      "style": 11,
+      "name": "Ledios Greaves"
+    },
+    {
+      "$id": 471,
+      "style": 11,
+      "name": "Ether V Goggles"
+    },
+    {
+      "$id": 472,
+      "style": 11,
+      "name": "Ether V Frame"
+    },
+    {
+      "$id": 473,
+      "style": 11,
+      "name": "Ether V Arms"
+    },
+    {
+      "$id": 474,
+      "style": 11,
+      "name": "Ether V Boosters"
+    },
+    {
+      "$id": 475,
+      "style": 11,
+      "name": "Cosmo Drones"
+    },
+    {
+      "$id": 476,
+      "style": 11,
+      "name": "Speed Goggles"
+    },
+    {
+      "$id": 477,
+      "style": 11,
+      "name": "Speed Frame"
+    },
+    {
+      "$id": 478,
+      "style": 11,
+      "name": "Speed Arms"
+    },
+    {
+      "$id": 479,
+      "style": 11,
+      "name": "Speed Boosters"
+    },
+    {
+      "$id": 480,
+      "style": 11,
+      "name": "Eleos Drones"
+    },
+    {
+      "$id": 481,
+      "style": 11,
+      "name": "Attack Goggles"
+    },
+    {
+      "$id": 482,
+      "style": 11,
+      "name": "Attack Frame"
+    },
+    {
+      "$id": 483,
+      "style": 11,
+      "name": "Attack Arms"
+    },
+    {
+      "$id": 484,
+      "style": 11,
+      "name": "Attack Boosters"
+    },
+    {
+      "$id": 485,
+      "style": 11,
+      "name": "Freyja Drones"
+    },
+    {
+      "$id": 486,
+      "style": 11,
+      "name": "F Speed Goggles"
+    },
+    {
+      "$id": 487,
+      "style": 11,
+      "name": "F Speed Frame"
+    },
+    {
+      "$id": 488,
+      "style": 11,
+      "name": "F Speed Arms"
+    },
+    {
+      "$id": 489,
+      "style": 11,
+      "name": "F Speed Boosters"
+    },
+    {
+      "$id": 490,
+      "style": 11,
+      "name": "Palva Drones"
+    },
+    {
+      "$id": 491,
+      "style": 11,
+      "name": "Ether II Goggles"
+    },
+    {
+      "$id": 492,
+      "style": 11,
+      "name": "Ether II Frame"
+    },
+    {
+      "$id": 493,
+      "style": 11,
+      "name": "Ether II Arms"
+    },
+    {
+      "$id": 494,
+      "style": 11,
+      "name": "Ether II Boosters"
+    },
+    {
+      "$id": 495,
+      "style": 11,
+      "name": "Helwerthia Drones"
+    },
+    {
+      "$id": 496,
+      "style": 11,
+      "name": "Power II Goggles"
+    },
+    {
+      "$id": 497,
+      "style": 11,
+      "name": "Power II Frame"
+    },
+    {
+      "$id": 498,
+      "style": 11,
+      "name": "Power II Arms"
+    },
+    {
+      "$id": 499,
+      "style": 11,
+      "name": "Power II Boosters"
+    },
+    {
+      "$id": 500,
+      "style": 11,
+      "name": "Ishtar Drones"
+    },
+    {
+      "$id": 501,
+      "style": 11,
+      "name": "Attack II Goggles"
+    },
+    {
+      "$id": 502,
+      "style": 11,
+      "name": "Attack II Frame"
+    },
+    {
+      "$id": 503,
+      "style": 11,
+      "name": "Attack II Arms"
+    },
+    {
+      "$id": 504,
+      "style": 11,
+      "name": "Attack II Boosters"
+    },
+    {
+      "$id": 505,
+      "style": 11,
+      "name": "Eucleia Drones"
+    },
+    {
+      "$id": 506,
+      "style": 11,
+      "name": "H Ether Goggles"
+    },
+    {
+      "$id": 507,
+      "style": 11,
+      "name": "H Ether Frame"
+    },
+    {
+      "$id": 508,
+      "style": 11,
+      "name": "H Ether Arms"
+    },
+    {
+      "$id": 509,
+      "style": 11,
+      "name": "H Ether Boosters"
+    },
+    {
+      "$id": 510,
+      "style": 11,
+      "name": "Astarte Drones"
+    },
+    {
+      "$id": 511,
+      "style": 11,
+      "name": "Ether III Goggles"
+    },
+    {
+      "$id": 512,
+      "style": 11,
+      "name": "Ether III Frame"
+    },
+    {
+      "$id": 513,
+      "style": 11,
+      "name": "Ether III Arms"
+    },
+    {
+      "$id": 514,
+      "style": 11,
+      "name": "Ether III Boosters"
+    },
+    {
+      "$id": 515,
+      "style": 11,
+      "name": "Lucina Drones"
+    },
+    {
+      "$id": 516,
+      "style": 11,
+      "name": "Speed III Goggles"
+    },
+    {
+      "$id": 517,
+      "style": 11,
+      "name": "Speed III Frame"
+    },
+    {
+      "$id": 518,
+      "style": 11,
+      "name": "Speed III Arms"
+    },
+    {
+      "$id": 519,
+      "style": 11,
+      "name": "Speed III Booster"
+    },
+    {
+      "$id": 520,
+      "style": 11,
+      "name": "Eris Drones"
+    },
+    {
+      "$id": 521,
+      "style": 11,
+      "name": "Attack III Goggles"
+    },
+    {
+      "$id": 522,
+      "style": 11,
+      "name": "Attack III Frame"
+    },
+    {
+      "$id": 523,
+      "style": 11,
+      "name": "Attack III Arms"
+    },
+    {
+      "$id": 524,
+      "style": 11,
+      "name": "Attack III Boosters"
+    },
+    {
+      "$id": 525,
+      "style": 11,
+      "name": "Uranus Drones"
+    },
+    {
+      "$id": 526,
+      "style": 11,
+      "name": "Z Attack Goggles"
+    },
+    {
+      "$id": 527,
+      "style": 11,
+      "name": "Z Attack Frame"
+    },
+    {
+      "$id": 528,
+      "style": 11,
+      "name": "Z Attack Arms"
+    },
+    {
+      "$id": 529,
+      "style": 11,
+      "name": "Z Attack Boosters"
+    },
+    {
+      "$id": 530,
+      "style": 11,
+      "name": "Segment Drones"
+    },
+    {
+      "$id": 531,
+      "style": 11,
+      "name": "Speed V Goggles"
+    },
+    {
+      "$id": 532,
+      "style": 11,
+      "name": "Speed V Frame"
+    },
+    {
+      "$id": 533,
+      "style": 11,
+      "name": "Speed V Arms"
+    },
+    {
+      "$id": 534,
+      "style": 11,
+      "name": "Speed V Booster"
+    },
+    {
+      "$id": 535,
+      "style": 11,
+      "name": "Sedna Drones"
+    },
+    {
+      "$id": 536,
+      "style": 11,
+      "name": "Pistis Cap"
+    },
+    {
+      "$id": 537,
+      "style": 11,
+      "name": "Night Goggles"
+    },
+    {
+      "$id": 538,
+      "style": 11,
+      "name": "Front Armour"
+    },
+    {
+      "$id": 539,
+      "style": 11,
+      "name": "Graft Gauntlets"
+    },
+    {
+      "$id": 540,
+      "style": 11,
+      "name": "Court Leggings"
+    },
+    {
+      "$id": 541,
+      "style": 11,
+      "name": "Messenger Shoes"
+    },
+    {
+      "$id": 542,
+      "style": 11,
+      "name": "Steady Greaves"
+    },
+    {
+      "$id": 543,
+      "style": 11,
+      "name": "Pistis Top"
+    },
+    {
+      "$id": 544,
+      "style": 11,
+      "name": "Steady Helm"
+    },
+    {
+      "$id": 545,
+      "style": 11,
+      "name": "Warrior's Diadem"
+    },
+    {
+      "$id": 546,
+      "style": 11,
+      "name": "Blessed Brigandine"
+    },
+    {
+      "$id": 547,
+      "style": 11,
+      "name": "Steady Arms"
+    },
+    {
+      "$id": 548,
+      "style": 11,
+      "name": "Chain Gauntlets"
+    },
+    {
+      "$id": 549,
+      "style": 11,
+      "name": "Block Gauntlets"
+    },
+    {
+      "$id": 550,
+      "style": 11,
+      "name": "Light Leggings"
+    },
+    {
+      "$id": 551,
+      "style": 11,
+      "name": "Speed Boots"
+    },
+    {
+      "$id": 552,
+      "style": 11,
+      "name": "Steady Cuisses"
+    },
+    {
+      "$id": 553,
+      "style": 11,
+      "name": "Empress Plate"
+    },
+    {
+      "$id": 554,
+      "style": 11,
+      "name": "Empress Arms"
+    },
+    {
+      "$id": 555,
+      "style": 11,
+      "name": "Empress Greaves"
+    },
+    {
+      "$id": 556,
+      "style": 11,
+      "name": "Journey Diadem"
+    },
+    {
+      "$id": 557,
+      "style": 11,
+      "name": "Cool Gel"
+    },
+    {
+      "$id": 558,
+      "style": 11,
+      "name": "Cool Oil"
+    },
+    {
+      "$id": 559,
+      "style": 11,
+      "name": "Cool Cream"
+    },
+    {
+      "$id": 560,
+      "style": 11,
+      "name": "Cool Trunks"
+    },
+    {
+      "$id": 561,
+      "style": 11,
+      "name": "Cool Sandals"
+    },
+    {
+      "$id": 562,
+      "style": 11,
+      "name": "Chronos Cap"
+    },
+    {
+      "$id": 563,
+      "style": 11,
+      "name": "Chronos Top"
+    },
+    {
+      "$id": 564,
+      "style": 11,
+      "name": "Chronos Gloves"
+    },
+    {
+      "$id": 565,
+      "style": 11,
+      "name": "Chronos Bottoms"
+    },
+    {
+      "$id": 566,
+      "style": 11,
+      "name": "Chronos Shoes"
+    },
+    {
+      "$id": 567,
+      "style": 11,
+      "name": "Aer Gear"
+    },
+    {
+      "$id": 568,
+      "style": 11,
+      "name": "Lattice Armour"
+    },
+    {
+      "$id": 569,
+      "style": 11,
+      "name": "Lattice Gauntlets"
+    },
+    {
+      "$id": 570,
+      "style": 11,
+      "name": "Lattice Leggings"
+    },
+    {
+      "$id": 571,
+      "style": 11,
+      "name": "Heavy Cuisses"
+    },
+    {
+      "$id": 572,
+      "style": 11,
+      "name": "Lattice Boots"
+    },
+    {
+      "$id": 573,
+      "style": 11,
+      "name": "Serpent Gear"
+    },
+    {
+      "$id": 574,
+      "style": 11,
+      "name": "Serpent Armour"
+    },
+    {
+      "$id": 575,
+      "style": 11,
+      "name": "Serpent Gauntlets"
+    },
+    {
+      "$id": 576,
+      "style": 11,
+      "name": "Serpent Leggings"
+    },
+    {
+      "$id": 577,
+      "style": 11,
+      "name": "Serpent Boots"
+    },
+    {
+      "$id": 578,
+      "style": 11,
+      "name": "Climb Gear"
+    },
+    {
+      "$id": 579,
+      "style": 11,
+      "name": "Climb Armour"
+    },
+    {
+      "$id": 580,
+      "style": 11,
+      "name": "Climb Gauntlets"
+    },
+    {
+      "$id": 581,
+      "style": 11,
+      "name": "Climb Leggings"
+    },
+    {
+      "$id": 582,
+      "style": 11,
+      "name": "Climb Boots"
+    },
+    {
+      "$id": 583,
+      "style": 11,
+      "name": "Noise Canceller"
+    },
+    {
+      "$id": 584,
+      "style": 11,
+      "name": "Inferno Armour"
+    },
+    {
+      "$id": 585,
+      "style": 11,
+      "name": "Frozen Gauntlets"
+    },
+    {
+      "$id": 586,
+      "style": 11,
+      "name": "Styptic Leggings"
+    },
+    {
+      "$id": 587,
+      "style": 11,
+      "name": "Earth Boots"
+    },
+    {
+      "$id": 588,
+      "style": 11,
+      "name": "Blade Gear"
+    },
+    {
+      "$id": 589,
+      "style": 11,
+      "name": "Blade Armour"
+    },
+    {
+      "$id": 590,
+      "style": 11,
+      "name": "Blade Gauntlets"
+    },
+    {
+      "$id": 591,
+      "style": 11,
+      "name": "Blade Leggings"
+    },
+    {
+      "$id": 592,
+      "style": 11,
+      "name": "Blade Boots"
+    },
+    {
+      "$id": 593,
+      "style": 11,
+      "name": "Charge Gear"
+    },
+    {
+      "$id": 594,
+      "style": 11,
+      "name": "Agni Plate"
+    },
+    {
+      "$id": 595,
+      "style": 11,
+      "name": "Shilpala Gloves"
+    },
+    {
+      "$id": 596,
+      "style": 11,
+      "name": "Lord Leggings"
+    },
+    {
+      "$id": 597,
+      "style": 11,
+      "name": "Combatant Boots"
+    },
+    {
+      "$id": 598,
+      "style": 11,
+      "name": "Agrius Helm"
+    },
+    {
+      "$id": 599,
+      "style": 11,
+      "name": "Agrius Plate"
+    },
+    {
+      "$id": 600,
+      "style": 11,
+      "name": "Agrius Arms"
+    },
+    {
+      "$id": 601,
+      "style": 11,
+      "name": "Agrius Cuisses"
+    },
+    {
+      "$id": 602,
+      "style": 11,
+      "name": "Agrius Greaves"
+    },
+    {
+      "$id": 603,
+      "style": 11,
+      "name": "Asura Helm"
+    },
+    {
+      "$id": 604,
+      "style": 11,
+      "name": "Asura Plate"
+    },
+    {
+      "$id": 605,
+      "style": 11,
+      "name": "Asura Arms"
+    },
+    {
+      "$id": 606,
+      "style": 11,
+      "name": "Asura Cuisses"
+    },
+    {
+      "$id": 607,
+      "style": 11,
+      "name": "Asura Greaves"
+    },
+    {
+      "$id": 608,
+      "style": 11,
+      "name": "Eclipse Gear"
+    },
+    {
+      "$id": 609,
+      "style": 11,
+      "name": "Eclipse Armour"
+    },
+    {
+      "$id": 610,
+      "style": 11,
+      "name": "Eclipse Gauntlets"
+    },
+    {
+      "$id": 611,
+      "style": 11,
+      "name": "Eclipse Leggings"
+    },
+    {
+      "$id": 612,
+      "style": 11,
+      "name": "Eclipse Boots"
+    },
+    {
+      "$id": 613,
+      "style": 11,
+      "name": "Pretty Bangle"
+    },
+    {
+      "$id": 614,
+      "style": 11,
+      "name": "Tinted Glasses"
+    },
+    {
+      "$id": 615,
+      "style": 11,
+      "name": "Power V Boosters"
+    },
+    {
+      "$id": 616,
+      "style": 11,
+      "name": "Prodigal Helm"
+    },
+    {
+      "$id": 617,
+      "style": 11,
+      "name": "Prodigal Cuirass"
+    },
+    {
+      "$id": 618,
+      "style": 11,
+      "name": "Prodigal Gauntlets"
+    },
+    {
+      "$id": 619,
+      "style": 11,
+      "name": "Prodigal Girdle"
+    },
+    {
+      "$id": 620,
+      "style": 11,
+      "name": "Prodigal Greaves"
+    },
+    {
+      "$id": 621,
+      "style": 11,
+      "name": "Invidious Helm"
+    },
+    {
+      "$id": 622,
+      "style": 11,
+      "name": "Invidious Cuirass"
+    },
+    {
+      "$id": 623,
+      "style": 11,
+      "name": "Invidious Gauntlets"
+    },
+    {
+      "$id": 624,
+      "style": 11,
+      "name": "Invidious Girdle"
+    },
+    {
+      "$id": 625,
+      "style": 11,
+      "name": "Invidious Greaves"
+    },
+    {
+      "$id": 626,
+      "style": 11,
+      "name": "Empyreal Helm"
+    },
+    {
+      "$id": 627,
+      "style": 11,
+      "name": "Empyreal Cuirass"
+    },
+    {
+      "$id": 628,
+      "style": 11,
+      "name": "Empyreal Gauntlets"
+    },
+    {
+      "$id": 629,
+      "style": 11,
+      "name": "Empyreal Girdle"
+    },
+    {
+      "$id": 630,
+      "style": 11,
+      "name": "Empyreal Greaves"
+    },
+    {
+      "$id": 631,
+      "style": 11,
+      "name": "Soloist's Goggles"
+    },
+    {
+      "$id": 632,
+      "style": 11,
+      "name": "Soloist's Frame"
+    },
+    {
+      "$id": 633,
+      "style": 11,
+      "name": "Soloist's Arms"
+    },
+    {
+      "$id": 634,
+      "style": 11,
+      "name": "Soloist's Boosters"
+    },
+    {
+      "$id": 635,
+      "style": 11,
+      "name": "Soloist's Drones"
+    },
+    {
+      "$id": 636,
+      "style": 11,
+      "name": "Quadrille Goggles"
+    },
+    {
+      "$id": 637,
+      "style": 11,
+      "name": "Quadrille Frame"
+    },
+    {
+      "$id": 638,
+      "style": 11,
+      "name": "Quadrille Arms"
+    },
+    {
+      "$id": 639,
+      "style": 11,
+      "name": "Quadrille Boosters"
+    },
+    {
+      "$id": 640,
+      "style": 11,
+      "name": "Quadrille Drones"
+    },
+    {
+      "$id": 641,
+      "style": 11,
+      "name": "Étoile Goggles"
+    },
+    {
+      "$id": 642,
+      "style": 11,
+      "name": "Étoile Frame"
+    },
+    {
+      "$id": 643,
+      "style": 11,
+      "name": "Étoile Arms"
+    },
+    {
+      "$id": 644,
+      "style": 11,
+      "name": "Étoile Boosters"
+    },
+    {
+      "$id": 645,
+      "style": 11,
+      "name": "Étoile Drones"
+    },
+    {
+      "$id": 646,
+      "style": 11,
+      "name": "Orion Cap L"
+    },
+    {
+      "$id": 647,
+      "style": 11,
+      "name": "Orion Top L"
+    },
+    {
+      "$id": 648,
+      "style": 11,
+      "name": "Orion Gloves L"
+    },
+    {
+      "$id": 649,
+      "style": 11,
+      "name": "Orion Bottoms L"
+    },
+    {
+      "$id": 650,
+      "style": 11,
+      "name": "Orion Shoes L"
+    },
+    {
+      "$id": 651,
+      "style": 11,
+      "name": "Rex Helm L"
+    },
+    {
+      "$id": 652,
+      "style": 11,
+      "name": "Rex Chest L"
+    },
+    {
+      "$id": 653,
+      "style": 11,
+      "name": "Rex Arms L"
+    },
+    {
+      "$id": 654,
+      "style": 11,
+      "name": "Rex Cuisses L"
+    },
+    {
+      "$id": 655,
+      "style": 11,
+      "name": "Rex Greaves L"
+    },
+    {
+      "$id": 656,
+      "style": 11,
+      "name": "M100 Helm L"
+    },
+    {
+      "$id": 657,
+      "style": 11,
+      "name": "M100 Plate L"
+    },
+    {
+      "$id": 658,
+      "style": 11,
+      "name": "M100 Arms L"
+    },
+    {
+      "$id": 659,
+      "style": 11,
+      "name": "M100 Cuisses L"
+    },
+    {
+      "$id": 660,
+      "style": 11,
+      "name": "M100 Greaves L"
+    },
+    {
+      "$id": 661,
+      "style": 11,
+      "name": "Taurus Helm L"
+    },
+    {
+      "$id": 662,
+      "style": 11,
+      "name": "Taurus Plate L"
+    },
+    {
+      "$id": 663,
+      "style": 11,
+      "name": "Taurus Arms L"
+    },
+    {
+      "$id": 664,
+      "style": 11,
+      "name": "Taurus Cuisses L"
+    },
+    {
+      "$id": 665,
+      "style": 11,
+      "name": "Taurus Greaves L"
+    },
+    {
+      "$id": 666,
+      "style": 11,
+      "name": "Titan Helm L"
+    },
+    {
+      "$id": 667,
+      "style": 11,
+      "name": "Titan Plate L"
+    },
+    {
+      "$id": 668,
+      "style": 11,
+      "name": "Titan Arms L"
+    },
+    {
+      "$id": 669,
+      "style": 11,
+      "name": "Titan Greaves L"
+    },
+    {
+      "$id": 670,
+      "style": 11,
+      "name": "Titan Sabatons L"
+    },
+    {
+      "$id": 671,
+      "style": 11,
+      "name": "Heavy Gear L"
+    },
+    {
+      "$id": 672,
+      "style": 11,
+      "name": "Heavy Armour L"
+    },
+    {
+      "$id": 673,
+      "style": 11,
+      "name": "Heavy Gauntlets L"
+    },
+    {
+      "$id": 674,
+      "style": 11,
+      "name": "Heavy Leggings L"
+    },
+    {
+      "$id": 675,
+      "style": 11,
+      "name": "Heavy Boots L"
+    },
+    {
+      "$id": 676,
+      "style": 11,
+      "name": "Ledios Helm L"
+    },
+    {
+      "$id": 677,
+      "style": 11,
+      "name": "Ledios Plate L"
+    },
+    {
+      "$id": 678,
+      "style": 11,
+      "name": "Ledios Arms L"
+    },
+    {
+      "$id": 679,
+      "style": 11,
+      "name": "Ledios Cuisses L"
+    },
+    {
+      "$id": 680,
+      "style": 11,
+      "name": "Ledios Greaves L"
+    },
+    {
+      "$id": 681,
+      "style": 11,
+      "name": "Power Goggles L"
+    },
+    {
+      "$id": 682,
+      "style": 11,
+      "name": "Power Frame L"
+    },
+    {
+      "$id": 683,
+      "style": 11,
+      "name": "Power Arms L"
+    },
+    {
+      "$id": 684,
+      "style": 11,
+      "name": "Power Boosters L"
+    },
+    {
+      "$id": 685,
+      "style": 11,
+      "name": "Mitra Drones L"
+    },
+    {
+      "$id": 686,
+      "style": 11,
+      "name": "Power II Goggles L"
+    },
+    {
+      "$id": 687,
+      "style": 11,
+      "name": "Power II Frame L"
+    },
+    {
+      "$id": 688,
+      "style": 11,
+      "name": "Power II Arms L"
+    },
+    {
+      "$id": 689,
+      "style": 11,
+      "name": "Power II Boosters L"
+    },
+    {
+      "$id": 690,
+      "style": 11,
+      "name": "Ishtar Drones L"
+    },
+    {
+      "$id": 691,
+      "style": 11,
+      "name": "Power III Goggles L"
+    },
+    {
+      "$id": 692,
+      "style": 11,
+      "name": "Power III Frame L"
+    },
+    {
+      "$id": 693,
+      "style": 11,
+      "name": "Power III Arms L"
+    },
+    {
+      "$id": 694,
+      "style": 11,
+      "name": "Power III Boosters L"
+    },
+    {
+      "$id": 695,
+      "style": 11,
+      "name": "Resort Mask"
+    },
+    {
+      "$id": 696,
+      "style": 11,
+      "name": "Resort Hoodie"
+    },
+    {
+      "$id": 697,
+      "style": 11,
+      "name": "Resort Gloves"
+    },
+    {
+      "$id": 698,
+      "style": 11,
+      "name": "Resort Leggings"
+    },
+    {
+      "$id": 699,
+      "style": 11,
+      "name": "Resort Fins"
+    },
+    {
+      "$id": 700,
+      "style": 11,
+      "name": "Camo Mask"
+    },
+    {
+      "$id": 701,
+      "style": 11,
+      "name": "Camo Hoodie"
+    },
+    {
+      "$id": 702,
+      "style": 11,
+      "name": "Camo Gloves"
+    },
+    {
+      "$id": 703,
+      "style": 11,
+      "name": "Camo Leggings"
+    },
+    {
+      "$id": 704,
+      "style": 11,
+      "name": "Camo Fins"
+    },
+    {
+      "$id": 705,
+      "style": 11,
+      "name": "Trendy Goggles"
+    },
+    {
+      "$id": 706,
+      "style": 11,
+      "name": "Trendy Hoodie"
+    },
+    {
+      "$id": 707,
+      "style": 11,
+      "name": "Trendy Gloves"
+    },
+    {
+      "$id": 708,
+      "style": 11,
+      "name": "Trendy Leggings"
+    },
+    {
+      "$id": 709,
+      "style": 11,
+      "name": "Trendy Fins"
+    },
+    {
+      "$id": 710,
+      "style": 11,
+      "name": "Exotic Glasses"
+    },
+    {
+      "$id": 711,
+      "style": 11,
+      "name": "Exotic Top"
+    },
+    {
+      "$id": 712,
+      "style": 11,
+      "name": "Exotic Watch"
+    },
+    {
+      "$id": 713,
+      "style": 11,
+      "name": "Exotic Bottoms"
+    },
+    {
+      "$id": 714,
+      "style": 11,
+      "name": "Exotic Sandals"
+    },
+    {
+      "$id": 715,
+      "style": 11,
+      "name": "Debonair Glasses"
+    },
+    {
+      "$id": 716,
+      "style": 11,
+      "name": "Debonair Top"
+    },
+    {
+      "$id": 717,
+      "style": 11,
+      "name": "Debonair Watch"
+    },
+    {
+      "$id": 718,
+      "style": 11,
+      "name": "Debonair Bottoms"
+    },
+    {
+      "$id": 719,
+      "style": 11,
+      "name": "Debonair Sandals"
+    },
+    {
+      "$id": 720,
+      "style": 11,
+      "name": "Bourgeois Glasses"
+    },
+    {
+      "$id": 721,
+      "style": 11,
+      "name": "Bourgeois Top"
+    },
+    {
+      "$id": 722,
+      "style": 11,
+      "name": "Bourgeois Watch"
+    },
+    {
+      "$id": 723,
+      "style": 11,
+      "name": "Bourgeois Bottoms"
+    },
+    {
+      "$id": 724,
+      "style": 11,
+      "name": "Bourgeois Sandals"
+    },
+    {
+      "$id": 725,
+      "style": 11,
+      "name": "Festival Headband"
+    },
+    {
+      "$id": 726,
+      "style": 11,
+      "name": "Festival Shirt"
+    },
+    {
+      "$id": 727,
+      "style": 11,
+      "name": "Festival Beads"
+    },
+    {
+      "$id": 728,
+      "style": 11,
+      "name": "Festival Shorts"
+    },
+    {
+      "$id": 729,
+      "style": 11,
+      "name": "Festival Sandals"
+    },
+    {
+      "$id": 730,
+      "style": 11,
+      "name": "Worker's Headband"
+    },
+    {
+      "$id": 731,
+      "style": 11,
+      "name": "Worker's Shirt"
+    },
+    {
+      "$id": 732,
+      "style": 11,
+      "name": "Worker's Beads"
+    },
+    {
+      "$id": 733,
+      "style": 11,
+      "name": "Worker's Shorts"
+    },
+    {
+      "$id": 734,
+      "style": 11,
+      "name": "Worker's Sandals"
+    },
+    {
+      "$id": 735,
+      "style": 11,
+      "name": "Blossom Headband"
+    },
+    {
+      "$id": 736,
+      "style": 11,
+      "name": "Blossom Shirt"
+    },
+    {
+      "$id": 737,
+      "style": 11,
+      "name": "Blossom Beads"
+    },
+    {
+      "$id": 738,
+      "style": 11,
+      "name": "Blossom Shorts"
+    },
+    {
+      "$id": 739,
+      "style": 11,
+      "name": "Blossom Sandals"
+    },
+    {
+      "$id": 740,
+      "style": 11,
+      "name": "Captain's Hat"
+    },
+    {
+      "$id": 741,
+      "style": 11,
+      "name": "Captain's Top"
+    },
+    {
+      "$id": 742,
+      "style": 11,
+      "name": "Captain's Bangles"
+    },
+    {
+      "$id": 743,
+      "style": 11,
+      "name": "Captain's Skirt"
+    },
+    {
+      "$id": 744,
+      "style": 11,
+      "name": "Captain's Pumps"
+    },
+    {
+      "$id": 745,
+      "style": 11,
+      "name": "Officer's Hat"
+    },
+    {
+      "$id": 746,
+      "style": 11,
+      "name": "Officer's Top"
+    },
+    {
+      "$id": 747,
+      "style": 11,
+      "name": "Officer's Bangles"
+    },
+    {
+      "$id": 748,
+      "style": 11,
+      "name": "Officer's Skirt"
+    },
+    {
+      "$id": 749,
+      "style": 11,
+      "name": "Officer's Pumps"
+    },
+    {
+      "$id": 750,
+      "style": 11,
+      "name": "Admiral's Hat"
+    },
+    {
+      "$id": 751,
+      "style": 11,
+      "name": "Admiral's Top"
+    },
+    {
+      "$id": 752,
+      "style": 11,
+      "name": "Admiral's Bangles"
+    },
+    {
+      "$id": 753,
+      "style": 11,
+      "name": "Admiral's Skirt"
+    },
+    {
+      "$id": 754,
+      "style": 11,
+      "name": "Admiral's Pumps"
+    },
+    {
+      "$id": 755,
+      "style": 11,
+      "name": "Pineapple Glasses"
+    },
+    {
+      "$id": 756,
+      "style": 11,
+      "name": "Pineapple Top"
+    },
+    {
+      "$id": 757,
+      "style": 11,
+      "name": "Pineapple Gauntlets"
+    },
+    {
+      "$id": 758,
+      "style": 11,
+      "name": "Starchy Knapsack"
+    },
+    {
+      "$id": 759,
+      "style": 11,
+      "name": "Denim Glasses"
+    },
+    {
+      "$id": 760,
+      "style": 11,
+      "name": "Denim Top"
+    },
+    {
+      "$id": 761,
+      "style": 11,
+      "name": "Denim Gauntlets"
+    },
+    {
+      "$id": 762,
+      "style": 11,
+      "name": "Rustly Knapsack"
+    },
+    {
+      "$id": 763,
+      "style": 11,
+      "name": "Tropical Glasses"
+    },
+    {
+      "$id": 764,
+      "style": 11,
+      "name": "Tropical Top"
+    },
+    {
+      "$id": 765,
+      "style": 11,
+      "name": "Tropical Gauntlets"
+    },
+    {
+      "$id": 766,
+      "style": 11,
+      "name": "Clattery Knapsack"
+    },
+    {
+      "$id": 767,
+      "style": 11,
+      "name": "Eryth Corsage"
+    },
+    {
+      "$id": 768,
+      "style": 11,
+      "name": "Eryth Top"
+    },
+    {
+      "$id": 769,
+      "style": 11,
+      "name": "Eryth Bracelets"
+    },
+    {
+      "$id": 770,
+      "style": 11,
+      "name": "Eryth Skirt"
+    },
+    {
+      "$id": 771,
+      "style": 11,
+      "name": "Eryth Sandals"
+    },
+    {
+      "$id": 772,
+      "style": 11,
+      "name": "Frontier Corsage"
+    },
+    {
+      "$id": 773,
+      "style": 11,
+      "name": "Frontier Top"
+    },
+    {
+      "$id": 774,
+      "style": 11,
+      "name": "Frontier Bracelets"
+    },
+    {
+      "$id": 775,
+      "style": 11,
+      "name": "Frontier Skirt"
+    },
+    {
+      "$id": 776,
+      "style": 11,
+      "name": "Frontier Sandals"
+    },
+    {
+      "$id": 777,
+      "style": 11,
+      "name": "Valak Corsage"
+    },
+    {
+      "$id": 778,
+      "style": 11,
+      "name": "Valak Top"
+    },
+    {
+      "$id": 779,
+      "style": 11,
+      "name": "Valak Bracelets"
+    },
+    {
+      "$id": 780,
+      "style": 11,
+      "name": "Valak Skirt"
+    },
+    {
+      "$id": 781,
+      "style": 11,
+      "name": "Valak Sandals"
+    },
+    {
+      "$id": 782,
+      "style": 11,
+      "name": "Sun Visor"
+    },
+    {
+      "$id": 783,
+      "style": 11,
+      "name": "Water Frame"
+    },
+    {
+      "$id": 784,
+      "style": 11,
+      "name": "Water Arms"
+    },
+    {
+      "$id": 785,
+      "style": 11,
+      "name": "Water Boosters"
+    },
+    {
+      "$id": 786,
+      "style": 11,
+      "name": "Mフィオ水着脚ベース"
+    },
+    {
+      "$id": 787,
+      "style": 11,
+      "name": "F Sun Visor"
+    },
+    {
+      "$id": 788,
+      "style": 11,
+      "name": "F Water Frame"
+    },
+    {
+      "$id": 789,
+      "style": 11,
+      "name": "F Water Arms"
+    },
+    {
+      "$id": 790,
+      "style": 11,
+      "name": "F Water Boosters"
+    },
+    {
+      "$id": 791,
+      "style": 11,
+      "name": "Mフィオ水着脚色替1"
+    },
+    {
+      "$id": 792,
+      "style": 11,
+      "name": "H Sun Visor"
+    },
+    {
+      "$id": 793,
+      "style": 11,
+      "name": "H Water Frame"
+    },
+    {
+      "$id": 794,
+      "style": 11,
+      "name": "H Water Arms"
+    },
+    {
+      "$id": 795,
+      "style": 11,
+      "name": "H Water Boosters"
+    },
+    {
+      "$id": 796,
+      "style": 11,
+      "name": "Mフィオ水着脚色替2"
+    },
+    {
+      "$id": 797,
+      "style": 11,
+      "name": "Taruko's Mask"
+    },
+    {
+      "$id": 798,
+      "style": 11,
+      "name": "Sprout Hair Tie"
+    },
+    {
+      "$id": 799,
+      "style": 11,
+      "name": "Sapling Hair Tie"
+    },
+    {
+      "$id": 800,
+      "style": 11,
+      "name": "Redwood Hair Tie"
+    },
+    {
+      "$id": 801,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 802,
+      "style": 11,
+      "name": "Sprout Vest"
+    },
+    {
+      "$id": 803,
+      "style": 11,
+      "name": "Sapling Vest"
+    },
+    {
+      "$id": 804,
+      "style": 11,
+      "name": "Redwood Vest"
+    },
+    {
+      "$id": 805,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 806,
+      "style": 11,
+      "name": "Sprout Amulet"
+    },
+    {
+      "$id": 807,
+      "style": 11,
+      "name": "Sapling Amulet"
+    },
+    {
+      "$id": 808,
+      "style": 11,
+      "name": "Redwood Amulet"
+    },
+    {
+      "$id": 809,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 810,
+      "style": 11,
+      "name": "Sprout Knapsack"
+    },
+    {
+      "$id": 811,
+      "style": 11,
+      "name": "Sapling Knapsack"
+    },
+    {
+      "$id": 812,
+      "style": 11,
+      "name": "Redwood Knapsack"
+    },
+    {
+      "$id": 813,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 814,
+      "style": 11,
+      "name": "Sprout Anklet"
+    },
+    {
+      "$id": 815,
+      "style": 11,
+      "name": "Sapling Anklet"
+    },
+    {
+      "$id": 816,
+      "style": 11,
+      "name": "Redwood Anklet"
+    },
+    {
+      "$id": 817,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 818,
+      "style": 11,
+      "name": "Keepsake Ribbon"
+    },
+    {
+      "$id": 819,
+      "style": 11,
+      "name": "Nostalgic Ribbon"
+    },
+    {
+      "$id": 820,
+      "style": 11,
+      "name": "Jubilant Ribbon"
+    },
+    {
+      "$id": 821,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 822,
+      "style": 11,
+      "name": "Keepsake Plate"
+    },
+    {
+      "$id": 823,
+      "style": 11,
+      "name": "Nostalgic Plate"
+    },
+    {
+      "$id": 824,
+      "style": 11,
+      "name": "Jubilant Plate"
+    },
+    {
+      "$id": 825,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 826,
+      "style": 11,
+      "name": "Keepsake Amulet"
+    },
+    {
+      "$id": 827,
+      "style": 11,
+      "name": "Nostalgic Amulet"
+    },
+    {
+      "$id": 828,
+      "style": 11,
+      "name": "Jubilant Amulet"
+    },
+    {
+      "$id": 829,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 830,
+      "style": 11,
+      "name": "Keepsake Rucksack"
+    },
+    {
+      "$id": 831,
+      "style": 11,
+      "name": "Nostalgic Rucksack"
+    },
+    {
+      "$id": 832,
+      "style": 11,
+      "name": "Jubilant Rucksack"
+    },
+    {
+      "$id": 833,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 834,
+      "style": 11,
+      "name": "Keepsake Anklet"
+    },
+    {
+      "$id": 835,
+      "style": 11,
+      "name": "Nostalgic Anklet"
+    },
+    {
+      "$id": 836,
+      "style": 11,
+      "name": "Jubilant Anklet"
+    },
+    {
+      "$id": 837,
+      "style": 11,
+      "name": "装備していません　（誤）"
+    },
+    {
+      "$id": 838,
+      "style": 11,
+      "name": "REX Hood"
+    },
+    {
+      "$id": 839,
+      "style": 11,
+      "name": "Rudra Hood"
+    },
+    {
+      "$id": 840,
+      "style": 11,
+      "name": "Replica Hood"
+    },
+    {
+      "$id": 841,
+      "style": 11,
+      "name": "Anemone Brim"
+    },
+    {
+      "$id": 842,
+      "style": 11,
+      "name": "Anemone Brim D"
+    },
+    {
+      "$id": 843,
+      "style": 11,
+      "name": "Anemone Brim L"
+    },
+    {
+      "$id": 844,
+      "style": 11,
+      "name": "REX Jacket"
+    },
+    {
+      "$id": 845,
+      "style": 11,
+      "name": "Rudra Jacket"
+    },
+    {
+      "$id": 846,
+      "style": 11,
+      "name": "Replica Jacket"
+    },
+    {
+      "$id": 847,
+      "style": 11,
+      "name": "Princess Dress"
+    },
+    {
+      "$id": 848,
+      "style": 11,
+      "name": "Princess Dress D"
+    },
+    {
+      "$id": 849,
+      "style": 11,
+      "name": "Princess Dress L"
+    },
+    {
+      "$id": 850,
+      "style": 11,
+      "name": "REX Wristband"
+    },
+    {
+      "$id": 851,
+      "style": 11,
+      "name": "Rudra Wristband"
+    },
+    {
+      "$id": 852,
+      "style": 11,
+      "name": "Replica Wristband"
+    },
+    {
+      "$id": 853,
+      "style": 11,
+      "name": "Pointed Sleeves"
+    },
+    {
+      "$id": 854,
+      "style": 11,
+      "name": "Pointed Sleeves D"
+    },
+    {
+      "$id": 855,
+      "style": 11,
+      "name": "Pointed Sleeves L"
+    },
+    {
+      "$id": 856,
+      "style": 11,
+      "name": "REX Bottoms"
+    },
+    {
+      "$id": 857,
+      "style": 11,
+      "name": "Rudra Bottoms"
+    },
+    {
+      "$id": 858,
+      "style": 11,
+      "name": "Replica Bottoms"
+    },
+    {
+      "$id": 859,
+      "style": 11,
+      "name": "Princess Bottoms"
+    },
+    {
+      "$id": 860,
+      "style": 11,
+      "name": "Princess Bottoms D"
+    },
+    {
+      "$id": 861,
+      "style": 11,
+      "name": "Princess Bottoms L"
+    },
+    {
+      "$id": 862,
+      "style": 11,
+      "name": "REX Shoes"
+    },
+    {
+      "$id": 863,
+      "style": 11,
+      "name": "Rudra Shoes"
+    },
+    {
+      "$id": 864,
+      "style": 11,
+      "name": "Replica Shoes"
+    },
+    {
+      "$id": 865,
+      "style": 11,
+      "name": "Knee-High Boots"
+    },
+    {
+      "$id": 866,
+      "style": 11,
+      "name": "Knee-High Boots D"
+    },
+    {
+      "$id": 867,
+      "style": 11,
+      "name": "Knee-High Boots L"
+    },
+    {
+      "$id": 868,
+      "style": 11,
+      "name": "Beanstalk Hair Tie"
+    },
+    {
+      "$id": 869,
+      "style": 11,
+      "name": "Beanstalk Vest"
+    },
+    {
+      "$id": 870,
+      "style": 11,
+      "name": "Beanstalk Amulet"
+    },
+    {
+      "$id": 871,
+      "style": 11,
+      "name": "Beanstalk Knapsack"
+    },
+    {
+      "$id": 872,
+      "style": 11,
+      "name": "Beanstalk Anklet"
+    },
+    {
+      "$id": 873,
+      "style": 11,
+      "name": "Wizewood Hair Tie"
+    },
+    {
+      "$id": 874,
+      "style": 11,
+      "name": "Wizewood Vest"
+    },
+    {
+      "$id": 875,
+      "style": 11,
+      "name": "Wizewood Amulet"
+    },
+    {
+      "$id": 876,
+      "style": 11,
+      "name": "Wizewood Knapsack"
+    },
+    {
+      "$id": 877,
+      "style": 11,
+      "name": "Wizewood Anklet"
+    },
+    {
+      "$id": 878,
+      "style": 11,
+      "name": "Elderwood Hair Tie"
+    },
+    {
+      "$id": 879,
+      "style": 11,
+      "name": "Elderwood Vest"
+    },
+    {
+      "$id": 880,
+      "style": 11,
+      "name": "Elderwood Amulet"
+    },
+    {
+      "$id": 881,
+      "style": 11,
+      "name": "Elderwood Knapsack"
+    },
+    {
+      "$id": 882,
+      "style": 11,
+      "name": "Elderwood Anklet"
+    },
+    {
+      "$id": 883,
+      "style": 11,
+      "name": "Chic Ribbon"
+    },
+    {
+      "$id": 884,
+      "style": 11,
+      "name": "Chic Plate"
+    },
+    {
+      "$id": 885,
+      "style": 11,
+      "name": "Chic Amulet"
+    },
+    {
+      "$id": 886,
+      "style": 11,
+      "name": "Chic Knapsack"
+    },
+    {
+      "$id": 887,
+      "style": 11,
+      "name": "Chic Anklet"
+    },
+    {
+      "$id": 888,
+      "style": 11,
+      "name": "Beguiling Ribbon"
+    },
+    {
+      "$id": 889,
+      "style": 11,
+      "name": "Beguiling Plate"
+    },
+    {
+      "$id": 890,
+      "style": 11,
+      "name": "Beguiling Amulet"
+    },
+    {
+      "$id": 891,
+      "style": 11,
+      "name": "Beguiling Knapsack"
+    },
+    {
+      "$id": 892,
+      "style": 11,
+      "name": "Beguiling Anklet"
+    },
+    {
+      "$id": 893,
+      "style": 11,
+      "name": "Lady's Ribbon"
+    },
+    {
+      "$id": 894,
+      "style": 11,
+      "name": "Lady's Plate"
+    },
+    {
+      "$id": 895,
+      "style": 11,
+      "name": "Lady's Amulet"
+    },
+    {
+      "$id": 896,
+      "style": 11,
+      "name": "Lady's Knapsack"
+    },
+    {
+      "$id": 897,
+      "style": 11,
+      "name": "Lady's Anklet"
+    },
+    {
+      "$id": 898,
+      "style": 11,
+      "name": "Martial Artistry"
+    },
+    {
+      "$id": 899,
+      "style": 11,
+      "name": "Maestro Artistry"
+    },
+    {
+      "$id": 900,
+      "style": 11,
+      "name": "Ancestral Artistry"
+    },
+    {
+      "$id": 901,
+      "style": 11,
+      "name": "Sage Artistry"
+    },
+    {
+      "$id": 902,
+      "style": 11,
+      "name": "Nerthis Crown"
+    },
+    {
+      "$id": 903,
+      "style": 11,
+      "name": "Noise Suppressor"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "What do you want to do?"
+    },
+    {
+      "$id": 2,
+      "style": 73,
+      "name": "Reconstruct"
+    },
+    {
+      "$id": 3,
+      "style": 41,
+      "name": "Listen to hints"
+    },
+    {
+      "$id": 4,
+      "style": 41,
+      "name": "Quit"
+    },
+    {
+      "$id": 5,
+      "style": 41,
+      "name": "Quit"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "What do you want to know?"
+    },
+    {
+      "$id": 9,
+      "style": 87,
+      "name": "You cannot improve it any more."
+    },
+    {
+      "$id": 10,
+      "style": 41,
+      "name": "Back"
+    },
+    {
+      "$id": 11,
+      "style": 41,
+      "name": "Next Page"
+    },
+    {
+      "$id": 12,
+      "style": 10,
+      "name": "Current Status"
+    },
+    {
+      "$id": 13,
+      "style": 10,
+      "name": "Completion"
+    },
+    {
+      "$id": 14,
+      "style": 10,
+      "name": "Population"
+    },
+    {
+      "$id": 15,
+      "style": 1,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 16,
+      "style": 10,
+      "name": "Ether Planters"
+    },
+    {
+      "$id": 17,
+      "style": 10,
+      "name": "Malfunctioning"
+    },
+    {
+      "$id": 18,
+      "style": 10,
+      "name": "Functioning"
+    },
+    {
+      "$id": 19,
+      "style": 73,
+      "name": "Reconstruction"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Reconstruction Categories"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Housing - Lv 0"
+    },
+    {
+      "$id": 22,
+      "style": 89,
+      "name": "Build some houses![XENO:n ]\nWe need houses before people can live[XENO:n ]\nhere. That's a no-brainer."
+    },
+    {
+      "$id": 23,
+      "style": 11,
+      "name": "Housing - Lv 1"
+    },
+    {
+      "$id": 24,
+      "style": 147,
+      "name": "We need to be able to invite more people![XENO:n ]\nWe need as many hands as possible to[XENO:n ]\nrevitalise this place."
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Housing - Lv 2"
+    },
+    {
+      "$id": 26,
+      "style": 147,
+      "name": "We'll be able to build houses on the main street![XENO:n ]\nMore people, better parties!"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Housing - Lv 3"
+    },
+    {
+      "$id": 28,
+      "style": 147,
+      "name": "Build houses at the main entrance![XENO:n ]\nNopon will also want to move in if we do.[XENO:n ]\nI bet they'll make this neighbourhood fun!"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Housing - Lv 4"
+    },
+    {
+      "$id": 30,
+      "style": 147,
+      "name": "Build even more houses![XENO:n ]\nI think we can entice even more people[XENO:n ]\nto live here if we do."
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Housing - Lv 5"
+    },
+    {
+      "$id": 32,
+      "style": 147,
+      "name": "There's no more space![XENO:n ]\nWe've built all the houses we need."
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Commerce - Lv 0"
+    },
+    {
+      "$id": 34,
+      "style": 147,
+      "name": "Build shops![XENO:n ]\nThe residents need to shop and I'm sure that they'll[XENO:n ]\nhave some special items they want to sell too."
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Commerce - Lv 1"
+    },
+    {
+      "$id": 36,
+      "style": 147,
+      "name": "Build more shops at the HQ![XENO:n ]\nThe more shops we have, the[XENO:n ]\nmore people will want to live here."
+    },
+    {
+      "$id": 37,
+      "style": 11,
+      "name": "Commerce - Lv 2"
+    },
+    {
+      "$id": 38,
+      "style": 147,
+      "name": "Set up some street stalls on the main street![XENO:n ]\nAll-day and all-night shopping - Yay!"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Commerce - Lv 3"
+    },
+    {
+      "$id": 40,
+      "style": 147,
+      "name": "Build shops and stalls at the main[XENO:n ]\nentrance! I think the colony will[XENO:n ]\nbe really popular then!"
+    },
+    {
+      "$id": 41,
+      "style": 11,
+      "name": "Commerce - Lv 4"
+    },
+    {
+      "$id": 42,
+      "style": 147,
+      "name": "Build lots more shops![XENO:n ]\nI think they'll be able to sell better[XENO:n ]\nequipment and weapons."
+    },
+    {
+      "$id": 43,
+      "style": 11,
+      "name": "Commerce - Lv 5"
+    },
+    {
+      "$id": 44,
+      "style": 147,
+      "name": "There's no more room for shops now.[XENO:n ]\nI think the residents can buy[XENO:n ]\neverything they need though!"
+    },
+    {
+      "$id": 45,
+      "style": 11,
+      "name": "Nature - Lv 0"
+    },
+    {
+      "$id": 46,
+      "style": 147,
+      "name": "Plant some vegetation![XENO:n ]\nWhen the colony has reached Nature Level 3, the[XENO:n ]\nquality of ether crystals from the mine will improve."
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Nature - Lv 1"
+    },
+    {
+      "$id": 48,
+      "style": 147,
+      "name": "Build a flower garden![XENO:n ]\nWhen the colony has reached Nature Level 3, the[XENO:n ]\nquality of ether crystals from the mine will improve."
+    },
+    {
+      "$id": 49,
+      "style": 11,
+      "name": "Nature - Lv 2"
+    },
+    {
+      "$id": 50,
+      "style": 147,
+      "name": "Plant some flowers on the main street![XENO:n ]\nThe quality of the ether crystals from[XENO:n ]\nthe mine will be even better."
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Nature - Lv 3"
+    },
+    {
+      "$id": 52,
+      "style": 147,
+      "name": "Build a tree-lined street![XENO:n ]\nThe quality of the ether crystals from[XENO:n ]\nthe mine will be even better."
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Nature - Lv 4"
+    },
+    {
+      "$id": 54,
+      "style": 147,
+      "name": "Get ready to start mining![XENO:n ]\nThe ether crystals from the mine should[XENO:n ]\nbe top quality now!"
+    },
+    {
+      "$id": 55,
+      "style": 11,
+      "name": "Nature - Lv 5"
+    },
+    {
+      "$id": 56,
+      "style": 147,
+      "name": "I think this is as good as it's gonna get![XENO:n ]\nThe ether crystals in the mine are excellent[XENO:n ]\nquality now. Go and take a look for yourself!"
+    },
+    {
+      "$id": 57,
+      "style": 11,
+      "name": "Special - Lv 0"
+    },
+    {
+      "$id": 58,
+      "style": 147,
+      "name": "Build an assembly hall![XENO:n ]\nEveryone will be able to use it and it may even help[XENO:n ]\nyou complete your Collectopaedia."
+    },
+    {
+      "$id": 59,
+      "style": 11,
+      "name": "Special - Lv 1"
+    },
+    {
+      "$id": 60,
+      "style": 147,
+      "name": "Build a farm![XENO:n ]\nWe will be able to raise Armus and it may even[XENO:n ]\nhelp you complete your Collectopaedia."
+    },
+    {
+      "$id": 61,
+      "style": 11,
+      "name": "Special - Lv 2"
+    },
+    {
+      "$id": 62,
+      "style": 147,
+      "name": "Build a park![XENO:n ]\nEveryone will be able to have picnics and it may[XENO:n ]\neven help you complete your Collectopaedia."
+    },
+    {
+      "$id": 63,
+      "style": 11,
+      "name": "Special - Lv 3"
+    },
+    {
+      "$id": 64,
+      "style": 147,
+      "name": "Build a watchtower![XENO:n ]\nWe'll have a great view from the top and it may[XENO:n ]\neven help you complete your Collectopaedia."
+    },
+    {
+      "$id": 65,
+      "style": 11,
+      "name": "Special - Lv 4"
+    },
+    {
+      "$id": 66,
+      "style": 147,
+      "name": "Fortify the HQ and build a stronghold.[XENO:n ]\nWe want the residents to stay safe and it may[XENO:n ]\neven help you complete your Collectopaedia."
+    },
+    {
+      "$id": 67,
+      "style": 11,
+      "name": "Special - Lv 5"
+    },
+    {
+      "$id": 68,
+      "style": 147,
+      "name": "I think this really is as good as it gets![XENO:n ]\nI never thought we'd do so well![XENO:n ]\nThank you for your help!"
+    },
+    {
+      "$id": 69,
+      "style": 9,
+      "name": "Housing"
+    },
+    {
+      "$id": 70,
+      "style": 9,
+      "name": "Commerce"
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Nature"
+    },
+    {
+      "$id": 72,
+      "style": 9,
+      "name": "Special"
+    },
+    {
+      "$id": 73,
+      "style": 9,
+      "name": "Required"
+    },
+    {
+      "$id": 74,
+      "style": 2,
+      "name": "Lv"
+    },
+    {
+      "$id": 75,
+      "style": 6,
+      "name": "Current No."
+    },
+    {
+      "$id": 76,
+      "style": 116,
+      "name": "Increase Housing Level?"
+    },
+    {
+      "$id": 77,
+      "style": 116,
+      "name": "Increase Commerce Level?"
+    },
+    {
+      "$id": 78,
+      "style": 116,
+      "name": "Increase Nature Level?"
+    },
+    {
+      "$id": 79,
+      "style": 116,
+      "name": "Increase Special Level?"
+    },
+    {
+      "$id": 80,
+      "style": 116,
+      "name": "Housing Level increased by one."
+    },
+    {
+      "$id": 81,
+      "style": 116,
+      "name": "Commerce Level increased by one."
+    },
+    {
+      "$id": 82,
+      "style": 116,
+      "name": "Nature Level increased by one."
+    },
+    {
+      "$id": 83,
+      "style": 116,
+      "name": "Special Level increased by one."
+    },
+    {
+      "$id": 84,
+      "style": 116,
+      "name": "We've built three houses!"
+    },
+    {
+      "$id": 85,
+      "style": 116,
+      "name": "We've built five houses!"
+    },
+    {
+      "$id": 86,
+      "style": 116,
+      "name": "We've built eight houses and a housing block!"
+    },
+    {
+      "$id": 87,
+      "style": 116,
+      "name": "We've built five houses, a housing block and a[XENO:n ]\nNopon house!"
+    },
+    {
+      "$id": 88,
+      "style": 116,
+      "name": "Seven large houses have been built."
+    },
+    {
+      "$id": 89,
+      "style": 116,
+      "name": "Three shops have been built.[XENO:n ]\nA new shop is now available in Colony 6!"
+    },
+    {
+      "$id": 90,
+      "style": 116,
+      "name": "Three shops have been built.[XENO:n ]\nA new shop is now available in Colony 6!"
+    },
+    {
+      "$id": 91,
+      "style": 116,
+      "name": "Six shops have been built.[XENO:n ]\nA new shop is now available in Colony 6!"
+    },
+    {
+      "$id": 92,
+      "style": 116,
+      "name": "Six shops have been built.[XENO:n ]\nA new shop is now available in Colony 6!"
+    },
+    {
+      "$id": 93,
+      "style": 116,
+      "name": "Seven shops have been built.[XENO:n ]\nNew shops are now available in Colony 6!"
+    },
+    {
+      "$id": 94,
+      "style": 116,
+      "name": "Grass and trees have been planted!"
+    },
+    {
+      "$id": 95,
+      "style": 116,
+      "name": "We built a flower garden!"
+    },
+    {
+      "$id": 96,
+      "style": 116,
+      "name": "Flowers have been planted on the main street.[XENO:n ]\nThe mine's ether crystals have gone up in rank!"
+    },
+    {
+      "$id": 97,
+      "style": 116,
+      "name": "We built a tree-lined street.[XENO:n ]\nThe mine's ether crystals have gone up in rank!"
+    },
+    {
+      "$id": 98,
+      "style": 116,
+      "name": "We're all set to start mining again.[XENO:n ]\nThe mine's ether crystals have gone up in rank!"
+    },
+    {
+      "$id": 99,
+      "style": 116,
+      "name": "An assembly hall has been built.[XENO:n ]\nYou can now get collectables there!"
+    },
+    {
+      "$id": 100,
+      "style": 116,
+      "name": "A farm has been built.[XENO:n ]\nYou can now get collectables there!"
+    },
+    {
+      "$id": 101,
+      "style": 116,
+      "name": "A park has been built.[XENO:n ]\nYou can now get collectables there!"
+    },
+    {
+      "$id": 102,
+      "style": 116,
+      "name": "A watchtower has been built.[XENO:n ]\nYou can now get collectables there!"
+    },
+    {
+      "$id": 103,
+      "style": 116,
+      "name": "The HQ stronghold has been completed![XENO:n ]\nYou can now get collectables there!"
+    },
+    {
+      "$id": 104,
+      "style": 54,
+      "name": "Level Complete Bonus[XENO:n ]\nLevel 1"
+    },
+    {
+      "$id": 105,
+      "style": 54,
+      "name": "Level Complete Bonus[XENO:n ]\nLevel 2"
+    },
+    {
+      "$id": 106,
+      "style": 54,
+      "name": "Level Complete Bonus[XENO:n ]\nLevel 3"
+    },
+    {
+      "$id": 107,
+      "style": 54,
+      "name": "Level Complete Bonus[XENO:n ]\nLevel 4"
+    },
+    {
+      "$id": 108,
+      "style": 54,
+      "name": "Level Complete Bonus[XENO:n ]\nLevel 5"
+    },
+    {
+      "$id": 109,
+      "style": 26,
+      "name": "Street lights have been built."
+    },
+    {
+      "$id": 110,
+      "style": 26,
+      "name": "Street lights have been built."
+    },
+    {
+      "$id": 111,
+      "style": 26,
+      "name": "Street lights have been built."
+    },
+    {
+      "$id": 112,
+      "style": 26,
+      "name": "Street lights have been built."
+    },
+    {
+      "$id": 113,
+      "style": 26,
+      "name": "A large Ether Light has been built."
+    },
+    {
+      "$id": 114,
+      "style": 56,
+      "name": "Category Complete Bonus[XENO:n ]\nHousing"
+    },
+    {
+      "$id": 115,
+      "style": 56,
+      "name": "Category Complete Bonus[XENO:n ]\nCommerce"
+    },
+    {
+      "$id": 116,
+      "style": 56,
+      "name": "Category Complete Bonus[XENO:n ]\nNature"
+    },
+    {
+      "$id": 117,
+      "style": 56,
+      "name": "Category Complete Bonus[XENO:n ]\nSpecial"
+    },
+    {
+      "$id": 118,
+      "style": 26,
+      "name": "Level Complete Bonus"
+    },
+    {
+      "$id": 119,
+      "style": 26,
+      "name": "You received a present from all the residents!"
+    },
+    {
+      "$id": 120,
+      "style": 10,
+      "name": "Reconstruction"
+    },
+    {
+      "$id": 121,
+      "style": 10,
+      "name": "Population"
+    },
+    {
+      "$id": 122,
+      "style": 115,
+      "name": "Item obtained!"
+    },
+    {
+      "$id": 123,
+      "style": 24,
+      "name": "has moved to Colony 6!"
+    },
+    {
+      "$id": 124,
+      "style": 116,
+      "name": "Enemies are attacking one of the colony's[XENO:n ]\nether planters! Maybe they are attracted[XENO:n ]\nto the ether there."
+    },
+    {
+      "$id": 125,
+      "style": 116,
+      "name": "Fend off the attack before one of the[XENO:n ]\ninhabitants gets hurt!"
+    },
+    {
+      "$id": 126,
+      "style": 116,
+      "name": "The attack is over, so everything[XENO:n ]\nshould be back to normal now."
+    },
+    {
+      "$id": 127,
+      "style": 119,
+      "name": "To perform reconstruction work on Colony 6,\nhead to [System:Color name=s1 ]Reconstruction HQ[/System:Color] and speak to Juujuu."
+    }
+  ]
+}

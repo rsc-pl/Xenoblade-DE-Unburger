@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Eliminate the Backup!"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "Daring Assault"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "Roof Battle"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "New Weapon for Fiorung"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "To the Central Tower"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Maintenance Wing Escape"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "Find a Path to the Top"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "Materials for a Bomb"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "The Central Tower Barrier"
+    }
+  ]
+}

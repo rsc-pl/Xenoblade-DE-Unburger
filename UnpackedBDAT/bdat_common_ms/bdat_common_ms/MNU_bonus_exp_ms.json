@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "EXP"
+    },
+    {
+      "$id": 2,
+      "style": 9,
+      "name": "To next level"
+    },
+    {
+      "$id": 3,
+      "style": 7,
+      "name": "Can level up"
+    },
+    {
+      "$id": 4,
+      "style": 3,
+      "name": "Lv"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Target Level"
+    },
+    {
+      "$id": 6,
+      "style": 8,
+      "name": "Remaining EXP"
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "ボーナスＥＸＰ：ON"
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "ボーナスＥＸＰ：ＯＦＦ"
+    },
+    {
+      "$id": 9,
+      "style": 79,
+      "name": "Experience points earned\noutside battle will be set aside,\nallowing manual level adjustment."
+    },
+    {
+      "$id": 10,
+      "style": 79,
+      "name": "All experience points will be put\ntowards gaining levels. Manual level\nadjustment will not be possible."
+    },
+    {
+      "$id": 11,
+      "style": 7,
+      "name": "ＯＮにする"
+    },
+    {
+      "$id": 12,
+      "style": 7,
+      "name": "ＯＦＦにする"
+    },
+    {
+      "$id": 13,
+      "style": 14,
+      "name": "On"
+    },
+    {
+      "$id": 14,
+      "style": 14,
+      "name": "Off"
+    },
+    {
+      "$id": 15,
+      "style": 5,
+      "name": "Toggle"
+    },
+    {
+      "$id": 16,
+      "style": 117,
+      "name": "Do you want to use all reserve EXP?"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Use all"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Cancel"
+    },
+    {
+      "$id": 19,
+      "style": 136,
+      "name": "Expert mode is currently disabled."
+    }
+  ]
+}

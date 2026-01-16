@@ -1,0 +1,544 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Zazadan was injured by some monsters and he[XENO:n ]\nhasn't been able to move properly since. He also[XENO:n ]\nhasn't had any food. Bring him some food."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Twin Flamii Eggs[/System:Color] from Flamii in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Lemon Stones[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "Return to Zazadan."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "You helped Zazadan stop his stomach rumbling.[XENO:n ]\nBut he is still very badly injured..."
+    },
+    {
+      "$id": 6,
+      "style": 148,
+      "name": "Zazadan is too scared of monsters now to go outside.[XENO:n ]\nClear the monsters so that Zazadan can venture[XENO:n ]\nout."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Defeat 8 [System:Color name=item ]Ogre Bunnias[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Return to Zazadan."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "You have cleared the monsters but something[XENO:n ]\nstill seems to be bothering Zazadan."
+    },
+    {
+      "$id": 10,
+      "style": 148,
+      "name": "Zazadan has told you that there is a flying monster[XENO:n ]\nthat also wants to eat him. Kill this monster to alleviate[XENO:n ]\nZazadan's fears."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Sunlight Schvaik[/System:Color] in the area of Barren[XENO:n ]\nMoor in Satorl Marsh. (Only at daytime.)"
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Return to Zazadan."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Now the monsters really are all cleared, but[XENO:n ]\nZazadan still doesn't seem well enough."
+    },
+    {
+      "$id": 14,
+      "style": 148,
+      "name": "Zazadan is still not well. Get some of the Nopon[XENO:n ]\nPotion to see if that will heal his injuries."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "Collect some [System:Color name=item ]Nopon Potion[/System:Color] in the area of[XENO:n ]\nLacus Swamp in Satorl Marsh."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Return to Zazadan."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "The Nopon Potion has done the trick![XENO:n ]\nZazadan is fully recovered."
+    },
+    {
+      "$id": 18,
+      "style": 148,
+      "name": "Apparently something amazing will appear if you dip[XENO:n ]\na Red Pollen Orb into the Shining Pond."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "Investigate Dark Swamp's Shining Pond in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Return to Zazadan."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Highmore Caviar came out of the Red Pollen[XENO:n ]\nOrb. Zazadan is really happy."
+    },
+    {
+      "$id": 22,
+      "style": 148,
+      "name": "A Nopon called Daboll has asked for some[XENO:n ]\nHighmore Caviar from Zazadan. Take it to him."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "Speak to a male Nopon called Daboll."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "You handed the Highmore Caviar over to[XENO:n ]\nDaboll. What is he going to do with it though?"
+    },
+    {
+      "$id": 25,
+      "style": 148,
+      "name": "Zazadan seems to know something. Ask him and[XENO:n ]\nobtain some information about the black market."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Interrogate Zazadan who is in the Nopon Refuge[XENO:n ]\nof Satorl Marsh."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Continue your interrogation of Zazadan who is[XENO:n ]\nin the Nopon Refuge of Satorl Marsh."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Force a confession out of Zazadan who is in the[XENO:n ]\nNopon Refuge of Satorl Marsh."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "You might find Daboll with the note Zazadan[XENO:n ]\nleft behind. Ask Garda to read it for you."
+    },
+    {
+      "$id": 30,
+      "style": 148,
+      "name": "The scholar Kacha was carried off by Ignas.[XENO:n ]\nIt seems there is something they want to know.[XENO:n ]\nGo to Exile Fortress and save Kacha."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Save Kacha who is in Exile Fortress in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Return to Godo."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Kacha has been rescued. However, she has told[XENO:n ]\na secret to the Ignas."
+    },
+    {
+      "$id": 34,
+      "style": 148,
+      "name": "Ignas are looking for the Giants' Key so they can get[XENO:n ]\ntheir hands on the treasure of the Giants. You must[XENO:n ]\nfind a way of stopping them."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Deluded Ignas[/System:Color] on the high plateau of[XENO:n ]\nDark Swamp in Satorl Marsh."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "Dig up the [System:Color name=item ]Giants' Key[/System:Color] on the plateau above[XENO:n ]\nDark Swamp in Satorl Marsh."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "Investigate the altar on the roof of Exile Fortress[XENO:n ]\nin Satorl Marsh."
+    },
+    {
+      "$id": 38,
+      "style": 138,
+      "name": "Return to Kacha."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "You stopped the treasure falling into the hands[XENO:n ]\nof the Ignas. Kacha will explain the altar to you."
+    },
+    {
+      "$id": 40,
+      "style": 148,
+      "name": "You have to make an offering to obtain the Giants'[XENO:n ]\ntreasure. Collect the Giants' Mirror and place it on[XENO:n ]\nthe altar."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Giants' Mirror[/System:Color] in the area of[XENO:n ]\nDaksha Shrine on the Giant God's Leg."
+    },
+    {
+      "$id": 42,
+      "style": 138,
+      "name": "Offer the Giants' Mirror on the altar on the roof[XENO:n ]\nof Exile Fortress."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "Return to Kacha."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "You got the Daring of the Giants from the altar on[XENO:n ]\nExile Fortress. But now you need something else."
+    },
+    {
+      "$id": 45,
+      "style": 148,
+      "name": "Godo is feeling ill and needs your help preparing[XENO:n ]\na camp. Collect some materials to make a bed."
+    },
+    {
+      "$id": 46,
+      "style": 138,
+      "name": "Collect 4 [System:Color name=item ]Glowing Upa Seeds[/System:Color] from Upas in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Fancy Volff Hides[/System:Color] from Volff in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "Collect 4 [System:Color name=item ]Feather Leaves[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 49,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Wool Rocks[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 50,
+      "style": 138,
+      "name": "Return to Godo."
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "You've collected the items for a comfortable bed.[XENO:n ]\nNow Godo should be able to get some sleep."
+    },
+    {
+      "$id": 52,
+      "style": 148,
+      "name": "The Nopon Merchant was almost eaten by a Brog.[XENO:n ]\nMake sure it never happens again by killing some[XENO:n ]\nof them."
+    },
+    {
+      "$id": 53,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Detox Brogs[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 54,
+      "style": 138,
+      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nHopefully it won't happen again."
+    },
+    {
+      "$id": 55,
+      "style": 148,
+      "name": "There are some monsters disturbing the camp.[XENO:n ]\nDefeat them and solve the problem."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Coppice Quadwings[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 57,
+      "style": 138,
+      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nHopefully the camp will be safe now."
+    },
+    {
+      "$id": 58,
+      "style": 148,
+      "name": "Nopon generally venture out during the day. However,[XENO:n ]\nthey keep meeting terrible monsters on Barren Moor.[XENO:n ]\nDefeat the monsters."
+    },
+    {
+      "$id": 59,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Mist Rhoguls[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nNow the daytime will be safe for Nopon."
+    },
+    {
+      "$id": 61,
+      "style": 148,
+      "name": "There are terrible monsters attacking the camp. The[XENO:n ]\nresponsibility for the camp's safety falls on the oldest,[XENO:n ]\nGodo. Help him by defeating one of the monsters."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "Defeat 1 [System:Color name=item ]Officer Volff[/System:Color] in Satorl Marsh."
+    },
+    {
+      "$id": 63,
+      "style": 138,
+      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nNow the camp should be a little safer."
+    },
+    {
+      "$id": 64,
+      "style": 148,
+      "name": "The High Entia encountered a terrible beast[XENO:n ]\nwhen out foraging for food at night. Defeat it so that[XENO:n ]\nhe can continue looking for food."
+    },
+    {
+      "$id": 65,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Veteran Yozel[/System:Color] at Silent Obelisk in Satorl[XENO:n ]\nMarsh."
+    },
+    {
+      "$id": 66,
+      "style": 138,
+      "name": "Report to the male High Entia near the Sororal[XENO:n ]\nStatues."
+    },
+    {
+      "$id": 67,
+      "style": 138,
+      "name": "You helped the High Entia refugee. Now he[XENO:n ]\nshould be able to continue his foraging."
+    },
+    {
+      "$id": 68,
+      "style": 148,
+      "name": "Rosa's close friend, Gangu, turned into a Telethia[XENO:n ]\nright before her eyes. However, he left without[XENO:n ]\nattacking her. She wants to find out where he is now."
+    },
+    {
+      "$id": 69,
+      "style": 138,
+      "name": "Talk to Seagal in Satorl Marsh."
+    },
+    {
+      "$id": 70,
+      "style": 138,
+      "name": "Talk to Galba in Frontier Village."
+    },
+    {
+      "$id": 71,
+      "style": 138,
+      "name": "Talk to Atael in Frontier Village."
+    },
+    {
+      "$id": 72,
+      "style": 138,
+      "name": "Return to Rosa."
+    },
+    {
+      "$id": 73,
+      "style": 138,
+      "name": "After speaking to former Achamoth residents, you[XENO:n ]\nhave determined that Gangu is in Revelation Hall."
+    },
+    {
+      "$id": 74,
+      "style": 148,
+      "name": "Even after becoming a Telethia, Gangu continues to[XENO:n ]\nguard the Imperial Palace. He no longer remembers[XENO:n ]\nwho he was. It is best to put him out of his misery."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Gangu[/System:Color] in Revelation Hall at[XENO:n ]\nAchamoth."
+    },
+    {
+      "$id": 76,
+      "style": 138,
+      "name": "Return to Rosa."
+    },
+    {
+      "$id": 77,
+      "style": 138,
+      "name": "There was nothing left of Gangu's old self.[XENO:n ]\nAt least now he will be able to rest in peace."
+    },
+    {
+      "$id": 78,
+      "style": 148,
+      "name": "There are other guards like Gangu protecting the[XENO:n ]\nimperial capital. Send them to a happier place too."
+    },
+    {
+      "$id": 79,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Lecrough[/System:Color] in the area of the[XENO:n ]\nGreat Hall in Achamoth."
+    },
+    {
+      "$id": 80,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Guarda[/System:Color] in the area of the[XENO:n ]\nImperial Villa in Achamoth."
+    },
+    {
+      "$id": 81,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Kaito[/System:Color] in the area of the[XENO:n ]\nSky Terrace in Achamoth."
+    },
+    {
+      "$id": 82,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Donna[/System:Color] in the area of the[XENO:n ]\nAudience Chamber in Achamoth."
+    },
+    {
+      "$id": 83,
+      "style": 138,
+      "name": "Return to Rosa."
+    },
+    {
+      "$id": 84,
+      "style": 138,
+      "name": "You have put the guardians of the Imperial City[XENO:n ]\nto rest."
+    },
+    {
+      "$id": 85,
+      "style": 148,
+      "name": "The imperial family used to hold ceremonies in Satorl.[XENO:n ]\nPerhaps completing this ceremony will grant you[XENO:n ]\nsomething that may be of use in future battles."
+    },
+    {
+      "$id": 86,
+      "style": 138,
+      "name": "Collect the Radiants from all around the world[XENO:n ]\nin order to perform the ceremony."
+    },
+    {
+      "$id": 87,
+      "style": 138,
+      "name": "Offer the Radiants to the engravings at the[XENO:n ]\nSororal Statues in Satorl Marsh."
+    },
+    {
+      "$id": 88,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Radiant Pterix[/System:Color] at the Sororal Statues in[XENO:n ]\nSatorl Marsh."
+    },
+    {
+      "$id": 89,
+      "style": 138,
+      "name": "Offering the Radiants made a Guardian appear.[XENO:n ]\nDefeating it earned you the High Entia Emblem."
+    },
+    {
+      "$id": 90,
+      "style": 148,
+      "name": "There are Radiants located in various places relating[XENO:n ]\nto the High Entia. Travel the world and look for the[XENO:n ]\nRadiants."
+    },
+    {
+      "$id": 91,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Mist Radiant[/System:Color] from the area of Basin[XENO:n ]\nCave in Satorl Marsh."
+    },
+    {
+      "$id": 92,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Ocean Radiant[/System:Color] from the area of[XENO:n ]\nCentral Seal Island at Eryth Sea."
+    },
+    {
+      "$id": 93,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Imperial Radiant[/System:Color] from the area of the[XENO:n ]\nCeremony Hall in the High Entia Tomb."
+    },
+    {
+      "$id": 94,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Snow Radiant[/System:Color] from the area of[XENO:n ]\nthe Sealed Tower at Valak Mountain."
+    },
+    {
+      "$id": 95,
+      "style": 138,
+      "name": "You have collected all of the Radiants. Return to[XENO:n ]\nSatorl to perform the ceremony."
+    },
+    {
+      "$id": 96,
+      "style": 148,
+      "name": "According to the Nopon Merchant, only those who[XENO:n ]\ncomplete an ancient High Entia ceremony will be[XENO:n ]\ngranted passage to the upper regions of the Giant God."
+    },
+    {
+      "$id": 97,
+      "style": 138,
+      "name": "Complete preparations for the ceremony."
+    },
+    {
+      "$id": 98,
+      "style": 138,
+      "name": "Present the offerings to the Adulthood Emblem[XENO:n ]\nto complete the Coming-of-Age Ceremony."
+    },
+    {
+      "$id": 99,
+      "style": 138,
+      "name": "Defeat the Satorl Guardian."
+    },
+    {
+      "$id": 100,
+      "style": 138,
+      "name": "The Coming-of-Age Ceremony is complete and[XENO:n ]\nthe path to the top of the Giant God is open."
+    },
+    {
+      "$id": 101,
+      "style": 148,
+      "name": "It is necessary to provide proof for the ceremony.[XENO:n ]\nThere are 4 offerings in Satorl Marsh. Collect them[XENO:n ]\nand prepare for the Coming-of-Age Ceremony."
+    },
+    {
+      "$id": 102,
+      "style": 138,
+      "name": "Offering in Igna Territory.[XENO:n ]\nCollect the [System:Color name=item ]Blue Radiant[/System:Color]."
+    },
+    {
+      "$id": 103,
+      "style": 138,
+      "name": "Offering at the Altar of Fate.[XENO:n ]\nCollect the [System:Color name=item ]Rainbow Radiant[/System:Color]."
+    },
+    {
+      "$id": 104,
+      "style": 138,
+      "name": "Offering at Dark Swamp.[XENO:n ]\nCollect the [System:Color name=item ]Dull Radiant[/System:Color]."
+    },
+    {
+      "$id": 105,
+      "style": 138,
+      "name": "Offering at Basin Cave.[XENO:n ]\nCollect the [System:Color name=item ]White Radiant[/System:Color]."
+    },
+    {
+      "$id": 106,
+      "style": 138,
+      "name": "You have collected the 4 offerings. It's time to go[XENO:n ]\nto the Sororal Statues to perform the ceremony."
+    }
+  ]
+}

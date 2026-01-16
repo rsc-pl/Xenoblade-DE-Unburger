@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Medic. Why are you here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Sir. Isn't Gado with you?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "We have much to discuss.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "You'd better come with me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Sir.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

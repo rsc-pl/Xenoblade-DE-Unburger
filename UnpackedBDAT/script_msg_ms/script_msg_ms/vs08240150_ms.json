@@ -1,0 +1,404 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Shulk. Forgive us for detaining you earlier.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You and I are not of the same people.[XENO:n ]\nBut this I must say.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Thank you for helping Melia Antiqua, my daughter.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "It was no small feat.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Not at all. I too must apologise for meddling in[XENO:n ]\nyour customs. We should not have interfered.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "She is a lucky girl.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "To have met such unselfish people.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "In the times to come, a ruler will need[XENO:n ]\nsupport from individuals like you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I hear you seek the Mechon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Yes. The Mechon devastated our homes,[XENO:n ]\nand we lost many loved ones.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Revenge is your goal?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]It is.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "You are honest.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I do not want to hide our true intentions.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]Our very existence is at stake.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]Unwavering too.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Shulk, you are the master of the Monado.[XENO:n ]\nBut there is something that must be said.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "What is it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "Long before our forefathers built this empire...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Two titans - the Giant God and the Machine God -[XENO:n ]\nfought a vicious battle.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "Is this known among Homs?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Yes, it is told to us as children.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "The two fought and died, killing many[XENO:n ]\ncreatures in the process.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Their remains became our worlds, bringing forth[XENO:n ]\nnew life on Giant God. That's how we were made.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "The Giant God shall awaken once again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "Alvis told me the same thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "This is not just the vision of a seer.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "All of Makna knows.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "The Telethia are as old as the Giant God itself.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "And now they disturb the ether.[XENO:n ]\nThat disturbance can only lead to one thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "But why is this happening now?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "This is an inscription left by our forefathers.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "It is written:[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "Descendants of Antiqua, when the ether cries,[XENO:n ]\nthe Giant God awakes.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "Mistake not the signs,[XENO:n ]\nand heed the sword's return.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "Trap its power and assure eternal prosperity.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "All life born on Giant God affects the ether.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "The Mechon's assault is just the beginning.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "And these events were set in motion[XENO:n ]\nwhen you used the sword against them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "We used it because we-[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "Because you needed to.[XENO:n ]\nWithout it, you could not survive.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "I cannot dispute this fact.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "I believe the inscription speaks of[XENO:n ]\nthese very events with the Mechon.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "But if their assault continues,[XENO:n ]\nif more lives are lost...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "Soon the Giant God will awake, and not only[XENO:n ]\nthe High Entia, but all life will perish![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "Do you see, Shulk?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "You're talking about total extinction.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "Correct.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "Which is why the Mechon's[XENO:n ]\ninvasion must be stopped.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]Then you'll help us?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Your Majesty, we need imperial sanction[XENO:n ]\nto enter Prison Island.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "Will you permit us entry?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "What will you do there?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I saw it in a vision.[XENO:n ]\nWe will fight a faced Mechon.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]They must pay for what they did.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "Then you will have seen him too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]Him?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "On Prison Island, our forefathers sealed something away,[XENO:n ]\njust as they did to the Monado.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "All records have been lost, and there[XENO:n ]\nis now no way to know what it was.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "Is it connected to the awakening of the Giant God?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "I do not know. But our forefathers must have had[XENO:n ]\ngood reason. We must trust their decision.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 125,
+      "name": "Shulk. Allow me some time to deliberate.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 66,
+      "style": 125,
+      "name": "Above all else, I will consider the safety of Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 67,
+      "style": 125,
+      "name": "You are our Giant God brethren.[XENO:n ]\nWe will not ignore your plight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I understand. This is not our homeland.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 69,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]If you decide not to let us go,[XENO:n ]\nI will accept your decision.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I am sorry.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 125,
+      "name": "It's OK.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]One more thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 125,
+      "name": "Yes?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 125,
+      "name": "I ask this not as Emperor Sorean Antiqua,[XENO:n ]\nbut as a father.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 75,
+      "style": 125,
+      "name": "I do not demand that you[XENO:n ]\nact as Melia's protector.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 76,
+      "style": 125,
+      "name": "But I would be honoured[XENO:n ]\nif you would be her friend.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 77,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]This is my humble request.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]It would be my honour.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

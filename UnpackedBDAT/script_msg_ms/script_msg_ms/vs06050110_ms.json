@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "I've never seen anywhere like this![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]Y'see? This is why I've been saying you[XENO:n ]\nneed to get out of the lab every now and then.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We're aiming to get inside the Giant God.[XENO:n ]\nWe can get to the upper regions from there.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Wow... I've never thought about going inside the Giant God.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]The closer we get to the top, the more[XENO:n ]\nmonster trouble we're gonna run into.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "The only things that venture this far in are the[XENO:n ]\nNopon Merchants and curious types like me.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]You really know all the fun spots, eh, Dickson?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]You wanna get to the top?[XENO:n ]\nThen this is the only way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]We'll push on. No matter what.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]That's the spirit, Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

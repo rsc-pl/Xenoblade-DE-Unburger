@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Looky there! Is treasure chest![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Oh my... It almost equal in beautiful[XENO:n ]\nto delicate features on face of Tsukuku.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Hold on. Wanawana go and open.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Can't open yet?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Please hold on another moment.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]But where is monster that supposed[XENO:n ]\nto be guarding secret treasure...? Meh...[XENO:n ]\nSuch awful anticlimax.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Memememeh?![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Shiishii, what is wrong with face?[XENO:n ]\nYou look as if seen monster...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Shiishii did see monster!!![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Shiishii not even kidding![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Everyone, now is time to stand and fight![XENO:n ]\nNothing can squat between Ponspectors[XENO:n ]\nand well-deserved treasure![XENO:wait wait=Key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Melia. You're welcome to come with us.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Is it true? Were you alone in the forest?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]That thing must be stopped by my hand.[XENO:n ]\nThis is my pledge to those that have died.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Is it wounded? I see... The Telethia is hurt[XENO:n ]\nand lies in rest. Wounded by a girl.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Wounded by a girl... You don't mean[XENO:n ]\nyou're going to fight the Telethia?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]?![XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]How do you know of the Telethia?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]When I went to collect the ether crystals,[XENO:n ]\nsome Telethia attacked me.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "I managed to destroy them and get away.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]You defeated Telethia?! Who are you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "The Monado... So that sword can...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]To tell the truth, they were the Telethia's spawn.[XENO:n ]\nSomeone told me the primary Telethia is healing[XENO:n ]\nsomewhere in the forest.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "It was you, wasn't it?[XENO:n ]\nYou hurt the Telethia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "It...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "Melia?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "The Telethia escaped from our homeland,[XENO:n ]\nand I am tasked with killing it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]It cannot remain free. For the sake of my people,[XENO:n ]\nand the Nopon, it must be stopped.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Melia, we can help you defeat it, if you like.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Out of pity?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]No.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Why, then?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]It's just... I...I want...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Speak, Shulk. Or I shall be forced to summon[XENO:n ]\nthe Nopon chief to interpret for me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]I would like to help.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "What could you possibly gain[XENO:n ]\nfrom aiding me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "I saw it. At the top of a black tower, you and I were[XENO:n ]\nfighting together. Fighting that faced Mechon.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "I also saw you fighting a huge Telethia.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]It threw me the first time 'n' all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Forgive me, Shulk, but what are you talking about?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Shulk can see visions of the future.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]See the future?! And you expect[XENO:n ]\nme to believe this rubbish?[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Believe what you want, lady.[XENO:n ]\nSame as I tell all the non-believers.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]That'll be me then.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]Oh yeah.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]In any case, the only reason we got[XENO:n ]\nthis far was 'cos of Shulk's visions.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "If Shulk says he saw you in a vision, then you[XENO:n ]\nmust be important to whatever happens next.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "And if you're tough enough to fight a faced Mechon,[XENO:n ]\n[XENO:act act=EVT_EXT19 ]you're all right in my book.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You've got my vote. A lady should not go[XENO:n ]\nunaccompanied onto the battlefield.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Excuse me! I am quite capable of dispatching[XENO:n ]\nthe beast alone! I require no assistance of any kind![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "My dear. I apologise, but I could[XENO:n ]\nnot help overhearing.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Their offer sounds quite reasonable.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "The danger extends much further than our[XENO:n ]\nsmall dwelling. Makna itself is at risk.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "And we shall provide you with[XENO:n ]\nthe finest warrior of our clan.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Chief Donga, I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]No need for thanks. He is the equal,[XENO:n ]\nif not better, of the Hom Hom.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]You do know we're listening?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The chosen Nopon hero will await you below.[XENO:n ]\nI shall go ahead and prepare him. Please excuse me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]A Nopon hero?[XENO:n ]\nNow this I have to see![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Don't be like that. Let's meet him first.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

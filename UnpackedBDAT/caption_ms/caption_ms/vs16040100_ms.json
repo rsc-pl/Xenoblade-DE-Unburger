@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "style": 124,
+      "name": "Let it begin."
+    },
+    {
+      "$id": 3,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "style": 124,
+      "name": "The ceremony of destruction and recreation!"
+    },
+    {
+      "$id": 5,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "style": 124,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 7,
+      "style": 124,
+      "name": ""
+    }
+  ]
+}

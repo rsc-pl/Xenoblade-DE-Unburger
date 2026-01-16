@@ -1,0 +1,179 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]Who are these guys?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]These are Inquisitors?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "What is this?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]More of them![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Wait. This is His Highness Kallian.[XENO:n ]\nBrother to Her Highness Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Melia's brother?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "Do not concern yourself, Your Highness.[XENO:n ]\nThe matter appears to have been resolved.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Seer Alvis.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I foresaw the danger.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "I rushed here but seemed[XENO:n ]\nto have missed the fun.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]They do not look like mere thieves.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "I am presuming they are Inquisitors of the Bionite Order.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "A group of assassins long devoted[XENO:n ]\nto the imperial family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Ridiculous. The Bionite Order are a mere...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Myth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The order existed before records began.[XENO:n ]\nI, like many others, believed they had long since died out.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "Yet here they are before us.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Is Father aware of this?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "I suspect he knows very little.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]He may not even be aware of their existence.[XENO:n ]\nThey live amongst the shadows.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Never revealing their true faces.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]But that does not explain why[XENO:n ]\nthey would attack these people.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Wait, could that have been...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "No! There's no way![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]Kallian! Melia is in danger![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "She'll be killed at an altar[XENO:n ]\nif we don't find her soon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Killed?! How can you be so sure?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "Shulk and I share the same gift.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Another seer? Which would mean that...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "You can see the future?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]That's why we have to find her![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "Now![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

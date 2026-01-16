@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Melia, is it? How did you get here, then?[XENO:n ]\nWhat, is there no one with you?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I must apologise, but my situation does not concern you.[XENO:n ]\nAnd I shall not be divulging anything to common passers-by.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]Duly noted, your ladyship.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "But if I were to be so bold, I'm guessing that you didn't come[XENO:n ]\nhere alone and you weren't just taking an afternoon nap.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]And what, may I ask, are you doing here? It is rare[XENO:n ]\nto see Homs venture this deep into Makna Forest.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We're travelling to the head of the Giant God.[XENO:n ]\nWe've got a long journey ahead of us.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]The head of the Giant God?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We were just figuring out how to get there[XENO:n ]\nwhen we found you.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]I see. Then permit me to return the favour[XENO:n ]\nby aiding you in your quest.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Really?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]There is only one path to the head of the Giant God.[XENO:n ]\nIt is the path that leads to Eryth Sea.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]So this Eryth Sea is at the head of the Giant God?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]If you would be kind enough to escort me[XENO:n ]\nout of the forest, I will show you the way.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]You'd do that?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Thank you, Melia! I'm Shulk.[XENO:n ]\nPleased to meet you.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Shulk, ah yes. Likewise.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]She's a bit high and mighty, but she's a[XENO:n ]\nHoms too, right? Why is she here alone?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]Ain't got a clue. Ask her yourself.[XENO:n ]\nI'm not good with her posh accent.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

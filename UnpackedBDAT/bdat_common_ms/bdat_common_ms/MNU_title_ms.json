@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Press Any Button"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Options"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Continue"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "New Game"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Event Theatre"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "Extra Story"
+    },
+    {
+      "$id": 7,
+      "style": 3,
+      "name": "Ver."
+    },
+    {
+      "$id": 8,
+      "style": 23,
+      "name": "Unburger Patch 0.1.1"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Advanced New Game"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Load Game"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Back to Main Game"
+    }
+  ]
+}

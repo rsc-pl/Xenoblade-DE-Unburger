@@ -1,0 +1,329 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It's probably a good idea if I go and tell Kallian myself.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I am sure he already understands.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Besides, it's likely that the ministers are[XENO:n ]\nharassing him at this present moment.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "We should spare him any further inconvenience.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]Then this is goodbye.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes. Come back as soon as you can.[XENO:n ]\nWe are in great need of your help.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Got it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "Ahem...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Why are you still here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Listen. I'll keep an eye on Shulk for you.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Whatever can you mean?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It's a risky strategy, letting Shulk go off[XENO:n ]\nand just hoping he'll come back to you.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "Shulk and I are merely...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Yeah, yeah. But remember! The longer he's away,[XENO:n ]\nthe more chance his feelings for you will fade.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "But-[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Once we find this Fiorung, I will personally[XENO:n ]\nwhisk him back here in a heartbeat.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Don't give up![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "I appreciate it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Great! Don't worry, Melia - I'm on your side![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Brother?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "Just on your way out, I see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "It's not what-[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I'm sorry, Your Highness.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]About your offer...[XENO:n ]\nWe must...humbly decline.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I see. Very well. Let us hope my sister[XENO:n ]\ndoes not shed too many tears.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]I stay because I must, Brother![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "There's two Melias?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Reyn wrong! This Melly smell different.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "So the Melia at the speech was a double.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes. We need Melia to learn more[XENO:n ]\nof the lands of Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But she is still bound to handle public matters.[XENO:n ]\nHence, another Melia.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "Kallian...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "Your Highness. Crown Princess. As your humble[XENO:n ]\nsubject, I formally request the following.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "Speak.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "I request that you accompany Shulk in his quest[XENO:n ]\nto find the Mechon that attacked Achamoth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]Are you sure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "Shulk. I am aware of everything.[XENO:n ]\nGo forth and follow your heart.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]There will come a day when we need you,[XENO:n ]\nbut it is not today.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Your Highness, that means a lot to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]That is one cool prince.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]If only someone had his sensitivity...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Sensitivity? I'm sensitive...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]The jury's out on that one.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "That's a relief.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We have recently received a report that the[XENO:n ]\nsilver-faced Mechon fled to Galahad Fortress,[XENO:n ]\nthe Mechon stronghold at Sword Valley.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "It will be a treacherous path.[XENO:n ]\nMy sister is in your hands.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Thank you, Kallian.[XENO:n ]\nI will keep her safe.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Regent, I accept your request.[XENO:n ]\nI will return victorious with Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "I am most pleased.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "Leaving without me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Do you want to come?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]To reach Galahad Fortress you will need to travel[XENO:n ]\nthrough Valak Mountain, on the right arm of the Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]The snow-covered mountains are fraught with danger.[XENO:n ]\nThose unfamiliar to them risk never coming back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "Of course, you would be familiar with that region.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Then there's no point in wasting time.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Leave the allied force to me.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I am not known for my diplomacy,[XENO:n ]\nbut call it pride. I shall succeed.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We'll join you as soon as we can.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I look forward to the day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]Heroes of Giant God! Make us proud![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]You see. Now we're getting some respect.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]We're back to this again, are we?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "See you soon, Kallian.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

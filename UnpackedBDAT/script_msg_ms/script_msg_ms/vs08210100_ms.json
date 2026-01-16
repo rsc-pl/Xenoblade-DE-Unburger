@@ -1,0 +1,179 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "You have done well, my descendant.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Descendant? Are you the[XENO:n ]\nprogenitor of Antiqua?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Think of me as a recreation of said ancestor,[XENO:n ]\npossessing his thoughts and speech.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "But he passed away thousands of years ago.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Do not mistake me for a living being.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "I am a replica of your ancestor.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "I am merely a projection of what he[XENO:n ]\nwould be, if you were to meet him now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "I do not understand.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "But I do not suspect any[XENO:n ]\nfalsehood in your words.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "It is beyond doubt.[XENO:n ]\nIf I could feel, I would feel joy.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "I am not real, but I do not lie.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Joy? What do you mean?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "The results of the gene analysis show[XENO:n ]\nHoms gene integration of 80%.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Estimates suggest evolution within eight generations.[XENO:n ]\nOur wishes are almost fulfilled.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "Wishes?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "Our purpose, as decreed by the Giant God,[XENO:n ]\nis linked to our genetic sequence.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "We have spent millennia analysing sequences[XENO:n ]\nto free ourselves from the curse.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "Only a certain gene set will unlock[XENO:n ]\nthe mechanism and set us free.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "I still do not understand.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "It is of no consequence.[XENO:n ]\nI grant you this seal.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "Is this...?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "It is you who will rule the High Entia.[XENO:n ]\nAnd likely be their last.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "Revered Ancestor... I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Go forth and rule, my descendant![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "So, the spirits look favourably upon you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT13 ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "Explain yourself.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "Only imperials are permitted[XENO:n ]\nto enter this place.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "I am the subject of Her Highness the First Consort.[XENO:n ]\nI need no permission![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "Mother's subject?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "No impure child of the Second Consort has the[XENO:n ]\nright to refer to the First Consort as 'Mother'.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]A filthy Homs half-breed[XENO:n ]\nhas no right to the throne![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

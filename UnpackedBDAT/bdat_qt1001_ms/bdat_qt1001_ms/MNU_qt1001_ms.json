@@ -1,0 +1,429 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "One of the wind turbines was attacked by Hodes.[XENO:n ]\nHelp resolve the Ether Plant problem."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Teach the head of the Hodes a lesson."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Use the Turbine Access Panel in the[XENO:n ]\nEther Plant at Eryth Sea to fix the plant."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "Return to Jack."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "The Ether Plant is working again. Now Jack[XENO:n ]\nshould be able to fix the lighthouse."
+    },
+    {
+      "$id": 6,
+      "style": 148,
+      "name": "Find the Hode Refuge and teach the Hode leader[XENO:n ]\na lesson."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Funeral Gozra[/System:Color] at the Hode Refuge in[XENO:n ]\nEryth Sea."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "You have defeated the Hode leader and ensured[XENO:n ]\nthe safety of the wind turbine."
+    },
+    {
+      "$id": 9,
+      "style": 148,
+      "name": "Fix the wind turbine that the Hodes broke."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "Collect 3 pieces of [System:Color name=item ]Luxury Hode Wood[/System:Color] from[XENO:n ]\nHodes at Eryth Sea."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Return to Jack."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Use the Turbine Access Panel in the[XENO:n ]\nEther Plant at Eryth Sea to fix the plant."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Return to Jack."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "The wind turbine has been fixed with the[XENO:n ]\nmaterials you collected and is working fine now."
+    },
+    {
+      "$id": 15,
+      "style": 148,
+      "name": "Cronies of the defeated Hode leader want revenge."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Confusion Ekidnos[/System:Color] at Eryth Sea."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Return to Jack."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "You defeated the cronies of the Hode leader so[XENO:n ]\nthe Ether Plant should be safe...finally!"
+    },
+    {
+      "$id": 19,
+      "style": 148,
+      "name": "There are more problems with the lighthouse. The[XENO:n ]\nlight won't come on. When darkness falls, monsters[XENO:n ]\nwill attack. Defend the lighthouse."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Decay Ekidnos[/System:Color] near Syrath Lighthouse[XENO:n ]\nat Eryth Sea. (Only at night.)"
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Return to Sherren."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "The lighthouse is safe and has been fixed. Now[XENO:n ]\nit lights up the whole area."
+    },
+    {
+      "$id": 23,
+      "style": 148,
+      "name": "Milia tried to stop Talia but Talia didn't listen and[XENO:n ]\nwent off to Satorl all alone. Talia could be in grave[XENO:n ]\ndanger. Go and help her."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Dogmatic Gogol[/System:Color] near the[XENO:n ]\nPlace of Judgement in Satorl Marsh."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Talk to Talia who is at the Place of Judgement[XENO:n ]\nin Satorl Marsh."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Talk to Talia who is on the Ether Plant[XENO:n ]\nat Eryth Sea."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Talia wanted to complete the research into[XENO:n ]\nthe War God faith for her lost friends."
+    },
+    {
+      "$id": 28,
+      "style": 148,
+      "name": "It seems that there is a statue of the War God in Valak[XENO:n ]\nMountain. Complete the research into the War God[XENO:n ]\nfaith for Russ and Natori."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Investigate the War God statue at La Luz Church[XENO:n ]\nin Valak Mountain."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "Talk to Talia."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "The birthplace of the War God faith must be[XENO:n ]\nValak Mountain. Their research is complete."
+    },
+    {
+      "$id": 32,
+      "style": 148,
+      "name": "Milia fled the capital with Tet, but at some point[XENO:n ]\nseems to have lost sight of him. Find Tet to ease[XENO:n ]\nher worried heart."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Talk to Tet."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "Return to Milia."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "Tet was hiding in the imperial capital. You[XENO:n ]\nrescued him, and put Milia's worries to rest."
+    },
+    {
+      "$id": 36,
+      "style": 148,
+      "name": "When Vivian fled the imperial capital, she was helped[XENO:n ]\nby Telethia. She feels it must be some good friends.[XENO:n ]\nTry and find out if this is the truth."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "Defeat 10 [System:Color name=item ]Arel Telethia[/System:Color] in Achamoth."
+    },
+    {
+      "$id": 38,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Arietta[/System:Color] near the Fountain of[XENO:n ]\nEternity in Achamoth."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Louise[/System:Color] near Melfica Road[XENO:n ]\nin Achamoth."
+    },
+    {
+      "$id": 40,
+      "style": 138,
+      "name": "Return to Vivian."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "It really was Vivian's friends who saved her.[XENO:n ]\nVivian offers up a tearful prayer for her friends."
+    },
+    {
+      "$id": 42,
+      "style": 148,
+      "name": "When Vivian was fleeing the Imperial City, she was[XENO:n ]\nsaved by some Telethia who turned out to be her[XENO:n ]\nfriends. It will be sad, but you should put them to rest."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "Defeat 10 [System:Color name=item ]Arel Telethia[/System:Color] in Achamoth."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Arietta[/System:Color] near the Fountain of[XENO:n ]\nEternity in Achamoth."
+    },
+    {
+      "$id": 45,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Telethia Louise[/System:Color] near Melfica Road[XENO:n ]\nin Achamoth."
+    },
+    {
+      "$id": 46,
+      "style": 138,
+      "name": "Return to Vivian."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Vivian's two friends are at peace now.[XENO:n ]\nVivian offers up a tearful prayer for her friends."
+    },
+    {
+      "$id": 48,
+      "style": 148,
+      "name": "There is a Telethia research facility within the[XENO:n ]\nHigh Entia Tomb. Go to the High Entia Tomb and[XENO:n ]\nfind the research facility."
+    },
+    {
+      "$id": 49,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Telethia Research[/System:Color] from the Telethia[XENO:n ]\nLaboratory in the High Entia Tomb"
+    },
+    {
+      "$id": 50,
+      "style": 138,
+      "name": "Return to Tet."
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "You found the Telethia Research. Perhaps the[XENO:n ]\nTelethia will return to their original forms one day."
+    },
+    {
+      "$id": 52,
+      "style": 148,
+      "name": "There are lots of monsters at Eryth Sea.[XENO:n ]\nClear some so it's safer."
+    },
+    {
+      "$id": 53,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Palti Kromars[/System:Color] at Eryth Sea."
+    },
+    {
+      "$id": 54,
+      "style": 138,
+      "name": "You completed the lighthouse keeper's request.[XENO:n ]\nEryth Sea should be a little safer now."
+    },
+    {
+      "$id": 55,
+      "style": 148,
+      "name": "There are lots of monsters at Eryth Sea.[XENO:n ]\nClear some so it's safer."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Maleza Kromars[/System:Color] at Eryth Sea."
+    },
+    {
+      "$id": 57,
+      "style": 138,
+      "name": "You completed the lighthouse keeper's request.[XENO:n ]\nEryth Sea should be a little safer now."
+    },
+    {
+      "$id": 58,
+      "style": 148,
+      "name": "Eryth Sea is very dangerous. There is a particularly[XENO:n ]\nterrifying monster that should be exterminated."
+    },
+    {
+      "$id": 59,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Flabbergasted Jerome[/System:Color] in the area of[XENO:n ]\nHovering Reef 5 at Eryth Sea."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "You completed the lighthouse keeper's request.[XENO:n ]\nEryth Sea should be a little safer now."
+    },
+    {
+      "$id": 61,
+      "style": 148,
+      "name": "The Achamoth resident wants to research Eryth Sea[XENO:n ]\nbut she can't find the things she needs. Collect some[XENO:n ]\nitems and materials for her."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Hiln Coin Purses[/System:Color] from Eryth Hilns in[XENO:n ]\nEryth Sea."
+    },
+    {
+      "$id": 63,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Doomsday Poppies[/System:Color] from Eryth Sea."
+    },
+    {
+      "$id": 64,
+      "style": 138,
+      "name": "You completed the Achamoth resident's request.[XENO:n ]\nNow she should be able to start her investigation."
+    },
+    {
+      "$id": 65,
+      "style": 148,
+      "name": "The Achamoth resident wants to research Eryth Sea[XENO:n ]\nbut she can't find the things she needs. Collect some[XENO:n ]\nitems and materials for her."
+    },
+    {
+      "$id": 66,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Andos Antennae[/System:Color] from Andos in the[XENO:n ]\nHigh Entia Tomb."
+    },
+    {
+      "$id": 67,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Old Dragon Spines[/System:Color] from Racti Lexos at[XENO:n ]\nEryth Sea."
+    },
+    {
+      "$id": 68,
+      "style": 138,
+      "name": "Collect 3 spears of [System:Color name=item ]Pink Asparagus[/System:Color] at Eryth Sea."
+    },
+    {
+      "$id": 69,
+      "style": 138,
+      "name": "You completed the Achamoth resident's request.[XENO:n ]\nNow she should be able to start her investigation."
+    },
+    {
+      "$id": 70,
+      "style": 148,
+      "name": "There has been a support request from a worker who[XENO:n ]\nis fixing a transporter near Syrath Lighthouse at Eryth[XENO:n ]\nSea. He may be in danger. Hurry to help him!"
+    },
+    {
+      "$id": 71,
+      "style": 138,
+      "name": "Go to Hovering Reef 4 where Syrath Lighthouse[XENO:n ]\nis situated and ask where the worker is."
+    },
+    {
+      "$id": 72,
+      "style": 138,
+      "name": "Go from the back of Syrath Lighthouse to the[XENO:n ]\nEther Crystal Deposit."
+    },
+    {
+      "$id": 73,
+      "style": 138,
+      "name": "Help the worker that is being attacked[XENO:n ]\nby Kromars."
+    },
+    {
+      "$id": 74,
+      "style": 138,
+      "name": "Talk to the worker."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "You saved the worker. Now he should be able[XENO:n ]\nto continue repairing the transporter."
+    },
+    {
+      "$id": 76,
+      "style": 148,
+      "name": "Prison Island is accessible via a transporter from[XENO:n ]\nCentral Seal Island. Open the sister gates, Khatorl and[XENO:n ]\nSoltnar which protect it to open the transporter's seal."
+    },
+    {
+      "$id": 77,
+      "style": 138,
+      "name": "Open the sister gates Khatorl and Soltnar."
+    },
+    {
+      "$id": 78,
+      "style": 138,
+      "name": "Unlock the seal that has appeared to be able[XENO:n ]\nto reach Prison Island."
+    },
+    {
+      "$id": 79,
+      "style": 138,
+      "name": "The transporter's seal has been broken. You[XENO:n ]\ncan now go to Prison Island."
+    },
+    {
+      "$id": 80,
+      "style": 148,
+      "name": "To open the gates that protect the transporter to[XENO:n ]\nPrison Island, you will need to release the seals on[XENO:n ]\nKhatorl Seal Island and Soltnar Seal Island."
+    },
+    {
+      "$id": 81,
+      "style": 138,
+      "name": "Release the seal on Khatorl Seal Island."
+    },
+    {
+      "$id": 82,
+      "style": 138,
+      "name": "Release the seal on Soltnar Seal Island."
+    },
+    {
+      "$id": 83,
+      "style": 138,
+      "name": "The Khatorl and Soltnar gates are open."
+    }
+  ]
+}

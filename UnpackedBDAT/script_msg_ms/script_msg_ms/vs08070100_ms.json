@@ -1,0 +1,349 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Melia Antiqua, First Princess,[XENO:n ]\nhas returned, Your Majesty.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Raise your head.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Your Majesty.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "The Telethia rained havoc on countless veteran knights.[XENO:n ]\nYou triumphed where they could not.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "I find it difficult to suppress these[XENO:n ]\nfeelings of pride for you, my kin.[XENO:wait wait=key ][XENO:act act=EVT1 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "But, Your Majesty, I failed to return with[XENO:n ]\nany of the subjects you entrusted to me.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "My inexperience cost them their lives.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "We will grieve for them, but it[XENO:n ]\ncould not have been avoided.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "It was their duty and honour[XENO:n ]\nto fight beside you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "They were all aware of your limits.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Emperor.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Keep those feelings of frustration close to you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It will help you to remember the debt[XENO:n ]\nyou owe to those that have fallen.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Your Majesty, concerning such debts,[XENO:n ]\nthere were others who aided me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "The Homs and Nopon that accompanied you[XENO:n ]\nto the capital?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "They have been arrested by Imperial Security.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Shulk and his companions?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes. For reasons pertaining to the[XENO:n ]\nweapon this Shulk possesses.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "Shulk's weapon...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Do you mean the Monado?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "So it is true.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "If that weapon is truly the Monado,[XENO:n ]\nwe shall be forced to take action.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Why?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "There is a legend, passed down through the generations.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "Of a divine weapon - the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "It is said that the Giant God itself bestows[XENO:n ]\nthe blade upon a chosen one.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "However, if the chosen one is black of heart,[XENO:n ]\nhe will cause the destruction of the High Entia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Among High Entia exist the good and bad alike.[XENO:n ]\nHoms and Nopon are no different.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]If this boy is the chosen one...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The divine seer's interrogation will[XENO:n ]\nreveal where his allegiances lie.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]So you intend to keep them confined?[XENO:wait wait=key ][XENO:act act=EVT_EXT5 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "We must.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "Father! I mean... Your Majesty![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]I assure you Shulk is of pure heart![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]As my successor, you will play a role of great importance.[XENO:n ]\nCalm your spirit and be patient.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "Dear sister, I can see the Emperor's[XENO:n ]\nwords have confused you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "Brother.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "His Majesty has spoken. He recognises you[XENO:n ]\nas the crown princess.[XENO:wait wait=key ][XENO:act act=EVT1 ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You are to be the next[XENO:n ]\nruler of the High Entia.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "Me? And not you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes. The Emperor asked for my counsel,[XENO:n ]\nand I told him as I tell you now.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "You will make a fine Empress. There is[XENO:n ]\nno one more suited to leading our people.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You proved that when you[XENO:n ]\ndispatched the Telethia.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I don't know what to...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]But the soldiers... I am not fit to rule.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "I should visit their families and beg for pardon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "Melia, you know that this is not allowed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I know, but it does nothing for the guilt I feel.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "It is as the Emperor said. Grieve their departing,[XENO:n ]\nand engrave in your heart their great deeds.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I will.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "You are right to question these things.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]But take pride in who you are.[XENO:n ]\nThe Emperor has chosen wisely in you, Melia.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "I am to be crown princess.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "Yes, you are.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "The Ministries of Research and Records are[XENO:n ]\nunited in support of His Majesty's decision.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I, Minister Rouren, have no objection[XENO:n ]\nto your appointment.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "I understand.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I would never openly question[XENO:n ]\nour divine emperor.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "But the wielder of the Monado, the chosen one,[XENO:n ]\nmight be a useful tool.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You think so too?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "But a lowly servant of the realm such as myself[XENO:n ]\ncould never question His Majesty.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 65,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]However, if the divine seer were to intervene...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The seer could free Shulk?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 125,
+      "name": "They should be exchanging words as we speak.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

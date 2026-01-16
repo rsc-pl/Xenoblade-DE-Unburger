@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "There it is![XENO:n ]\nI'll have to be careful not to rile it up...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Let's hope the shot comes out well.[XENO:wait wait=Key ][XENO:del del=this ]"
+    }
+  ]
+}

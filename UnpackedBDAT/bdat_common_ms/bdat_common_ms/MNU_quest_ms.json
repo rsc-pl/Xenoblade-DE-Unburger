@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 2,
+      "style": 6,
+      "name": "Categories"
+    },
+    {
+      "$id": 3,
+      "style": 5,
+      "name": "Progress"
+    },
+    {
+      "$id": 4,
+      "style": 5,
+      "name": "Progress"
+    },
+    {
+      "$id": 5,
+      "style": 9,
+      "name": "New Quest"
+    },
+    {
+      "$id": 6,
+      "style": 6,
+      "name": "OK"
+    },
+    {
+      "$id": 7,
+      "style": 6,
+      "name": "Accept"
+    },
+    {
+      "$id": 8,
+      "style": 6,
+      "name": "Decline"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "???"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "------"
+    },
+    {
+      "$id": 11,
+      "style": 57,
+      "name": "There are multiple objectives.[XENO:n ]\nPlease check the Quest Log."
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "------"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "Quest Complete"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "All"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "New"
+    },
+    {
+      "$id": 16,
+      "style": 9,
+      "name": "Current"
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Completed"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Story Memo"
+    },
+    {
+      "$id": 19,
+      "style": 1,
+      "name": "/"
+    },
+    {
+      "$id": 20,
+      "style": 1,
+      "name": "/"
+    },
+    {
+      "$id": 21,
+      "style": 7,
+      "name": "Quest"
+    },
+    {
+      "$id": 22,
+      "style": 7,
+      "name": "Story"
+    },
+    {
+      "$id": 23,
+      "style": 7,
+      "name": "Page"
+    },
+    {
+      "$id": 24,
+      "style": 7,
+      "name": "Close"
+    },
+    {
+      "$id": 25,
+      "style": 7,
+      "name": "Display Route"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Story"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Quest"
+    },
+    {
+      "$id": 28,
+      "style": 3,
+      "name": "EXP"
+    },
+    {
+      "$id": 29,
+      "style": 21,
+      "name": "Requested By"
+    },
+    {
+      "$id": 30,
+      "style": 21,
+      "name": "Quest Rewards"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Quest Name"
+    },
+    {
+      "$id": 32,
+      "style": 13,
+      "name": "Rec. Lv."
+    },
+    {
+      "$id": 33,
+      "style": 19,
+      "name": "Place Received"
+    },
+    {
+      "$id": 34,
+      "style": 9,
+      "name": "New!"
+    },
+    {
+      "$id": 35,
+      "style": 3,
+      "name": "Lv"
+    },
+    {
+      "$id": 36,
+      "style": 19,
+      "name": "Quest Completed!"
+    },
+    {
+      "$id": 37,
+      "style": 19,
+      "name": "Active Quest"
+    },
+    {
+      "$id": 38,
+      "style": 19,
+      "name": "No quest set as active."
+    },
+    {
+      "$id": 39,
+      "style": 49,
+      "name": "No quests found.[XENO:n ]\n(Categories may be filtered.)"
+    },
+    {
+      "$id": 40,
+      "style": 21,
+      "name": "Quest Details"
+    },
+    {
+      "$id": 41,
+      "style": 17,
+      "name": "No Active Quest"
+    },
+    {
+      "$id": 42,
+      "style": 148,
+      "name": "Try setting an active quest in the Quest Log.[XENO:n ]\nThe path to that quest will show up on the mini-map.[XENO:n ]\n([ML:icon icon=btn_down ]: Open Quest Log)"
+    },
+    {
+      "$id": 43,
+      "style": 5,
+      "name": "Area:[ML:space ]"
+    },
+    {
+      "$id": 44,
+      "style": 13,
+      "name": "Target inactive now."
+    },
+    {
+      "$id": 45,
+      "style": 13,
+      "name": "Target not found."
+    },
+    {
+      "$id": 46,
+      "style": 11,
+      "name": "Recommended Lv.:[ML:space ]"
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Details"
+    },
+    {
+      "$id": 48,
+      "style": 17,
+      "name": "Active Quest feature locked"
+    },
+    {
+      "$id": 49,
+      "style": 148,
+      "name": "[System:Color name=s1 ]The Active Quest feature hasn't been unlocked yet.\n[/System:Color]Later in the game, you will gain the ability to show\ninformation relating to quest progress in this panel."
+    }
+  ]
+}

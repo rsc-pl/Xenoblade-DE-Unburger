@@ -1,0 +1,1074 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 20,
+      "name": "■ Target: Enemy"
+    },
+    {
+      "$id": 2,
+      "style": 20,
+      "name": "■ Target: Party"
+    },
+    {
+      "$id": 3,
+      "style": 20,
+      "name": "■ Target: User"
+    },
+    {
+      "$id": 4,
+      "style": 20,
+      "name": "■ Range: Individual target"
+    },
+    {
+      "$id": 5,
+      "style": 20,
+      "name": "■ Range: Straight line in front"
+    },
+    {
+      "$id": 6,
+      "style": 20,
+      "name": "■ Range: Circle around user"
+    },
+    {
+      "$id": 7,
+      "style": 20,
+      "name": "■ Range: Circle around target"
+    },
+    {
+      "$id": 8,
+      "style": 20,
+      "name": "■ Range: Fan shape in front"
+    },
+    {
+      "$id": 9,
+      "style": 20,
+      "name": "■ Range: Fan shape behind"
+    },
+    {
+      "$id": 10,
+      "style": 20,
+      "name": "■ Distance: Close"
+    },
+    {
+      "$id": 11,
+      "style": 20,
+      "name": "■ Distance: Medium"
+    },
+    {
+      "$id": 12,
+      "style": 20,
+      "name": "■ Distance: Long"
+    },
+    {
+      "$id": 13,
+      "style": 20,
+      "name": "■ Distance: All"
+    },
+    {
+      "$id": 14,
+      "style": 20,
+      "name": "■ Range: N/A"
+    },
+    {
+      "$id": 15,
+      "style": 20,
+      "name": "■ Distance: N/A"
+    },
+    {
+      "$id": 16,
+      "style": 20,
+      "name": "■ Range: Elemental dependent"
+    },
+    {
+      "$id": 17,
+      "style": 20,
+      "name": "Talent Gauge must be maxed"
+    },
+    {
+      "$id": 18,
+      "style": 20,
+      "name": "Only available with Aura active"
+    },
+    {
+      "$id": 19,
+      "style": 20,
+      "name": "■ Distance: Elemental dependent"
+    },
+    {
+      "$id": 20,
+      "style": 20,
+      "name": "■ Talent Gauge Use: Large"
+    },
+    {
+      "$id": 21,
+      "style": 20,
+      "name": "■ Talent Gauge Use: Medium"
+    },
+    {
+      "$id": 22,
+      "style": 20,
+      "name": "■ Talent Gauge Use: Small"
+    },
+    {
+      "$id": 23,
+      "style": 20,
+      "name": "Automatic if Talent Gauge is max"
+    },
+    {
+      "$id": 24,
+      "style": 20,
+      "name": "Available any time"
+    },
+    {
+      "$id": 25,
+      "style": 20,
+      "name": "■ Cooldown:"
+    },
+    {
+      "$id": 26,
+      "style": 20,
+      "name": "■ Damage: 20% of Max HP"
+    },
+    {
+      "$id": 27,
+      "style": 20,
+      "name": "Fills Talent Gauge"
+    },
+    {
+      "$id": 28,
+      "style": 20,
+      "name": "■ Damage: 50% of HP"
+    },
+    {
+      "$id": 29,
+      "style": 20,
+      "name": "■ Damage: Elemental dependent"
+    },
+    {
+      "$id": 30,
+      "style": 20,
+      "name": "Empties Talent Gauge"
+    },
+    {
+      "$id": 31,
+      "style": 20,
+      "name": "Auto-attack / Arts: Not available"
+    },
+    {
+      "$id": 32,
+      "style": 20,
+      "name": "- Effect Time:"
+    },
+    {
+      "$id": 33,
+      "style": 20,
+      "name": "■ Damage:"
+    },
+    {
+      "$id": 34,
+      "style": 20,
+      "name": "■ Damage:"
+    },
+    {
+      "$id": 35,
+      "style": 20,
+      "name": "HP Absorb"
+    },
+    {
+      "$id": 36,
+      "style": 20,
+      "name": "Poison Damage"
+    },
+    {
+      "$id": 37,
+      "style": 20,
+      "name": "Blaze Damage"
+    },
+    {
+      "$id": 38,
+      "style": 20,
+      "name": "Chill Damage"
+    },
+    {
+      "$id": 39,
+      "style": 20,
+      "name": "Additional Damage"
+    },
+    {
+      "$id": 40,
+      "style": 20,
+      "name": "■ Recover HP:"
+    },
+    {
+      "$id": 41,
+      "style": 20,
+      "name": "Recover Ally's HP"
+    },
+    {
+      "$id": 42,
+      "style": 20,
+      "name": "Incapacitation restores HP"
+    },
+    {
+      "$id": 43,
+      "style": 20,
+      "name": "Bleed Damage"
+    },
+    {
+      "$id": 44,
+      "style": 20,
+      "name": "Poison Damage"
+    },
+    {
+      "$id": 45,
+      "style": 20,
+      "name": "Blaze Damage"
+    },
+    {
+      "$id": 46,
+      "style": 20,
+      "name": "Chill Damage"
+    },
+    {
+      "$id": 47,
+      "style": 20,
+      "name": "■ Damage:"
+    },
+    {
+      "$id": 48,
+      "style": 20,
+      "name": "■ Damage (x2):"
+    },
+    {
+      "$id": 49,
+      "style": 20,
+      "name": "■ Damage:"
+    },
+    {
+      "$id": 50,
+      "style": 20,
+      "name": "- Effect Time:"
+    },
+    {
+      "$id": 51,
+      "style": 20,
+      "name": "Revival fills Talent Gauge"
+    },
+    {
+      "$id": 52,
+      "style": 20,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 53,
+      "style": 20,
+      "name": "Upon activation: Draws aggro"
+    },
+    {
+      "$id": 54,
+      "style": 20,
+      "name": "Hit: Arts Seal"
+    },
+    {
+      "$id": 55,
+      "style": 20,
+      "name": "Double Attack Rate"
+    },
+    {
+      "$id": 56,
+      "style": 20,
+      "name": "Hit: Aura Seal"
+    },
+    {
+      "$id": 57,
+      "style": 20,
+      "name": "Damage fills Talent Gauge"
+    },
+    {
+      "$id": 58,
+      "style": 20,
+      "name": "- Bonus for extra enemies"
+    },
+    {
+      "$id": 59,
+      "style": 20,
+      "name": "Reduces target's strength"
+    },
+    {
+      "$id": 60,
+      "style": 20,
+      "name": "Reduces target's ether"
+    },
+    {
+      "$id": 61,
+      "style": 20,
+      "name": "Bleed Damage"
+    },
+    {
+      "$id": 62,
+      "style": 20,
+      "name": "Enchant"
+    },
+    {
+      "$id": 63,
+      "style": 20,
+      "name": "Shield"
+    },
+    {
+      "$id": 64,
+      "style": 20,
+      "name": "Speed"
+    },
+    {
+      "$id": 65,
+      "style": 20,
+      "name": "Armour"
+    },
+    {
+      "$id": 66,
+      "style": 20,
+      "name": "Haste"
+    },
+    {
+      "$id": 67,
+      "style": 20,
+      "name": "Regenerate"
+    },
+    {
+      "$id": 68,
+      "style": 20,
+      "name": "Damage Heal when hit"
+    },
+    {
+      "$id": 69,
+      "style": 20,
+      "name": "Upon activation, all aggro removed"
+    },
+    {
+      "$id": 70,
+      "style": 20,
+      "name": "Physical/ether dmg. down"
+    },
+    {
+      "$id": 71,
+      "style": 20,
+      "name": "Damage Immunity:"
+    },
+    {
+      "$id": 72,
+      "style": 20,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 73,
+      "style": 20,
+      "name": "Debuff immunity & clears debuffs"
+    },
+    {
+      "$id": 74,
+      "style": 20,
+      "name": "Reflection"
+    },
+    {
+      "$id": 75,
+      "style": 20,
+      "name": "Critical hit to flying enemies"
+    },
+    {
+      "$id": 76,
+      "style": 20,
+      "name": "Fills Talent Gauge"
+    },
+    {
+      "$id": 77,
+      "style": 20,
+      "name": "Next Arts Damage"
+    },
+    {
+      "$id": 78,
+      "style": 20,
+      "name": "Cannot reflect Talent Arts"
+    },
+    {
+      "$id": 79,
+      "style": 20,
+      "name": "- If health is low:"
+    },
+    {
+      "$id": 80,
+      "style": 20,
+      "name": "Maximum Number"
+    },
+    {
+      "$id": 81,
+      "style": 20,
+      "name": "Decreases aggro"
+    },
+    {
+      "$id": 82,
+      "style": 20,
+      "name": "Increases tension"
+    },
+    {
+      "$id": 83,
+      "style": 20,
+      "name": "Fills Talent Gauge"
+    },
+    {
+      "$id": 84,
+      "style": 20,
+      "name": "Only blocks Talent Arts"
+    },
+    {
+      "$id": 85,
+      "style": 20,
+      "name": "Revival fills Party Gauge"
+    },
+    {
+      "$id": 86,
+      "style": 20,
+      "name": "Accuracy & Evasion Up"
+    },
+    {
+      "$id": 87,
+      "style": 20,
+      "name": "Fills Party Gauge"
+    },
+    {
+      "$id": 88,
+      "style": 20,
+      "name": "Increases a stat at random"
+    },
+    {
+      "$id": 89,
+      "style": 20,
+      "name": "Regenerate"
+    },
+    {
+      "$id": 90,
+      "style": 20,
+      "name": "Critical Hit Rate Up"
+    },
+    {
+      "$id": 91,
+      "style": 20,
+      "name": "Physical Attack Block"
+    },
+    {
+      "$id": 92,
+      "style": 20,
+      "name": "Poison Effect Time"
+    },
+    {
+      "$id": 93,
+      "style": 20,
+      "name": "Chill Effect Time"
+    },
+    {
+      "$id": 94,
+      "style": 20,
+      "name": "Spike Damage"
+    },
+    {
+      "$id": 95,
+      "style": 20,
+      "name": "Aggro Absorb"
+    },
+    {
+      "$id": 96,
+      "style": 20,
+      "name": "Extends Aura duration"
+    },
+    {
+      "$id": 97,
+      "style": 20,
+      "name": "Blaze Effect Time"
+    },
+    {
+      "$id": 98,
+      "style": 20,
+      "name": "HP depends on target debuff no."
+    },
+    {
+      "$id": 99,
+      "style": 20,
+      "name": "Bleed Effect Time"
+    },
+    {
+      "$id": 100,
+      "style": 20,
+      "name": "Hit: Tension Up"
+    },
+    {
+      "$id": 101,
+      "style": 20,
+      "name": "Physical Arts Damage"
+    },
+    {
+      "$id": 102,
+      "style": 20,
+      "name": "Physical Defence Down"
+    },
+    {
+      "$id": 103,
+      "style": 20,
+      "name": "Prevents aggro loss from damage"
+    },
+    {
+      "$id": 104,
+      "style": 20,
+      "name": "- Effect Time:"
+    },
+    {
+      "$id": 105,
+      "style": 20,
+      "name": "Critical Hit Rate Up"
+    },
+    {
+      "$id": 106,
+      "style": 20,
+      "name": "Mad Taunt aggro increases"
+    },
+    {
+      "$id": 107,
+      "style": 20,
+      "name": "Elemental Effect Range"
+    },
+    {
+      "$id": 108,
+      "style": 20,
+      "name": "- Duration"
+    },
+    {
+      "$id": 109,
+      "style": 20,
+      "name": "Double Attack Rate"
+    },
+    {
+      "$id": 110,
+      "style": 20,
+      "name": "Attack Power Down"
+    },
+    {
+      "$id": 111,
+      "style": 20,
+      "name": "Only available in Element Burst"
+    },
+    {
+      "$id": 112,
+      "style": 20,
+      "name": "Requires very high tension"
+    },
+    {
+      "$id": 113,
+      "style": 20,
+      "name": "Cure party of Confuse"
+    },
+    {
+      "$id": 114,
+      "style": 20,
+      "name": "Hit: Accumulates aggro"
+    },
+    {
+      "$id": 115,
+      "style": 20,
+      "name": "No aggro gain while active"
+    },
+    {
+      "$id": 116,
+      "style": 20,
+      "name": "Hit: Removes Auras"
+    },
+    {
+      "$id": 117,
+      "style": 20,
+      "name": "No auto-attack or movement"
+    },
+    {
+      "$id": 118,
+      "style": 20,
+      "name": "Rate drops when tension is low"
+    },
+    {
+      "$id": 119,
+      "style": 20,
+      "name": "Cooldown is reduced"
+    },
+    {
+      "$id": 120,
+      "style": 20,
+      "name": "Auto-Atk & Mad Taunt: Area effect"
+    },
+    {
+      "$id": 121,
+      "style": 20,
+      "name": "Available when tension is high"
+    },
+    {
+      "$id": 122,
+      "style": 20,
+      "name": "Chance of removing Crazed"
+    },
+    {
+      "$id": 123,
+      "style": 20,
+      "name": "Counter all non-Talent Art damage"
+    },
+    {
+      "$id": 124,
+      "style": 20,
+      "name": "by dealing 2, 4 or even 8 times the"
+    },
+    {
+      "$id": 125,
+      "style": 20,
+      "name": "amount as Spike damage."
+    },
+    {
+      "$id": 126,
+      "style": 20,
+      "name": "Side hit on Mechon: Confuse"
+    },
+    {
+      "$id": 127,
+      "style": 20,
+      "name": "■ Range: All"
+    },
+    {
+      "$id": 128,
+      "style": 20,
+      "name": "Prevents tension from decreasing"
+    },
+    {
+      "$id": 129,
+      "style": 20,
+      "name": "Resummon last elemental"
+    },
+    {
+      "$id": 130,
+      "style": 20,
+      "name": "Hit: Removes buffs"
+    },
+    {
+      "$id": 131,
+      "style": 20,
+      "name": "Monado Arts become available"
+    },
+    {
+      "$id": 132,
+      "style": 20,
+      "name": "Blocks Knock-Back & Blow-Down"
+    },
+    {
+      "$id": 133,
+      "style": 20,
+      "name": "Increases enemy aggro over time"
+    },
+    {
+      "$id": 134,
+      "style": 20,
+      "name": "Removes debuffs"
+    },
+    {
+      "$id": 135,
+      "style": 20,
+      "name": "Steal something from target"
+    },
+    {
+      "$id": 136,
+      "style": 20,
+      "name": "3 Attack Combo"
+    },
+    {
+      "$id": 137,
+      "style": 20,
+      "name": "\\[Summoned\\] Circle around user"
+    },
+    {
+      "$id": 138,
+      "style": 20,
+      "name": "When Talent Gauge reaches max:"
+    },
+    {
+      "$id": 139,
+      "style": 20,
+      "name": "Discharge Damage Up"
+    },
+    {
+      "$id": 140,
+      "style": 20,
+      "name": "Removes aggro"
+    },
+    {
+      "$id": 141,
+      "style": 20,
+      "name": "2 Attack Combo"
+    },
+    {
+      "$id": 142,
+      "style": 20,
+      "name": "■ Attribute: Physical"
+    },
+    {
+      "$id": 143,
+      "style": 20,
+      "name": "■ Attribute: Ether"
+    },
+    {
+      "$id": 144,
+      "style": 20,
+      "name": "■ Damage: N/A"
+    },
+    {
+      "$id": 145,
+      "style": 20,
+      "name": "■ Effects"
+    },
+    {
+      "$id": 146,
+      "style": 20,
+      "name": "4 Attack Combo"
+    },
+    {
+      "$id": 147,
+      "style": 20,
+      "name": "May force Topple"
+    },
+    {
+      "$id": 148,
+      "style": 20,
+      "name": "If Topple fails, inflicts Bind"
+    },
+    {
+      "$id": 149,
+      "style": 20,
+      "name": "Inflicts Paralysis on target"
+    },
+    {
+      "$id": 150,
+      "style": 20,
+      "name": "Inflicts Sleep on target"
+    },
+    {
+      "$id": 151,
+      "style": 20,
+      "name": "10 Attack Combo"
+    },
+    {
+      "$id": 152,
+      "style": 20,
+      "name": "4 Attack Combo"
+    },
+    {
+      "$id": 153,
+      "style": 20,
+      "name": "6 Attack Combo"
+    },
+    {
+      "$id": 154,
+      "style": 20,
+      "name": "Hit: Break"
+    },
+    {
+      "$id": 155,
+      "style": 20,
+      "name": "Suffering Break: Topple"
+    },
+    {
+      "$id": 156,
+      "style": 20,
+      "name": "Suffering Topple: Daze"
+    },
+    {
+      "$id": 157,
+      "style": 20,
+      "name": "Hit: Slow"
+    },
+    {
+      "$id": 158,
+      "style": 20,
+      "name": "Hit: Physical defence down"
+    },
+    {
+      "$id": 159,
+      "style": 20,
+      "name": "Hit: Ether defence down"
+    },
+    {
+      "$id": 160,
+      "style": 20,
+      "name": "Hit: Reduces strength"
+    },
+    {
+      "$id": 161,
+      "style": 20,
+      "name": "Hit: Paralysis"
+    },
+    {
+      "$id": 162,
+      "style": 20,
+      "name": "Hit: Sleep"
+    },
+    {
+      "$id": 163,
+      "style": 20,
+      "name": "Hit: Bind"
+    },
+    {
+      "$id": 164,
+      "style": 20,
+      "name": "Hit: Fills Talent Gauge"
+    },
+    {
+      "$id": 165,
+      "style": 20,
+      "name": "Evasion: Fills Talent Gauge"
+    },
+    {
+      "$id": 166,
+      "style": 20,
+      "name": "Side hit: Slow"
+    },
+    {
+      "$id": 167,
+      "style": 20,
+      "name": "Side hit: Reduces phys. def."
+    },
+    {
+      "$id": 168,
+      "style": 20,
+      "name": "Element Burst Aura auto-activates"
+    },
+    {
+      "$id": 169,
+      "style": 20,
+      "name": "Shield dissipates after one hit"
+    },
+    {
+      "$id": 170,
+      "style": 20,
+      "name": "Hit: Fills Talent Gauge"
+    },
+    {
+      "$id": 171,
+      "style": 20,
+      "name": "\\[Discharge\\] Individual target"
+    },
+    {
+      "$id": 172,
+      "style": 20,
+      "name": "\\[Discharge\\] Circle around target"
+    },
+    {
+      "$id": 173,
+      "style": 20,
+      "name": "\\[Discharge\\] Circle around user"
+    },
+    {
+      "$id": 174,
+      "style": 20,
+      "name": "Physical Attack Block"
+    },
+    {
+      "$id": 175,
+      "style": 20,
+      "name": "■ Target: Enemy and user"
+    },
+    {
+      "$id": 176,
+      "style": 20,
+      "name": "Hit with Aura: Forces Daze"
+    },
+    {
+      "$id": 177,
+      "style": 20,
+      "name": "Final attack is close range"
+    },
+    {
+      "$id": 178,
+      "style": 20,
+      "name": "Back hit: More damage"
+    },
+    {
+      "$id": 179,
+      "style": 20,
+      "name": "Back hit: Bleed extended"
+    },
+    {
+      "$id": 180,
+      "style": 20,
+      "name": "Mechon hit: More damage"
+    },
+    {
+      "$id": 181,
+      "style": 20,
+      "name": "Mechon suffering Topple: Daze"
+    },
+    {
+      "$id": 182,
+      "style": 20,
+      "name": "After B. Upper: Agility Down"
+    },
+    {
+      "$id": 183,
+      "style": 20,
+      "name": "After Gale Slash: Str. Down"
+    },
+    {
+      "$id": 184,
+      "style": 20,
+      "name": "After Gale Slash: Break"
+    },
+    {
+      "$id": 185,
+      "style": 20,
+      "name": "After Gale Slash: Removes 1 buff"
+    },
+    {
+      "$id": 186,
+      "style": 20,
+      "name": "Hit: Forces Topple"
+    },
+    {
+      "$id": 187,
+      "style": 20,
+      "name": "After Spear Break: Forces Topple"
+    },
+    {
+      "$id": 188,
+      "style": 20,
+      "name": "Increase rate per debuff"
+    },
+    {
+      "$id": 189,
+      "style": 20,
+      "name": "Finish enemy with Demon Slayer:"
+    },
+    {
+      "$id": 190,
+      "style": 20,
+      "name": "All enemies suffer forced Topple"
+    },
+    {
+      "$id": 191,
+      "style": 20,
+      "name": "Topple hit: More damage"
+    },
+    {
+      "$id": 192,
+      "style": 20,
+      "name": "Daze hit: Instant Death"
+    },
+    {
+      "$id": 193,
+      "style": 20,
+      "name": "Topple hit:"
+    },
+    {
+      "$id": 194,
+      "style": 20,
+      "name": "Fills Talent Gauge"
+    },
+    {
+      "$id": 195,
+      "style": 20,
+      "name": "■ Effects: User only"
+    },
+    {
+      "$id": 196,
+      "style": 20,
+      "name": "Target debuffs increase damage"
+    },
+    {
+      "$id": 197,
+      "style": 20,
+      "name": "Hit: Remove debuffs"
+    },
+    {
+      "$id": 198,
+      "style": 20,
+      "name": "Heals same HP as genuine revival"
+    },
+    {
+      "$id": 199,
+      "style": 20,
+      "name": "Multiple hits to enemies in range"
+    },
+    {
+      "$id": 200,
+      "style": 20,
+      "name": "Ether Damage"
+    },
+    {
+      "$id": 201,
+      "style": 20,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 202,
+      "style": 20,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 203,
+      "style": 20,
+      "name": "Ether Damage Down"
+    },
+    {
+      "$id": 204,
+      "style": 20,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 205,
+      "style": 20,
+      "name": "Physical Damage Down"
+    },
+    {
+      "$id": 206,
+      "style": 20,
+      "name": "Regenerate"
+    },
+    {
+      "$id": 207,
+      "style": 20,
+      "name": "Talent Gauge must be maxed"
+    },
+    {
+      "$id": 208,
+      "style": 20,
+      "name": "Mechon hit: Clears buffs & debuffs"
+    },
+    {
+      "$id": 209,
+      "style": 20,
+      "name": "Combo attack if successful"
+    },
+    {
+      "$id": 210,
+      "style": 20,
+      "name": "Glad Taunt aggro increases"
+    },
+    {
+      "$id": 211,
+      "style": 20,
+      "name": "Auto-Atk & Glad Taunt: Area effect"
+    },
+    {
+      "$id": 212,
+      "style": 20,
+      "name": "After B. Upper: Agility Down"
+    }
+  ]
+}

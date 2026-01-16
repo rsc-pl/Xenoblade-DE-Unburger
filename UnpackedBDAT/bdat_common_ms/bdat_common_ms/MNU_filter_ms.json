@@ -1,0 +1,219 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "All"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "New"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Current"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Completed"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Regular"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "With Slots"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "Unique"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Regular"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "With Slots"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Unique"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Light"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Medium"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Heavy"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Machine God"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Weapon Gem"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Armour Gem"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Equipment Gem"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Attributes"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "Attack"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Defence"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Support"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Field"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Special"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Quest Items"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Not Yet Learnt"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "Learnt"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Veg"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Fruit"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Flower"
+    },
+    {
+      "$id": 30,
+      "style": 12,
+      "name": "Animal"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "Bug"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Nature"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Parts"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Strange"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Quest Items"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Battle"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "Field"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "Tactics/Hints"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Not Yet Viewed"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Already Viewed"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Can View"
+    }
+  ]
+}

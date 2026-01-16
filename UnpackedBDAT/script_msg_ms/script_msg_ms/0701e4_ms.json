@@ -1,0 +1,229 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This flower is much like one that[XENO:n ]\nused to grow by Eryth Sea.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Used to? You mean it[XENO:n ]\ndoesn't anymore?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Alas, the breed was wiped out.[XENO:n ]\nNone like this grow there anymore.[XENO:wait wait=key ][System:PageBreak ]But its seeds must have dispersed[XENO:n ]\nall the way here and taken root.[XENO:wait wait=key ][System:PageBreak ]Isn't nature beautiful?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "I can see you love flowers, Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "I do adore them.[XENO:wait wait=key ][System:PageBreak ]I like nothing more than finding[XENO:n ]\nnew species on our travels.[XENO:wait wait=key ][System:PageBreak ]How about you, Dunban?[XENO:n ]\nDo you like flowers?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Oh...yes, I like them./・I'll be honest... Not really. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "You do? This is...surprising.[XENO:wait wait=key ][System:PageBreak ]I didn't get that impression[XENO:n ]\nfrom you at all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Haha. And you think it's wise[XENO:n ]\nto judge a book by its cover?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "That was not my intention.[XENO:wait wait=key ][System:PageBreak ]It's just that I pride myself on[XENO:n ]\nbeing a good judge of character.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Fair enough. Well, it just so[XENO:n ]\nhappens that you're right![XENO:wait wait=key ][System:PageBreak ]Flowers have never interested me.[XENO:n ]\nThe reason is...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・One day they wither and die./・Their pungent smell. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "I see. Flowers are transient, so it[XENO:n ]\nis hard to get attached to them.[XENO:wait wait=key ][System:PageBreak ]As with soldiers in battle,[XENO:n ]\ndeath is always knocking.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "You are very wise, Melia.[XENO:wait wait=key ][System:PageBreak ]To put it another way, I feel that[XENO:n ]\nloving a single flower is wrong.[XENO:wait wait=key ][System:PageBreak ]If we concentrate on one flower,[XENO:n ]\nthe rest of the garden may be lost.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "The water and the soil,[XENO:n ]\nthe land and the skies...[XENO:wait wait=key ][System:PageBreak ]Which is most important, I do not[XENO:n ]\nknow. So I give my attention to all.[XENO:wait wait=key ][System:PageBreak ]I started thinking about it like[XENO:n ]\nthat in my younger days.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "I'd never considered it from that[XENO:n ]\nperspective before.[XENO:wait wait=key ][System:PageBreak ]You see things very differently[XENO:n ]\nto me. It is most intriguing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "I intrigue you now?[XENO:wait wait=key ][System:PageBreak ]I'll take that as a compliment.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "You are welcome.[XENO:wait wait=key ][System:PageBreak ]I think I know the perfect flower[XENO:n ]\nfor you. The renowned Stardrop![XENO:wait wait=key ][System:PageBreak ]None can deny its beauty.[XENO:wait wait=key ][System:PageBreak ]All other flowers bow down[XENO:n ]\nand wilt at its magnificence.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "Lovely as it sounds,[XENO:n ]\nI'll have to pass.[XENO:wait wait=key ][System:PageBreak ]If it's a present, I won't say no.[XENO:n ]\nBut only because it's you, Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "You do not like their smell?[XENO:wait wait=key ][System:PageBreak ]Certainly, some flowers have[XENO:n ]\npungent smells, but not all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "I know what I like, and that[XENO:n ]\ndoesn't include flowers.[XENO:wait wait=key ][System:PageBreak ]A room's natural smell can be[XENO:n ]\noverwhelmed by a flower's odour.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "The natural smell of the earth[XENO:n ]\nand trees is completely lost.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "Is that not a contradiction?[XENO:n ]\nFlowers are a part of nature.[XENO:wait wait=key ][System:PageBreak ]I am surprised at you, Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "You're a sharp one, Melia.[XENO:n ]\nI guess you've got me there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "I don't get the impression that[XENO:n ]\nyou dislike them all that strongly.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Haha. Maybe it's just that you[XENO:n ]\nlike them so strongly?[XENO:wait wait=key ][System:PageBreak ]You can't imagine that someone[XENO:n ]\nmight not like flowers at all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "That's not what I meant. It's just...[XENO:wait wait=key ][System:PageBreak ]If you hated flowers, you wouldn't[XENO:n ]\ntread so carefully around them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I am beaten by your[XENO:n ]\npowers of observation.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I can always see a person's true[XENO:n ]\nnature from how they act in public.[XENO:wait wait=key ][System:PageBreak ]I've studied you all[XENO:n ]\never since we met.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:sel sel=・Then tell me about Shulk./・As all wise rulers do. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Why Shulk? We were[XENO:n ]\ntalking about you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Shulk is a strange one. He plays[XENO:n ]\nwith junk, you know?[XENO:wait wait=key ][System:PageBreak ]Yet you trust him implicitly.[XENO:n ]\nI just want to know why.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "It is not just Shulk.[XENO:n ]\nI trust all of you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "And I appreciate it, Melia.[XENO:wait wait=key ][System:PageBreak ]Even though I know I am[XENO:n ]\nsecond to another...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "How dare you![XENO:wait wait=key ][System:PageBreak ]I would never suggest that Shulk[XENO:n ]\nis first in my estimation![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I believe you just did.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Enough of this conversation![XENO:wait wait=key ][System:PageBreak ]You are not second, third[XENO:n ]\nor fourth. You are last![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "A ruler must know his people.[XENO:wait wait=key ][System:PageBreak ]My father and brother taught me[XENO:n ]\nmuch about imperial duties.[XENO:wait wait=key ][System:PageBreak ]I never thought I would actually[XENO:n ]\nneed those lessons...[XENO:wait wait=key ][System:PageBreak ]But I will certainly need them now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "However, their lessons reached far[XENO:n ]\nbeyond the particulars of ruling.[XENO:wait wait=key ][System:PageBreak ]I learnt how to handle myself and[XENO:n ]\ncommunicate well with people.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Maybe you need a few more of[XENO:n ]\nthose lessons...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Are you saying I lack[XENO:n ]\npeople skills?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "You only seem yourself around[XENO:n ]\nRiki and Shulk, if I might say.[XENO:wait wait=key ][System:PageBreak ]I wish you'd open up to the[XENO:n ]\nrest of us a bit more.[XENO:wait wait=key ][System:PageBreak ]We've all been through so much[XENO:n ]\ntogether on the battlefield.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Deep down I know that[XENO:n ]\nyou are right.[XENO:wait wait=key ][System:PageBreak ]Thank you, Dunban, for your[XENO:n ]\nfrank comments.[XENO:wait wait=key ][System:PageBreak ]I will do my best to open up more.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]I didn't mean for her to treat it[XENO:n ]\nquite so formally...but oh well![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

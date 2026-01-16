@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "I accept.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "If I am to lead the High Entia[XENO:n ]\ndespite my mixed heritage...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "If I am to succeed the throne, then[XENO:n ]\nI accept what must be done.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I expect nothing less of my successor.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "The path to greatness is fraught with danger.[XENO:n ]\nThis shall be your statement to Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Yes, Your Majesty.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]You are not fit to be Empress. Not now, not ever.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

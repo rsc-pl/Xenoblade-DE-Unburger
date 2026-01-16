@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I must implant a new circulation[XENO:n ]\nsystem for her immune functions.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "But we have one problem.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]A problem?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I don't have a Piezoelectric Unit, which is[XENO:n ]\nrequired to control such a system.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]As long as she remains on this bed,[XENO:n ]\nthe life support machine can compensate.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "But to move around freely, she[XENO:n ]\nmust have the Piezoelectric Unit.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "The same unit is used in Mechon, so[XENO:n ]\nif you were to find some Mechon parts...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "But where?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Well, outside of the village, at the[XENO:n ]\nbase of Digit 5, there is a beach.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Debris from above washes ashore there.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "You might be able to find one[XENO:n ]\namong the Mechon wreckage.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]We'll take a look.[XENO:n ]\nThe beach at the base of Digit 5, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Yes. It gives off a faint red glow so[XENO:n ]\nit might be easier to find at night.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    }
+  ]
+}

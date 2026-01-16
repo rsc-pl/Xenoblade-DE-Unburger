@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]So, are you Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]In one sense we are, and in another we are not.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "It is a fact that the weapons you call the Mechon[XENO:n ]\nwere created by our civilisation.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]However, we were born from the Machine God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "By your understanding, it would be correct[XENO:n ]\nto say that we are the same as Mechon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]A form of mechanical life born of[XENO:n ]\nthe Machine God... Is that correct?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "From our perspective, you are forms[XENO:n ]\nof organic life born of the Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "Life born of the Machine God...[XENO:n ]\nSo there is life here, just like on Giant God?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Explain to us why you invaded our world.[XENO:n ]\nWhat did we ever do to you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "I understand your feelings, but please...[XENO:n ]\nThere is much yet to tell you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Dunban, please hear her out.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "But...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "These Machina... They're good people.[XENO:act act=EVT_EXT19 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Fiorung?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "You do not look fully functional.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Ever since she was given this body,[XENO:n ]\nshe hasn't been feeling too good.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "But we honestly don't know what to do.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Do you mean to tell me you are not Machina?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "Why didn't you tell me sooner?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "I'm OK, really.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Nonsense! I am a doctor.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Do not worry. I specialise in[XENO:n ]\npeople in your situation.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]Just as I thought. You were[XENO:n ]\ntransformed into a Face unit.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "You are experiencing a functional[XENO:n ]\nbreakdown in multiple locations.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "I will take her to my laboratory.[XENO:n ]\nThe chief will answer your questions.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "He is waiting for you in Junks.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "For us?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "We will speak later.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "Shulk, I'm...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "Fiorung...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "Don't worry. I'll keep an eye on her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "Thanks.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

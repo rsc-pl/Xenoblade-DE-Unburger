@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Thanks, Reyn. That was a close one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Man, what were you doing wandering off by yourself?[XENO:n ]\nStay where I can keep an eye on you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "It's pretty dangerous outside of the colony.[XENO:n ]\nThere are all kinds of monsters.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yeah.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "But thanks to you, we got its shell. Everyone[XENO:n ]\nin the colony's gonna be really happy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]I'm more worried about you than the shell.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Ah...whatever.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "Knowing what you're like, at least you'll[XENO:n ]\nmake a decent weapon out of it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]This Scrap Driver's excellent.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "I just learned by watching[XENO:n ]\nDickson make weapons.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "'Course, Dunban's weapon still beats them all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]The Monado...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "I hope I can figure out the secret[XENO:n ]\nof its power one day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You will, Shulk. Anyway, we'd[XENO:n ]\nbetter get back to the colony.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "If I'm late for drills again, old Square-tache[XENO:n ]\nis gonna kill me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]Square-tache?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Oh, the Defence Force Colonel.[XENO:n ]\nHe's pretty scary.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Tell me about it...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Sorry. I didn't mean for you to come all[XENO:n ]\nthe way out here during your break.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Don't worry about it.[XENO:n ]\nLet's get back.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

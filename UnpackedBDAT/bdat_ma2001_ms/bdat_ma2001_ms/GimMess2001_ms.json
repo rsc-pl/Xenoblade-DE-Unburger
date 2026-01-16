@@ -1,0 +1,119 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Call Panel"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Control Panel"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "It does not look like it will activate."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "Central Lift Power Panel"
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Hangar Access Panel"
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Barrier Control Panel"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Explosive Production Panel"
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Vent Panel"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "Looks like it can be destroyed by an explosive."
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "Barrier Control Panel"
+    },
+    {
+      "$id": 11,
+      "style": 14,
+      "name": "Barrier Control Panel"
+    },
+    {
+      "$id": 12,
+      "style": 14,
+      "name": "Weapon Creation Panel"
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "Not enough materials to make an explosive."
+    },
+    {
+      "$id": 14,
+      "style": 14,
+      "name": "Weapon Creation Panel"
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "Explosive complete."
+    },
+    {
+      "$id": 16,
+      "style": 14,
+      "name": "Weapon Creation Panel"
+    },
+    {
+      "$id": 17,
+      "style": 117,
+      "name": "Not enough materials to make a weapon."
+    },
+    {
+      "$id": 18,
+      "style": 14,
+      "name": "Weapon Creation Panel"
+    },
+    {
+      "$id": 19,
+      "style": 117,
+      "name": "Weapon complete."
+    },
+    {
+      "$id": 20,
+      "style": 14,
+      "name": "Weapon Creation Panel"
+    },
+    {
+      "$id": 21,
+      "style": 117,
+      "name": "It looks like a device for producing weapons."
+    }
+  ]
+}

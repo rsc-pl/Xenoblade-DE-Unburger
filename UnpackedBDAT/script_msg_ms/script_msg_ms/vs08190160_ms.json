@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]The ancestral altar lies deep beneath the seals.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]What trials await me, I wonder?[XENO:n ]\nI must not lose focus![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

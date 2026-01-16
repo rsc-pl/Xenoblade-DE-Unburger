@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "I know I should be glad we made it this far, but if we[XENO:n ]\ndon't find the Apocrypha Generator soon...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Exactly.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "The fight against Egil's not going to be easy with[XENO:n ]\nthe Monado in its current state. And we don't know[XENO:n ]\nwhat kind of toll it'll take on Shulk's body.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "We have to destroy that generator.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "It's up ahead.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Shulk?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "There's a strong energy coming[XENO:n ]\nfrom up ahead. That has to be it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Really?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]Then this is it! Egil's gonna be scrap metal[XENO:n ]\nwhen I'm through with him![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

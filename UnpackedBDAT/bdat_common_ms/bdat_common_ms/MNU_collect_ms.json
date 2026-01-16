@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 5,
+      "name": "Veg"
+    },
+    {
+      "$id": 2,
+      "style": 5,
+      "name": "Fruit"
+    },
+    {
+      "$id": 3,
+      "style": 5,
+      "name": "Flower"
+    },
+    {
+      "$id": 4,
+      "style": 5,
+      "name": "Animal"
+    },
+    {
+      "$id": 5,
+      "style": 5,
+      "name": "Bug"
+    },
+    {
+      "$id": 6,
+      "style": 5,
+      "name": "Nature"
+    },
+    {
+      "$id": 7,
+      "style": 5,
+      "name": "Parts"
+    },
+    {
+      "$id": 8,
+      "style": 5,
+      "name": "Strange"
+    },
+    {
+      "$id": 9,
+      "style": 19,
+      "name": "Collectopaedia"
+    },
+    {
+      "$id": 10,
+      "style": 8,
+      "name": "Completion"
+    },
+    {
+      "$id": 11,
+      "style": 1,
+      "name": "%"
+    },
+    {
+      "$id": 12,
+      "style": 19,
+      "name": "Add to Collectopaedia?"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 15,
+      "style": 5,
+      "name": "Use:"
+    },
+    {
+      "$id": 16,
+      "style": 5,
+      "name": "Owned:"
+    },
+    {
+      "$id": 17,
+      "style": 115,
+      "name": "Category Complete!"
+    },
+    {
+      "$id": 18,
+      "style": 115,
+      "name": "Area Complete!"
+    },
+    {
+      "$id": 19,
+      "style": 5,
+      "name": "Other"
+    }
+  ]
+}

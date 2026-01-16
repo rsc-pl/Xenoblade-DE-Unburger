@@ -1,0 +1,159 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "So this is where the Monado was kept?[XENO:n ]\nMy dad took it from here...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Have you always been able to see the future?[XENO:n ]\nYou told me you are from a long line of seers.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Did you have the ability from birth?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Once, I too came into contact with the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Those that are to be seers[XENO:n ]\nmust touch the Monado.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "And a chosen few receive our power.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "That is the ceremony of my family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "And the ceremony was held right here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Shulk, why do you think we can see the future?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]I hadn't really thought about it. After I[XENO:n ]\ngrabbed the Monado, I just saw things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Your visions are the flow of ether itself.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "Ether is the very source of our world's existence.[XENO:n ]\nWhere and how much ether there exists now,[XENO:n ]\nand in the future, can be predicted.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Therefore, in principle, the future of living beings[XENO:n ]\nsuch as us can also be predicted.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]And there is one thing that makes possible[XENO:n ]\nthe visualisation of those predictions.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "You mean the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "The Monado can disrupt the ether, allowing you[XENO:n ]\nto release certain powers. Which means?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "My visions, under the same principle,[XENO:n ]\nare there to disrupt the future. [XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]With no one to control the outcome,[XENO:n ]\nthe future will never change.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "But what if someone were to disrupt[XENO:n ]\nthe future? What then?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "The future would be changed. Is that how[XENO:n ]\nZanza planned to defeat the Machine God?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]But why go to such lengths?[XENO:n ]\nWhat happened all those years ago?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "Did you think it was just a myth?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "I used to only believe in what I could see.[XENO:n ]\nMy home, my friends, the Monado itself![XENO:n ]\nI knew those things were real.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "But when you took the Monado in your hand, you gained[XENO:n ]\nthe ability to see that which was not meant to be seen.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "Are you saying I should stop?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]You are a fluctuation. As a fluctuation, you exist[XENO:n ]\noutside the results of your predictions.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "The more you accept this existence,[XENO:n ]\nthe more malleable the world becomes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]In fact, you have no choice but to accept it.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

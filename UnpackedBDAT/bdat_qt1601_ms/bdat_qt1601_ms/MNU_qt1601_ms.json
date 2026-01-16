@@ -1,0 +1,664 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Mechon attacks on the village are leading to many[XENO:n ]\nresidents getting injured. There isn't enough medicine[XENO:n ]\nto treat them all. Collect some medicinal materials."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Collect 5 lots of [System:Color name=item ]Krabble Back Moss[/System:Color] from[XENO:n ]\nOros Krabbles on the Fallen Arm."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Return to Vortec."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "You got the items needed for the medicine,[XENO:n ]\nbut there are still dangerous Mechon in the area."
+    },
+    {
+      "$id": 5,
+      "style": 148,
+      "name": "The location of the Mechon threatening the village has[XENO:n ]\nbeen discovered. It's near Digit 1 Crevasse. Take out[XENO:n ]\nthis group of Mechon by destroying their leader!"
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Destroy the [System:Color name=item ]Broken Mechon[/System:Color] in the area of[XENO:n ]\nDigit 1 Crevasse."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Return to Vortec."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "You dealt with the Mechon that was attacking[XENO:n ]\nthe villagers. Things should be peaceful now."
+    },
+    {
+      "$id": 9,
+      "style": 148,
+      "name": "There are some strange noises coming from the silver[XENO:n ]\nFace wreckage on the beach. Primo is too scared to go[XENO:n ]\nand fetch water. Find out the cause of the noise."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "Investigate the Silver Wreckage on Wreckage[XENO:n ]\nBeach on the Fallen Arm."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Return to Primo."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "You found the cause of the noise and reassured[XENO:n ]\nPrimo. Now she can return to her water fetching."
+    },
+    {
+      "$id": 13,
+      "style": 148,
+      "name": "When Elena was looking around the village for parts,[XENO:n ]\nshe saw some large Mechon. Defeat the large[XENO:n ]\nMechon so they don't pose a danger to the village."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]M85 Meteor Artillery[/System:Color] units on the[XENO:n ]\nFallen Arm."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "Return to Elena."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "You defeated the large Mechon before they[XENO:n ]\nposed a danger to the villagers."
+    },
+    {
+      "$id": 17,
+      "style": 148,
+      "name": "Because the large Mechon were defeated, the other[XENO:n ]\nMechon have gone on a rampage. They could[XENO:n ]\ncause some real damage! Cull their numbers."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "Defeat 10 [System:Color name=item ]M56 Prototypes[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "Return to Elena."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "You reduced the numbers of Mechon and the[XENO:n ]\nvillagers are safer now."
+    },
+    {
+      "$id": 21,
+      "style": 148,
+      "name": "Orpheus stopped growing at some point. If you have[XENO:n ]\nthe right materials, you will be able to build a device[XENO:n ]\nthat will rectify this. Gather what is needed."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Collect a [System:Color name=item ]Transmission Bypass[/System:Color]."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "Collect an [System:Color name=item ]Exhaust Pump[/System:Color]."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Collect a [System:Color name=item ]Mini Reactor[/System:Color]."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Return to Orpheus."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Shulk built the device with the materials and[XENO:n ]\nhas given it to Orpheus."
+    },
+    {
+      "$id": 27,
+      "style": 148,
+      "name": "Defeat the Offensive Strike Unit, which is in the area[XENO:n ]\nof the Black Wreckage on the Fallen Arm, and collect[XENO:n ]\na Transmission Bypass."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Collect a [System:Color name=item ]Transmission Bypass[/System:Color] from the[XENO:n ]\nOffensive Strike Unit."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Collected a Transmission Bypass from the[XENO:n ]\nOffensive Strike Unit."
+    },
+    {
+      "$id": 30,
+      "style": 148,
+      "name": "Defeat the Offensive Hover Unit, which is in the area[XENO:n ]\nof Digit 4 on the Fallen Arm, and collect an Exhaust[XENO:n ]\nPump."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Collect an [System:Color name=item ]Exhaust Pump[/System:Color] from the[XENO:n ]\nOffensive Hover Unit."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Collected an Exhaust Pump from the[XENO:n ]\nOffensive Hover Unit."
+    },
+    {
+      "$id": 33,
+      "style": 148,
+      "name": "Defeat the Experimental M86 near Digit 2 Plain on[XENO:n ]\nthe Fallen Arm and collect a Mini Reactor."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "Collect a [System:Color name=item ]Mini Reactor[/System:Color] from the[XENO:n ]\nExperimental M86."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "Collected a Mini Reactor from the[XENO:n ]\nExperimental M86."
+    },
+    {
+      "$id": 36,
+      "style": 148,
+      "name": "The memory chips which record how the Machina[XENO:n ]\nused to live are scattered throughout Machine God Field.[XENO:n ]\nHelp return these memories for them."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "Collect 4 [System:Color name=item ]Memory 925 Pieces[/System:Color] from[XENO:n ]\nMachine God Field."
+    },
+    {
+      "$id": 38,
+      "style": 138,
+      "name": "Return to Rillet."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Some of the memories are damaged, but at least[XENO:n ]\nmost of them have been returned."
+    },
+    {
+      "$id": 40,
+      "style": 148,
+      "name": "According to Rillet, the most important memory chip of[XENO:n ]\nall still remains in the capital. It's not clear what this[XENO:n ]\nmemory is of, but recover it for him anyway."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "Collect [System:Color name=item ]Memory 903[/System:Color] in the Judicial District[XENO:n ]\nof Agniratha."
+    },
+    {
+      "$id": 42,
+      "style": 138,
+      "name": "Return to Rillet."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "You returned the villagers' precious memories.[XENO:n ]\nThey are so happy to have them back."
+    },
+    {
+      "$id": 44,
+      "style": 148,
+      "name": "Rei has trouble rescuing people from the water[XENO:n ]\nbecause he's a Machina. Help him collect materials[XENO:n ]\nthat will turn him into a Homs."
+    },
+    {
+      "$id": 45,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Silver Lexos Hearts[/System:Color] from Lexos in[XENO:n ]\nValak Mountain."
+    },
+    {
+      "$id": 46,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Pretty Flamii Legs[/System:Color] from Kukukoro Flamii[XENO:n ]\non the Fallen Arm."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Poisonous Corals[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "Return to Rei."
+    },
+    {
+      "$id": 49,
+      "style": 138,
+      "name": "You collected the right materials but it didn't[XENO:n ]\nwork. Rei needs a new plan."
+    },
+    {
+      "$id": 50,
+      "style": 148,
+      "name": "Monsters have been gathering around the village for[XENO:n ]\nsome unknown reason. You can't leave them there![XENO:n ]\nProtect the Machina and their village!"
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]M35 Prototypes[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 52,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Aura Antols[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 53,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Lampo Ponios[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 54,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Prado Upas[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 55,
+      "style": 138,
+      "name": "Return to Rei."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "You defeated the monsters and ensured the[XENO:n ]\nsafety of the village."
+    },
+    {
+      "$id": 57,
+      "style": 148,
+      "name": "Rei wants to be able to protect the village himself.[XENO:n ]\nTo do this, he needs a special fibre. Collect some of[XENO:n ]\nthis fibre for him."
+    },
+    {
+      "$id": 58,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Silver Antol Fibres[/System:Color] that are very rarely[XENO:n ] \ndropped by Antols on the Fallen Arm."
+    },
+    {
+      "$id": 59,
+      "style": 138,
+      "name": "Return to Rei."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "By implanting the fibre into his muscles, Rei's[XENO:n ]\nbody has become significantly more powerful."
+    },
+    {
+      "$id": 61,
+      "style": 148,
+      "name": "The door of Leanna's home is so old that it's broken,[XENO:n ]\nbut she doesn't have the materials needed to fix it.[XENO:n ]\nCollect the materials that she needs."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Digital Filaments[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 63,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Dated Frames[/System:Color] from the M56 Prototypes[XENO:n ]\non the Fallen Arm."
+    },
+    {
+      "$id": 64,
+      "style": 138,
+      "name": "Return to Leanna."
+    },
+    {
+      "$id": 65,
+      "style": 138,
+      "name": "You gave Leanna the items to fix her door.[XENO:n ]\nShe can get back in her house now."
+    },
+    {
+      "$id": 66,
+      "style": 148,
+      "name": "When Leanna got back in her house she found that[XENO:n ]\nher beloved mechanical flower had wilted. Collect[XENO:n ]\nwhat she needs to return it to its former glory."
+    },
+    {
+      "$id": 67,
+      "style": 138,
+      "name": "Collect some [System:Color name=item ]Pure Water[/System:Color] from Zakt Spring[XENO:n ]\non the Fallen Arm."
+    },
+    {
+      "$id": 68,
+      "style": 138,
+      "name": "Return to Leanna."
+    },
+    {
+      "$id": 69,
+      "style": 138,
+      "name": "Collect 5 lots of [System:Color name=item ]Electric Upa Tears[/System:Color] from Prado[XENO:n ]\nUpas on the Fallen Arm."
+    },
+    {
+      "$id": 70,
+      "style": 138,
+      "name": "Return to Leanna."
+    },
+    {
+      "$id": 71,
+      "style": 138,
+      "name": "The flower swiftly recovered, and Leanna seemed[XENO:n ]\noverjoyed to see it."
+    },
+    {
+      "$id": 72,
+      "style": 148,
+      "name": "When he was in the Defence Force, Caral swore an[XENO:n ]\noath with a friend. Now, he has lost the precious[XENO:n ]\nsword on which they swore that oath. Help him find it."
+    },
+    {
+      "$id": 73,
+      "style": 138,
+      "name": "Find the [System:Color name=item ]Oath Sword[/System:Color] in the area of the Power[XENO:n ]\nPipe Ruins on the Fallen Arm."
+    },
+    {
+      "$id": 74,
+      "style": 138,
+      "name": "Return to Caral."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "You have returned the sword to Caral and he[XENO:n ]\nis even more determined to keep his promise."
+    },
+    {
+      "$id": 76,
+      "style": 148,
+      "name": "The exhaust system is inspected every ten years.[XENO:n ]\nJeki has a bad feeling about this year's inspection.[XENO:n ]\nGo check on the exhaust system for her."
+    },
+    {
+      "$id": 77,
+      "style": 138,
+      "name": "Go to the Ether Exhaust System and eliminate[XENO:n ]\nany problems in the area."
+    },
+    {
+      "$id": 78,
+      "style": 138,
+      "name": "Return to Jeki."
+    },
+    {
+      "$id": 79,
+      "style": 138,
+      "name": "There were Mechon in the Exhaust System.[XENO:n ]\nYou've dealt with them, so Jeki need not worry."
+    },
+    {
+      "$id": 80,
+      "style": 148,
+      "name": "Kyles has made a gun using the latest technology, but[XENO:n ]\ncan't use it properly. This is making protecting the[XENO:n ]\nvillage area difficult. Patrol the area for him."
+    },
+    {
+      "$id": 81,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Offensive Seeker Units[/System:Color] on the[XENO:n ]\nFallen Arm."
+    },
+    {
+      "$id": 82,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Caelum Volff[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 83,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Lelepago Pterix[/System:Color] on the Fallen Arm."
+    },
+    {
+      "$id": 84,
+      "style": 138,
+      "name": "Return to Kyles."
+    },
+    {
+      "$id": 85,
+      "style": 138,
+      "name": "You ensured the safety of the village for Kyles,[XENO:n ]\nbut something is still on his mind..."
+    },
+    {
+      "$id": 86,
+      "style": 148,
+      "name": "Kyles has given up on trying to use the advanced gun,[XENO:n ]\nand decided to make a new gun that he can use.[XENO:n ]\nCollect the materials he needs to defend the village."
+    },
+    {
+      "$id": 87,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Reinforced Thrusters[/System:Color] from[XENO:n ]\nM91/DOGMA Mechon in Machine God Field."
+    },
+    {
+      "$id": 88,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Advanced Frames[/System:Color] from M53/THANK[XENO:n ]\nMechon units in the Central Factory."
+    },
+    {
+      "$id": 89,
+      "style": 138,
+      "name": "Return to Kyles."
+    },
+    {
+      "$id": 90,
+      "style": 138,
+      "name": "Kyles's new gun is perfect for him and his fellow[XENO:n ]\nMachina. He gave the old gun to you as thanks."
+    },
+    {
+      "$id": 91,
+      "style": 148,
+      "name": "Stress has caused Ein to start acting strangely.[XENO:n ]\nEveryone is worried about him. Talk to Ein and[XENO:n ]\nsee if there is a way to help him."
+    },
+    {
+      "$id": 92,
+      "style": 138,
+      "name": "Speak with Ein."
+    },
+    {
+      "$id": 93,
+      "style": 138,
+      "name": "Speak with Ein again."
+    },
+    {
+      "$id": 94,
+      "style": 138,
+      "name": "Have another chat with Ein."
+    },
+    {
+      "$id": 95,
+      "style": 138,
+      "name": "Have yet another chat with Ein."
+    },
+    {
+      "$id": 96,
+      "style": 138,
+      "name": "Return to Elena."
+    },
+    {
+      "$id": 97,
+      "style": 138,
+      "name": "Ein has cheered up because you listened to[XENO:n ]\nhis woes."
+    },
+    {
+      "$id": 98,
+      "style": 148,
+      "name": "Minis's parents are arguing over a broken keepsake,[XENO:n ]\nand she wants to stop them. Talk to both parents to[XENO:n ]\nfind out more about the keepsake in question."
+    },
+    {
+      "$id": 99,
+      "style": 138,
+      "name": "Ask Minis's father, Kyles, about the necessary[XENO:n ]\nmaterials, and collect them."
+    },
+    {
+      "$id": 100,
+      "style": 138,
+      "name": "Ask Minis's mother, Euphoria, about the necessary[XENO:n ]\nmaterials, and collect them."
+    },
+    {
+      "$id": 101,
+      "style": 138,
+      "name": "Return to Minis."
+    },
+    {
+      "$id": 102,
+      "style": 138,
+      "name": "The keepsake is fixed and the parents have[XENO:n ]\nmade up. The family is happy again."
+    },
+    {
+      "$id": 103,
+      "style": 148,
+      "name": "Two items are necessary to fix the keepsake.[XENO:n ]\nKyles has forgotten one, but remembers the other.[XENO:n ]\nCollect some Flier Bloom Scales."
+    },
+    {
+      "$id": 104,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Flier Bloom Scales[/System:Color] from Happiness[XENO:n ]\nFliers on the Fallen Arm."
+    },
+    {
+      "$id": 105,
+      "style": 138,
+      "name": "You collected the Flier Bloom Scales needed[XENO:n ]\nto repair the keepsake."
+    },
+    {
+      "$id": 106,
+      "style": 148,
+      "name": "Two items are necessary to fix the keepsake.[XENO:n ]\nEuphoria has forgotten one, but remembers the other.[XENO:n ]\nCollect some Bronze Wood."
+    },
+    {
+      "$id": 107,
+      "style": 138,
+      "name": "Collect 3 pieces of [System:Color name=item ]Bronze Wood[/System:Color] from[XENO:n ]\nMachine God Field."
+    },
+    {
+      "$id": 108,
+      "style": 138,
+      "name": "You collected the Bronze Wood needed[XENO:n ]\nto repair the keepsake."
+    },
+    {
+      "$id": 109,
+      "style": 148,
+      "name": "It is Natalia's job to take food to those keeping watch[XENO:n ]\noutside the village. However, she hasn't been feeling[XENO:n ]\ntoo well, so take it to Theo for her."
+    },
+    {
+      "$id": 110,
+      "style": 138,
+      "name": "Take the food to Theo who is at the base of[XENO:n ]\nDigit 2."
+    },
+    {
+      "$id": 111,
+      "style": 138,
+      "name": "Take the Deepwater Fish to Natalia."
+    },
+    {
+      "$id": 112,
+      "style": 138,
+      "name": "You took the food to Theo for Natalia and[XENO:n ]\nhelped Theo return the favour."
+    },
+    {
+      "$id": 113,
+      "style": 148,
+      "name": "When it rains you can find Tears of the Sky on the[XENO:n ]\nfingertips of the Fallen Arm. Calbora is too scared of[XENO:n ]\nheights to go and fetch one. Collect one for him."
+    },
+    {
+      "$id": 114,
+      "style": 138,
+      "name": "Collect a [System:Color name=item ]Tear of the Sky[/System:Color] from Distant Fingertip[XENO:n ]\non the Fallen Arm. (Only during a thunderstorm.)"
+    },
+    {
+      "$id": 115,
+      "style": 138,
+      "name": "Return to Calbora."
+    },
+    {
+      "$id": 116,
+      "style": 138,
+      "name": "You collected a Tear of the Sky for Calbora.[XENO:n ]\nBut it looks like he has another request..."
+    },
+    {
+      "$id": 117,
+      "style": 148,
+      "name": "Bozerone is at the Machina Refuge in Machine God Field.[XENO:n ]\nCalbora cannot go there because of his fear of heights.[XENO:n ]\nTake the Tear of the Sky there for him."
+    },
+    {
+      "$id": 118,
+      "style": 138,
+      "name": "Take the Tear of the Sky to Bozerone."
+    },
+    {
+      "$id": 119,
+      "style": 138,
+      "name": "Bozerone has still not returned to the village but[XENO:n ]\nshe is very happy to have a Tear of the Sky."
+    },
+    {
+      "$id": 120,
+      "style": 148,
+      "name": "Shulk finds Fiorung inside the silver Face, unconscious[XENO:n ]\nbut still alive! You have to find a way to help her."
+    },
+    {
+      "$id": 121,
+      "style": 138,
+      "name": "Investigate the beach and get some water[XENO:n ]\nfor Fiorung."
+    },
+    {
+      "$id": 122,
+      "style": 138,
+      "name": "You collected some Clean Water."
+    },
+    {
+      "$id": 123,
+      "style": 148,
+      "name": "Shulk and the others became separated in the[XENO:n ]\nconfusion. He and Fiorung found themselves on a[XENO:n ]\nbeach. The others must be nearby!"
+    },
+    {
+      "$id": 124,
+      "style": 138,
+      "name": "Find your friends."
+    },
+    {
+      "$id": 125,
+      "style": 138,
+      "name": "Find the rest of your friends."
+    },
+    {
+      "$id": 126,
+      "style": 138,
+      "name": "You found everyone and they are all safe."
+    },
+    {
+      "$id": 127,
+      "style": 148,
+      "name": "According to Linada, the only way to treat Fiorung is by[XENO:n ]\nbuilding a circulation system. You need to find a[XENO:n ]\nPiezoelectric Unit to control the system."
+    },
+    {
+      "$id": 128,
+      "style": 138,
+      "name": "Find a [System:Color name=item ]Piezoelectric Unit[/System:Color] amongst the Mechon[XENO:n ]\nwreckage on Digit 5 Beach of the Fallen Arm."
+    },
+    {
+      "$id": 129,
+      "style": 138,
+      "name": "Take the [System:Color name=item ]Piezoelectric Unit[/System:Color] to Linada on Junks."
+    },
+    {
+      "$id": 130,
+      "style": 138,
+      "name": "You have given the Piezoelectric Unit to Linada.[XENO:n ]\nFiorung should be OK now."
+    }
+  ]
+}

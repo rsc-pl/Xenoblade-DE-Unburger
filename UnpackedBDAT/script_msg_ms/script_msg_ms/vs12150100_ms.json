@@ -1,0 +1,179 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "If only we could find Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Yeah, he'll be blubbering at the sight of us.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Hahaha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I don't think he'd ever[XENO:n ]\ncry in front of you two.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "So he does cry?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "When no one's watching?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "Yep. He's always been like that. He's a[XENO:n ]\nbig softy, but he hates anyone seeing it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "I never knew.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Nope! I don't believe it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Take it easy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I'm OK. I want to see my brother.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Let's go, Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]If you can't walk, I'll carry you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I'm much heavier now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]I've been pumping my guns.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I can see![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Reyn, you really looked after Shulk for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]I wanted to, but it feels more like he's[XENO:n ]\nthe one who's been protecting me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]That's not true![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It's OK. I know it, you know it.[XENO:n ]\nI'm not here to protect you anymore.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "But you are here for something.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Yeah. What I did just now.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "It don't matter how strong you get, you ain't[XENO:n ]\ngot eyes in the back of your head.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "So I've got your back![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "Reyn, you...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "Reyn, you're like a whole new person.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT22 ]What do you mean by that?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]I mean, it's good you've become so dependable.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Was I that un-dependable before?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Take it as a compliment![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]You haven't changed a bit.[XENO:n ]\nWhat would we do without you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT3 ]Right, let's go. You wanna see[XENO:n ]\nmy brother cry, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]Yeah, wouldn't miss it![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

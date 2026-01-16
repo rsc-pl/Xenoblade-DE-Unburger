@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "テスト概要"
+    },
+    {
+      "$id": 2,
+      "style": 148,
+      "name": "Dodora likes all things High Entia; that's why he\nwants to make a headdress from their feathers\nhe found in Achamoth. Care to lend him a hand?"
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]High Entia Feathers[/System:Color] in Achamoth."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "Return to Dodora."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "Dodora was overjoyed by the feathers you brought\nhim. The headdress is sure to be interesting..."
+    }
+  ]
+}

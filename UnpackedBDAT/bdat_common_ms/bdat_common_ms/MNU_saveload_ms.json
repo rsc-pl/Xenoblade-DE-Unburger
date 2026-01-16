@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Chapter One"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Chapter Two"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Chapter Three"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Chapter Four"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Chapter Five"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Chapter Six"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Chapter Seven"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Chapter Eight"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Chapter Nine"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Chapter Ten"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Chapter Eleven"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Chapter Twelve"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Chapter Thirteen"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Chapter Fourteen"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Chapter Fifteen"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Chapter Sixteen"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Chapter Seventeen"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "セーブデータ"
+    },
+    {
+      "$id": 19,
+      "style": 9,
+      "name": "CLEAR!"
+    },
+    {
+      "$id": 20,
+      "style": 9,
+      "name": "Auto-save"
+    },
+    {
+      "$id": 21,
+      "style": 9,
+      "name": "New File"
+    },
+    {
+      "$id": 22,
+      "style": 8,
+      "name": "Story Progress"
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "No data"
+    },
+    {
+      "$id": 24,
+      "style": 9,
+      "name": "Casual Mode"
+    }
+  ]
+}

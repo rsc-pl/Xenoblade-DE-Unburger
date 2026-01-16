@@ -1,0 +1,194 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Now that's good fish. Even in this strange place,[XENO:n ]\nat least the fish tastes like it should.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Riki glad Dundun like yum yum fish![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Yeah, thank you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Melly is tired, but Riki tired too.[XENO:n ]\nAnd Dundun not look happy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "What’s this? Am I that transparent?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Riki want to hear Dundun's story.[XENO:n ]\nRiki listen carefully.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]For Riki is the Heropon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "I'm not sure what that's got to do with it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Well, seeing as you're here. I'll tell you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Yay! Riki listen.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "I have a sister. Her name is Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki know. She wears silver armour.[XENO:n ]\nShulk look everywhere for her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "Indeed. Shulk and Fiorung...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Everyone knows they like each other,[XENO:n ]\nbut they're just not ready I suppose.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "They are the perfect match, but if they[XENO:n ]\ndon't hurry up and tell each other...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "Even Riki know that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "I suppose everyone does.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]But now Fiorung has become something else.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]She forget Shulk. She forget Dundun too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "She did.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]But, Shulk won't give up that easily.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Knowing that he's out there looking for her fills[XENO:n ]\nme with hope. I just wish I was there with him...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "Dundun take care of them![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Hmm?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Dundun watch over Shulk.[XENO:n ]\nDundun watch over Fiorung.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT3 ]That is all a daddypon can do.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Riki make mistake. Dundun not daddypon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "Well, I am her older brother.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "But just like daddypon, watching over family.[XENO:n ]\nSame watch over.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Dundun do what he must.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "Who would have thought it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]I never imagined I would be[XENO:n ]\ngetting such advice from you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki have big family of littlepon.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "Riki raised and say goodbye to many littlepon.[XENO:n ]\nRiki know some things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]You can say that again.[XENO:n ]\nI had you all wrong.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

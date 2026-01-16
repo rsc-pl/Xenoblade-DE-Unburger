@@ -1,0 +1,449 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "I thought it was you.[XENO:n ]\nNice to see you, Dickson.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "It's been a while, grandpa.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]One year if my memory hasn't left me.[XENO:n ]\nGood to see you haven't kicked the bucket.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT21 ]Put a sock in it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Wait... Dickson? Dunban? You're the heroes who risked[XENO:n ]\nyour lives a year ago, in the battle to defend the colonies.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]What's a pretty young lady like you doing[XENO:n ]\nhanging around with this bunch of slackers?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Dunban, Dickson, thanks for[XENO:n ]\nhelping out back there.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I don't believe we did anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]He's right. Save your thanks for that giant bird.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]What was that thing?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "A Telethia.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "A mystical beast that protects the sleeping Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Though, I've never heard of one ever[XENO:n ]\nventuring down to where us Homs live.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "Strange.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]A Telethia. So that's what it's called.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]A mystical beast that protects the Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]So, what's your plan from here?[XENO:n ]\nFollow that metal-faced machine, I presume?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]What else? He's gonna pay for what he did to Fiorung.[XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Well then. There's only one place he'd go.[XENO:n ]\nGalahad Fortress in Sword Valley.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "A year ago, those things were building a[XENO:n ]\nhuge fortress, right in the valley.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "Tactically, it's an excellent location to launch attacks from.[XENO:n ]\nI feel there's a strong chance they've now finished building it.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]That would explain why both[XENO:n ]\ncolonies were attacked recently.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Sword Valley... The very place where[XENO:n ]\nwe made our last stand one year ago.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]So it's settled. Bash down a fortress and[XENO:n ]\nsmash some metal brains![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Easy, Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT18 ]Shulk?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "There's somewhere else I need to go first.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But what could be more important than...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Wait... You saw another one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Saw what? What're you on about?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "These visions sound pretty handy.[XENO:n ]\n[XENO:act act=EVT_EXT9 ]Well, out with it. What d'ya see?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I was somewhere very high up.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "I was fighting at the peak of a huge tower.[XENO:n ]\nFighting Black Face.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "I heard a voice, and then the Monado's power[XENO:n ]\nwas unleashed. His armour instantly gave way.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]The Monado doesn't work on Black Face[XENO:n ]\nat the moment, but if that vision comes true...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]A tower? Doesn't give us much to go on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Can you remember anything else from your vision?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "I remember a huge horn.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]That's it! As I fought Black Face,[XENO:n ]\nI could see the Giant God's head.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "Prison Island.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "Prison Island?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]I've never been.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But I've heard of a black tower[XENO:n ]\nat the head of the Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "They say it was built by the ancient High Entia race.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The High Entia are real?[XENO:n ]\nI thought they were a myth![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]I wouldn't blame you, son.[XENO:n ]\nAn ancient race living at the top of the Giant God?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It does sound crazy. But Giant God is home to all kinds of[XENO:n ]\ndifferent people, not just us. That includes the High Entia.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The High Entia? I'd dismissed them as folklore as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Never assume anything.[XENO:n ]\nSeeing is believing, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Have you ever met one?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Well, yeah.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Wow! Dickson, man, you're just full of surprises![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "What can I say? I'm well travelled.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "And it's all for your future. Day and night[XENO:n ]\nI've searched for new lands, met new cultures[XENO:n ]\nand gained knowledge for our people.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "The life of a wandering old fool.[XENO:n ]\nA lonely one at that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT16 ]Stop your whining.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "You do it 'cos you enjoy it.[XENO:n ]\nAnd you make a tidy profit.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Who asked you, Dunban?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Well then, Shulk, what's it to be?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]We'll head there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]There are alternatives. We could abandon[XENO:n ]\nthe colonies, find a place the Mechon will not[XENO:n ]\ndiscover and live in secret.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I realised something when we were fighting Zord. Wherever[XENO:n ]\nwe go, they'll follow. We can't run from these things.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 63,
+      "style": 125,
+      "name": "We must fight on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I see. Then I am obliged to join you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]You want to come with us?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Scared I'll get hurt?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT15 ]No way! We know you're stronger than anything![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 68,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Right, Reyn?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]You bet![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I've recovered a great deal since we last met.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 71,
+      "style": 125,
+      "name": "And that miserly old coot over there made me this.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 72,
+      "style": 125,
+      "name": "Sharp, light. Perfect for cutting through steel.[XENO:n ]\nShow me a Mechon and I'll slice it in two.[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ]"
+    },
+    {
+      "$id": 73,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]I might not be in peak condition, but I'm useful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I can't thank you enough.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]We're in it together now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]You can count on us, Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 125,
+      "name": "Miserly old coot? That sword is forged from[XENO:n ]\nMechon armour. It's worth every penny.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 125,
+      "name": "So you keep saying...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]If you wanna go to the Giant God's head, you'll[XENO:n ]\nneed a guide to get to the upper regions.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]We're at the bottom, so I guess[XENO:n ]\nthe only way to go is up.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Right.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 82,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But we'll need to go up[XENO:n ]\nthe lower back first.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]The lower back...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Colony 6 is right at the[XENO:n ]\ntop of the Giant God's leg.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 85,
+      "style": 125,
+      "name": "So we'll have to head around the waist.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 125,
+      "name": "Through a place called Satorl Marsh.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 125,
+      "name": "Follow me.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "I owe it all to you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "If you hadn't found me that day, I wouldn't[XENO:n ]\nbe here now, discovering the world.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Forgive me, Shulk.[XENO:n ]\nSorry I couldn't save your folks.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Don't be.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Now I think about it, that was when[XENO:n ]\nI found the Monado as well.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]This might be crazy talk, but maybe you[XENO:n ]\nand the Monado are part of some higher plan.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I don't remember much at all.[XENO:n ]\nBut I know that my mum and dad left me it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "The Monado was their final gift to me.[XENO:n ]\nAt least, that's how I used to think of it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]That's why I wanna discover its true[XENO:n ]\npower and help defeat the Mechon.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]But so far I've just been creating piles of Mechon scrap.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "So you don't just wanna[XENO:n ]\nstudy it in a lab after all.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "This sword... There must be some way...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

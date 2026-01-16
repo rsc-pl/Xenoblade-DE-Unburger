@@ -1,0 +1,249 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Skill Trees"
+    },
+    {
+      "$id": 2,
+      "style": 19,
+      "name": "Skill Branches"
+    },
+    {
+      "$id": 3,
+      "style": 23,
+      "name": "性格に合わせてスキルを習得します"
+    },
+    {
+      "$id": 4,
+      "style": 8,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 5,
+      "style": 23,
+      "name": "キズナの力で仲間のスキルを使用します"
+    },
+    {
+      "$id": 6,
+      "style": 19,
+      "name": "スキルリンク > スキル選択"
+    },
+    {
+      "$id": 7,
+      "style": 19,
+      "name": "Arts"
+    },
+    {
+      "$id": 8,
+      "style": 23,
+      "name": "アーツの装備やレベルアップを行います"
+    },
+    {
+      "$id": 9,
+      "style": 19,
+      "name": "Items"
+    },
+    {
+      "$id": 10,
+      "style": 23,
+      "name": "Choose who will give a present."
+    },
+    {
+      "$id": 11,
+      "style": 23,
+      "name": "Choose the present's recipient."
+    },
+    {
+      "$id": 12,
+      "style": 23,
+      "name": "Choose a present to give."
+    },
+    {
+      "$id": 13,
+      "style": 19,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 14,
+      "style": 23,
+      "name": "項目を選択してください"
+    },
+    {
+      "$id": 15,
+      "style": 19,
+      "name": "Main Menu"
+    },
+    {
+      "$id": 16,
+      "style": 19,
+      "name": "Change Equipment"
+    },
+    {
+      "$id": 17,
+      "style": 19,
+      "name": "Party"
+    },
+    {
+      "$id": 18,
+      "style": 19,
+      "name": "Area Map"
+    },
+    {
+      "$id": 19,
+      "style": 19,
+      "name": "Change Time"
+    },
+    {
+      "$id": 20,
+      "style": 19,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Colony 6 Reconstruction"
+    },
+    {
+      "$id": 22,
+      "style": 19,
+      "name": "Gem Crafting"
+    },
+    {
+      "$id": 23,
+      "style": 19,
+      "name": "Items"
+    },
+    {
+      "$id": 24,
+      "style": 19,
+      "name": "Collectopaedia"
+    },
+    {
+      "$id": 25,
+      "style": 19,
+      "name": "Bonding Talk List"
+    },
+    {
+      "$id": 26,
+      "style": 19,
+      "name": "Achievements"
+    },
+    {
+      "$id": 27,
+      "style": 19,
+      "name": "System"
+    },
+    {
+      "$id": 28,
+      "style": 19,
+      "name": "Save"
+    },
+    {
+      "$id": 29,
+      "style": 19,
+      "name": "Load"
+    },
+    {
+      "$id": 30,
+      "style": 19,
+      "name": "Expert Mode"
+    },
+    {
+      "$id": 31,
+      "style": 19,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 32,
+      "style": 19,
+      "name": "Options"
+    },
+    {
+      "$id": 33,
+      "style": 19,
+      "name": "キズナグラム"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Bonding Graph: Settlements"
+    },
+    {
+      "$id": 35,
+      "style": 19,
+      "name": "Bonding Graph: Party"
+    },
+    {
+      "$id": 36,
+      "style": 19,
+      "name": "Quiet Moments"
+    },
+    {
+      "$id": 37,
+      "style": 19,
+      "name": "Time Attack"
+    },
+    {
+      "$id": 38,
+      "style": 19,
+      "name": "Ponspector Report"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Time Attack: Trade"
+    },
+    {
+      "$id": 40,
+      "style": 19,
+      "name": "Shop"
+    },
+    {
+      "$id": 41,
+      "style": 19,
+      "name": "Shop: Buy"
+    },
+    {
+      "$id": 42,
+      "style": 19,
+      "name": "Shop: Sell"
+    },
+    {
+      "$id": 43,
+      "style": 19,
+      "name": "Trade"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Time Attack: Challenges"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Colony 6 Reconstruction"
+    },
+    {
+      "$id": 46,
+      "style": 19,
+      "name": "Results"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Arts Manual Shop"
+    }
+  ]
+}

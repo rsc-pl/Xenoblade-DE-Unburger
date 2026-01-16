@@ -1,0 +1,189 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Landmark"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Secret Area"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Location"
+    },
+    {
+      "$id": 4,
+      "style": 19,
+      "name": "Achievements"
+    },
+    {
+      "$id": 5,
+      "style": 7,
+      "name": "Records"
+    },
+    {
+      "$id": 6,
+      "style": 7,
+      "name": "Trials"
+    },
+    {
+      "$id": 7,
+      "style": 24,
+      "name": "???"
+    },
+    {
+      "$id": 8,
+      "style": 19,
+      "name": "Bonding Talk List"
+    },
+    {
+      "$id": 9,
+      "style": 73,
+      "name": "???"
+    },
+    {
+      "$id": 10,
+      "style": 6,
+      "name": "Confirm"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Update"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Location"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Secret Area"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Landmark"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Achievement"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Yoink!"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Item Collected"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Daytime"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Night-time"
+    },
+    {
+      "$id": 20,
+      "style": 7,
+      "name": "Achievement"
+    },
+    {
+      "$id": 21,
+      "style": 7,
+      "name": "Difficulty"
+    },
+    {
+      "$id": 22,
+      "style": 7,
+      "name": "Description"
+    },
+    {
+      "$id": 23,
+      "style": 10,
+      "name": "Experience Value"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Buff Effect"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Debuff Effect"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Quest Updated"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Aff. Chart Updated"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Tutorial Added"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Bonding Change"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Reputation Change"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Arts Coin Acquired"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Gameplay Tips"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Can't defeat a boss?"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Casual Mode"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Enemies too strong?"
+    }
+  ]
+}

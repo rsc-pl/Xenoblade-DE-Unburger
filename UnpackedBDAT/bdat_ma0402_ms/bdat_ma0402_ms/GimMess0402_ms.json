@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Depot Access Lever"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Call Button"
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Activation Button"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Call Button"
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Activation Button"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Storage Depot Gate"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "The door is closed tightly.[XENO:n ]\nThere might be a switch to open the door at the[XENO:n ]\nMine Observation Point at the end of Test Pit 4."
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "Storage Depot Gate"
+    },
+    {
+      "$id": 11,
+      "style": 117,
+      "name": "It is closed."
+    }
+  ]
+}

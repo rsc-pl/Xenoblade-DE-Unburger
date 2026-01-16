@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "You idiots! What the hell are you playing at?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]Uh-oh! The colonel's gonna explode.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Crashing the mobile artillery into a house?![XENO:n ]\nHow long have you been in the force?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Sorry, Sir. It's just that we were trying to[XENO:n ]\ngo as fast as we could, like you ordered...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But it's impossible to get back to the[XENO:n ]\nMilitary District in only 40 seconds.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "I don't want any excuses![XENO:n ]\nChampions don't whine, they win![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Yes, sir.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You're a disgrace to the uniform![XENO:n ]\nAre you forgetting the shame you brought on this[XENO:n ]\nforce during joint manoeuvres with Colony 6?![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Stick your back into it, maggots! Move it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]Yes, sir.[XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Get the artillery back to the Military District, double time![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Then I want a million press-ups from both of you![XENO:n ]\nAnd you better not stop until your biceps explode![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]Colonel. We can't move the artillery.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]What? You'd better give a damn good reason why![XENO:act act=EVT_EXT6 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "Sir![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "The impact of the crash damaged the ether conduction cable![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "The ether fuel proceeded to leak out[XENO:n ]\nand now the cylinder is empty![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Well, change the cylinder then! Can't you[XENO:n ]\neven do something as simple as that?![XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]The auxiliary cylinders have all been used up.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "It'll be three days until more come in, Sir.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "I told you to keep a stock of fuel in reserve![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Sorry, Sir...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "You're nothing but slackers![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Same old colonel. At this rate, the men will[XENO:n ]\n[XENO:act act=EVT_EXT30 ]all be dead before they see any action.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

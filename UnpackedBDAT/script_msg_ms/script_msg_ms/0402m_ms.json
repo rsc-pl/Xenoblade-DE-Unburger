@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "That's the two Ready Coils.[XENO:wait wait=key ][System:PageBreak ]They might come in handy for[XENO:n ]\nrebuilding Colony 6.[XENO:wait wait=key ][System:PageBreak ]I don't know about all this stuff.[XENO:n ]\nThis is more Shulk's thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "This is the third Love Crane.[XENO:wait wait=key ][System:PageBreak ]They should make Pip happy.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,5509 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 13,
+      "name": "Art 1"
+    },
+    {
+      "$id": 2,
+      "style": 13,
+      "name": "Rock Punch"
+    },
+    {
+      "$id": 3,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 4,
+      "style": 13,
+      "name": "Energy Flash"
+    },
+    {
+      "$id": 5,
+      "style": 13,
+      "name": "Dead Slash"
+    },
+    {
+      "$id": 6,
+      "style": 13,
+      "name": "Cross Claw"
+    },
+    {
+      "$id": 7,
+      "style": 13,
+      "name": "Skull Crack"
+    },
+    {
+      "$id": 8,
+      "style": 13,
+      "name": "Thunder Flash"
+    },
+    {
+      "$id": 9,
+      "style": 13,
+      "name": "Reconstruct"
+    },
+    {
+      "$id": 10,
+      "style": 13,
+      "name": "Hit Back"
+    },
+    {
+      "$id": 11,
+      "style": 13,
+      "name": "Cut Scratch"
+    },
+    {
+      "$id": 12,
+      "style": 13,
+      "name": "Dead Panic"
+    },
+    {
+      "$id": 13,
+      "style": 13,
+      "name": "Dead Bind"
+    },
+    {
+      "$id": 14,
+      "style": 13,
+      "name": "Olden Shield"
+    },
+    {
+      "$id": 15,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 16,
+      "style": 13,
+      "name": "Flame Throw"
+    },
+    {
+      "$id": 17,
+      "style": 13,
+      "name": "Energy Wipe"
+    },
+    {
+      "$id": 18,
+      "style": 13,
+      "name": "Energy Steal"
+    },
+    {
+      "$id": 19,
+      "style": 13,
+      "name": "Screw Shot"
+    },
+    {
+      "$id": 20,
+      "style": 13,
+      "name": "Energy Injection"
+    },
+    {
+      "$id": 21,
+      "style": 13,
+      "name": "Screw Dance IV"
+    },
+    {
+      "$id": 22,
+      "style": 13,
+      "name": "Hyper Steal"
+    },
+    {
+      "$id": 23,
+      "style": 13,
+      "name": "Poison Shot"
+    },
+    {
+      "$id": 24,
+      "style": 13,
+      "name": "Blow Shot"
+    },
+    {
+      "$id": 25,
+      "style": 13,
+      "name": "Speed Steal"
+    },
+    {
+      "$id": 26,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 27,
+      "style": 13,
+      "name": "Dead Shot IV"
+    },
+    {
+      "$id": 28,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 29,
+      "style": 13,
+      "name": "Head Shock"
+    },
+    {
+      "$id": 30,
+      "style": 13,
+      "name": "Eating One I"
+    },
+    {
+      "$id": 31,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 32,
+      "style": 13,
+      "name": "Power Down"
+    },
+    {
+      "$id": 33,
+      "style": 13,
+      "name": "Area Lock-On"
+    },
+    {
+      "$id": 34,
+      "style": 13,
+      "name": "Blood Screw"
+    },
+    {
+      "$id": 35,
+      "style": 13,
+      "name": "Area Haste"
+    },
+    {
+      "$id": 36,
+      "style": 13,
+      "name": "Drill Screw"
+    },
+    {
+      "$id": 37,
+      "style": 13,
+      "name": "Atomic Glow IV"
+    },
+    {
+      "$id": 38,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 39,
+      "style": 13,
+      "name": "Hard Bash"
+    },
+    {
+      "$id": 40,
+      "style": 13,
+      "name": "Laser"
+    },
+    {
+      "$id": 41,
+      "style": 13,
+      "name": "Bolt Screw"
+    },
+    {
+      "$id": 42,
+      "style": 13,
+      "name": "Ether Chaff"
+    },
+    {
+      "$id": 43,
+      "style": 13,
+      "name": "Machine Fighter"
+    },
+    {
+      "$id": 44,
+      "style": 13,
+      "name": "Venom Screw"
+    },
+    {
+      "$id": 45,
+      "style": 13,
+      "name": "Feel Bash"
+    },
+    {
+      "$id": 46,
+      "style": 13,
+      "name": "Slow Laser"
+    },
+    {
+      "$id": 47,
+      "style": 13,
+      "name": "Deadly Chainsaw"
+    },
+    {
+      "$id": 48,
+      "style": 13,
+      "name": "Upper Chainsaw II"
+    },
+    {
+      "$id": 49,
+      "style": 13,
+      "name": "Cylinder Hand I"
+    },
+    {
+      "$id": 50,
+      "style": 13,
+      "name": "Long Cannon"
+    },
+    {
+      "$id": 51,
+      "style": 13,
+      "name": "Lower Chainsaw"
+    },
+    {
+      "$id": 52,
+      "style": 13,
+      "name": "Auto Chainsaw"
+    },
+    {
+      "$id": 53,
+      "style": 13,
+      "name": "Long Cannon"
+    },
+    {
+      "$id": 54,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 55,
+      "style": 13,
+      "name": "Cure Repair"
+    },
+    {
+      "$id": 56,
+      "style": 13,
+      "name": "Explosion III"
+    },
+    {
+      "$id": 57,
+      "style": 13,
+      "name": "Energy Laser"
+    },
+    {
+      "$id": 58,
+      "style": 13,
+      "name": "Strong Solid"
+    },
+    {
+      "$id": 59,
+      "style": 13,
+      "name": "System Alert"
+    },
+    {
+      "$id": 60,
+      "style": 13,
+      "name": "System Alert"
+    },
+    {
+      "$id": 61,
+      "style": 13,
+      "name": "Fire Shot"
+    },
+    {
+      "$id": 62,
+      "style": 13,
+      "name": "Tentacles"
+    },
+    {
+      "$id": 63,
+      "style": 13,
+      "name": "Ripple Laser III"
+    },
+    {
+      "$id": 64,
+      "style": 13,
+      "name": "Lower Laser"
+    },
+    {
+      "$id": 65,
+      "style": 13,
+      "name": "Tentacle Growth"
+    },
+    {
+      "$id": 66,
+      "style": 13,
+      "name": "Over Tentacle IV"
+    },
+    {
+      "$id": 67,
+      "style": 13,
+      "name": "Fire Shot"
+    },
+    {
+      "$id": 68,
+      "style": 13,
+      "name": "Beat Sickle"
+    },
+    {
+      "$id": 69,
+      "style": 13,
+      "name": "Physical Bite III"
+    },
+    {
+      "$id": 70,
+      "style": 13,
+      "name": "Strong Bite IV"
+    },
+    {
+      "$id": 71,
+      "style": 13,
+      "name": "Spinning Slice"
+    },
+    {
+      "$id": 72,
+      "style": 13,
+      "name": "Ether Bullet"
+    },
+    {
+      "$id": 73,
+      "style": 13,
+      "name": "Hard Armour"
+    },
+    {
+      "$id": 74,
+      "style": 13,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 75,
+      "style": 13,
+      "name": "Auto Repair"
+    },
+    {
+      "$id": 76,
+      "style": 13,
+      "name": "Rush"
+    },
+    {
+      "$id": 77,
+      "style": 13,
+      "name": "Boost One"
+    },
+    {
+      "$id": 78,
+      "style": 13,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 79,
+      "style": 13,
+      "name": "Delayal"
+    },
+    {
+      "$id": 80,
+      "style": 13,
+      "name": "Sliding Sword V"
+    },
+    {
+      "$id": 81,
+      "style": 13,
+      "name": "Boost Two"
+    },
+    {
+      "$id": 82,
+      "style": 13,
+      "name": "Boost Three"
+    },
+    {
+      "$id": 83,
+      "style": 13,
+      "name": "Nitroglycerine"
+    },
+    {
+      "$id": 84,
+      "style": 13,
+      "name": "Panic Rush"
+    },
+    {
+      "$id": 85,
+      "style": 13,
+      "name": "Mighty Laser"
+    },
+    {
+      "$id": 86,
+      "style": 13,
+      "name": "Flame Throw"
+    },
+    {
+      "$id": 87,
+      "style": 13,
+      "name": "Hush Chop V"
+    },
+    {
+      "$id": 88,
+      "style": 13,
+      "name": "Repair"
+    },
+    {
+      "$id": 89,
+      "style": 13,
+      "name": "Soaked Wall"
+    },
+    {
+      "$id": 90,
+      "style": 13,
+      "name": "Big Combo VI"
+    },
+    {
+      "$id": 91,
+      "style": 13,
+      "name": "Activity: Strong"
+    },
+    {
+      "$id": 92,
+      "style": 13,
+      "name": "Big Spin"
+    },
+    {
+      "$id": 93,
+      "style": 13,
+      "name": "Remote Cannon"
+    },
+    {
+      "$id": 94,
+      "style": 13,
+      "name": "Activity: Weak"
+    },
+    {
+      "$id": 95,
+      "style": 13,
+      "name": "Mega Flame Throw"
+    },
+    {
+      "$id": 96,
+      "style": 13,
+      "name": "Titan Stamp"
+    },
+    {
+      "$id": 97,
+      "style": 13,
+      "name": "Black Matter"
+    },
+    {
+      "$id": 98,
+      "style": 13,
+      "name": "Titan Laser V"
+    },
+    {
+      "$id": 99,
+      "style": 13,
+      "name": "Titan Laser VII"
+    },
+    {
+      "$id": 100,
+      "style": 13,
+      "name": "Ether Laser"
+    },
+    {
+      "$id": 101,
+      "style": 13,
+      "name": "Attack Mode"
+    },
+    {
+      "$id": 102,
+      "style": 13,
+      "name": "Spin Attack I"
+    },
+    {
+      "$id": 103,
+      "style": 13,
+      "name": "Bolt Shock"
+    },
+    {
+      "$id": 104,
+      "style": 13,
+      "name": "Guard Mode"
+    },
+    {
+      "$id": 105,
+      "style": 13,
+      "name": "Repair"
+    },
+    {
+      "$id": 106,
+      "style": 13,
+      "name": "Spiral Attack II"
+    },
+    {
+      "$id": 107,
+      "style": 13,
+      "name": "Feint Shock"
+    },
+    {
+      "$id": 108,
+      "style": 13,
+      "name": "Silent Shock"
+    },
+    {
+      "$id": 109,
+      "style": 13,
+      "name": "Barrier"
+    },
+    {
+      "$id": 110,
+      "style": 13,
+      "name": "Rapid Lasers"
+    },
+    {
+      "$id": 111,
+      "style": 13,
+      "name": "Blast Laser III"
+    },
+    {
+      "$id": 112,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 113,
+      "style": 13,
+      "name": "Shoulder Bomb"
+    },
+    {
+      "$id": 114,
+      "style": 13,
+      "name": "Swing Beat"
+    },
+    {
+      "$id": 115,
+      "style": 13,
+      "name": "Bazooka V"
+    },
+    {
+      "$id": 116,
+      "style": 13,
+      "name": "Boost Attack"
+    },
+    {
+      "$id": 117,
+      "style": 13,
+      "name": "Bunnit Upper"
+    },
+    {
+      "$id": 118,
+      "style": 13,
+      "name": "Body Blow"
+    },
+    {
+      "$id": 119,
+      "style": 13,
+      "name": "Bunnit Bat"
+    },
+    {
+      "$id": 120,
+      "style": 13,
+      "name": "Bunnit Combo I"
+    },
+    {
+      "$id": 121,
+      "style": 13,
+      "name": "Topple Upper"
+    },
+    {
+      "$id": 122,
+      "style": 13,
+      "name": "Hit Swing"
+    },
+    {
+      "$id": 123,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 124,
+      "style": 13,
+      "name": "Bunnit Combo II"
+    },
+    {
+      "$id": 125,
+      "style": 13,
+      "name": "Bunnit Home Run IX"
+    },
+    {
+      "$id": 126,
+      "style": 13,
+      "name": "Huge Swing"
+    },
+    {
+      "$id": 127,
+      "style": 13,
+      "name": "Bunnit Sack"
+    },
+    {
+      "$id": 128,
+      "style": 13,
+      "name": "Venom Swing"
+    },
+    {
+      "$id": 129,
+      "style": 13,
+      "name": "Swing Upper"
+    },
+    {
+      "$id": 130,
+      "style": 13,
+      "name": "Hit Swing"
+    },
+    {
+      "$id": 131,
+      "style": 13,
+      "name": "Daze Swing"
+    },
+    {
+      "$id": 132,
+      "style": 13,
+      "name": "Bunnit Combo IX"
+    },
+    {
+      "$id": 133,
+      "style": 13,
+      "name": "Bloody Swing"
+    },
+    {
+      "$id": 134,
+      "style": 13,
+      "name": "Knock Back"
+    },
+    {
+      "$id": 135,
+      "style": 13,
+      "name": "Tail Spike"
+    },
+    {
+      "$id": 136,
+      "style": 13,
+      "name": "Side Swipe"
+    },
+    {
+      "$id": 137,
+      "style": 13,
+      "name": "Super Knock Back I"
+    },
+    {
+      "$id": 138,
+      "style": 13,
+      "name": "Super Tail Spike II"
+    },
+    {
+      "$id": 139,
+      "style": 13,
+      "name": "Lone Warrior"
+    },
+    {
+      "$id": 140,
+      "style": 13,
+      "name": "Ardent Howl"
+    },
+    {
+      "$id": 141,
+      "style": 13,
+      "name": "Freeze Intimidate"
+    },
+    {
+      "$id": 142,
+      "style": 13,
+      "name": "Savage"
+    },
+    {
+      "$id": 143,
+      "style": 13,
+      "name": "Terrible Howl"
+    },
+    {
+      "$id": 144,
+      "style": 13,
+      "name": "Battle Howl"
+    },
+    {
+      "$id": 145,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 146,
+      "style": 13,
+      "name": "Shudder Intimidate"
+    },
+    {
+      "$id": 147,
+      "style": 13,
+      "name": "Taunt"
+    },
+    {
+      "$id": 148,
+      "style": 13,
+      "name": "Poison Fang"
+    },
+    {
+      "$id": 149,
+      "style": 13,
+      "name": "Iron Howl"
+    },
+    {
+      "$id": 150,
+      "style": 13,
+      "name": "Taunt"
+    },
+    {
+      "$id": 151,
+      "style": 13,
+      "name": "Savage"
+    },
+    {
+      "$id": 152,
+      "style": 13,
+      "name": "Combo II"
+    },
+    {
+      "$id": 153,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 154,
+      "style": 13,
+      "name": "Fire Breath"
+    },
+    {
+      "$id": 155,
+      "style": 13,
+      "name": "Lullaby"
+    },
+    {
+      "$id": 156,
+      "style": 13,
+      "name": "Armu Plough"
+    },
+    {
+      "$id": 157,
+      "style": 13,
+      "name": "Armu Call"
+    },
+    {
+      "$id": 158,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 159,
+      "style": 13,
+      "name": "Rampage"
+    },
+    {
+      "$id": 160,
+      "style": 13,
+      "name": "Ardun Voice"
+    },
+    {
+      "$id": 161,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 162,
+      "style": 13,
+      "name": "Ferocious Gore I"
+    },
+    {
+      "$id": 163,
+      "style": 13,
+      "name": "Fatal Lunge"
+    },
+    {
+      "$id": 164,
+      "style": 13,
+      "name": "Bison Charge"
+    },
+    {
+      "$id": 165,
+      "style": 13,
+      "name": "Bison Voice"
+    },
+    {
+      "$id": 166,
+      "style": 13,
+      "name": "Ferocious Gore"
+    },
+    {
+      "$id": 167,
+      "style": 13,
+      "name": "Bison Rampage III"
+    },
+    {
+      "$id": 168,
+      "style": 13,
+      "name": "Ice Breath"
+    },
+    {
+      "$id": 169,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 170,
+      "style": 13,
+      "name": "Dark Howl"
+    },
+    {
+      "$id": 171,
+      "style": 13,
+      "name": "Dark Breath"
+    },
+    {
+      "$id": 172,
+      "style": 13,
+      "name": "Full Power Butt"
+    },
+    {
+      "$id": 173,
+      "style": 13,
+      "name": "Full Power Gore"
+    },
+    {
+      "$id": 174,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 175,
+      "style": 13,
+      "name": "Butt"
+    },
+    {
+      "$id": 176,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 177,
+      "style": 13,
+      "name": "Ultra Butt"
+    },
+    {
+      "$id": 178,
+      "style": 13,
+      "name": "Ultra Gore"
+    },
+    {
+      "$id": 179,
+      "style": 13,
+      "name": "Barrier"
+    },
+    {
+      "$id": 180,
+      "style": 13,
+      "name": "Bloody Head Charge"
+    },
+    {
+      "$id": 181,
+      "style": 13,
+      "name": "Swing Cut"
+    },
+    {
+      "$id": 182,
+      "style": 13,
+      "name": "Adrenaline"
+    },
+    {
+      "$id": 183,
+      "style": 13,
+      "name": "Protein"
+    },
+    {
+      "$id": 184,
+      "style": 13,
+      "name": "Taunt"
+    },
+    {
+      "$id": 185,
+      "style": 13,
+      "name": "Head Butt"
+    },
+    {
+      "$id": 186,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 187,
+      "style": 13,
+      "name": "Threatening Roar"
+    },
+    {
+      "$id": 188,
+      "style": 13,
+      "name": "Beast Rampage"
+    },
+    {
+      "$id": 189,
+      "style": 13,
+      "name": "Behemoth Rampage"
+    },
+    {
+      "$id": 190,
+      "style": 13,
+      "name": "Onslaught One VIII"
+    },
+    {
+      "$id": 191,
+      "style": 13,
+      "name": "Onslaught Two"
+    },
+    {
+      "$id": 192,
+      "style": 13,
+      "name": "Thunderous Roar"
+    },
+    {
+      "$id": 193,
+      "style": 13,
+      "name": "Devour"
+    },
+    {
+      "$id": 194,
+      "style": 13,
+      "name": "Smash"
+    },
+    {
+      "$id": 195,
+      "style": 13,
+      "name": "Dive Attack"
+    },
+    {
+      "$id": 196,
+      "style": 13,
+      "name": "Poison Tongue II"
+    },
+    {
+      "$id": 197,
+      "style": 13,
+      "name": "Ultra Smash I"
+    },
+    {
+      "$id": 198,
+      "style": 13,
+      "name": "Gorge"
+    },
+    {
+      "$id": 199,
+      "style": 13,
+      "name": "Big Body Press"
+    },
+    {
+      "$id": 200,
+      "style": 13,
+      "name": "Slow Water"
+    },
+    {
+      "$id": 201,
+      "style": 13,
+      "name": "Knock-Down Spin"
+    },
+    {
+      "$id": 202,
+      "style": 13,
+      "name": "Angler Fish Hit"
+    },
+    {
+      "$id": 203,
+      "style": 13,
+      "name": "Thunderbolt II"
+    },
+    {
+      "$id": 204,
+      "style": 13,
+      "name": "Sleepy Bubble"
+    },
+    {
+      "$id": 205,
+      "style": 13,
+      "name": "Poison Hit"
+    },
+    {
+      "$id": 206,
+      "style": 13,
+      "name": "Sleep Water"
+    },
+    {
+      "$id": 207,
+      "style": 13,
+      "name": "Tension Up"
+    },
+    {
+      "$id": 208,
+      "style": 13,
+      "name": "Knock-Down Spin"
+    },
+    {
+      "$id": 209,
+      "style": 13,
+      "name": "Bloody Claw"
+    },
+    {
+      "$id": 210,
+      "style": 13,
+      "name": "Hard Spin II"
+    },
+    {
+      "$id": 211,
+      "style": 13,
+      "name": "Gnaw"
+    },
+    {
+      "$id": 212,
+      "style": 13,
+      "name": "Drop Kick"
+    },
+    {
+      "$id": 213,
+      "style": 13,
+      "name": "Electro Breath"
+    },
+    {
+      "$id": 214,
+      "style": 13,
+      "name": "Electro Shot II"
+    },
+    {
+      "$id": 215,
+      "style": 13,
+      "name": "Blazing Breath"
+    },
+    {
+      "$id": 216,
+      "style": 13,
+      "name": "Flame Shot II"
+    },
+    {
+      "$id": 217,
+      "style": 13,
+      "name": "Dark Breath"
+    },
+    {
+      "$id": 218,
+      "style": 13,
+      "name": "Dark Cannon IX"
+    },
+    {
+      "$id": 219,
+      "style": 13,
+      "name": "Devour X"
+    },
+    {
+      "$id": 220,
+      "style": 13,
+      "name": "Tyranno Tail"
+    },
+    {
+      "$id": 221,
+      "style": 13,
+      "name": "Play Bite"
+    },
+    {
+      "$id": 222,
+      "style": 13,
+      "name": "Tail Strike"
+    },
+    {
+      "$id": 223,
+      "style": 13,
+      "name": "Burning Justice"
+    },
+    {
+      "$id": 224,
+      "style": 13,
+      "name": "Air Crush X"
+    },
+    {
+      "$id": 225,
+      "style": 13,
+      "name": "Fatal Crunch"
+    },
+    {
+      "$id": 226,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 227,
+      "style": 13,
+      "name": "Blazing Flare"
+    },
+    {
+      "$id": 228,
+      "style": 13,
+      "name": "Roar"
+    },
+    {
+      "$id": 229,
+      "style": 13,
+      "name": "Big Gore VIII"
+    },
+    {
+      "$id": 230,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 231,
+      "style": 13,
+      "name": "Poison Breath"
+    },
+    {
+      "$id": 232,
+      "style": 13,
+      "name": "Tail Gore"
+    },
+    {
+      "$id": 233,
+      "style": 13,
+      "name": "Fury Horn"
+    },
+    {
+      "$id": 234,
+      "style": 13,
+      "name": "Paralyse Gasp II"
+    },
+    {
+      "$id": 235,
+      "style": 13,
+      "name": "Ultra Paralyse Blast III"
+    },
+    {
+      "$id": 236,
+      "style": 13,
+      "name": "Gore"
+    },
+    {
+      "$id": 237,
+      "style": 13,
+      "name": "Ice Breath"
+    },
+    {
+      "$id": 238,
+      "style": 13,
+      "name": "Squall III"
+    },
+    {
+      "$id": 239,
+      "style": 13,
+      "name": "Winged Fury"
+    },
+    {
+      "$id": 240,
+      "style": 13,
+      "name": "Fire Breath"
+    },
+    {
+      "$id": 241,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 242,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 243,
+      "style": 13,
+      "name": "Turul's Awakening"
+    },
+    {
+      "$id": 244,
+      "style": 13,
+      "name": "Blizzard Breath"
+    },
+    {
+      "$id": 245,
+      "style": 13,
+      "name": "Multi-Stab"
+    },
+    {
+      "$id": 246,
+      "style": 13,
+      "name": "Weakening Howl"
+    },
+    {
+      "$id": 247,
+      "style": 13,
+      "name": "Sumo Stomp"
+    },
+    {
+      "$id": 248,
+      "style": 13,
+      "name": "Dark Breath"
+    },
+    {
+      "$id": 249,
+      "style": 13,
+      "name": "Vicious Combo"
+    },
+    {
+      "$id": 250,
+      "style": 13,
+      "name": "Howling Grudge"
+    },
+    {
+      "$id": 251,
+      "style": 13,
+      "name": "Antimatter Blast VI"
+    },
+    {
+      "$id": 252,
+      "style": 13,
+      "name": "Water Shot"
+    },
+    {
+      "$id": 253,
+      "style": 13,
+      "name": "Kick Rush"
+    },
+    {
+      "$id": 254,
+      "style": 13,
+      "name": "Snipe Shot I"
+    },
+    {
+      "$id": 255,
+      "style": 13,
+      "name": "Binding Screech"
+    },
+    {
+      "$id": 256,
+      "style": 13,
+      "name": "Razor Water"
+    },
+    {
+      "$id": 257,
+      "style": 13,
+      "name": "Insane Screech"
+    },
+    {
+      "$id": 258,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 259,
+      "style": 13,
+      "name": "Venom Rush"
+    },
+    {
+      "$id": 260,
+      "style": 13,
+      "name": "Shock Roar"
+    },
+    {
+      "$id": 261,
+      "style": 13,
+      "name": "Venom Shot"
+    },
+    {
+      "$id": 262,
+      "style": 13,
+      "name": "Gale"
+    },
+    {
+      "$id": 263,
+      "style": 13,
+      "name": "Speed Up"
+    },
+    {
+      "$id": 264,
+      "style": 13,
+      "name": "Hard Crash"
+    },
+    {
+      "$id": 265,
+      "style": 13,
+      "name": "Build Up"
+    },
+    {
+      "$id": 266,
+      "style": 13,
+      "name": "Winged Fury"
+    },
+    {
+      "$id": 267,
+      "style": 13,
+      "name": "Heavy Crash II"
+    },
+    {
+      "$id": 268,
+      "style": 13,
+      "name": "Wing Smite"
+    },
+    {
+      "$id": 269,
+      "style": 13,
+      "name": "Winged Cure"
+    },
+    {
+      "$id": 270,
+      "style": 13,
+      "name": "Tornado Spin"
+    },
+    {
+      "$id": 271,
+      "style": 13,
+      "name": "Skewer"
+    },
+    {
+      "$id": 272,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 273,
+      "style": 13,
+      "name": "Anaesthetic Stab"
+    },
+    {
+      "$id": 274,
+      "style": 13,
+      "name": "Winged Cure"
+    },
+    {
+      "$id": 275,
+      "style": 13,
+      "name": "Scratch"
+    },
+    {
+      "$id": 276,
+      "style": 13,
+      "name": "Rising Slice"
+    },
+    {
+      "$id": 277,
+      "style": 13,
+      "name": "Air Slice I"
+    },
+    {
+      "$id": 278,
+      "style": 13,
+      "name": "Funky Dance"
+    },
+    {
+      "$id": 279,
+      "style": 13,
+      "name": "Aerial Mode"
+    },
+    {
+      "$id": 280,
+      "style": 13,
+      "name": "Power Mode"
+    },
+    {
+      "$id": 281,
+      "style": 13,
+      "name": "Winged Fury"
+    },
+    {
+      "$id": 282,
+      "style": 13,
+      "name": "Venom Storm"
+    },
+    {
+      "$id": 283,
+      "style": 13,
+      "name": "High Frequency"
+    },
+    {
+      "$id": 284,
+      "style": 13,
+      "name": "Double Peck"
+    },
+    {
+      "$id": 285,
+      "style": 13,
+      "name": "Air Attack I"
+    },
+    {
+      "$id": 286,
+      "style": 13,
+      "name": "Binding Noise"
+    },
+    {
+      "$id": 287,
+      "style": 13,
+      "name": "Silent Noise"
+    },
+    {
+      "$id": 288,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 289,
+      "style": 13,
+      "name": "Air Dive III"
+    },
+    {
+      "$id": 290,
+      "style": 13,
+      "name": "Double Check"
+    },
+    {
+      "$id": 291,
+      "style": 13,
+      "name": "Howling Mockery"
+    },
+    {
+      "$id": 292,
+      "style": 13,
+      "name": "Twin Attack"
+    },
+    {
+      "$id": 293,
+      "style": 13,
+      "name": "Poison Breath"
+    },
+    {
+      "$id": 294,
+      "style": 13,
+      "name": "Poison Attack IV"
+    },
+    {
+      "$id": 295,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 296,
+      "style": 13,
+      "name": "Crushing Blow"
+    },
+    {
+      "$id": 297,
+      "style": 13,
+      "name": "Ankle Bite"
+    },
+    {
+      "$id": 298,
+      "style": 13,
+      "name": "Slow-Footed Net"
+    },
+    {
+      "$id": 299,
+      "style": 13,
+      "name": "Pheromone Enhance"
+    },
+    {
+      "$id": 300,
+      "style": 13,
+      "name": "Slow-Footed Net"
+    },
+    {
+      "$id": 301,
+      "style": 13,
+      "name": "Active Pheromones"
+    },
+    {
+      "$id": 302,
+      "style": 13,
+      "name": "Scar Claw"
+    },
+    {
+      "$id": 303,
+      "style": 13,
+      "name": "Scissor Jaws"
+    },
+    {
+      "$id": 304,
+      "style": 13,
+      "name": "Melting Shower"
+    },
+    {
+      "$id": 305,
+      "style": 13,
+      "name": "Violent Pheromones"
+    },
+    {
+      "$id": 306,
+      "style": 13,
+      "name": "Insect Awakening"
+    },
+    {
+      "$id": 307,
+      "style": 13,
+      "name": "Pushing Claw"
+    },
+    {
+      "$id": 308,
+      "style": 13,
+      "name": "Murder Claw"
+    },
+    {
+      "$id": 309,
+      "style": 13,
+      "name": "Queen's Order"
+    },
+    {
+      "$id": 310,
+      "style": 13,
+      "name": "Binding Web"
+    },
+    {
+      "$id": 311,
+      "style": 13,
+      "name": "Queen's Bite I"
+    },
+    {
+      "$id": 312,
+      "style": 13,
+      "name": "Dive Impact III"
+    },
+    {
+      "$id": 313,
+      "style": 13,
+      "name": "Metabolism"
+    },
+    {
+      "$id": 314,
+      "style": 13,
+      "name": "Acid Bath"
+    },
+    {
+      "$id": 315,
+      "style": 13,
+      "name": "Devour"
+    },
+    {
+      "$id": 316,
+      "style": 13,
+      "name": "Dive Impact III"
+    },
+    {
+      "$id": 317,
+      "style": 13,
+      "name": "Caterpile Crush"
+    },
+    {
+      "$id": 318,
+      "style": 13,
+      "name": "Toxin Shower"
+    },
+    {
+      "$id": 319,
+      "style": 13,
+      "name": "Caterpile Attack"
+    },
+    {
+      "$id": 320,
+      "style": 13,
+      "name": "Virus Shower"
+    },
+    {
+      "$id": 321,
+      "style": 13,
+      "name": "Caterpile Trample"
+    },
+    {
+      "$id": 322,
+      "style": 13,
+      "name": "Head Banger"
+    },
+    {
+      "$id": 323,
+      "style": 13,
+      "name": "Rolling Attack"
+    },
+    {
+      "$id": 324,
+      "style": 13,
+      "name": "Binding Ray"
+    },
+    {
+      "$id": 325,
+      "style": 13,
+      "name": "Panic Ray III"
+    },
+    {
+      "$id": 326,
+      "style": 13,
+      "name": "Life Absorb"
+    },
+    {
+      "$id": 327,
+      "style": 13,
+      "name": "Numbing Scales"
+    },
+    {
+      "$id": 328,
+      "style": 13,
+      "name": "Hidden Needle"
+    },
+    {
+      "$id": 329,
+      "style": 13,
+      "name": "Ultra Life Absorb"
+    },
+    {
+      "$id": 330,
+      "style": 13,
+      "name": "Nutrient Scales"
+    },
+    {
+      "$id": 331,
+      "style": 13,
+      "name": "Vitality Absorb"
+    },
+    {
+      "$id": 332,
+      "style": 13,
+      "name": "Paralysis Scales"
+    },
+    {
+      "$id": 333,
+      "style": 13,
+      "name": "Ether Fireworks II"
+    },
+    {
+      "$id": 334,
+      "style": 13,
+      "name": "Ultra Vitality Absorb"
+    },
+    {
+      "$id": 335,
+      "style": 13,
+      "name": "Super Numbing Scales"
+    },
+    {
+      "$id": 336,
+      "style": 13,
+      "name": "HP Siphon"
+    },
+    {
+      "$id": 337,
+      "style": 13,
+      "name": "Flash Spear"
+    },
+    {
+      "$id": 338,
+      "style": 13,
+      "name": "Ether Fireworks"
+    },
+    {
+      "$id": 339,
+      "style": 13,
+      "name": "Vitality Absorb"
+    },
+    {
+      "$id": 340,
+      "style": 13,
+      "name": "Ether Fascination"
+    },
+    {
+      "$id": 341,
+      "style": 13,
+      "name": "Fireball Rush"
+    },
+    {
+      "$id": 342,
+      "style": 13,
+      "name": "Ether Explosion III"
+    },
+    {
+      "$id": 343,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 344,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 345,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 346,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 347,
+      "style": 13,
+      "name": "Krabble Bash"
+    },
+    {
+      "$id": 348,
+      "style": 13,
+      "name": "Bubble"
+    },
+    {
+      "$id": 349,
+      "style": 13,
+      "name": "Ether Break I"
+    },
+    {
+      "$id": 350,
+      "style": 13,
+      "name": "Hard Bash"
+    },
+    {
+      "$id": 351,
+      "style": 13,
+      "name": "Sleepy Bubble"
+    },
+    {
+      "$id": 352,
+      "style": 13,
+      "name": "Hard Bash"
+    },
+    {
+      "$id": 353,
+      "style": 13,
+      "name": "Ether Cannon"
+    },
+    {
+      "$id": 354,
+      "style": 13,
+      "name": "Ether Smash II"
+    },
+    {
+      "$id": 355,
+      "style": 13,
+      "name": "High Ether Cannon"
+    },
+    {
+      "$id": 356,
+      "style": 13,
+      "name": "Electro Rush"
+    },
+    {
+      "$id": 357,
+      "style": 13,
+      "name": "Tripping Rush"
+    },
+    {
+      "$id": 358,
+      "style": 13,
+      "name": "Tail Smash"
+    },
+    {
+      "$id": 359,
+      "style": 13,
+      "name": "Freeze Breath"
+    },
+    {
+      "$id": 360,
+      "style": 13,
+      "name": "Icy Shower"
+    },
+    {
+      "$id": 361,
+      "style": 13,
+      "name": "Tripping Rush"
+    },
+    {
+      "$id": 362,
+      "style": 13,
+      "name": "Tail Smash"
+    },
+    {
+      "$id": 363,
+      "style": 13,
+      "name": "Darkness Breath"
+    },
+    {
+      "$id": 364,
+      "style": 13,
+      "name": "Murmur of Darkness"
+    },
+    {
+      "$id": 365,
+      "style": 13,
+      "name": "Ice Meteor III"
+    },
+    {
+      "$id": 366,
+      "style": 13,
+      "name": "Ether Meteor II"
+    },
+    {
+      "$id": 367,
+      "style": 13,
+      "name": "Uppercut"
+    },
+    {
+      "$id": 368,
+      "style": 13,
+      "name": "Water Cannon"
+    },
+    {
+      "$id": 369,
+      "style": 13,
+      "name": "Sumo Slap"
+    },
+    {
+      "$id": 370,
+      "style": 13,
+      "name": "Slap Combo I"
+    },
+    {
+      "$id": 371,
+      "style": 13,
+      "name": "Grand Uppercut"
+    },
+    {
+      "$id": 372,
+      "style": 13,
+      "name": "Big Water Cannon"
+    },
+    {
+      "$id": 373,
+      "style": 13,
+      "name": "Ultra Slap"
+    },
+    {
+      "$id": 374,
+      "style": 13,
+      "name": "Mega Slap Combo II"
+    },
+    {
+      "$id": 375,
+      "style": 13,
+      "name": "Armour Down"
+    },
+    {
+      "$id": 376,
+      "style": 13,
+      "name": "Fan Attack"
+    },
+    {
+      "$id": 377,
+      "style": 13,
+      "name": "Dancing Fan II"
+    },
+    {
+      "$id": 378,
+      "style": 13,
+      "name": "Mind Down"
+    },
+    {
+      "$id": 379,
+      "style": 13,
+      "name": "Spark Shot VII"
+    },
+    {
+      "$id": 380,
+      "style": 13,
+      "name": "Vortex"
+    },
+    {
+      "$id": 381,
+      "style": 13,
+      "name": "Aqua Wave"
+    },
+    {
+      "$id": 382,
+      "style": 13,
+      "name": "Back Crash II"
+    },
+    {
+      "$id": 383,
+      "style": 13,
+      "name": "Thunderbolt II"
+    },
+    {
+      "$id": 384,
+      "style": 13,
+      "name": "Boiling Wave"
+    },
+    {
+      "$id": 385,
+      "style": 13,
+      "name": "Crush"
+    },
+    {
+      "$id": 386,
+      "style": 13,
+      "name": "Strike"
+    },
+    {
+      "$id": 387,
+      "style": 13,
+      "name": "Savage III"
+    },
+    {
+      "$id": 388,
+      "style": 13,
+      "name": "Tremors"
+    },
+    {
+      "$id": 389,
+      "style": 13,
+      "name": "Smash"
+    },
+    {
+      "$id": 390,
+      "style": 13,
+      "name": "Ether Eruption VII"
+    },
+    {
+      "$id": 391,
+      "style": 13,
+      "name": "3 Tonne Crush"
+    },
+    {
+      "$id": 392,
+      "style": 13,
+      "name": "Elemental Bullet"
+    },
+    {
+      "$id": 393,
+      "style": 13,
+      "name": "Elemental Cannon"
+    },
+    {
+      "$id": 394,
+      "style": 13,
+      "name": "Wind Whip"
+    },
+    {
+      "$id": 395,
+      "style": 13,
+      "name": "Wind Burst II"
+    },
+    {
+      "$id": 396,
+      "style": 13,
+      "name": "Aqua Whip"
+    },
+    {
+      "$id": 397,
+      "style": 13,
+      "name": "Aqua Burst I"
+    },
+    {
+      "$id": 398,
+      "style": 13,
+      "name": "Volt Whip"
+    },
+    {
+      "$id": 399,
+      "style": 13,
+      "name": "Volt Burst I"
+    },
+    {
+      "$id": 400,
+      "style": 13,
+      "name": "Elemental Bullet"
+    },
+    {
+      "$id": 401,
+      "style": 13,
+      "name": "Elemental Cannon"
+    },
+    {
+      "$id": 402,
+      "style": 13,
+      "name": "Sand Whip"
+    },
+    {
+      "$id": 403,
+      "style": 13,
+      "name": "Sand Burst II"
+    },
+    {
+      "$id": 404,
+      "style": 13,
+      "name": "Corona Whip"
+    },
+    {
+      "$id": 405,
+      "style": 13,
+      "name": "Corona Burst IV"
+    },
+    {
+      "$id": 406,
+      "style": 13,
+      "name": "Ice Whip"
+    },
+    {
+      "$id": 407,
+      "style": 13,
+      "name": "Ice Burst III"
+    },
+    {
+      "$id": 408,
+      "style": 13,
+      "name": "Perenne Whip"
+    },
+    {
+      "$id": 409,
+      "style": 13,
+      "name": "Perenne Burst IV"
+    },
+    {
+      "$id": 410,
+      "style": 13,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 411,
+      "style": 13,
+      "name": "Raid"
+    },
+    {
+      "$id": 412,
+      "style": 13,
+      "name": "Taunt"
+    },
+    {
+      "$id": 413,
+      "style": 13,
+      "name": "Shield Up"
+    },
+    {
+      "$id": 414,
+      "style": 13,
+      "name": "Combo"
+    },
+    {
+      "$id": 415,
+      "style": 13,
+      "name": "Big Scissors"
+    },
+    {
+      "$id": 416,
+      "style": 13,
+      "name": "Slow Ether"
+    },
+    {
+      "$id": 417,
+      "style": 13,
+      "name": "Rampage III"
+    },
+    {
+      "$id": 418,
+      "style": 13,
+      "name": "Reaper"
+    },
+    {
+      "$id": 419,
+      "style": 13,
+      "name": "Armour Down"
+    },
+    {
+      "$id": 420,
+      "style": 13,
+      "name": "Big Combo"
+    },
+    {
+      "$id": 421,
+      "style": 13,
+      "name": "Super Rampage II"
+    },
+    {
+      "$id": 422,
+      "style": 13,
+      "name": "Full Ether"
+    },
+    {
+      "$id": 423,
+      "style": 13,
+      "name": "Shield Crash"
+    },
+    {
+      "$id": 424,
+      "style": 13,
+      "name": "Raid"
+    },
+    {
+      "$id": 425,
+      "style": 13,
+      "name": "Taunt"
+    },
+    {
+      "$id": 426,
+      "style": 13,
+      "name": "Swift Stance"
+    },
+    {
+      "$id": 427,
+      "style": 13,
+      "name": "Rage"
+    },
+    {
+      "$id": 428,
+      "style": 13,
+      "name": "Combo"
+    },
+    {
+      "$id": 429,
+      "style": 13,
+      "name": "Decapitator"
+    },
+    {
+      "$id": 430,
+      "style": 13,
+      "name": "Foot Trap"
+    },
+    {
+      "$id": 431,
+      "style": 13,
+      "name": "Crazy Dance III"
+    },
+    {
+      "$id": 432,
+      "style": 13,
+      "name": "Smash"
+    },
+    {
+      "$id": 433,
+      "style": 13,
+      "name": "Reaper"
+    },
+    {
+      "$id": 434,
+      "style": 13,
+      "name": "Beastman Curse"
+    },
+    {
+      "$id": 435,
+      "style": 13,
+      "name": "Hypnotic Light"
+    },
+    {
+      "$id": 436,
+      "style": 13,
+      "name": "Crazier Dance VIII"
+    },
+    {
+      "$id": 437,
+      "style": 13,
+      "name": "Side Swipe"
+    },
+    {
+      "$id": 438,
+      "style": 13,
+      "name": "Down Swipe"
+    },
+    {
+      "$id": 439,
+      "style": 13,
+      "name": "Motivation"
+    },
+    {
+      "$id": 440,
+      "style": 13,
+      "name": "Big Side Swipe"
+    },
+    {
+      "$id": 441,
+      "style": 13,
+      "name": "Big Down Swipe"
+    },
+    {
+      "$id": 442,
+      "style": 13,
+      "name": "Ultra Motivation"
+    },
+    {
+      "$id": 443,
+      "style": 13,
+      "name": "Recovery"
+    },
+    {
+      "$id": 444,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 445,
+      "style": 13,
+      "name": "Bow and Arrow"
+    },
+    {
+      "$id": 446,
+      "style": 13,
+      "name": "Special Arrow III"
+    },
+    {
+      "$id": 447,
+      "style": 13,
+      "name": "Roar"
+    },
+    {
+      "$id": 448,
+      "style": 13,
+      "name": "Sniping Arrow"
+    },
+    {
+      "$id": 449,
+      "style": 13,
+      "name": "Blood Shot Arrow I"
+    },
+    {
+      "$id": 450,
+      "style": 13,
+      "name": "Reaper"
+    },
+    {
+      "$id": 451,
+      "style": 13,
+      "name": "Beat Up"
+    },
+    {
+      "$id": 452,
+      "style": 13,
+      "name": "Build Up"
+    },
+    {
+      "$id": 453,
+      "style": 13,
+      "name": "Swing"
+    },
+    {
+      "$id": 454,
+      "style": 13,
+      "name": "Head Smash"
+    },
+    {
+      "$id": 455,
+      "style": 13,
+      "name": "Iron Spell"
+    },
+    {
+      "$id": 456,
+      "style": 13,
+      "name": "Rampage Orders"
+    },
+    {
+      "$id": 457,
+      "style": 13,
+      "name": "Bow and Arrow"
+    },
+    {
+      "$id": 458,
+      "style": 13,
+      "name": "Poison Arrow I"
+    },
+    {
+      "$id": 459,
+      "style": 13,
+      "name": "Dissonance"
+    },
+    {
+      "$id": 460,
+      "style": 13,
+      "name": "Ether Arrow"
+    },
+    {
+      "$id": 461,
+      "style": 13,
+      "name": "Super Ether Arrow III"
+    },
+    {
+      "$id": 462,
+      "style": 13,
+      "name": "Binding Voice"
+    },
+    {
+      "$id": 463,
+      "style": 13,
+      "name": "Hypnotism"
+    },
+    {
+      "$id": 464,
+      "style": 13,
+      "name": "Confine"
+    },
+    {
+      "$id": 465,
+      "style": 13,
+      "name": "Hard Push"
+    },
+    {
+      "$id": 466,
+      "style": 13,
+      "name": "Big Spin"
+    },
+    {
+      "$id": 467,
+      "style": 13,
+      "name": "Hurricane Bugle"
+    },
+    {
+      "$id": 468,
+      "style": 13,
+      "name": "Rampage Bugle"
+    },
+    {
+      "$id": 469,
+      "style": 13,
+      "name": "Flaming Bullet"
+    },
+    {
+      "$id": 470,
+      "style": 13,
+      "name": "Super Push"
+    },
+    {
+      "$id": 471,
+      "style": 13,
+      "name": "Raging Spin"
+    },
+    {
+      "$id": 472,
+      "style": 13,
+      "name": "Wild Discharge II"
+    },
+    {
+      "$id": 473,
+      "style": 13,
+      "name": "Rescue Bugle"
+    },
+    {
+      "$id": 474,
+      "style": 13,
+      "name": "Hard Push"
+    },
+    {
+      "$id": 475,
+      "style": 13,
+      "name": "Big Spin"
+    },
+    {
+      "$id": 476,
+      "style": 13,
+      "name": "Charge 1"
+    },
+    {
+      "$id": 477,
+      "style": 13,
+      "name": "Reaping Laser"
+    },
+    {
+      "$id": 478,
+      "style": 13,
+      "name": "Charge 2"
+    },
+    {
+      "$id": 479,
+      "style": 13,
+      "name": "Charge 3"
+    },
+    {
+      "$id": 480,
+      "style": 13,
+      "name": "Emergency Alarm"
+    },
+    {
+      "$id": 481,
+      "style": 13,
+      "name": "R Laser"
+    },
+    {
+      "$id": 482,
+      "style": 13,
+      "name": "Thrust"
+    },
+    {
+      "$id": 483,
+      "style": 13,
+      "name": "Strengthening Will"
+    },
+    {
+      "$id": 484,
+      "style": 13,
+      "name": "Flaying Beam"
+    },
+    {
+      "$id": 485,
+      "style": 13,
+      "name": "Mountain Impact IV"
+    },
+    {
+      "$id": 486,
+      "style": 13,
+      "name": "Rumbling Impact"
+    },
+    {
+      "$id": 487,
+      "style": 13,
+      "name": "Crumbling Impact"
+    },
+    {
+      "$id": 488,
+      "style": 13,
+      "name": "Iron Will"
+    },
+    {
+      "$id": 489,
+      "style": 13,
+      "name": "Light of Demise"
+    },
+    {
+      "$id": 490,
+      "style": 13,
+      "name": "Super Aura"
+    },
+    {
+      "$id": 491,
+      "style": 13,
+      "name": "Ether Cannon VII"
+    },
+    {
+      "$id": 492,
+      "style": 13,
+      "name": "Channel V"
+    },
+    {
+      "$id": 493,
+      "style": 13,
+      "name": "Talent Absorb"
+    },
+    {
+      "$id": 494,
+      "style": 13,
+      "name": "Ether Bullet"
+    },
+    {
+      "$id": 495,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 496,
+      "style": 13,
+      "name": "Obliterate"
+    },
+    {
+      "$id": 497,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 498,
+      "style": 13,
+      "name": "Ether Particles"
+    },
+    {
+      "$id": 499,
+      "style": 13,
+      "name": "Killer Sky"
+    },
+    {
+      "$id": 500,
+      "style": 13,
+      "name": "Killer Dive IV"
+    },
+    {
+      "$id": 501,
+      "style": 13,
+      "name": "Killer Tail"
+    },
+    {
+      "$id": 502,
+      "style": 13,
+      "name": "Killer Shot"
+    },
+    {
+      "$id": 503,
+      "style": 13,
+      "name": "Ether Scatter"
+    },
+    {
+      "$id": 504,
+      "style": 13,
+      "name": "Telethia Tail"
+    },
+    {
+      "$id": 505,
+      "style": 13,
+      "name": "Shock Wave"
+    },
+    {
+      "$id": 506,
+      "style": 13,
+      "name": "Telethia Arrow VI"
+    },
+    {
+      "$id": 507,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 508,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 509,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 510,
+      "style": 13,
+      "name": "Delta Cannon"
+    },
+    {
+      "$id": 511,
+      "style": 13,
+      "name": "Ether Storm"
+    },
+    {
+      "$id": 512,
+      "style": 13,
+      "name": "Attention Seek"
+    },
+    {
+      "$id": 513,
+      "style": 13,
+      "name": "Ether Laser VI"
+    },
+    {
+      "$id": 514,
+      "style": 13,
+      "name": "Predation"
+    },
+    {
+      "$id": 515,
+      "style": 13,
+      "name": "Life Absorb"
+    },
+    {
+      "$id": 516,
+      "style": 13,
+      "name": "Purging Antibody VI"
+    },
+    {
+      "$id": 517,
+      "style": 13,
+      "name": "Antibody Assault"
+    },
+    {
+      "$id": 518,
+      "style": 13,
+      "name": "Antibody Repair"
+    },
+    {
+      "$id": 519,
+      "style": 13,
+      "name": "Vile Fungus"
+    },
+    {
+      "$id": 520,
+      "style": 13,
+      "name": "Slash"
+    },
+    {
+      "$id": 521,
+      "style": 13,
+      "name": "Nutrient Absorb V"
+    },
+    {
+      "$id": 522,
+      "style": 13,
+      "name": "Anti-Antibody"
+    },
+    {
+      "$id": 523,
+      "style": 13,
+      "name": "Immunise"
+    },
+    {
+      "$id": 524,
+      "style": 13,
+      "name": "Total Immunise V"
+    },
+    {
+      "$id": 525,
+      "style": 13,
+      "name": "Big Combo VI"
+    },
+    {
+      "$id": 526,
+      "style": 13,
+      "name": "Cell Activity"
+    },
+    {
+      "$id": 527,
+      "style": 13,
+      "name": "Big Spin"
+    },
+    {
+      "$id": 528,
+      "style": 13,
+      "name": "Genome Break"
+    },
+    {
+      "$id": 529,
+      "style": 13,
+      "name": "Telethia Buster VII"
+    },
+    {
+      "$id": 530,
+      "style": 13,
+      "name": "Thunderbolt"
+    },
+    {
+      "$id": 531,
+      "style": 13,
+      "name": "Shock Wave"
+    },
+    {
+      "$id": 532,
+      "style": 13,
+      "name": "Ether Laser"
+    },
+    {
+      "$id": 533,
+      "style": 13,
+      "name": "Big Bang IX"
+    },
+    {
+      "$id": 534,
+      "style": 13,
+      "name": "Obliterate"
+    },
+    {
+      "$id": 535,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 536,
+      "style": 13,
+      "name": "Dead Slash"
+    },
+    {
+      "$id": 537,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 538,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 539,
+      "style": 13,
+      "name": "Head Shock"
+    },
+    {
+      "$id": 540,
+      "style": 13,
+      "name": "Eating One"
+    },
+    {
+      "$id": 541,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 542,
+      "style": 13,
+      "name": "Deadly Chainsaw"
+    },
+    {
+      "$id": 543,
+      "style": 13,
+      "name": "Upper Chainsaw I"
+    },
+    {
+      "$id": 544,
+      "style": 13,
+      "name": "Krabble Bash"
+    },
+    {
+      "$id": 545,
+      "style": 13,
+      "name": "Bubble"
+    },
+    {
+      "$id": 546,
+      "style": 13,
+      "name": "Ether Laser"
+    },
+    {
+      "$id": 547,
+      "style": 13,
+      "name": "Attack Mode"
+    },
+    {
+      "$id": 548,
+      "style": 13,
+      "name": "Spin Attack"
+    },
+    {
+      "$id": 549,
+      "style": 13,
+      "name": "Surprise Shock"
+    },
+    {
+      "$id": 550,
+      "style": 13,
+      "name": "Guard Mode"
+    },
+    {
+      "$id": 551,
+      "style": 13,
+      "name": "Final Defence Mode"
+    },
+    {
+      "$id": 552,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 553,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 554,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 555,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 556,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 557,
+      "style": 13,
+      "name": "Smash"
+    },
+    {
+      "$id": 558,
+      "style": 13,
+      "name": "Chainsaw"
+    },
+    {
+      "$id": 559,
+      "style": 13,
+      "name": "Upper Chainsaw I"
+    },
+    {
+      "$id": 560,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 561,
+      "style": 13,
+      "name": "Eating One II"
+    },
+    {
+      "$id": 562,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 563,
+      "style": 13,
+      "name": "Last Resort"
+    },
+    {
+      "$id": 564,
+      "style": 13,
+      "name": "Last Resort"
+    },
+    {
+      "$id": 565,
+      "style": 13,
+      "name": "Killing Claw"
+    },
+    {
+      "$id": 566,
+      "style": 13,
+      "name": "Dead Way"
+    },
+    {
+      "$id": 567,
+      "style": 13,
+      "name": "Last Resort"
+    },
+    {
+      "$id": 568,
+      "style": 13,
+      "name": "Killing Claw"
+    },
+    {
+      "$id": 569,
+      "style": 13,
+      "name": "Dead Way"
+    },
+    {
+      "$id": 570,
+      "style": 13,
+      "name": "Crushing Blow"
+    },
+    {
+      "$id": 571,
+      "style": 13,
+      "name": "Ankle Bite"
+    },
+    {
+      "$id": 572,
+      "style": 13,
+      "name": "Slow-Footed Net"
+    },
+    {
+      "$id": 573,
+      "style": 13,
+      "name": "Queen's Order"
+    },
+    {
+      "$id": 574,
+      "style": 13,
+      "name": "Binding Web"
+    },
+    {
+      "$id": 575,
+      "style": 13,
+      "name": "Arachno Crush I"
+    },
+    {
+      "$id": 576,
+      "style": 13,
+      "name": "Dive Impact"
+    },
+    {
+      "$id": 577,
+      "style": 13,
+      "name": "The Queen's Fury"
+    },
+    {
+      "$id": 578,
+      "style": 13,
+      "name": "Arachno Crush I"
+    },
+    {
+      "$id": 579,
+      "style": 13,
+      "name": "Arachno Crush I"
+    },
+    {
+      "$id": 580,
+      "style": 13,
+      "name": "Lay Tribute"
+    },
+    {
+      "$id": 581,
+      "style": 13,
+      "name": "Crushing Blow"
+    },
+    {
+      "$id": 582,
+      "style": 13,
+      "name": "Ankle Bite"
+    },
+    {
+      "$id": 583,
+      "style": 13,
+      "name": "Slow-Footed Net"
+    },
+    {
+      "$id": 584,
+      "style": 13,
+      "name": "Pheromone Enhance"
+    },
+    {
+      "$id": 585,
+      "style": 13,
+      "name": "Crushing Blow"
+    },
+    {
+      "$id": 586,
+      "style": 13,
+      "name": "Ankle Bite"
+    },
+    {
+      "$id": 587,
+      "style": 13,
+      "name": "Slow-Footed Net"
+    },
+    {
+      "$id": 588,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 589,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 590,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 591,
+      "style": 13,
+      "name": "Hatching"
+    },
+    {
+      "$id": 592,
+      "style": 13,
+      "name": "Armu Plough"
+    },
+    {
+      "$id": 593,
+      "style": 13,
+      "name": "Ardun Voice"
+    },
+    {
+      "$id": 594,
+      "style": 13,
+      "name": "Fatal Lunge"
+    },
+    {
+      "$id": 595,
+      "style": 13,
+      "name": "Rampage I"
+    },
+    {
+      "$id": 596,
+      "style": 13,
+      "name": "Fire Shot"
+    },
+    {
+      "$id": 597,
+      "style": 13,
+      "name": "Tentacles"
+    },
+    {
+      "$id": 598,
+      "style": 13,
+      "name": "Ripple Laser I"
+    },
+    {
+      "$id": 599,
+      "style": 13,
+      "name": "Generator Power"
+    },
+    {
+      "$id": 600,
+      "style": 13,
+      "name": "Tentacle Growth"
+    },
+    {
+      "$id": 601,
+      "style": 13,
+      "name": "Rapid Tentacle"
+    },
+    {
+      "$id": 602,
+      "style": 13,
+      "name": "Rapid Tentacle"
+    },
+    {
+      "$id": 603,
+      "style": 13,
+      "name": "Fire Shot"
+    },
+    {
+      "$id": 604,
+      "style": 13,
+      "name": "Beat Sickle"
+    },
+    {
+      "$id": 605,
+      "style": 13,
+      "name": "Physical Bite II"
+    },
+    {
+      "$id": 606,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 607,
+      "style": 13,
+      "name": "Zord Impact"
+    },
+    {
+      "$id": 608,
+      "style": 13,
+      "name": "Swing Beat"
+    },
+    {
+      "$id": 609,
+      "style": 13,
+      "name": "Bazooka III"
+    },
+    {
+      "$id": 610,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 611,
+      "style": 13,
+      "name": "Boost Attack"
+    },
+    {
+      "$id": 612,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 613,
+      "style": 13,
+      "name": "Cure Repair"
+    },
+    {
+      "$id": 614,
+      "style": 13,
+      "name": "Explosion"
+    },
+    {
+      "$id": 615,
+      "style": 13,
+      "name": "Strong Solid"
+    },
+    {
+      "$id": 616,
+      "style": 13,
+      "name": "System Alert"
+    },
+    {
+      "$id": 617,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 618,
+      "style": 13,
+      "name": "Energy Wipe"
+    },
+    {
+      "$id": 619,
+      "style": 13,
+      "name": "Energy Steal"
+    },
+    {
+      "$id": 620,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 621,
+      "style": 13,
+      "name": "Energy Flash"
+    },
+    {
+      "$id": 622,
+      "style": 13,
+      "name": "Dead Slash"
+    },
+    {
+      "$id": 623,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 624,
+      "style": 13,
+      "name": "Zord Impact"
+    },
+    {
+      "$id": 625,
+      "style": 13,
+      "name": "Swing Beat"
+    },
+    {
+      "$id": 626,
+      "style": 13,
+      "name": "Bazooka II"
+    },
+    {
+      "$id": 627,
+      "style": 13,
+      "name": "Boost Attack"
+    },
+    {
+      "$id": 628,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 629,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 630,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 631,
+      "style": 13,
+      "name": "Zord Impact"
+    },
+    {
+      "$id": 632,
+      "style": 13,
+      "name": "Swing Beat"
+    },
+    {
+      "$id": 633,
+      "style": 13,
+      "name": "Bazooka II"
+    },
+    {
+      "$id": 634,
+      "style": 13,
+      "name": "Boost Attack"
+    },
+    {
+      "$id": 635,
+      "style": 13,
+      "name": "Berserk Boost"
+    },
+    {
+      "$id": 636,
+      "style": 13,
+      "name": "Final Boost"
+    },
+    {
+      "$id": 637,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 638,
+      "style": 13,
+      "name": "Energy Flash"
+    },
+    {
+      "$id": 639,
+      "style": 13,
+      "name": "Dead Slash"
+    },
+    {
+      "$id": 640,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 641,
+      "style": 13,
+      "name": "Dead Shot II"
+    },
+    {
+      "$id": 642,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 643,
+      "style": 13,
+      "name": "Tough Armour"
+    },
+    {
+      "$id": 644,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 645,
+      "style": 13,
+      "name": "Eating One II"
+    },
+    {
+      "$id": 646,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 647,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 648,
+      "style": 13,
+      "name": "Wing Smite"
+    },
+    {
+      "$id": 649,
+      "style": 13,
+      "name": "Winged Awakening"
+    },
+    {
+      "$id": 650,
+      "style": 13,
+      "name": "Tornado Spin"
+    },
+    {
+      "$id": 651,
+      "style": 13,
+      "name": "Poison Stab"
+    },
+    {
+      "$id": 652,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 653,
+      "style": 13,
+      "name": "Call Minions"
+    },
+    {
+      "$id": 654,
+      "style": 13,
+      "name": "Ultra Poison Stab III"
+    },
+    {
+      "$id": 655,
+      "style": 13,
+      "name": "Shield Call"
+    },
+    {
+      "$id": 656,
+      "style": 13,
+      "name": "Bastille Sky V"
+    },
+    {
+      "$id": 657,
+      "style": 13,
+      "name": "Ignis Breath"
+    },
+    {
+      "$id": 658,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 659,
+      "style": 13,
+      "name": "Leader's Fury"
+    },
+    {
+      "$id": 660,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 661,
+      "style": 13,
+      "name": "Ether Scatter"
+    },
+    {
+      "$id": 662,
+      "style": 13,
+      "name": "Telethia Tail"
+    },
+    {
+      "$id": 663,
+      "style": 13,
+      "name": "Shock Wave"
+    },
+    {
+      "$id": 664,
+      "style": 13,
+      "name": "Telethia Arrow II"
+    },
+    {
+      "$id": 665,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 666,
+      "style": 13,
+      "name": "Telethia Tail"
+    },
+    {
+      "$id": 667,
+      "style": 13,
+      "name": "Shock Wave"
+    },
+    {
+      "$id": 668,
+      "style": 13,
+      "name": "Super Aura"
+    },
+    {
+      "$id": 669,
+      "style": 13,
+      "name": "Ether Cannon II"
+    },
+    {
+      "$id": 670,
+      "style": 13,
+      "name": "Channel I"
+    },
+    {
+      "$id": 671,
+      "style": 13,
+      "name": "Talent Absorb"
+    },
+    {
+      "$id": 672,
+      "style": 13,
+      "name": "Sleep Bullet"
+    },
+    {
+      "$id": 673,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 674,
+      "style": 13,
+      "name": "Sleep Spin"
+    },
+    {
+      "$id": 675,
+      "style": 13,
+      "name": "Ether Cannon IV"
+    },
+    {
+      "$id": 676,
+      "style": 13,
+      "name": "Down Kick"
+    },
+    {
+      "$id": 677,
+      "style": 13,
+      "name": "Decapitator"
+    },
+    {
+      "$id": 678,
+      "style": 13,
+      "name": "Protective Light"
+    },
+    {
+      "$id": 679,
+      "style": 13,
+      "name": "Cursed Light"
+    },
+    {
+      "$id": 680,
+      "style": 13,
+      "name": "Hypnotic Light"
+    },
+    {
+      "$id": 681,
+      "style": 13,
+      "name": "Ether Shot"
+    },
+    {
+      "$id": 682,
+      "style": 13,
+      "name": "Ether Laser"
+    },
+    {
+      "$id": 683,
+      "style": 13,
+      "name": "Testament"
+    },
+    {
+      "$id": 684,
+      "style": 13,
+      "name": "Pesado Attack"
+    },
+    {
+      "$id": 685,
+      "style": 13,
+      "name": "Grand Shock"
+    },
+    {
+      "$id": 686,
+      "style": 13,
+      "name": "High Testament"
+    },
+    {
+      "$id": 687,
+      "style": 13,
+      "name": "Guard Mode"
+    },
+    {
+      "$id": 688,
+      "style": 13,
+      "name": "Quarto Laser"
+    },
+    {
+      "$id": 689,
+      "style": 13,
+      "name": "Primo Laser"
+    },
+    {
+      "$id": 690,
+      "style": 13,
+      "name": "Spiral Kick"
+    },
+    {
+      "$id": 691,
+      "style": 13,
+      "name": "Flying Bee"
+    },
+    {
+      "$id": 692,
+      "style": 13,
+      "name": "Reparation"
+    },
+    {
+      "$id": 693,
+      "style": 13,
+      "name": "Guilty Bomb III"
+    },
+    {
+      "$id": 694,
+      "style": 13,
+      "name": "Energy Drain"
+    },
+    {
+      "$id": 695,
+      "style": 13,
+      "name": "Telepathic Command"
+    },
+    {
+      "$id": 696,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 697,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 698,
+      "style": 13,
+      "name": "Delta Cannon"
+    },
+    {
+      "$id": 699,
+      "style": 13,
+      "name": "Ether Storm"
+    },
+    {
+      "$id": 700,
+      "style": 13,
+      "name": "Attention Seek"
+    },
+    {
+      "$id": 701,
+      "style": 13,
+      "name": "Ether Laser II"
+    },
+    {
+      "$id": 702,
+      "style": 13,
+      "name": "Predation"
+    },
+    {
+      "$id": 703,
+      "style": 13,
+      "name": "Last Resort"
+    },
+    {
+      "$id": 704,
+      "style": 13,
+      "name": "Killing Claw"
+    },
+    {
+      "$id": 705,
+      "style": 13,
+      "name": "Dead Way"
+    },
+    {
+      "$id": 706,
+      "style": 13,
+      "name": "Murder Screw"
+    },
+    {
+      "$id": 707,
+      "style": 13,
+      "name": "Grand Shot"
+    },
+    {
+      "$id": 708,
+      "style": 13,
+      "name": "Eagle Triple Combo"
+    },
+    {
+      "$id": 709,
+      "style": 13,
+      "name": "Corner"
+    },
+    {
+      "$id": 710,
+      "style": 13,
+      "name": "Eagle Slice"
+    },
+    {
+      "$id": 711,
+      "style": 13,
+      "name": "Super Spin"
+    },
+    {
+      "$id": 712,
+      "style": 13,
+      "name": "Fiery Pain IV"
+    },
+    {
+      "$id": 713,
+      "style": 13,
+      "name": "Massacre Lotus"
+    },
+    {
+      "$id": 714,
+      "style": 13,
+      "name": "Super Spin"
+    },
+    {
+      "$id": 715,
+      "style": 13,
+      "name": "Wild Crash"
+    },
+    {
+      "$id": 716,
+      "style": 13,
+      "name": "Shoulder Bomb"
+    },
+    {
+      "$id": 717,
+      "style": 13,
+      "name": "Venom Sprinkle"
+    },
+    {
+      "$id": 718,
+      "style": 13,
+      "name": "Disaster Beam III"
+    },
+    {
+      "$id": 719,
+      "style": 13,
+      "name": "Venom Lance"
+    },
+    {
+      "$id": 720,
+      "style": 13,
+      "name": "Limiter Lost"
+    },
+    {
+      "$id": 721,
+      "style": 13,
+      "name": "Very Last Resort"
+    },
+    {
+      "$id": 722,
+      "style": 13,
+      "name": "Special Killing Claw"
+    },
+    {
+      "$id": 723,
+      "style": 13,
+      "name": "Custom Dead Way"
+    },
+    {
+      "$id": 724,
+      "style": 13,
+      "name": "Venom Hell Spin"
+    },
+    {
+      "$id": 725,
+      "style": 13,
+      "name": "Custom Grand Shot"
+    },
+    {
+      "$id": 726,
+      "style": 13,
+      "name": "Hell Talon Venom IV"
+    },
+    {
+      "$id": 727,
+      "style": 13,
+      "name": "Regal Cut"
+    },
+    {
+      "$id": 728,
+      "style": 13,
+      "name": "Brilliant Light"
+    },
+    {
+      "$id": 729,
+      "style": 13,
+      "name": "Sublime Cure"
+    },
+    {
+      "$id": 730,
+      "style": 13,
+      "name": "Honourable Blow"
+    },
+    {
+      "$id": 731,
+      "style": 13,
+      "name": "Killer Storm"
+    },
+    {
+      "$id": 732,
+      "style": 13,
+      "name": "Lightning Ball"
+    },
+    {
+      "$id": 733,
+      "style": 13,
+      "name": "Healing"
+    },
+    {
+      "$id": 734,
+      "style": 13,
+      "name": "Find Me"
+    },
+    {
+      "$id": 735,
+      "style": 13,
+      "name": "High Energy Cannon"
+    },
+    {
+      "$id": 736,
+      "style": 13,
+      "name": "Blazing Flare"
+    },
+    {
+      "$id": 737,
+      "style": 13,
+      "name": "Mech Combo Attack VI"
+    },
+    {
+      "$id": 738,
+      "style": 13,
+      "name": "Program Accelerate"
+    },
+    {
+      "$id": 739,
+      "style": 13,
+      "name": "Catastrophe"
+    },
+    {
+      "$id": 740,
+      "style": 13,
+      "name": "Catastrophe"
+    },
+    {
+      "$id": 741,
+      "style": 13,
+      "name": "Egil Tail"
+    },
+    {
+      "$id": 742,
+      "style": 13,
+      "name": "King's Order"
+    },
+    {
+      "$id": 743,
+      "style": 13,
+      "name": "King Breaker"
+    },
+    {
+      "$id": 744,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 745,
+      "style": 13,
+      "name": "Eating One V"
+    },
+    {
+      "$id": 746,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 747,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 748,
+      "style": 13,
+      "name": "Tough Armour"
+    },
+    {
+      "$id": 749,
+      "style": 13,
+      "name": "Cut Attack"
+    },
+    {
+      "$id": 750,
+      "style": 13,
+      "name": "Energy Flash"
+    },
+    {
+      "$id": 751,
+      "style": 13,
+      "name": "Dead Slash"
+    },
+    {
+      "$id": 752,
+      "style": 13,
+      "name": "Cross Claw IV"
+    },
+    {
+      "$id": 753,
+      "style": 13,
+      "name": "Blizzard Breath"
+    },
+    {
+      "$id": 754,
+      "style": 13,
+      "name": "Flame Breath"
+    },
+    {
+      "$id": 755,
+      "style": 13,
+      "name": "Rush"
+    },
+    {
+      "$id": 756,
+      "style": 13,
+      "name": "Boost One"
+    },
+    {
+      "$id": 757,
+      "style": 13,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 758,
+      "style": 13,
+      "name": "Delayal"
+    },
+    {
+      "$id": 759,
+      "style": 13,
+      "name": "Sliding Sword VI"
+    },
+    {
+      "$id": 760,
+      "style": 13,
+      "name": "Boost Two"
+    },
+    {
+      "$id": 761,
+      "style": 13,
+      "name": "Boost Three"
+    },
+    {
+      "$id": 762,
+      "style": 13,
+      "name": "Nitroglycerine"
+    },
+    {
+      "$id": 763,
+      "style": 13,
+      "name": "Linear Laser IV"
+    },
+    {
+      "$id": 764,
+      "style": 13,
+      "name": "Laser Bullet"
+    },
+    {
+      "$id": 765,
+      "style": 13,
+      "name": "Quick Cannon"
+    },
+    {
+      "$id": 766,
+      "style": 13,
+      "name": "Ether Jammer"
+    },
+    {
+      "$id": 767,
+      "style": 13,
+      "name": "Cross Jaggy"
+    },
+    {
+      "$id": 768,
+      "style": 13,
+      "name": "Linear Laser IV"
+    },
+    {
+      "$id": 769,
+      "style": 13,
+      "name": "Energy Shot"
+    },
+    {
+      "$id": 770,
+      "style": 13,
+      "name": "Cure Repair"
+    },
+    {
+      "$id": 771,
+      "style": 13,
+      "name": "Explosion IV"
+    },
+    {
+      "$id": 772,
+      "style": 13,
+      "name": "Energy Laser"
+    },
+    {
+      "$id": 773,
+      "style": 13,
+      "name": "Strong Solid"
+    },
+    {
+      "$id": 774,
+      "style": 13,
+      "name": "System Alert"
+    },
+    {
+      "$id": 775,
+      "style": 13,
+      "name": "System Alert"
+    },
+    {
+      "$id": 776,
+      "style": 13,
+      "name": "Panic Rush"
+    },
+    {
+      "$id": 777,
+      "style": 13,
+      "name": "Boost One"
+    },
+    {
+      "$id": 778,
+      "style": 13,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 779,
+      "style": 13,
+      "name": "Delayal"
+    },
+    {
+      "$id": 780,
+      "style": 13,
+      "name": "Sliding Sword VI"
+    },
+    {
+      "$id": 781,
+      "style": 13,
+      "name": "Boost Two"
+    },
+    {
+      "$id": 782,
+      "style": 13,
+      "name": "Boost Three"
+    },
+    {
+      "$id": 783,
+      "style": 13,
+      "name": "Nitroglycerine"
+    },
+    {
+      "$id": 784,
+      "style": 13,
+      "name": "Spinning Slice"
+    },
+    {
+      "$id": 785,
+      "style": 13,
+      "name": "Ether Bullet"
+    },
+    {
+      "$id": 786,
+      "style": 13,
+      "name": "Hard Armour"
+    },
+    {
+      "$id": 787,
+      "style": 13,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 788,
+      "style": 13,
+      "name": "Auto Repair"
+    },
+    {
+      "$id": 789,
+      "style": 13,
+      "name": "Medusa Beam"
+    },
+    {
+      "$id": 790,
+      "style": 13,
+      "name": "Drill Screw"
+    },
+    {
+      "$id": 791,
+      "style": 13,
+      "name": "Thermal Growth"
+    },
+    {
+      "$id": 792,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 793,
+      "style": 13,
+      "name": "Strong Bash"
+    },
+    {
+      "$id": 794,
+      "style": 13,
+      "name": "Laser"
+    },
+    {
+      "$id": 795,
+      "style": 13,
+      "name": "Slow Field"
+    },
+    {
+      "$id": 796,
+      "style": 13,
+      "name": "Linear Laser V"
+    },
+    {
+      "$id": 797,
+      "style": 13,
+      "name": "Laser Bullet"
+    },
+    {
+      "$id": 798,
+      "style": 13,
+      "name": "Quick Cannon"
+    },
+    {
+      "$id": 799,
+      "style": 13,
+      "name": "Ether Jammer"
+    },
+    {
+      "$id": 800,
+      "style": 13,
+      "name": "Blow Jaggy"
+    },
+    {
+      "$id": 801,
+      "style": 13,
+      "name": "Linear Laser V"
+    },
+    {
+      "$id": 802,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 803,
+      "style": 13,
+      "name": "Leader's Might"
+    },
+    {
+      "$id": 804,
+      "style": 13,
+      "name": "Grand Ether Bullet"
+    },
+    {
+      "$id": 805,
+      "style": 13,
+      "name": "Homing Missiles IV"
+    },
+    {
+      "$id": 806,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 807,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 808,
+      "style": 13,
+      "name": "Lower Chainsaw"
+    },
+    {
+      "$id": 809,
+      "style": 13,
+      "name": "Auto Chainsaw"
+    },
+    {
+      "$id": 810,
+      "style": 13,
+      "name": "Breaker Hand IV"
+    },
+    {
+      "$id": 811,
+      "style": 13,
+      "name": "Sacrifice"
+    },
+    {
+      "$id": 812,
+      "style": 13,
+      "name": "Break Screw"
+    },
+    {
+      "$id": 813,
+      "style": 13,
+      "name": "Sacrifice"
+    },
+    {
+      "$id": 814,
+      "style": 13,
+      "name": "Side Swing"
+    },
+    {
+      "$id": 815,
+      "style": 13,
+      "name": "Hard Attack"
+    },
+    {
+      "$id": 816,
+      "style": 13,
+      "name": "Ether Jammer"
+    },
+    {
+      "$id": 817,
+      "style": 13,
+      "name": "Screw Shot"
+    },
+    {
+      "$id": 818,
+      "style": 13,
+      "name": "Flame Throw"
+    },
+    {
+      "$id": 819,
+      "style": 13,
+      "name": "Sacrifice"
+    },
+    {
+      "$id": 820,
+      "style": 13,
+      "name": "Energy Steal"
+    },
+    {
+      "$id": 821,
+      "style": 13,
+      "name": "Over Chainsaw"
+    },
+    {
+      "$id": 822,
+      "style": 13,
+      "name": "Mighty Laser"
+    },
+    {
+      "$id": 823,
+      "style": 13,
+      "name": "Flame Throw"
+    },
+    {
+      "$id": 824,
+      "style": 13,
+      "name": "Hush Chop V"
+    },
+    {
+      "$id": 825,
+      "style": 13,
+      "name": "One-On Field"
+    },
+    {
+      "$id": 826,
+      "style": 13,
+      "name": "Soaked Wall"
+    },
+    {
+      "$id": 827,
+      "style": 13,
+      "name": "Catastrophe"
+    },
+    {
+      "$id": 828,
+      "style": 13,
+      "name": "Egil Tail"
+    },
+    {
+      "$id": 829,
+      "style": 13,
+      "name": "Machinery Field"
+    },
+    {
+      "$id": 830,
+      "style": 13,
+      "name": "Alchemist V"
+    },
+    {
+      "$id": 831,
+      "style": 13,
+      "name": "Catastrophe"
+    },
+    {
+      "$id": 832,
+      "style": 13,
+      "name": "Magnetic Field: First"
+    },
+    {
+      "$id": 833,
+      "style": 13,
+      "name": "Shield Barrier"
+    },
+    {
+      "$id": 834,
+      "style": 13,
+      "name": "Laser"
+    },
+    {
+      "$id": 835,
+      "style": 13,
+      "name": "Great Laser VI"
+    },
+    {
+      "$id": 836,
+      "style": 13,
+      "name": "Magnetic Field: Zero"
+    },
+    {
+      "$id": 837,
+      "style": 13,
+      "name": "Talent Absorb"
+    },
+    {
+      "$id": 838,
+      "style": 13,
+      "name": "Strength Model"
+    },
+    {
+      "$id": 839,
+      "style": 13,
+      "name": "Weakness Model"
+    },
+    {
+      "$id": 840,
+      "style": 13,
+      "name": "Continual Model"
+    },
+    {
+      "$id": 841,
+      "style": 13,
+      "name": "Chastise"
+    },
+    {
+      "$id": 842,
+      "style": 13,
+      "name": "Giant God Slash X"
+    },
+    {
+      "$id": 843,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 844,
+      "style": 13,
+      "name": "Manufacture Drone"
+    },
+    {
+      "$id": 845,
+      "style": 13,
+      "name": "Energy Replenish"
+    },
+    {
+      "$id": 846,
+      "style": 13,
+      "name": "Mega Slap Combo VIII"
+    },
+    {
+      "$id": 847,
+      "style": 13,
+      "name": "Emergency Stop"
+    },
+    {
+      "$id": 848,
+      "style": 13,
+      "name": "Rush"
+    },
+    {
+      "$id": 849,
+      "style": 13,
+      "name": "Boost One"
+    },
+    {
+      "$id": 850,
+      "style": 13,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 851,
+      "style": 13,
+      "name": "Delayal"
+    },
+    {
+      "$id": 852,
+      "style": 13,
+      "name": "Sliding Sword VI"
+    },
+    {
+      "$id": 853,
+      "style": 13,
+      "name": "Big Combo VIII"
+    },
+    {
+      "$id": 854,
+      "style": 13,
+      "name": "Activity: Strong"
+    },
+    {
+      "$id": 855,
+      "style": 13,
+      "name": "Big Spin"
+    },
+    {
+      "$id": 856,
+      "style": 13,
+      "name": "Remote Cannon"
+    },
+    {
+      "$id": 857,
+      "style": 13,
+      "name": "Activity: Weak"
+    },
+    {
+      "$id": 858,
+      "style": 13,
+      "name": "Spinning Slice"
+    },
+    {
+      "$id": 859,
+      "style": 13,
+      "name": "Ether Bullet"
+    },
+    {
+      "$id": 860,
+      "style": 13,
+      "name": "Hard Armour"
+    },
+    {
+      "$id": 861,
+      "style": 13,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 862,
+      "style": 13,
+      "name": "Monado Buster"
+    },
+    {
+      "$id": 863,
+      "style": 13,
+      "name": "Monado Buster"
+    },
+    {
+      "$id": 864,
+      "style": 13,
+      "name": "Monado Shield"
+    },
+    {
+      "$id": 865,
+      "style": 13,
+      "name": "Monado Eater"
+    },
+    {
+      "$id": 866,
+      "style": 13,
+      "name": "Twin Break"
+    },
+    {
+      "$id": 867,
+      "style": 13,
+      "name": "Monado Brave"
+    },
+    {
+      "$id": 868,
+      "style": 13,
+      "name": "Ether Field"
+    },
+    {
+      "$id": 869,
+      "style": 13,
+      "name": "Mega Ether Particles"
+    },
+    {
+      "$id": 870,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 871,
+      "style": 13,
+      "name": "Ether Particles"
+    },
+    {
+      "$id": 872,
+      "style": 13,
+      "name": "Killer Sky"
+    },
+    {
+      "$id": 873,
+      "style": 13,
+      "name": "Burst Animus"
+    },
+    {
+      "$id": 874,
+      "style": 13,
+      "name": "Killer Tail"
+    },
+    {
+      "$id": 875,
+      "style": 13,
+      "name": "Killer Shot"
+    },
+    {
+      "$id": 876,
+      "style": 13,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 877,
+      "style": 13,
+      "name": "Ether Particles"
+    },
+    {
+      "$id": 878,
+      "style": 13,
+      "name": "Killer Sky"
+    },
+    {
+      "$id": 879,
+      "style": 13,
+      "name": "Killer Dive V"
+    },
+    {
+      "$id": 880,
+      "style": 13,
+      "name": "Killer Tail"
+    },
+    {
+      "$id": 881,
+      "style": 13,
+      "name": "Killer Shot"
+    },
+    {
+      "$id": 882,
+      "style": 13,
+      "name": "Telethia Buster VII"
+    },
+    {
+      "$id": 883,
+      "style": 13,
+      "name": "Thunderbolt"
+    },
+    {
+      "$id": 884,
+      "style": 13,
+      "name": "Shock Wave"
+    },
+    {
+      "$id": 885,
+      "style": 13,
+      "name": "Weather: Rain"
+    },
+    {
+      "$id": 886,
+      "style": 13,
+      "name": "Weather: Storm"
+    },
+    {
+      "$id": 887,
+      "style": 13,
+      "name": "Sunlight Scatter"
+    },
+    {
+      "$id": 888,
+      "style": 13,
+      "name": "Bolt from the Blue"
+    },
+    {
+      "$id": 889,
+      "style": 13,
+      "name": "Splash Wave"
+    },
+    {
+      "$id": 890,
+      "style": 13,
+      "name": "Elemental Barrier"
+    },
+    {
+      "$id": 891,
+      "style": 13,
+      "name": "Elemental Activate"
+    },
+    {
+      "$id": 892,
+      "style": 13,
+      "name": "Shield Recovery"
+    },
+    {
+      "$id": 893,
+      "style": 13,
+      "name": "Ether Laser"
+    },
+    {
+      "$id": 894,
+      "style": 13,
+      "name": "Big Bang VI"
+    },
+    {
+      "$id": 895,
+      "style": 13,
+      "name": "Obliterate"
+    },
+    {
+      "$id": 896,
+      "style": 13,
+      "name": "Elemental Barrier"
+    },
+    {
+      "$id": 897,
+      "style": 13,
+      "name": "Mist Shot"
+    },
+    {
+      "$id": 898,
+      "style": 13,
+      "name": "Sacrifishot"
+    },
+    {
+      "$id": 899,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 900,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 901,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 902,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 903,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 904,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 905,
+      "style": 13,
+      "name": "Mist Shot"
+    },
+    {
+      "$id": 906,
+      "style": 13,
+      "name": "Sacrifishot"
+    },
+    {
+      "$id": 907,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 908,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 909,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 910,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 911,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 912,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 913,
+      "style": 13,
+      "name": "Mist Shot"
+    },
+    {
+      "$id": 914,
+      "style": 13,
+      "name": "Sacrifishot"
+    },
+    {
+      "$id": 915,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 916,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 917,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 918,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 919,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 920,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 921,
+      "style": 13,
+      "name": "Mist Shot"
+    },
+    {
+      "$id": 922,
+      "style": 13,
+      "name": "Sacrifishot"
+    },
+    {
+      "$id": 923,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 924,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 925,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 926,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 927,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 928,
+      "style": 13,
+      "name": "Meltdown"
+    },
+    {
+      "$id": 929,
+      "style": 13,
+      "name": "Grave Fang"
+    },
+    {
+      "$id": 930,
+      "style": 13,
+      "name": "Carapaia Tail"
+    },
+    {
+      "$id": 931,
+      "style": 13,
+      "name": "Ignis Breath"
+    },
+    {
+      "$id": 932,
+      "style": 13,
+      "name": "Bastille Sky V"
+    },
+    {
+      "$id": 933,
+      "style": 13,
+      "name": "Chaos Combo"
+    },
+    {
+      "$id": 934,
+      "style": 13,
+      "name": "Chaos Punish"
+    },
+    {
+      "$id": 935,
+      "style": 13,
+      "name": "Chaos Dash"
+    },
+    {
+      "$id": 936,
+      "style": 13,
+      "name": "Chaos Bullet VI"
+    },
+    {
+      "$id": 937,
+      "style": 13,
+      "name": "Silent Chaos"
+    },
+    {
+      "$id": 938,
+      "style": 13,
+      "name": "Dark Power"
+    },
+    {
+      "$id": 939,
+      "style": 13,
+      "name": "Treacherous Anger"
+    },
+    {
+      "$id": 940,
+      "style": 13,
+      "name": "Righteous Anger"
+    },
+    {
+      "$id": 941,
+      "style": 13,
+      "name": "Chaos Punish"
+    },
+    {
+      "$id": 942,
+      "style": 13,
+      "name": "Monado Cross VIII"
+    },
+    {
+      "$id": 943,
+      "style": 13,
+      "name": "Monado Right"
+    },
+    {
+      "$id": 944,
+      "style": 13,
+      "name": "Monado Left"
+    },
+    {
+      "$id": 945,
+      "style": 13,
+      "name": "Monado Recovery"
+    },
+    {
+      "$id": 946,
+      "style": 13,
+      "name": "Monado Brave"
+    },
+    {
+      "$id": 947,
+      "style": 13,
+      "name": "Monado Fear"
+    },
+    {
+      "$id": 948,
+      "style": 13,
+      "name": "Summon Guardian"
+    },
+    {
+      "$id": 949,
+      "style": 13,
+      "name": "Monado Shield"
+    },
+    {
+      "$id": 950,
+      "style": 13,
+      "name": "Monado Eater"
+    },
+    {
+      "$id": 951,
+      "style": 13,
+      "name": "Twin Break"
+    },
+    {
+      "$id": 952,
+      "style": 13,
+      "name": "Monado Brave"
+    },
+    {
+      "$id": 953,
+      "style": 13,
+      "name": "Ether Field"
+    },
+    {
+      "$id": 954,
+      "style": 13,
+      "name": "Monado Combo"
+    },
+    {
+      "$id": 955,
+      "style": 13,
+      "name": "Titan Bazooka VIII"
+    },
+    {
+      "$id": 956,
+      "style": 13,
+      "name": "World Reconstruct"
+    },
+    {
+      "$id": 957,
+      "style": 13,
+      "name": "Black Hole"
+    },
+    {
+      "$id": 958,
+      "style": 13,
+      "name": "Giant God Buster"
+    },
+    {
+      "$id": 959,
+      "style": 13,
+      "name": "World Reconstruct"
+    },
+    {
+      "$id": 960,
+      "style": 13,
+      "name": "Machine God Buster"
+    },
+    {
+      "$id": 961,
+      "style": 13,
+      "name": "Monado Shooter IX"
+    },
+    {
+      "$id": 962,
+      "style": 13,
+      "name": "Monado Combo"
+    },
+    {
+      "$id": 963,
+      "style": 13,
+      "name": "Titan Bazooka VIII"
+    },
+    {
+      "$id": 964,
+      "style": 13,
+      "name": "World Reconstruct"
+    },
+    {
+      "$id": 965,
+      "style": 13,
+      "name": "Black Hole"
+    },
+    {
+      "$id": 966,
+      "style": 13,
+      "name": "Giant God Buster"
+    },
+    {
+      "$id": 967,
+      "style": 13,
+      "name": "World Reconstruct"
+    },
+    {
+      "$id": 968,
+      "style": 13,
+      "name": "Machine God Buster"
+    },
+    {
+      "$id": 969,
+      "style": 13,
+      "name": "Monado Shooter IX"
+    },
+    {
+      "$id": 970,
+      "style": 13,
+      "name": "Monado Shield"
+    },
+    {
+      "$id": 971,
+      "style": 13,
+      "name": "Monado Eater VII"
+    },
+    {
+      "$id": 972,
+      "style": 13,
+      "name": "Twin Break"
+    },
+    {
+      "$id": 973,
+      "style": 13,
+      "name": "Monado Brave"
+    },
+    {
+      "$id": 974,
+      "style": 13,
+      "name": "Ether Field"
+    },
+    {
+      "$id": 975,
+      "style": 13,
+      "name": "Monado Lock"
+    },
+    {
+      "$id": 976,
+      "style": 13,
+      "name": "Monado Heal"
+    },
+    {
+      "$id": 977,
+      "style": 13,
+      "name": "Ultra Play Bite"
+    },
+    {
+      "$id": 978,
+      "style": 13,
+      "name": "Ultra Tail Strike"
+    },
+    {
+      "$id": 979,
+      "style": 13,
+      "name": "Demon Purging Fire"
+    },
+    {
+      "$id": 980,
+      "style": 13,
+      "name": "Ultra Air Crush X"
+    },
+    {
+      "$id": 981,
+      "style": 13,
+      "name": "Vicious Combo"
+    },
+    {
+      "$id": 982,
+      "style": 13,
+      "name": "Rex Roar"
+    },
+    {
+      "$id": 983,
+      "style": 13,
+      "name": "Mountain Stomp"
+    },
+    {
+      "$id": 984,
+      "style": 13,
+      "name": "Rex Poison"
+    },
+    {
+      "$id": 985,
+      "style": 13,
+      "name": "Rex Gore"
+    },
+    {
+      "$id": 986,
+      "style": 13,
+      "name": "Tyrannus Roar"
+    },
+    {
+      "$id": 987,
+      "style": 13,
+      "name": "Frozen Graveyard X"
+    },
+    {
+      "$id": 988,
+      "style": 13,
+      "name": "Imperial Upper"
+    },
+    {
+      "$id": 989,
+      "style": 13,
+      "name": "Emperor Blow"
+    },
+    {
+      "$id": 990,
+      "style": 13,
+      "name": "Imperial Sobat"
+    },
+    {
+      "$id": 991,
+      "style": 13,
+      "name": "Emperor Combo X"
+    },
+    {
+      "$id": 992,
+      "style": 13,
+      "name": "Imperial Might"
+    },
+    {
+      "$id": 993,
+      "style": 13,
+      "name": "Rivoluzione"
+    },
+    {
+      "$id": 994,
+      "style": 13,
+      "name": "Conquista X"
+    },
+    {
+      "$id": 995,
+      "style": 13,
+      "name": "Vento"
+    },
+    {
+      "$id": 996,
+      "style": 13,
+      "name": "Strano"
+    },
+    {
+      "$id": 997,
+      "style": 13,
+      "name": "Laser"
+    },
+    {
+      "$id": 998,
+      "style": 13,
+      "name": "Bolt Screw"
+    },
+    {
+      "$id": 999,
+      "style": 13,
+      "name": "Silenzio"
+    },
+    {
+      "$id": 1000,
+      "style": 13,
+      "name": "Oblio"
+    },
+    {
+      "$id": 1001,
+      "style": 13,
+      "name": "Elemental Bullet"
+    },
+    {
+      "$id": 1002,
+      "style": 13,
+      "name": "Elemental Cannon"
+    },
+    {
+      "$id": 1003,
+      "style": 13,
+      "name": "Wind Whip"
+    },
+    {
+      "$id": 1004,
+      "style": 13,
+      "name": "Wind Eruption III"
+    },
+    {
+      "$id": 1005,
+      "style": 13,
+      "name": "Aqua Whip"
+    },
+    {
+      "$id": 1006,
+      "style": 13,
+      "name": "Aqua Eruption II"
+    },
+    {
+      "$id": 1007,
+      "style": 13,
+      "name": "Volt Whip"
+    },
+    {
+      "$id": 1008,
+      "style": 13,
+      "name": "Volt Eruption II"
+    },
+    {
+      "$id": 1009,
+      "style": 13,
+      "name": "Elemental Bullet"
+    },
+    {
+      "$id": 1010,
+      "style": 13,
+      "name": "Elemental Cannon"
+    },
+    {
+      "$id": 1011,
+      "style": 13,
+      "name": "Sand Whip"
+    },
+    {
+      "$id": 1012,
+      "style": 13,
+      "name": "Sand Eruption VII"
+    },
+    {
+      "$id": 1013,
+      "style": 13,
+      "name": "Corona Whip"
+    },
+    {
+      "$id": 1014,
+      "style": 13,
+      "name": "Corona Eruption V"
+    },
+    {
+      "$id": 1015,
+      "style": 13,
+      "name": "Ice Whip"
+    },
+    {
+      "$id": 1016,
+      "style": 13,
+      "name": "Ice Eruption IV"
+    },
+    {
+      "$id": 1017,
+      "style": 13,
+      "name": "Pipe Down!"
+    },
+    {
+      "$id": 1018,
+      "style": 13,
+      "name": "Wild Feast"
+    },
+    {
+      "$id": 1019,
+      "style": 13,
+      "name": "More Caviar!"
+    },
+    {
+      "$id": 1020,
+      "style": 13,
+      "name": "Banishment"
+    },
+    {
+      "$id": 1021,
+      "style": 13,
+      "name": "The King's Roar"
+    },
+    {
+      "$id": 1022,
+      "style": 13,
+      "name": "Ether Break II"
+    },
+    {
+      "$id": 1023,
+      "style": 13,
+      "name": "Gorge"
+    },
+    {
+      "$id": 1024,
+      "style": 13,
+      "name": "Barrier"
+    },
+    {
+      "$id": 1025,
+      "style": 13,
+      "name": "Horn Stab"
+    },
+    {
+      "$id": 1026,
+      "style": 13,
+      "name": "Howl of Darkness"
+    },
+    {
+      "$id": 1027,
+      "style": 13,
+      "name": "Cloak of Darkness"
+    },
+    {
+      "$id": 1028,
+      "style": 13,
+      "name": "Piercing Breath"
+    },
+    {
+      "$id": 1029,
+      "style": 13,
+      "name": "Weak Point"
+    },
+    {
+      "$id": 1030,
+      "style": 13,
+      "name": "Reckless Light"
+    },
+    {
+      "$id": 1031,
+      "style": 13,
+      "name": "Impale IV"
+    },
+    {
+      "$id": 1032,
+      "style": 13,
+      "name": "Devour Preparation"
+    },
+    {
+      "$id": 1033,
+      "style": 13,
+      "name": "Naked Field"
+    },
+    {
+      "$id": 1034,
+      "style": 13,
+      "name": "Fish Festival VI"
+    },
+    {
+      "$id": 1035,
+      "style": 13,
+      "name": "Naked Field"
+    },
+    {
+      "$id": 1036,
+      "style": 13,
+      "name": "Naked Glow V"
+    },
+    {
+      "$id": 1037,
+      "style": 13,
+      "name": "Naked Lock"
+    },
+    {
+      "$id": 1038,
+      "style": 13,
+      "name": "Invite to Despair"
+    },
+    {
+      "$id": 1039,
+      "style": 13,
+      "name": "Noise of Despair"
+    },
+    {
+      "$id": 1040,
+      "style": 13,
+      "name": "Annihilation V"
+    },
+    {
+      "$id": 1041,
+      "style": 13,
+      "name": "Royal Gravity"
+    },
+    {
+      "$id": 1042,
+      "style": 13,
+      "name": "Legendary Claw VII"
+    },
+    {
+      "$id": 1043,
+      "style": 13,
+      "name": "Sublime Cure"
+    },
+    {
+      "$id": 1044,
+      "style": 13,
+      "name": "Art 1"
+    },
+    {
+      "$id": 1045,
+      "style": 13,
+      "name": "Art 2"
+    },
+    {
+      "$id": 1046,
+      "style": 13,
+      "name": "Art 3"
+    },
+    {
+      "$id": 1047,
+      "style": 13,
+      "name": "Art 4"
+    },
+    {
+      "$id": 1048,
+      "style": 13,
+      "name": "Great Hit IV"
+    },
+    {
+      "$id": 1049,
+      "style": 13,
+      "name": "Gala Chainsaw V"
+    },
+    {
+      "$id": 1050,
+      "style": 13,
+      "name": "Over Eater VI"
+    },
+    {
+      "$id": 1051,
+      "style": 13,
+      "name": "Thermal Growth II"
+    },
+    {
+      "$id": 1052,
+      "style": 13,
+      "name": "Cosmo Burst V"
+    },
+    {
+      "$id": 1053,
+      "style": 13,
+      "name": "Killer Snipe IV"
+    },
+    {
+      "$id": 1054,
+      "style": 13,
+      "name": "Velua Rush"
+    },
+    {
+      "$id": 1055,
+      "style": 13,
+      "name": "Velua Voice"
+    },
+    {
+      "$id": 1056,
+      "style": 13,
+      "name": "Velua Break VI"
+    },
+    {
+      "$id": 1057,
+      "style": 13,
+      "name": "Glorious Meteor V"
+    },
+    {
+      "$id": 1058,
+      "style": 13,
+      "name": "Thorium Claw VI"
+    },
+    {
+      "$id": 1059,
+      "style": 13,
+      "name": "Electric Tongue VII"
+    },
+    {
+      "$id": 1060,
+      "style": 13,
+      "name": "Comet Dive VII"
+    },
+    {
+      "$id": 1061,
+      "style": 13,
+      "name": "Ultimate Hit VIII"
+    },
+    {
+      "$id": 1062,
+      "style": 13,
+      "name": "Nova Claw VII"
+    },
+    {
+      "$id": 1063,
+      "style": 13,
+      "name": "Over Junk X"
+    },
+    {
+      "$id": 1064,
+      "style": 13,
+      "name": "Orbit Attack VIII"
+    },
+    {
+      "$id": 1065,
+      "style": 13,
+      "name": "Virgin Bite VII"
+    },
+    {
+      "$id": 1066,
+      "style": 13,
+      "name": "Kururusu Wind VIII"
+    },
+    {
+      "$id": 1067,
+      "style": 13,
+      "name": "Breaking Upper VII"
+    },
+    {
+      "$id": 1068,
+      "style": 13,
+      "name": "Vicious Knock Back VII"
+    },
+    {
+      "$id": 1069,
+      "style": 13,
+      "name": "Vicious Tail Spike VIII"
+    },
+    {
+      "$id": 1070,
+      "style": 13,
+      "name": "Soleil Attack VIII"
+    },
+    {
+      "$id": 1071,
+      "style": 13,
+      "name": "Verse Crash VII"
+    },
+    {
+      "$id": 1072,
+      "style": 13,
+      "name": "Verse Eater IX"
+    },
+    {
+      "$id": 1073,
+      "style": 13,
+      "name": "Gala Crush VII"
+    },
+    {
+      "$id": 1074,
+      "style": 13,
+      "name": "Stellar Arrow VIII"
+    },
+    {
+      "$id": 1075,
+      "style": 13,
+      "name": "Volcano Dive VII"
+    },
+    {
+      "$id": 1076,
+      "style": 13,
+      "name": "Ultra Combo VIII"
+    },
+    {
+      "$id": 1077,
+      "style": 13,
+      "name": "Ultimate Cannon IX"
+    },
+    {
+      "$id": 1078,
+      "style": 13,
+      "name": "Super Nova VII"
+    },
+    {
+      "$id": 1079,
+      "style": 13,
+      "name": "Violent Dance VIII"
+    },
+    {
+      "$id": 1080,
+      "style": 13,
+      "name": "Mountain Impact IX"
+    },
+    {
+      "$id": 1081,
+      "style": 13,
+      "name": "Glorious Bolt VIII"
+    },
+    {
+      "$id": 1082,
+      "style": 13,
+      "name": "Flare Slash"
+    },
+    {
+      "$id": 1083,
+      "style": 13,
+      "name": "Aqua Heal"
+    },
+    {
+      "$id": 1084,
+      "style": 13,
+      "name": "Accel Wind"
+    },
+    {
+      "$id": 1085,
+      "style": 13,
+      "name": "Dive Thrust"
+    },
+    {
+      "$id": 1086,
+      "style": 13,
+      "name": "Bolt Sweep"
+    },
+    {
+      "$id": 1087,
+      "style": 13,
+      "name": "Furor Slash"
+    },
+    {
+      "$id": 1088,
+      "style": 13,
+      "name": "Agnost Beam"
+    },
+    {
+      "$id": 1089,
+      "style": 13,
+      "name": "Erasing Mist"
+    },
+    {
+      "$id": 1090,
+      "style": 13,
+      "name": "Mist Charge"
+    },
+    {
+      "$id": 1091,
+      "style": 13,
+      "name": "Internal Burst"
+    },
+    {
+      "$id": 1092,
+      "style": 13,
+      "name": "Summon Knight"
+    },
+    {
+      "$id": 1093,
+      "style": 13,
+      "name": "Mist Press"
+    },
+    {
+      "$id": 1094,
+      "style": 13,
+      "name": "Convergence Beam"
+    },
+    {
+      "$id": 1095,
+      "style": 13,
+      "name": "Collision Burst"
+    },
+    {
+      "$id": 1096,
+      "style": 13,
+      "name": "Mist Shot"
+    },
+    {
+      "$id": 1097,
+      "style": 13,
+      "name": "Mist Cannon"
+    },
+    {
+      "$id": 1098,
+      "style": 13,
+      "name": "Mist Whip"
+    },
+    {
+      "$id": 1099,
+      "style": 13,
+      "name": "Mist Burst"
+    }
+  ]
+}

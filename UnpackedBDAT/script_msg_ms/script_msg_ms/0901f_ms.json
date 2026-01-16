@@ -1,0 +1,19 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "I am performing the ritual.[XENO:n ]\nI cannot turn back now.[XENO:wait wait=key ][System:PageBreak ]I must not disappoint father and[XENO:n ]\nthe others. I must proceed.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

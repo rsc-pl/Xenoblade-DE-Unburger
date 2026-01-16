@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "High Entia Treasure"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Control Device"
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Verification Device"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It appears to have already been verified."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Ancient Insignia"
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "It appears to be sealed."
+    }
+  ]
+}

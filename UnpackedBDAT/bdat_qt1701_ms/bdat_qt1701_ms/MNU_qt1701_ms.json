@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Bozerone wants to make some boots for you as a[XENO:n ]\nthank you, but she doesn't have enough materials.[XENO:n ]\nCollect what she needs to make some strong boots."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Reinforced Jets[/System:Color] from Mechon carrying[XENO:n ]\nswords and shields on Machine God Field."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Reinforced Plungers[/System:Color] from large bipedal[XENO:n ]\nMechon in Machine God Field."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "Return to Bozerone."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "You helped Bozerone make the boots. She's[XENO:n ]\nthinking about a future with Calbora."
+    },
+    {
+      "$id": 6,
+      "style": 148,
+      "name": "Repel the enemies that threaten the safety of the[XENO:n ]\nMachina and Hidden Village."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]M66/TRICK[/System:Color] Mechon in Machine God Field."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "You completed the Garrisoned Troop's request[XENO:n ]\nand made Hidden Village safer."
+    },
+    {
+      "$id": 9,
+      "style": 148,
+      "name": "Repel the enemy that threatens the safety of the[XENO:n ]\nMachina and Hidden Village."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Revolutionary Bifrons[/System:Color] near Power Supply[XENO:n ]\nArea 1 in Machine God Field."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "You completed the Garrisoned Troop's request[XENO:n ]\nand made Hidden Village safer."
+    },
+    {
+      "$id": 12,
+      "style": 148,
+      "name": "Repel the enemy that threatens the safety of the[XENO:n ]\nMachina and Hidden Village."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Infernal Crocell[/System:Color] near Power Supply Area 2[XENO:n ]\nin Machine God Field."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "You completed the Garrisoned Troop's request[XENO:n ]\nand made Hidden Village safer."
+    },
+    {
+      "$id": 15,
+      "style": 148,
+      "name": "You want to go to the top level of Machine God Field but[XENO:n ]\nthere is no power to the lift. Use the Master Power[XENO:n ]\nPanel to get the lift working again."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Use the GF Master Power Panel to start[XENO:n ]\nthe 2nd Lift."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "You can use the 2nd Lift to get to the first floor."
+    },
+    {
+      "$id": 18,
+      "style": 148,
+      "name": "Connect the power plug to start the 3rd Lift."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "Use the 1F Master Power Panel to get the[XENO:n ]\nCylinder Activation Panel on the floor working."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Use the Cylinder Activation Panel to get the[XENO:n ]\ncylinder working."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Use the 3rd Lift Activation Panel in the 3rd Lift[XENO:n ]\nEngine Room to connect the power plug."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "You connected the power plug and the 3rd[XENO:n ]\nLift is working now."
+    },
+    {
+      "$id": 23,
+      "style": 148,
+      "name": "Release the Bulkhead to get outside and continue[XENO:n ]\nyour journey to the upper levels of Machine God Field."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Use the 3F Master Power Panel to get the[XENO:n ]\nBulkhead Control Panel working."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Use the Bulkhead Control Panel to release[XENO:n ]\nthe Bulkhead."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "You released the Bulkhead and can now go[XENO:n ]\noutside."
+    },
+    {
+      "$id": 27,
+      "style": 148,
+      "name": "Connect the power plug to get the High-Velocity Lift[XENO:n ]\nin Machine God Field working."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Provide power to the High-Velocity Lift Panel."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Use the High-Velocity Lift Panel to connect[XENO:n ]\nthe power plug."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "The power plug is connected and the[XENO:n ]\nHigh-Velocity Lift is working properly."
+    },
+    {
+      "$id": 31,
+      "style": 148,
+      "name": "To connect the power plug to the High-Velocity Lift,[XENO:n ]\nyou need to supply power to the High-Velocity Lift[XENO:n ]\nPanel."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Use the 1st Power Supply Panel in Power Supply[XENO:n ]\nArea 1 to supply power to the lift panel."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Use the 2nd Power Supply Panel in Power[XENO:n ]\nSupply Area 2 to supply power to the lift panel."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "You can now use the High-Velocity Lift Panel[XENO:n ]\nto connect the power plug."
+    }
+  ]
+}

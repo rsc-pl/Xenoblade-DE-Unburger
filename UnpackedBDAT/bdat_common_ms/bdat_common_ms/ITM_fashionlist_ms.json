@@ -1,0 +1,1164 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Monado I"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "Monado II"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Replica Agni"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Replica Monado"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Replica Dogma"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "Replica Abyss"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "Replica Rudra"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Replica Saga"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "Monado III"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Junk Sword"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Scrap Driver"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Iron Pike"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Metal Lancer"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Flame Gear"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Heavy Driver"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Jack Guarder"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Bomber Lancer"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Machina Driver"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "Machina Guarder II"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Rusty Guarder"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Acrylic Driver"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Aegis Guarder"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Arachno Driver"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Northern Pike"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Crushing Guarder"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "Jaguar Lancer"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Machina Guarder"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Anti-Mechon Driver"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Hunting Knives"
+    },
+    {
+      "$id": 30,
+      "style": 12,
+      "name": "Machine God Swords"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "Protector Daggers"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Swallow Blades"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Murder Knives"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Sparrow Blades"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Chaos Break"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Jack Daggers"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "Star Knives"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "Karma Blades"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Omega Break"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Delay Blades"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Dystopia"
+    },
+    {
+      "$id": 42,
+      "style": 12,
+      "name": "Homs Sabre"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "Steel Cutlass"
+    },
+    {
+      "$id": 44,
+      "style": 12,
+      "name": "Mountain Spear"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "Luna Defender"
+    },
+    {
+      "$id": 46,
+      "style": 12,
+      "name": "Evening Sickle"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "Lion Cutlass"
+    },
+    {
+      "$id": 48,
+      "style": 12,
+      "name": "Iron Cutlass"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "Anti-Mechon Glaive"
+    },
+    {
+      "$id": 50,
+      "style": 12,
+      "name": "Purity Striker"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "Alpine Spear"
+    },
+    {
+      "$id": 52,
+      "style": 12,
+      "name": "Asura"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "Night Sickle"
+    },
+    {
+      "$id": 54,
+      "style": 12,
+      "name": "Quitter"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Endymion"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Machina Blade"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Machina Sword"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "Gado's Rifle"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "Air Sniper"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "Calm Shot"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "Point Rifle"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "Nopon Cannon"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "Shift Rifle"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "Chrome Sniper"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "Spit Cluster"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "Brain Rifle"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "Dark Cannon"
+    },
+    {
+      "$id": 68,
+      "style": 12,
+      "name": "Machina Sniper"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "Machina Cannon"
+    },
+    {
+      "$id": 70,
+      "style": 12,
+      "name": "Machina Rifle"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "Machina Sniper II"
+    },
+    {
+      "$id": 72,
+      "style": 12,
+      "name": "Machina Rifle II"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "Hunter Biter"
+    },
+    {
+      "$id": 74,
+      "style": 12,
+      "name": "King Frog"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "Wrecking Nibbler"
+    },
+    {
+      "$id": 76,
+      "style": 12,
+      "name": "Anti-Mechon Biter"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "Machina Nibbler"
+    },
+    {
+      "$id": 78,
+      "style": 12,
+      "name": "Machina Biter"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "Meditor Gnasher"
+    },
+    {
+      "$id": 80,
+      "style": 12,
+      "name": "Dream Gnasher"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "Fish Biter"
+    },
+    {
+      "$id": 82,
+      "style": 12,
+      "name": "Banquet Biter"
+    },
+    {
+      "$id": 83,
+      "style": 12,
+      "name": "Gladiator Biter"
+    },
+    {
+      "$id": 84,
+      "style": 12,
+      "name": "Queen Frog"
+    },
+    {
+      "$id": 85,
+      "style": 12,
+      "name": "Love Biter"
+    },
+    {
+      "$id": 86,
+      "style": 12,
+      "name": "Jaw Nibbler"
+    },
+    {
+      "$id": 87,
+      "style": 12,
+      "name": "Machina Nibbler II"
+    },
+    {
+      "$id": 88,
+      "style": 12,
+      "name": "Machina Biter II"
+    },
+    {
+      "$id": 89,
+      "style": 12,
+      "name": "Ironwall Gnasher"
+    },
+    {
+      "$id": 90,
+      "style": 12,
+      "name": "Warrior Gnasher"
+    },
+    {
+      "$id": 91,
+      "style": 12,
+      "name": "Protect Staff"
+    },
+    {
+      "$id": 92,
+      "style": 12,
+      "name": "Five-Star Rod"
+    },
+    {
+      "$id": 93,
+      "style": 12,
+      "name": "Soltnar Staff"
+    },
+    {
+      "$id": 94,
+      "style": 12,
+      "name": "Machina Staff"
+    },
+    {
+      "$id": 95,
+      "style": 12,
+      "name": "Machina Rod"
+    },
+    {
+      "$id": 96,
+      "style": 12,
+      "name": "Sky Rod"
+    },
+    {
+      "$id": 97,
+      "style": 12,
+      "name": "Khatorl Staff"
+    },
+    {
+      "$id": 98,
+      "style": 12,
+      "name": "Imperial Staff"
+    },
+    {
+      "$id": 99,
+      "style": 12,
+      "name": "Official's Staff"
+    },
+    {
+      "$id": 100,
+      "style": 12,
+      "name": "Wisdom Rod"
+    },
+    {
+      "$id": 101,
+      "style": 12,
+      "name": "Anti-Mechon Rod"
+    },
+    {
+      "$id": 102,
+      "style": 12,
+      "name": "Machina Staff II"
+    },
+    {
+      "$id": 103,
+      "style": 12,
+      "name": "Machina Rod II"
+    },
+    {
+      "$id": 104,
+      "style": 12,
+      "name": "Alcor Staff"
+    },
+    {
+      "$id": 105,
+      "style": 12,
+      "name": "Bonus Staff"
+    },
+    {
+      "$id": 106,
+      "style": 12,
+      "name": "Empress Staff"
+    },
+    {
+      "$id": 107,
+      "style": 12,
+      "name": "Ecru Type"
+    },
+    {
+      "$id": 108,
+      "style": 12,
+      "name": "Beach Type I"
+    },
+    {
+      "$id": 109,
+      "style": 12,
+      "name": "Beach Type II"
+    },
+    {
+      "$id": 110,
+      "style": 12,
+      "name": "Colony Type I"
+    },
+    {
+      "$id": 111,
+      "style": 12,
+      "name": "Colony Type II"
+    },
+    {
+      "$id": 112,
+      "style": 12,
+      "name": "Colony Type III"
+    },
+    {
+      "$id": 113,
+      "style": 12,
+      "name": "Colony Type IV"
+    },
+    {
+      "$id": 114,
+      "style": 12,
+      "name": "Middle Type I"
+    },
+    {
+      "$id": 115,
+      "style": 12,
+      "name": "Middle Type II"
+    },
+    {
+      "$id": 116,
+      "style": 12,
+      "name": "Middle Type III"
+    },
+    {
+      "$id": 117,
+      "style": 12,
+      "name": "Middle Type IV"
+    },
+    {
+      "$id": 118,
+      "style": 12,
+      "name": "Makna Type I"
+    },
+    {
+      "$id": 119,
+      "style": 12,
+      "name": "Makna Type II"
+    },
+    {
+      "$id": 120,
+      "style": 12,
+      "name": "Legar Type III"
+    },
+    {
+      "$id": 121,
+      "style": 12,
+      "name": "Legar Type II"
+    },
+    {
+      "$id": 122,
+      "style": 12,
+      "name": "Legar Type I"
+    },
+    {
+      "$id": 123,
+      "style": 12,
+      "name": "Eryth Type I"
+    },
+    {
+      "$id": 124,
+      "style": 12,
+      "name": "Eryth Type II"
+    },
+    {
+      "$id": 125,
+      "style": 12,
+      "name": "Eryth Type III"
+    },
+    {
+      "$id": 126,
+      "style": 12,
+      "name": "Orion Type I"
+    },
+    {
+      "$id": 127,
+      "style": 12,
+      "name": "Orion Type II"
+    },
+    {
+      "$id": 128,
+      "style": 12,
+      "name": "M100 Type I"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "M100 Type II"
+    },
+    {
+      "$id": 130,
+      "style": 12,
+      "name": "Titan Type I"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "Titan Type II"
+    },
+    {
+      "$id": 132,
+      "style": 12,
+      "name": "Titan Type III"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "Glasses Type I"
+    },
+    {
+      "$id": 134,
+      "style": 12,
+      "name": "Glasses Type II"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "Homs Military I"
+    },
+    {
+      "$id": 136,
+      "style": 12,
+      "name": "Convalescent"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "Colony 6 Era"
+    },
+    {
+      "$id": 138,
+      "style": 12,
+      "name": "Ceremonial Mask"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "Bonnet"
+    },
+    {
+      "$id": 140,
+      "style": 12,
+      "name": "Prodigal Type I"
+    },
+    {
+      "$id": 141,
+      "style": 12,
+      "name": "Prodigal Type II"
+    },
+    {
+      "$id": 142,
+      "style": 12,
+      "name": "Prodigal Type III"
+    },
+    {
+      "$id": 143,
+      "style": 12,
+      "name": "Orion Legacy I"
+    },
+    {
+      "$id": 144,
+      "style": 12,
+      "name": "Orion Legacy II"
+    },
+    {
+      "$id": 145,
+      "style": 12,
+      "name": "M100 Legacy I"
+    },
+    {
+      "$id": 146,
+      "style": 12,
+      "name": "M100 Legacy II"
+    },
+    {
+      "$id": 147,
+      "style": 12,
+      "name": "Titan Legacy I"
+    },
+    {
+      "$id": 148,
+      "style": 12,
+      "name": "Titan Legacy II"
+    },
+    {
+      "$id": 149,
+      "style": 12,
+      "name": "Titan Legacy III"
+    },
+    {
+      "$id": 150,
+      "style": 12,
+      "name": "Basic Cowling"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "Ether Cowling II"
+    },
+    {
+      "$id": 152,
+      "style": 12,
+      "name": "Ether Cowling I"
+    },
+    {
+      "$id": 153,
+      "style": 12,
+      "name": "Speed Cowling I"
+    },
+    {
+      "$id": 154,
+      "style": 12,
+      "name": "Speed Cowling II"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "Speed Cowling III"
+    },
+    {
+      "$id": 156,
+      "style": 12,
+      "name": "Power Cowling I"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "Power Cowling II"
+    },
+    {
+      "$id": 158,
+      "style": 12,
+      "name": "Power Cowling III"
+    },
+    {
+      "$id": 159,
+      "style": 12,
+      "name": "Attack Cowling I"
+    },
+    {
+      "$id": 160,
+      "style": 12,
+      "name": "Attack Cowling II"
+    },
+    {
+      "$id": 161,
+      "style": 12,
+      "name": "Attack Cowling III"
+    },
+    {
+      "$id": 162,
+      "style": 12,
+      "name": "F Attack Cowling I"
+    },
+    {
+      "$id": 163,
+      "style": 12,
+      "name": "F Attack Cowling II"
+    },
+    {
+      "$id": 164,
+      "style": 12,
+      "name": "F Attack Cowling III"
+    },
+    {
+      "$id": 165,
+      "style": 12,
+      "name": "F Speed Cowling I"
+    },
+    {
+      "$id": 166,
+      "style": 12,
+      "name": "F Speed Cowling II"
+    },
+    {
+      "$id": 167,
+      "style": 12,
+      "name": "F Speed Cowling III"
+    },
+    {
+      "$id": 168,
+      "style": 12,
+      "name": "F Power Cowling I"
+    },
+    {
+      "$id": 169,
+      "style": 12,
+      "name": "F Power Cowling II"
+    },
+    {
+      "$id": 170,
+      "style": 12,
+      "name": "F Power Cowling III"
+    },
+    {
+      "$id": 171,
+      "style": 12,
+      "name": "Palva Cowling"
+    },
+    {
+      "$id": 172,
+      "style": 12,
+      "name": "Idun Cowling"
+    },
+    {
+      "$id": 173,
+      "style": 12,
+      "name": "Glasses Fashion I"
+    },
+    {
+      "$id": 174,
+      "style": 12,
+      "name": "Sedna Cowling"
+    },
+    {
+      "$id": 175,
+      "style": 12,
+      "name": "Lucina Cowling"
+    },
+    {
+      "$id": 176,
+      "style": 12,
+      "name": "Glasses Fashion II"
+    },
+    {
+      "$id": 177,
+      "style": 12,
+      "name": "Soloist's Cowling I"
+    },
+    {
+      "$id": 178,
+      "style": 12,
+      "name": "Soloist's Cowling II"
+    },
+    {
+      "$id": 179,
+      "style": 12,
+      "name": "Soloist's Cowling III"
+    },
+    {
+      "$id": 180,
+      "style": 12,
+      "name": "Power Legacy I"
+    },
+    {
+      "$id": 181,
+      "style": 12,
+      "name": "Mitra Legacy"
+    },
+    {
+      "$id": 182,
+      "style": 12,
+      "name": "Power Legacy II"
+    },
+    {
+      "$id": 183,
+      "style": 12,
+      "name": "Ishtar Legacy"
+    },
+    {
+      "$id": 184,
+      "style": 12,
+      "name": "Power Legacy III"
+    },
+    {
+      "$id": 185,
+      "style": 12,
+      "name": "Homs Military II"
+    },
+    {
+      "$id": 186,
+      "style": 11,
+      "name": "Meyneth Monado"
+    },
+    {
+      "$id": 187,
+      "style": 11,
+      "name": "Husk Shooter"
+    },
+    {
+      "$id": 188,
+      "style": 11,
+      "name": "Seed Blammer"
+    },
+    {
+      "$id": 189,
+      "style": 11,
+      "name": "Fruit Spouter"
+    },
+    {
+      "$id": 190,
+      "style": 11,
+      "name": "Friend Shelterer"
+    },
+    {
+      "$id": 191,
+      "style": 11,
+      "name": "Madcap Stopper"
+    },
+    {
+      "$id": 192,
+      "style": 11,
+      "name": "Snughug Blocker"
+    },
+    {
+      "$id": 193,
+      "style": 11,
+      "name": "Monado Replica EX"
+    },
+    {
+      "$id": 194,
+      "style": 11,
+      "name": "Monado Replica EX+"
+    },
+    {
+      "$id": 195,
+      "style": 11,
+      "name": "World Ender"
+    },
+    {
+      "$id": 196,
+      "style": 11,
+      "name": "Resort Style I"
+    },
+    {
+      "$id": 197,
+      "style": 11,
+      "name": "Resort Style II"
+    },
+    {
+      "$id": 198,
+      "style": 11,
+      "name": "Resort Style III"
+    },
+    {
+      "$id": 199,
+      "style": 11,
+      "name": "Monado Style I"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Monado Style II"
+    },
+    {
+      "$id": 201,
+      "style": 11,
+      "name": "Monado Style III"
+    },
+    {
+      "$id": 202,
+      "style": 11,
+      "name": "ライン水着ベース"
+    },
+    {
+      "$id": 203,
+      "style": 11,
+      "name": "ライン水着色替1"
+    },
+    {
+      "$id": 204,
+      "style": 11,
+      "name": "ライン水着色替2"
+    },
+    {
+      "$id": 205,
+      "style": 11,
+      "name": "ダンバン水着ベース"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "ダンバン水着色替1"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "ダンバン水着色替2"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "カルナ水着ベース"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "カルナ水着色替1"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "カルナ水着色替2"
+    },
+    {
+      "$id": 211,
+      "style": 11,
+      "name": "リキ水着ベース"
+    },
+    {
+      "$id": 212,
+      "style": 11,
+      "name": "リキ水着色替1"
+    },
+    {
+      "$id": 213,
+      "style": 11,
+      "name": "リキ水着色替2"
+    },
+    {
+      "$id": 214,
+      "style": 11,
+      "name": "メリア水着ベース"
+    },
+    {
+      "$id": 215,
+      "style": 11,
+      "name": "メリア水着色替1"
+    },
+    {
+      "$id": 216,
+      "style": 11,
+      "name": "メリア水着色替2"
+    },
+    {
+      "$id": 217,
+      "style": 11,
+      "name": "Anemone Style I"
+    },
+    {
+      "$id": 218,
+      "style": 11,
+      "name": "Anemone Style II"
+    },
+    {
+      "$id": 219,
+      "style": 11,
+      "name": "Anemone Style III"
+    },
+    {
+      "$id": 220,
+      "style": 11,
+      "name": "Taruko's Mask"
+    },
+    {
+      "$id": 221,
+      "style": 11,
+      "name": "Nerthis Crown"
+    },
+    {
+      "$id": 222,
+      "style": 11,
+      "name": "Water Cowling I"
+    },
+    {
+      "$id": 223,
+      "style": 11,
+      "name": "Water Cowling II"
+    },
+    {
+      "$id": 224,
+      "style": 11,
+      "name": "Water Cowling III"
+    },
+    {
+      "$id": 225,
+      "style": 11,
+      "name": "Intrepid Style I"
+    },
+    {
+      "$id": 226,
+      "style": 11,
+      "name": "Intrepid Style II"
+    },
+    {
+      "$id": 227,
+      "style": 11,
+      "name": "Intrepid Style III"
+    },
+    {
+      "$id": 228,
+      "style": 11,
+      "name": "Modern Style I"
+    },
+    {
+      "$id": 229,
+      "style": 11,
+      "name": "Modern Style II"
+    },
+    {
+      "$id": 230,
+      "style": 11,
+      "name": "Modern Style III"
+    }
+  ]
+}

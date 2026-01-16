@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Whoa! Smell hurt Riki's nose![XENO:wait wait=key ][System:PageBreak ]Yuuri want five of these?![XENO:wait wait=key ][System:PageBreak ]What he want to do with them?[XENO:n ]\nMust be something bad![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "I can imagine ten of these[XENO:n ]\nsmelling really sweet.[XENO:wait wait=key ][System:PageBreak ]How is Nopo'rikh going to call the[XENO:n ]\nbutterflies back with these?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "That's the two Inferno Elements[XENO:n ]\nwe need.[XENO:wait wait=key ][System:PageBreak ]This should help them restore[XENO:n ]\nColony 6's special facilities.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

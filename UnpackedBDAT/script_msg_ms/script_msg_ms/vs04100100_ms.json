@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Carna, do you know which way Juujuu went?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]There are quite a few ways to get there from here,[XENO:n ]\nbut he's in a buggy, so I think he'll take Raguel Bridge.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Raguel Bridge?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]It's not far. It's a really old bridge. Built[XENO:n ]\naround the time Colony 9 was founded.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]OK. Let's make that our next stop.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Sounds like a plan![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Carna, you stay back. Leave any[XENO:n ]\nmonsters up to me and Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]What, you think I can't pull my weight in battle?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "I've got field experience as a medic.[XENO:n ]\n[XENO:act act=EVT_EXT1 ]If you get hurt, I can use ether to patch you up.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Nice! I'm always getting roughed up.[XENO:n ]\nYou'll be a big help![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

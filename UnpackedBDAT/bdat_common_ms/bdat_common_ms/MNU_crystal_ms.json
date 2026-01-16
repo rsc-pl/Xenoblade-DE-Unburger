@@ -1,0 +1,439 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Gem Crafting"
+    },
+    {
+      "$id": 2,
+      "style": 6,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "style": 19,
+      "name": "Materials to Add"
+    },
+    {
+      "$id": 4,
+      "style": 6,
+      "name": "Confirm"
+    },
+    {
+      "$id": 5,
+      "style": 7,
+      "name": "Take All"
+    },
+    {
+      "$id": 6,
+      "style": 9,
+      "name": "Shooter"
+    },
+    {
+      "$id": 7,
+      "style": 9,
+      "name": "Engineer"
+    },
+    {
+      "$id": 8,
+      "style": 10,
+      "name": "Fever Plus"
+    },
+    {
+      "$id": 9,
+      "style": 10,
+      "name": "Strong Bonus"
+    },
+    {
+      "$id": 10,
+      "style": 10,
+      "name": "Cylinder Plus"
+    },
+    {
+      "$id": 11,
+      "style": 10,
+      "name": "Combo Master"
+    },
+    {
+      "$id": 12,
+      "style": 10,
+      "name": "Gentle Bonus"
+    },
+    {
+      "$id": 13,
+      "style": 10,
+      "name": "Impatient Shooter"
+    },
+    {
+      "$id": 14,
+      "style": 10,
+      "name": "Medium Bonus"
+    },
+    {
+      "$id": 15,
+      "style": 10,
+      "name": "Cylinder Plus"
+    },
+    {
+      "$id": 16,
+      "style": 44,
+      "name": "Gets into a Fever easily[XENO:n ]\nwhen crafting."
+    },
+    {
+      "$id": 17,
+      "style": 44,
+      "name": "Qualities grow stronger[XENO:n ]\nwith a strong flame."
+    },
+    {
+      "$id": 18,
+      "style": 44,
+      "name": "Crafting begins with 3[XENO:n ]\nfull cylinder gauges."
+    },
+    {
+      "$id": 19,
+      "style": 44,
+      "name": "Qualities grow stronger[XENO:n ]\nwhen flame is constant."
+    },
+    {
+      "$id": 20,
+      "style": 44,
+      "name": "Cylinder Gauge fills up[XENO:n ]\nmore with gentle flame."
+    },
+    {
+      "$id": 21,
+      "style": 44,
+      "name": "Gem crafting process[XENO:n ]\nhappens twice in a row."
+    },
+    {
+      "$id": 22,
+      "style": 44,
+      "name": "Qualities grow stronger[XENO:n ]\nwith a medium flame."
+    },
+    {
+      "$id": 23,
+      "style": 44,
+      "name": "Crafting begins with 3[XENO:n ]\nfull cylinder gauges."
+    },
+    {
+      "$id": 24,
+      "style": 7,
+      "name": "Quality"
+    },
+    {
+      "$id": 25,
+      "style": 8,
+      "name": "Strength"
+    },
+    {
+      "$id": 26,
+      "style": 7,
+      "name": "Craft Turns"
+    },
+    {
+      "$id": 27,
+      "style": 0,
+      "name": "回"
+    },
+    {
+      "$id": 28,
+      "style": 115,
+      "name": "Continue gem crafting?"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Continue"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Finish"
+    },
+    {
+      "$id": 31,
+      "style": 6,
+      "name": "Average"
+    },
+    {
+      "$id": 32,
+      "style": 6,
+      "name": "Average"
+    },
+    {
+      "$id": 33,
+      "style": 6,
+      "name": "Good"
+    },
+    {
+      "$id": 34,
+      "style": 6,
+      "name": "Great"
+    },
+    {
+      "$id": 35,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 36,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 37,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 38,
+      "style": 6,
+      "name": "Great"
+    },
+    {
+      "$id": 39,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 40,
+      "style": 6,
+      "name": "Good"
+    },
+    {
+      "$id": 41,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 42,
+      "style": 6,
+      "name": "Average"
+    },
+    {
+      "$id": 43,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 44,
+      "style": 6,
+      "name": "Good"
+    },
+    {
+      "$id": 45,
+      "style": 6,
+      "name": "Average"
+    },
+    {
+      "$id": 46,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 47,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 48,
+      "style": 6,
+      "name": "Great"
+    },
+    {
+      "$id": 49,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 50,
+      "style": 6,
+      "name": "Great"
+    },
+    {
+      "$id": 51,
+      "style": 6,
+      "name": "Poor"
+    },
+    {
+      "$id": 52,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 53,
+      "style": 6,
+      "name": "Great"
+    },
+    {
+      "$id": 54,
+      "style": 6,
+      "name": "Terrible"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Strong Flame"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Medium Flame"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Gentle Flame"
+    },
+    {
+      "$id": 58,
+      "style": 13,
+      "name": "Crafting Complete"
+    },
+    {
+      "$id": 59,
+      "style": 18,
+      "name": "Crafting Incomplete"
+    },
+    {
+      "$id": 60,
+      "style": 19,
+      "name": "Cylinder Conversion"
+    },
+    {
+      "$id": 61,
+      "style": 19,
+      "name": "Party Support"
+    },
+    {
+      "$id": 62,
+      "style": 10,
+      "name": "HEAT"
+    },
+    {
+      "$id": 63,
+      "style": 10,
+      "name": "MEGA HEAT"
+    },
+    {
+      "$id": 64,
+      "style": 8,
+      "name": "Strong Flame"
+    },
+    {
+      "$id": 65,
+      "style": 8,
+      "name": "Medium Flame"
+    },
+    {
+      "$id": 66,
+      "style": 8,
+      "name": "Gentle Flame"
+    },
+    {
+      "$id": 67,
+      "style": 9,
+      "name": "Choose"
+    },
+    {
+      "$id": 68,
+      "style": 9,
+      "name": "more"
+    },
+    {
+      "$id": 69,
+      "style": 19,
+      "name": "Claim Cylinders"
+    },
+    {
+      "$id": 70,
+      "style": 19,
+      "name": "Claim Gems"
+    },
+    {
+      "$id": 71,
+      "style": 19,
+      "name": "Choose crafting partners"
+    },
+    {
+      "$id": 72,
+      "style": 19,
+      "name": "Choose crafting materials"
+    },
+    {
+      "$id": 73,
+      "style": 11,
+      "name": "Start Crafting"
+    },
+    {
+      "$id": 74,
+      "style": 19,
+      "name": "Crack"
+    },
+    {
+      "$id": 75,
+      "style": 9,
+      "name": "Rank Up"
+    },
+    {
+      "$id": 76,
+      "style": 11,
+      "name": "Show recommended"
+    },
+    {
+      "$id": 77,
+      "style": 59,
+      "name": "You can't choose any more because[XENO:n ]\nan effect has reached 100% purity."
+    },
+    {
+      "$id": 78,
+      "style": 59,
+      "name": "You can't choose any more because you've[XENO:n ]\nreached the limit of usable materials."
+    },
+    {
+      "$id": 79,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 85,
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

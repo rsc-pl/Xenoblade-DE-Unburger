@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Achoo! Frontier Village's[XENO:n ]\nfamous Pollen Works![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Wow, Riki! Great machine![XENO:n ]\nIs it all made from wood?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Tut tut tut. Shulk say wrong word.[XENO:n ]\nThis not machine![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・Why? Because of the Mechon?/・Because it's not made of metal? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Mechon? What about Mechon?[XENO:n ]\nNo Mechon in village...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "The Mechon are evil machines.[XENO:n ]\nI thought that might be the reason.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Riki is Heropon! Mechon[XENO:n ]\nnot scary to Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "OK, my mistake. I guess nothing[XENO:n ]\nscares Heropon Riki, huh?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Is Shulk scared of Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・Yes, they're scary./・Not a chance. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Shulk scared? Wow...[XENO:wait wait=key ][System:PageBreak ]Riki think Shulk not afraid because[XENO:n ]\nShulk has Monado.[XENO:wait wait=key ][System:PageBreak ]Riki have big fear - Oka![XENO:n ]\nOka scariest in whole world.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "I know how you feel. When Fiorung[XENO:n ]\ngets angry, I duck for cover.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Fiorung... After what happened,[XENO:n ]\nof course the Mechon scare me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Hello? Shulk? Eyes of Shulk[XENO:n ]\nget watery. Why?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "I'm OK... It's fine. I'm not crying.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Shulk strong Hom Hom, but Riki[XENO:n ]\nknow Shulk still young boy really.[XENO:wait wait=key ][System:PageBreak ]If Shulk want to cry,[XENO:n ]\nRiki lend Shulk his fur![XENO:wait wait=key ][System:PageBreak ]Shulk cry boo-hoo lots and lots.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Your fur? Thanks, Riki...I guess.[XENO:wait wait=key ][System:PageBreak ]So if I feel sad we can hug it out,[XENO:n ]\nright? A real Hom Hom hug![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "No, Shulk! No hug and cuddle.[XENO:wait wait=key ][System:PageBreak ]Cuddle for Melly only.[XENO:n ]\nMelly special![XENO:wait wait=key ][System:PageBreak ]Riki not cuddle with guys.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "No fair! I wanna know how soft[XENO:n ]\nand cuddly your fur REALLY is![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]It's not so much that I'm scared...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Wow! Shulk really brave![XENO:wait wait=key ][System:PageBreak ]Riki's friends really brave.[XENO:n ]\nRiki proud.[XENO:wait wait=key ][System:PageBreak ]Everyone should be Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]I just can't forget what[XENO:n ]\nhappened to Fiorung.[XENO:wait wait=key ][System:PageBreak ]And it's all the Mechon's fault...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Hello hello Shulk?! Riki being[XENO:n ]\nnice so listen to Riki![XENO:wait wait=key ][System:PageBreak ]Is Shulk angry?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Wh-what? Oh, sorry, Riki.[XENO:n ]\nI'm not angry at you.[XENO:wait wait=key ][System:PageBreak ]Listen. You're the bravest,[XENO:n ]\ntoughest Heropon I've ever known.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Shulk really think Riki brave?[XENO:n ]\nShulk right! Riki is brave![XENO:wait wait=key ][System:PageBreak ]He-ro-pon! He-ro-pon! He-ro-pon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Yes, Riki. Calm down.[XENO:wait wait=key ][System:PageBreak ]But you know what? I really will[XENO:n ]\nneed you out there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "Riki to the rescue![XENO:n ]\nCount on Riki, Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "Yay! Shulk right![XENO:n ]\nMachine has metal.[XENO:wait wait=key ][System:PageBreak ]Nopon device use no metal,[XENO:n ]\nso not called machine.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Now that I think, I haven't noticed[XENO:n ]\na lot of metal in the village.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Riki and Nopon at one[XENO:n ]\nwith the forest.[XENO:wait wait=key ][System:PageBreak ]If forest not have metal,[XENO:n ]\nNopon not use metal.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:sel sel=・That's very resourceful of you!/・Is ALL of it from the forest? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Long, long time ago, Nopon[XENO:n ]\nmake many, many things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "I'm impressed.[XENO:wait wait=key ][System:PageBreak ]I'd love to know more about[XENO:n ]\nthese pollen orbs, too.[XENO:wait wait=key ][System:PageBreak ]They light up and produce heat,[XENO:n ]\nbut they never burn up.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "Yellow and blue orbs[XENO:n ]\nare safe to eat.[XENO:wait wait=key ][System:PageBreak ]But red one...not so safe...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I saw a red one by the lift.[XENO:wait wait=key ][System:PageBreak ]It looked tasty enough.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Shulk want to eat red one?[XENO:wait wait=key ][System:PageBreak ]Riki not like red ones...[XENO:wait wait=key ][System:PageBreak ]Riki's stomach go thump thump,[XENO:n ]\nthen squeal squeal. [XENO:wait wait=key ][System:PageBreak ]If Shulk eat and finish whole[XENO:n ]\nred one, Riki give Shulk medal![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Sounds like a challenge to me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Riki no need red orb anyway.[XENO:n ]\nOka make yummy food for Riki![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Is that what makes you so bouncy?[XENO:wait wait=key ][System:PageBreak ]Maybe I need to eat more orbs...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Grr... Shulk too clever for Riki![XENO:wait wait=key ][System:PageBreak ]Too much of big brain Hom Hom.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "I've seen a lot of Makna Forest.[XENO:wait wait=key ][System:PageBreak ]Some of these parts don't really[XENO:n ]\nlook like they came from there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Bellows held together with veeeery[XENO:n ]\nstrong rope given by Bird People.[XENO:wait wait=key ][System:PageBreak ]And Hom Hom teach us use oil[XENO:n ]\nto make motion smooth.[XENO:wait wait=key ][System:PageBreak ]Device go round and round with[XENO:n ]\nonly small amount of energy![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "That's fascinating, the way all the[XENO:n ]\ndifferent techniques fit together.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Nopon live all over Giant God.[XENO:n ]\nHere, there, everywhere.[XENO:wait wait=key ][System:PageBreak ]Nopon see new things, bring[XENO:n ]\nnew things back to village.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "I love it. It's a great design.[XENO:wait wait=key ][System:PageBreak ]Mixing foreign and Nopon[XENO:n ]\ntechnology... It's brilliant![XENO:wait wait=key ][System:PageBreak ]I'm really impressed, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "Riki not make it![XENO:n ]\nBut thank you![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Riki not want leave home again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Ready to leave us already?[XENO:wait wait=key ][System:PageBreak ]You can stay here.[XENO:n ]\nNo one will mind.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Dundun not sad Riki leave?[XENO:n ]\nTwo Heropon better than one![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "I'll be fine without you, but...[XENO:n ]\nI'm not so sure about the others.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Shulk will miss Riki. Reyn too.[XENO:n ]\nRiki's friends all sad![XENO:wait wait=key ][System:PageBreak ]Riki think Dundun sad too![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・I'm afraid not, Riki./・I'll shed a tear for you. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Not fair! Dundun should cry![XENO:wait wait=key ][System:PageBreak ]Riki not like Dundun anymore.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "You can whinge all you like, Riki.[XENO:wait wait=key ][System:PageBreak ]Whoever wishes to leave[XENO:n ]\nis welcome. No argument here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Anyone can leave?[XENO:wait wait=key ][System:PageBreak ]Dundun not sound like[XENO:n ]\nother Hom Hom.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "We live in times of war.[XENO:wait wait=key ][System:PageBreak ]If I shed a tear for every lost[XENO:n ]\ncompanion, I'd cry for eternity.[XENO:wait wait=key ][System:PageBreak ]Crying is a luxury I cannot afford.[XENO:n ]\nLife must go on, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Dundun...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "If I stopped to mourn the departed,[XENO:n ]\nothers would be left vulnerable.[XENO:wait wait=key ][System:PageBreak ]I say, if you have time to mourn,[XENO:n ]\nthen you have time to fight.[XENO:wait wait=key ][System:PageBreak ]That is my way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:sel sel=・You think less of me now?/・It could be your way too! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Mmm...no. Riki not think that.[XENO:wait wait=key ][System:PageBreak ]But Riki not understand.[XENO:n ]\nRiki sad if Dundun leave.[XENO:wait wait=key ][System:PageBreak ]Why Dundun not sad[XENO:n ]\nif Riki say bye-bye?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "I am a man of war, Riki.[XENO:wait wait=key ][System:PageBreak ]I have made myself numb[XENO:n ]\nto many Homs emotions.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "No. Riki think Dundun wrong.[XENO:wait wait=key ][System:PageBreak ]Reason Dundun not sad because[XENO:n ]\nhe is Hom Hom hero.[XENO:wait wait=key ][System:PageBreak ]Be big and strong and brave so[XENO:n ]\ncan fight more! Riki understand![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Riki...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "Riki not want Dundun to be sad.[XENO:wait wait=key ][System:PageBreak ]So when Riki in trouble, Dundun[XENO:n ]\ncan come to rescue![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "I...appreciate your enthusiasm.[XENO:wait wait=key ][System:PageBreak ]But shouldn't you be getting[XENO:n ]\nyourself out of trouble?[XENO:wait wait=key ][System:PageBreak ]You're a grown Nopon. A father.[XENO:n ]\nYou can't be relying on me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "No! Dundun save Riki![XENO:wait wait=key ][System:PageBreak ]Dundun like father to Fiorung![XENO:n ]\nSame as Riki! Save each other![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Yes! Riki try Dundun's way![XENO:n ]\nRiki become better Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "You think it will you make you[XENO:n ]\ninto a better hero?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Anyone can leak from eyes.[XENO:wait wait=key ][System:PageBreak ]But being there for loved ones[XENO:n ]\nis much harder.[XENO:wait wait=key ][System:PageBreak ]With strong heart and strong mind,[XENO:n ]\neveryone can be Heropon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Amazing. I never thought I'd be[XENO:n ]\ntaking lessons from you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Do not be sad for Riki, Dundun.[XENO:wait wait=key ][System:PageBreak ]Riki want Dundun to honour him[XENO:n ]\nby filling his place in battle![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "OK! Dundun practise tomorrow![XENO:wait wait=key ][System:PageBreak ]Riki want Dundun to fight enough[XENO:n ]\nfor missing Riki too![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "You don't ask for much, do you?[XENO:wait wait=key ][System:PageBreak ]But it's quite all right.[XENO:wait wait=key ][System:PageBreak ]Training or no training, I'll more[XENO:n ]\nthan make up for your absence.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "No no![XENO:wait wait=key ][System:PageBreak ]Dundun not take Riki's place until[XENO:n ]\nlearn how to make pollen cakes![XENO:wait wait=key ][System:PageBreak ]Must start practise now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Dundun tell the truth?[XENO:wait wait=key ][System:PageBreak ]Wooow. Dundun can cry?[XENO:wait wait=key ][System:PageBreak ]No! Riki not want Dundun to cry![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "I thought you did want me to cry?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "No, not cry![XENO:wait wait=key ][System:PageBreak ]If Riki going to leave then Riki[XENO:n ]\nwant Dundun beg him to stay![XENO:wait wait=key ][System:PageBreak ]Dundun can beg now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Beg? You are delusional, Riki.[XENO:wait wait=key ][System:PageBreak ]Besides, it's inevitable that we'll[XENO:n ]\neach go our own ways eventually.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Really? Ohhh no. Not good...[XENO:wait wait=key ][System:PageBreak ]Riki want to stay with friends but[XENO:n ]\nwant family to come with too![XENO:wait wait=key ][System:PageBreak ]Dundun think Riki selfish?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・Yes, you're completely selfish./・Not at all. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "Riki not like Dundun anymore![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "You might like that arrangement,[XENO:n ]\nbut what about Oka and the kids?[XENO:wait wait=key ][System:PageBreak ]Oka has her own life here in the[XENO:n ]\nvillage. Your kids have friends.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "B-b-but...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Do you really think you can[XENO:n ]\nforce them give it all up?[XENO:wait wait=key ][System:PageBreak ]Just because you want to?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Mmm... Dundun right.[XENO:n ]\nRiki wrong this time.[XENO:wait wait=key ][System:PageBreak ]Riki understand now...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Cheer up, my friend.[XENO:wait wait=key ][System:PageBreak ]We'll visit you from time to time.[XENO:n ]\nAnd you'll enjoy it too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Riki not selfish. Thank you.[XENO:wait wait=key ][System:PageBreak ]But Riki want cake and eat it, so[XENO:n ]\nRiki figured out the best way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Come on then, out with it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "Riki, Oka and littlepon all move[XENO:n ]\nto Dundun's house.[XENO:wait wait=key ][System:PageBreak ]Then, in future, Fiorung and Shulk[XENO:n ]\ncome too![XENO:wait wait=key ][System:PageBreak ]Reyn can come too, sometimes.[XENO:n ]\nIf Melly and Carna come...[XENO:wait wait=key ][System:PageBreak ]Riki and friends have big party![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Let me get back to you on that.[XENO:wait wait=key ][System:PageBreak ]My house is fairly small, and[XENO:n ]\nyou wouldn't like the beds.[XENO:wait wait=key ][System:PageBreak ]Let's agree to go back to our own[XENO:n ]\nhomes for now. OK?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Riki like Riki's idea better.[XENO:n ]\nDundun should listen more...[XENO:wait wait=key ][System:PageBreak ]Oh! Riki know! Dundun build[XENO:n ]\nbigger house![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "Let me guess, you can get me[XENO:n ]\na good loan to pay for the work?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Wait, Dundun try to be funny.[XENO:n ]\nRiki not like Dundun's joke![XENO:wait wait=key ][System:PageBreak ]Riki invite everyone back to[XENO:n ]\nDundun's house! This Riki's joke![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

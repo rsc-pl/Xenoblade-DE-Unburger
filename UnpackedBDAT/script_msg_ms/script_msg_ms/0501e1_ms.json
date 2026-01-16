@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This place is...beautiful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Some call it the[XENO:n ]\nShimmering Marsh.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I can see why![XENO:wait wait=key ][System:PageBreak ]Had you ever been here before?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]No. And I'm suitably amazed.[XENO:wait wait=key ][System:PageBreak ]How can a place light up[XENO:n ]\nso much at night?[XENO:wait wait=key ][System:PageBreak ]I've never seen anything like it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I have. Once, when I was[XENO:n ]\nvery young.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Maybe it was a dream?/・Really? Interesting. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]It wasn't a dream. I know it![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT15 ]But...I do remember being asleep[XENO:n ]\nfor most of it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Then it must have been[XENO:n ]\na dream, surely.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]No. It was at the ruins where[XENO:n ]\nme and the Monado were found.[XENO:wait wait=key ][System:PageBreak ]The same thing happens there. At[XENO:n ]\nnight, glowing ether fills the air.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]All right, I'm convinced.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]It's OK. My memory of it's[XENO:n ]\na little hazy anyway.[XENO:wait wait=key ][System:PageBreak ]I assume the effect is caused by[XENO:n ]\nhigh ether content in the ground.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Ether content?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Surely you must know something[XENO:n ]\nabout ether content.[XENO:wait wait=key ][System:PageBreak ]How it's higher in some regions[XENO:n ]\nof Giant God than in others?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:sel sel=・Especially the upper regions./・Especially the lower regions. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Right?[XENO:wait wait=key ][System:PageBreak ]The upper regions of Giant God are[XENO:n ]\nknown for their high ether content.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Correct! You always know the[XENO:n ]\nright answer, Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Well, everyone knows that one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Anyway, the ruins are quite high[XENO:n ]\nup on the Giant God.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Do you remember much[XENO:n ]\nabout that time?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I found my way into those ruins[XENO:n ]\nbut then I lost consciousness.[XENO:wait wait=key ][System:PageBreak ]That's about all I can remember[XENO:n ]\nfrom back then.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]But for some reason I can just[XENO:n ]\nabout recall that ether glow.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I suppose you'd never forget[XENO:n ]\na sight like that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]What? No![XENO:wait wait=key ][System:PageBreak ]It's the upper regions that have[XENO:n ]\nhigher ether content![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Oh. Er... I see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT15 ]Way down where we live, the[XENO:n ]\nether levels are at their lowest.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]That's why there aren't as many[XENO:n ]\nrich ether mines.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]Well done, Shulk![XENO:n ]\nYou passed my test.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]So you're saying you were just[XENO:n ]\npretending not to know?[XENO:wait wait=key ][System:PageBreak ]Hmm...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I'm so glad I got to see this[XENO:n ]\nwondrous sight. Aren't you?[XENO:wait wait=key ][System:PageBreak ]I'd just love to spend some more[XENO:n ]\ntime exploring it...in silence...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Whatever you say, Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "It was at the ruins where me[XENO:n ]\nand the Monado were found.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]The same thing happens there. At[XENO:n ]\nnight, glowing ether fills the air.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]So that's where you saw it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I don't remember much[XENO:n ]\nabout the ruins.[XENO:wait wait=key ][System:PageBreak ]I found my way in and then[XENO:n ]\nI lost consciousness.[XENO:wait wait=key ][System:PageBreak ]That's about all I can remember[XENO:n ]\nfrom back then, except the light.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]If it was as beautiful as this,[XENO:n ]\nno wonder you remember it.[XENO:wait wait=key ][System:PageBreak ]Ether is an incredible thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]It really is.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・Will it ever run out?/・It can't be good for us. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Great question, Dunban![XENO:n ]\nI've always wondered that.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Great minds think alike.[XENO:n ]\nAnd your thoughts?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I can't draw any firm conclusions[XENO:n ]\nor anything.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]All I know is, ether isn't unlimited.[XENO:n ]\nSo I guess it won't last forever.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I don't suppose we have anything[XENO:n ]\nto worry about in our lifetime.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Maybe not. But we should still try[XENO:n ]\nand find another energy source.[XENO:wait wait=key ][System:PageBreak ]We can't just rely on it[XENO:n ]\nalways being there.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Energy aside, it will be a shame[XENO:n ]\nwhen this natural beauty is gone.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Yes... Whether that's a hundred[XENO:n ]\nyears from now or a thousand.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]Why do you think that? There's[XENO:n ]\nno evidence to support it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]It's just a feeling. Nothing more.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT15 ]Actually, we haven't made any big[XENO:n ]\nleaps in researching this field.[XENO:wait wait=key ][System:PageBreak ]So it's still possible.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]It was just a passing thought.[XENO:n ]\nDon't take it so seriously, Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]But you're right, Dunban.[XENO:wait wait=key ][System:PageBreak ]It has to be worth spending more[XENO:n ]\nresources to study this.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Hey, where are you going?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "I'm gonna fetch my notes![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "But we were enjoying this strange[XENO:n ]\nphenomenon![XENO:wait wait=key ][System:PageBreak ]You can take the boy out of the[XENO:n ]\nlab, but not the lab out of the boy![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

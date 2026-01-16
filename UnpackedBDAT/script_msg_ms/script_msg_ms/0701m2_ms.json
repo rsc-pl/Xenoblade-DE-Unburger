@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Bahn...[XENO:n ]\nYou really kingpin?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Hehehe... I am.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "I, Bahn, really secret organisation[XENO:n ]\nchairman![XENO:wait wait=key ][System:PageBreak ]It was me all along![XENO:wait wait=key ][System:PageBreak ]Making food and drink out[XENO:n ]\nof Red Pollen Orbs...[XENO:wait wait=key ][System:PageBreak ]Selling it to secret clubs[XENO:n ]\nin Achamoth...[XENO:wait wait=key ][System:PageBreak ]Hehehe![XENO:n ]\nIt has made me a rich Nopon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Bahn bad![XENO:wait wait=key ][System:PageBreak ]I work hard to make Red[XENO:n ]\nPollen Orbs for Nopon![XENO:wait wait=key ][System:PageBreak ]Bahn just used them to make[XENO:n ]\nmoney for himself...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Better to trick than be tricked![XENO:wait wait=key ][System:PageBreak ]If you have brain, you have to use[XENO:n ]\nit or it just wasted.[XENO:wait wait=key ][System:PageBreak ]Garda, Zazadan and Daboll all[XENO:n ]\nuseful to me until very end.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:type type=anger ]It evil to trick everyone![XENO:wait wait=key ][System:PageBreak ]I will never forgive you Bahn![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "It me that won't forgive you.[XENO:wait wait=key ][System:PageBreak ]It your fault that secret[XENO:n ]\norganisation collapsed![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:type type=anger ]I'll wipe you all off face of Giant God![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Get over here![XENO:wait wait=30 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "I scared but will not give up![XENO:wait wait=key ][System:PageBreak ]Friends will help me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ] "
+    }
+  ]
+}

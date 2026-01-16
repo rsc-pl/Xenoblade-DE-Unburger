@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Don't make light of the icy mountains.[XENO:n ]\nListen to what I say!"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Nothing unusual at the ruins today.[XENO:n ]\nThere's never anything unusual..."
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Want to go to the ruins![XENO:n ]\nWant to check around!"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "Slow"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Bind"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Paralysis"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Sleep"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "Charm"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "Confuse"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Arts Seal"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "Daze"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Topple"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Break"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Pierce"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Debuff Immunity"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Damage Immunity"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Regenerate"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Damage Heal"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Damage Heal"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "Physical Def Down"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Ether Def Down"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Physical Protect"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Ether Protect"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Strength Down"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Agility Down"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Ether Down"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "HP Down"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 30,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "Ether Defence Up"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Bleed"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Blaze"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Chill"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Poison"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Physical Arts Plus"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "Shield"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "Enchant"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Enchant"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Speed"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Instant Death"
+    },
+    {
+      "$id": 42,
+      "style": 12,
+      "name": "Monado Activated"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "Armour"
+    },
+    {
+      "$id": 44,
+      "style": 12,
+      "name": "Berserker"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "Engage"
+    },
+    {
+      "$id": 46,
+      "style": 12,
+      "name": "Drive Boost"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "Cool Off"
+    },
+    {
+      "$id": 48,
+      "style": 12,
+      "name": "Cool Off"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "Covert Stance"
+    },
+    {
+      "$id": 50,
+      "style": 12,
+      "name": "Peerless"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "Battle Eye"
+    },
+    {
+      "$id": 52,
+      "style": 12,
+      "name": "Serene Heart"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 54,
+      "style": 12,
+      "name": "Reflection"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Play Dead"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Hero Time"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Healing Energy"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "Speed Shift"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "Last Stand"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "Rage"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "Anchor Chain"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "Jaws of Death"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "Heat Haze"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "Spirit Breath"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 68,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "Riki is Angry"
+    },
+    {
+      "$id": 70,
+      "style": 12,
+      "name": "Power Effect"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "Element Burst"
+    },
+    {
+      "$id": 72,
+      "style": 12,
+      "name": "Lock-On"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 74,
+      "style": 12,
+      "name": "Awakening"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "Crazed"
+    },
+    {
+      "$id": 76,
+      "style": 12,
+      "name": "Super Heal"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "Soul Read"
+    },
+    {
+      "$id": 78,
+      "style": 12,
+      "name": "Aura"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "Invincible"
+    },
+    {
+      "$id": 80,
+      "style": 12,
+      "name": "Aura Seal"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "Damage Heal"
+    },
+    {
+      "$id": 82,
+      "style": 12,
+      "name": "Agility Up"
+    }
+  ]
+}

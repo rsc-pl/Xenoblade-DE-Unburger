@@ -1,0 +1,6144 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Little Bunnit"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "Hand Bunnit"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "Knuckle Bunnit"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "Wood Bunnit"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "Hitter Bunnit"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Junk Bunnit"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "Common Caterpile"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "Praying Caterpile"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "Little Skeeter"
+    },
+    {
+      "$id": 10,
+      "style": 17,
+      "name": "Light Skeeter"
+    },
+    {
+      "$id": 11,
+      "style": 17,
+      "name": "Chordy Skeeter"
+    },
+    {
+      "$id": 12,
+      "style": 17,
+      "name": "Colony Krabble"
+    },
+    {
+      "$id": 13,
+      "style": 17,
+      "name": "Solid Krabble"
+    },
+    {
+      "$id": 14,
+      "style": 17,
+      "name": "Beach Krabble"
+    },
+    {
+      "$id": 15,
+      "style": 17,
+      "name": "Stone Krabble"
+    },
+    {
+      "$id": 16,
+      "style": 17,
+      "name": "Marble Krabble"
+    },
+    {
+      "$id": 17,
+      "style": 17,
+      "name": "Colony Piranhax"
+    },
+    {
+      "$id": 18,
+      "style": 17,
+      "name": "Throne Sardi"
+    },
+    {
+      "$id": 19,
+      "style": 17,
+      "name": "Baby Armu"
+    },
+    {
+      "$id": 20,
+      "style": 17,
+      "name": "Plain Armu"
+    },
+    {
+      "$id": 21,
+      "style": 17,
+      "name": "Ridge Antol"
+    },
+    {
+      "$id": 22,
+      "style": 17,
+      "name": "Clinger Antol"
+    },
+    {
+      "$id": 23,
+      "style": 17,
+      "name": "Little Vang"
+    },
+    {
+      "$id": 24,
+      "style": 17,
+      "name": "Shadow Vang"
+    },
+    {
+      "$id": 25,
+      "style": 17,
+      "name": "Lake Flamii"
+    },
+    {
+      "$id": 26,
+      "style": 17,
+      "name": "Opulent Flamii"
+    },
+    {
+      "$id": 27,
+      "style": 17,
+      "name": "Resplendent Flamii"
+    },
+    {
+      "$id": 28,
+      "style": 17,
+      "name": "Heavy Brog"
+    },
+    {
+      "$id": 29,
+      "style": 17,
+      "name": "Cute Brog"
+    },
+    {
+      "$id": 30,
+      "style": 17,
+      "name": "Ancient Machine"
+    },
+    {
+      "$id": 31,
+      "style": 17,
+      "name": "Ancient Machine"
+    },
+    {
+      "$id": 32,
+      "style": 17,
+      "name": "Common Caterpile"
+    },
+    {
+      "$id": 33,
+      "style": 17,
+      "name": "Colony Krabble"
+    },
+    {
+      "$id": 34,
+      "style": 17,
+      "name": "Evil Rhangrot"
+    },
+    {
+      "$id": 35,
+      "style": 17,
+      "name": "Itinerant Dorothea"
+    },
+    {
+      "$id": 36,
+      "style": 17,
+      "name": "Impenetrable Redrob"
+    },
+    {
+      "$id": 37,
+      "style": 17,
+      "name": "Verdant Bluchal"
+    },
+    {
+      "$id": 38,
+      "style": 17,
+      "name": "Lake Magdalena"
+    },
+    {
+      "$id": 39,
+      "style": 17,
+      "name": "Pawn Piranhax"
+    },
+    {
+      "$id": 40,
+      "style": 17,
+      "name": "Gentle Mother Armu"
+    },
+    {
+      "$id": 41,
+      "style": 17,
+      "name": "Baby Armu"
+    },
+    {
+      "$id": 42,
+      "style": 17,
+      "name": "Gentle Rodriguez"
+    },
+    {
+      "$id": 43,
+      "style": 17,
+      "name": "Flailing Bracken"
+    },
+    {
+      "$id": 44,
+      "style": 17,
+      "name": "Roguish Frengel"
+    },
+    {
+      "$id": 45,
+      "style": 17,
+      "name": "Dark Murakmor"
+    },
+    {
+      "$id": 46,
+      "style": 17,
+      "name": "Lakebed Orthlus"
+    },
+    {
+      "$id": 47,
+      "style": 17,
+      "name": "Enchanting Grune"
+    },
+    {
+      "$id": 48,
+      "style": 17,
+      "name": "Speedy Ramshyde"
+    },
+    {
+      "$id": 49,
+      "style": 17,
+      "name": "Shadeless Matrix"
+    },
+    {
+      "$id": 50,
+      "style": 17,
+      "name": "Vicious Rhana"
+    },
+    {
+      "$id": 51,
+      "style": 17,
+      "name": "Fiendish Bunnit"
+    },
+    {
+      "$id": 52,
+      "style": 17,
+      "name": "Mechon M31"
+    },
+    {
+      "$id": 53,
+      "style": 17,
+      "name": "Mechon M69"
+    },
+    {
+      "$id": 54,
+      "style": 17,
+      "name": "Mechon M63"
+    },
+    {
+      "$id": 55,
+      "style": 17,
+      "name": "Mechon M72"
+    },
+    {
+      "$id": 56,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 57,
+      "style": 17,
+      "name": "Black Face"
+    },
+    {
+      "$id": 58,
+      "style": 17,
+      "name": "Black Face"
+    },
+    {
+      "$id": 59,
+      "style": 17,
+      "name": "Mechon M63"
+    },
+    {
+      "$id": 60,
+      "style": 17,
+      "name": "Mechon M31"
+    },
+    {
+      "$id": 61,
+      "style": 17,
+      "name": "Mechon M51"
+    },
+    {
+      "$id": 62,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 63,
+      "style": 17,
+      "name": "Mechon M72"
+    },
+    {
+      "$id": 64,
+      "style": 17,
+      "name": "Mechon M69"
+    },
+    {
+      "$id": 65,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 66,
+      "style": 17,
+      "name": "Mechon M72"
+    },
+    {
+      "$id": 67,
+      "style": 17,
+      "name": "Mechon M42"
+    },
+    {
+      "$id": 68,
+      "style": 17,
+      "name": "Mechon M42"
+    },
+    {
+      "$id": 69,
+      "style": 17,
+      "name": "Mechon M51"
+    },
+    {
+      "$id": 70,
+      "style": 17,
+      "name": "Mechon M69"
+    },
+    {
+      "$id": 71,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 72,
+      "style": 17,
+      "name": "Bunny"
+    },
+    {
+      "$id": 73,
+      "style": 17,
+      "name": "Bunny (No Use)"
+    },
+    {
+      "$id": 74,
+      "style": 17,
+      "name": "Bunny (Resist)"
+    },
+    {
+      "$id": 75,
+      "style": 17,
+      "name": "Test Device"
+    },
+    {
+      "$id": 76,
+      "style": 17,
+      "name": "Clap Bunniv"
+    },
+    {
+      "$id": 77,
+      "style": 17,
+      "name": "Willow Bunniv"
+    },
+    {
+      "$id": 78,
+      "style": 17,
+      "name": "Iron Bunniv"
+    },
+    {
+      "$id": 79,
+      "style": 17,
+      "name": "Eater Caterpile"
+    },
+    {
+      "$id": 80,
+      "style": 17,
+      "name": "Cute Caterpile"
+    },
+    {
+      "$id": 81,
+      "style": 17,
+      "name": "Prom Skeeter"
+    },
+    {
+      "$id": 82,
+      "style": 17,
+      "name": "Mell Lizard"
+    },
+    {
+      "$id": 83,
+      "style": 17,
+      "name": "Air Vang"
+    },
+    {
+      "$id": 84,
+      "style": 17,
+      "name": "Singing Brog"
+    },
+    {
+      "$id": 85,
+      "style": 17,
+      "name": "Cellar Bugworm"
+    },
+    {
+      "$id": 86,
+      "style": 17,
+      "name": "Wallslide Gwynry"
+    },
+    {
+      "$id": 87,
+      "style": 17,
+      "name": "Mining Patrichev"
+    },
+    {
+      "$id": 88,
+      "style": 17,
+      "name": "Worker Arachno"
+    },
+    {
+      "$id": 89,
+      "style": 17,
+      "name": "Director Arachno"
+    },
+    {
+      "$id": 90,
+      "style": 17,
+      "name": "Officer Arachno"
+    },
+    {
+      "$id": 91,
+      "style": 17,
+      "name": "Arachno Pod"
+    },
+    {
+      "$id": 92,
+      "style": 17,
+      "name": "Noble Brog"
+    },
+    {
+      "$id": 93,
+      "style": 17,
+      "name": "Desert Krabble"
+    },
+    {
+      "$id": 94,
+      "style": 17,
+      "name": "Jewel Krabble"
+    },
+    {
+      "$id": 95,
+      "style": 17,
+      "name": "Medium Skeeter"
+    },
+    {
+      "$id": 96,
+      "style": 17,
+      "name": "Cave Skeeter"
+    },
+    {
+      "$id": 97,
+      "style": 17,
+      "name": "Agouti Caterpile"
+    },
+    {
+      "$id": 98,
+      "style": 17,
+      "name": "Tephra Lizard"
+    },
+    {
+      "$id": 99,
+      "style": 17,
+      "name": "Wind Vang"
+    },
+    {
+      "$id": 100,
+      "style": 17,
+      "name": "Arm Bunnit"
+    },
+    {
+      "$id": 101,
+      "style": 17,
+      "name": "Plane Bunnit"
+    },
+    {
+      "$id": 102,
+      "style": 17,
+      "name": "Weather Flier"
+    },
+    {
+      "$id": 103,
+      "style": 17,
+      "name": "Night Wisp"
+    },
+    {
+      "$id": 104,
+      "style": 17,
+      "name": "Arachno Queen"
+    },
+    {
+      "$id": 105,
+      "style": 17,
+      "name": "Soldier Arachno"
+    },
+    {
+      "$id": 106,
+      "style": 17,
+      "name": "Captain Arachno"
+    },
+    {
+      "$id": 107,
+      "style": 17,
+      "name": "Arachno Pod"
+    },
+    {
+      "$id": 108,
+      "style": 17,
+      "name": "Worker Arachno"
+    },
+    {
+      "$id": 109,
+      "style": 17,
+      "name": "Director Arachno"
+    },
+    {
+      "$id": 110,
+      "style": 17,
+      "name": "Falsel Bunniv"
+    },
+    {
+      "$id": 111,
+      "style": 17,
+      "name": "Fascia Bunniv"
+    },
+    {
+      "$id": 112,
+      "style": 17,
+      "name": "Jada Arachno"
+    },
+    {
+      "$id": 113,
+      "style": 17,
+      "name": "Jadals Arachno"
+    },
+    {
+      "$id": 114,
+      "style": 17,
+      "name": "Panasowa Arachno"
+    },
+    {
+      "$id": 115,
+      "style": 17,
+      "name": "Vilae Arachno"
+    },
+    {
+      "$id": 116,
+      "style": 17,
+      "name": "Sonicia Gogol"
+    },
+    {
+      "$id": 117,
+      "style": 17,
+      "name": "Brabilam Vang"
+    },
+    {
+      "$id": 118,
+      "style": 17,
+      "name": "Dorsiar Lizard"
+    },
+    {
+      "$id": 119,
+      "style": 17,
+      "name": "Femuny Wisp"
+    },
+    {
+      "$id": 120,
+      "style": 17,
+      "name": "Rhoen Quadwing"
+    },
+    {
+      "$id": 121,
+      "style": 17,
+      "name": "Hanz Pod"
+    },
+    {
+      "$id": 122,
+      "style": 17,
+      "name": "Young Brog"
+    },
+    {
+      "$id": 123,
+      "style": 17,
+      "name": "Gluttonous Eugen"
+    },
+    {
+      "$id": 124,
+      "style": 17,
+      "name": "Musical Vanflare"
+    },
+    {
+      "$id": 125,
+      "style": 17,
+      "name": "Solid Konev"
+    },
+    {
+      "$id": 126,
+      "style": 17,
+      "name": "Reckless Guardan"
+    },
+    {
+      "$id": 127,
+      "style": 17,
+      "name": "Plump Sprahda"
+    },
+    {
+      "$id": 128,
+      "style": 17,
+      "name": "Dazzling Tolosnia"
+    },
+    {
+      "$id": 129,
+      "style": 17,
+      "name": "Protective Torquidon"
+    },
+    {
+      "$id": 130,
+      "style": 17,
+      "name": "Judicious Bunnitzol"
+    },
+    {
+      "$id": 131,
+      "style": 17,
+      "name": "Erratic Goliante"
+    },
+    {
+      "$id": 132,
+      "style": 17,
+      "name": "Reckless Zanden"
+    },
+    {
+      "$id": 133,
+      "style": 17,
+      "name": "Firework Geldesia"
+    },
+    {
+      "$id": 134,
+      "style": 17,
+      "name": "Lurker Brog"
+    },
+    {
+      "$id": 135,
+      "style": 17,
+      "name": "Lurker Krabble"
+    },
+    {
+      "$id": 136,
+      "style": 17,
+      "name": "Dim Wisp"
+    },
+    {
+      "$id": 137,
+      "style": 17,
+      "name": "Devoted Arachno"
+    },
+    {
+      "$id": 138,
+      "style": 17,
+      "name": "Resolute Arachno"
+    },
+    {
+      "$id": 139,
+      "style": 17,
+      "name": "Zealous Arachno"
+    },
+    {
+      "$id": 140,
+      "style": 17,
+      "name": "Satisfied Gogol"
+    },
+    {
+      "$id": 141,
+      "style": 17,
+      "name": "Greedy Arachno"
+    },
+    {
+      "$id": 142,
+      "style": 17,
+      "name": "Leg Armu"
+    },
+    {
+      "$id": 143,
+      "style": 17,
+      "name": "Leg Ardun"
+    },
+    {
+      "$id": 144,
+      "style": 17,
+      "name": "Daughter Armu"
+    },
+    {
+      "$id": 145,
+      "style": 17,
+      "name": "Magnis Ardun"
+    },
+    {
+      "$id": 146,
+      "style": 17,
+      "name": "Leg Volff"
+    },
+    {
+      "$id": 147,
+      "style": 17,
+      "name": "Leader Volff"
+    },
+    {
+      "$id": 148,
+      "style": 17,
+      "name": "Ugly Volff"
+    },
+    {
+      "$id": 149,
+      "style": 17,
+      "name": "Black Flamii"
+    },
+    {
+      "$id": 150,
+      "style": 17,
+      "name": "Lahar Flamii"
+    },
+    {
+      "$id": 151,
+      "style": 17,
+      "name": "Oasis Flamii"
+    },
+    {
+      "$id": 152,
+      "style": 17,
+      "name": "Slugger Bunnit"
+    },
+    {
+      "$id": 153,
+      "style": 17,
+      "name": "Craft Bunnit"
+    },
+    {
+      "$id": 154,
+      "style": 17,
+      "name": "Maker Bunnit"
+    },
+    {
+      "$id": 155,
+      "style": 17,
+      "name": "Easy Hox"
+    },
+    {
+      "$id": 156,
+      "style": 17,
+      "name": "Dark Hox"
+    },
+    {
+      "$id": 157,
+      "style": 17,
+      "name": "White Hox"
+    },
+    {
+      "$id": 158,
+      "style": 17,
+      "name": "Leg Arachno"
+    },
+    {
+      "$id": 159,
+      "style": 17,
+      "name": "Admiral Arachno"
+    },
+    {
+      "$id": 160,
+      "style": 17,
+      "name": "General Arachno"
+    },
+    {
+      "$id": 161,
+      "style": 17,
+      "name": "Leg Antol"
+    },
+    {
+      "$id": 162,
+      "style": 17,
+      "name": "Prairie Antol"
+    },
+    {
+      "$id": 163,
+      "style": 17,
+      "name": "Basin Antol"
+    },
+    {
+      "$id": 164,
+      "style": 17,
+      "name": "Ravine Antol"
+    },
+    {
+      "$id": 165,
+      "style": 17,
+      "name": "Antol King"
+    },
+    {
+      "$id": 166,
+      "style": 17,
+      "name": "Gust Vang"
+    },
+    {
+      "$id": 167,
+      "style": 17,
+      "name": "Tempest Vang"
+    },
+    {
+      "$id": 168,
+      "style": 17,
+      "name": "Royal Caterpile"
+    },
+    {
+      "$id": 169,
+      "style": 17,
+      "name": "Fine Flier"
+    },
+    {
+      "$id": 170,
+      "style": 17,
+      "name": "Clowd Flier"
+    },
+    {
+      "$id": 171,
+      "style": 17,
+      "name": "Light Wisp"
+    },
+    {
+      "$id": 172,
+      "style": 17,
+      "name": "Flash Wisp"
+    },
+    {
+      "$id": 173,
+      "style": 17,
+      "name": "Leg Skeeter"
+    },
+    {
+      "$id": 174,
+      "style": 17,
+      "name": "Leg Lizard"
+    },
+    {
+      "$id": 175,
+      "style": 17,
+      "name": "Last Rhogul"
+    },
+    {
+      "$id": 176,
+      "style": 17,
+      "name": "Big Brog"
+    },
+    {
+      "$id": 177,
+      "style": 17,
+      "name": "Field Ponio"
+    },
+    {
+      "$id": 178,
+      "style": 17,
+      "name": "Niece Ponio"
+    },
+    {
+      "$id": 179,
+      "style": 17,
+      "name": "Spear Tirkin"
+    },
+    {
+      "$id": 180,
+      "style": 17,
+      "name": "Guard Tirkin"
+    },
+    {
+      "$id": 181,
+      "style": 17,
+      "name": "Lancer Tirkin"
+    },
+    {
+      "$id": 182,
+      "style": 17,
+      "name": "Trainer Tirkin"
+    },
+    {
+      "$id": 183,
+      "style": 17,
+      "name": "Javelin Tirkin"
+    },
+    {
+      "$id": 184,
+      "style": 17,
+      "name": "Brave Tirkin"
+    },
+    {
+      "$id": 185,
+      "style": 17,
+      "name": "Archer Tirkin"
+    },
+    {
+      "$id": 186,
+      "style": 17,
+      "name": "Sniper Tirkin"
+    },
+    {
+      "$id": 187,
+      "style": 17,
+      "name": "Ranger Tirkin"
+    },
+    {
+      "$id": 188,
+      "style": 17,
+      "name": "Sloth Gogol"
+    },
+    {
+      "$id": 189,
+      "style": 17,
+      "name": "Greed Gogol"
+    },
+    {
+      "$id": 190,
+      "style": 17,
+      "name": "Gluttony Gogol"
+    },
+    {
+      "$id": 191,
+      "style": 17,
+      "name": "Envy Gogol"
+    },
+    {
+      "$id": 192,
+      "style": 17,
+      "name": "Mount Torta"
+    },
+    {
+      "$id": 193,
+      "style": 17,
+      "name": "Mechon M64"
+    },
+    {
+      "$id": 194,
+      "style": 17,
+      "name": "Mechon M53"
+    },
+    {
+      "$id": 195,
+      "style": 17,
+      "name": "Mechon M53X"
+    },
+    {
+      "$id": 196,
+      "style": 17,
+      "name": "Mechon M32"
+    },
+    {
+      "$id": 197,
+      "style": 17,
+      "name": "M32 Scout Unit"
+    },
+    {
+      "$id": 198,
+      "style": 17,
+      "name": "M42 Scout Unit"
+    },
+    {
+      "$id": 199,
+      "style": 17,
+      "name": "Leg Piranhax"
+    },
+    {
+      "$id": 200,
+      "style": 17,
+      "name": "Mellow Sardi"
+    },
+    {
+      "$id": 201,
+      "style": 17,
+      "name": "Envy Sardi"
+    },
+    {
+      "$id": 202,
+      "style": 17,
+      "name": "Pandora Pod"
+    },
+    {
+      "$id": 203,
+      "style": 17,
+      "name": "Daksha Pod"
+    },
+    {
+      "$id": 204,
+      "style": 17,
+      "name": "Leg Tokilos"
+    },
+    {
+      "$id": 205,
+      "style": 17,
+      "name": "Aqua Nebula"
+    },
+    {
+      "$id": 206,
+      "style": 17,
+      "name": "Mechon M71"
+    },
+    {
+      "$id": 207,
+      "style": 17,
+      "name": "Mechon M71"
+    },
+    {
+      "$id": 208,
+      "style": 17,
+      "name": "Mechon Tentacle"
+    },
+    {
+      "$id": 209,
+      "style": 17,
+      "name": "Mysterious Face"
+    },
+    {
+      "$id": 210,
+      "style": 17,
+      "name": "Berserk Ardun"
+    },
+    {
+      "$id": 211,
+      "style": 17,
+      "name": "Napping Volfen"
+    },
+    {
+      "$id": 212,
+      "style": 17,
+      "name": "Vagrant Alfead"
+    },
+    {
+      "$id": 213,
+      "style": 17,
+      "name": "Armoured Rockwell"
+    },
+    {
+      "$id": 214,
+      "style": 17,
+      "name": "Violent Andante"
+    },
+    {
+      "$id": 215,
+      "style": 17,
+      "name": "White Eduardo"
+    },
+    {
+      "$id": 216,
+      "style": 17,
+      "name": "Clifftop Bayern"
+    },
+    {
+      "$id": 217,
+      "style": 17,
+      "name": "Canyon Valencia"
+    },
+    {
+      "$id": 218,
+      "style": 17,
+      "name": "Night Cardamon"
+    },
+    {
+      "$id": 219,
+      "style": 17,
+      "name": "Mysterious Barnaby"
+    },
+    {
+      "$id": 220,
+      "style": 17,
+      "name": "Trainer Harmelon"
+    },
+    {
+      "$id": 221,
+      "style": 17,
+      "name": "Berserk Ardun"
+    },
+    {
+      "$id": 222,
+      "style": 17,
+      "name": "Sniper Paramecia"
+    },
+    {
+      "$id": 223,
+      "style": 17,
+      "name": "Territorial Rotbart"
+    },
+    {
+      "$id": 224,
+      "style": 17,
+      "name": "Field Altrich"
+    },
+    {
+      "$id": 225,
+      "style": 17,
+      "name": "Immovable Gonzalez"
+    },
+    {
+      "$id": 226,
+      "style": 17,
+      "name": "Ferocious Volff"
+    },
+    {
+      "$id": 227,
+      "style": 17,
+      "name": "Fierce Vang"
+    },
+    {
+      "$id": 228,
+      "style": 17,
+      "name": "Abnormal Brog"
+    },
+    {
+      "$id": 229,
+      "style": 17,
+      "name": "Black Smoke Hox"
+    },
+    {
+      "$id": 230,
+      "style": 17,
+      "name": "White Smoke Hox"
+    },
+    {
+      "$id": 231,
+      "style": 17,
+      "name": "Assault Flamii"
+    },
+    {
+      "$id": 232,
+      "style": 17,
+      "name": "Daughter Empress"
+    },
+    {
+      "$id": 233,
+      "style": 17,
+      "name": "Mythical Empress"
+    },
+    {
+      "$id": 234,
+      "style": 17,
+      "name": "Arrogant Tirkin"
+    },
+    {
+      "$id": 235,
+      "style": 17,
+      "name": "Berserk Ardun"
+    },
+    {
+      "$id": 236,
+      "style": 17,
+      "name": "Dummy Tentacle"
+    },
+    {
+      "$id": 237,
+      "style": 17,
+      "name": "Mechon Tentacle"
+    },
+    {
+      "$id": 238,
+      "style": 17,
+      "name": "Colony Flier"
+    },
+    {
+      "$id": 239,
+      "style": 17,
+      "name": "Clima Flier"
+    },
+    {
+      "$id": 240,
+      "style": 17,
+      "name": "Atmos Flier"
+    },
+    {
+      "$id": 241,
+      "style": 17,
+      "name": "Colony Wisp"
+    },
+    {
+      "$id": 242,
+      "style": 17,
+      "name": "Bunker Wisp"
+    },
+    {
+      "$id": 243,
+      "style": 17,
+      "name": "Sky Rhogul"
+    },
+    {
+      "$id": 244,
+      "style": 17,
+      "name": "Hard Hox"
+    },
+    {
+      "$id": 245,
+      "style": 17,
+      "name": "Doom Hox"
+    },
+    {
+      "$id": 246,
+      "style": 17,
+      "name": "Soft Hox"
+    },
+    {
+      "$id": 247,
+      "style": 17,
+      "name": "Morule Hox"
+    },
+    {
+      "$id": 248,
+      "style": 17,
+      "name": "Yellow Antol"
+    },
+    {
+      "$id": 249,
+      "style": 17,
+      "name": "Flamme Antol"
+    },
+    {
+      "$id": 250,
+      "style": 17,
+      "name": "Red Antol"
+    },
+    {
+      "$id": 251,
+      "style": 17,
+      "name": "Lubum Antol"
+    },
+    {
+      "$id": 252,
+      "style": 17,
+      "name": "Grom Nebula"
+    },
+    {
+      "$id": 253,
+      "style": 17,
+      "name": "Water Upa"
+    },
+    {
+      "$id": 254,
+      "style": 17,
+      "name": "Graceful Holand"
+    },
+    {
+      "$id": 255,
+      "style": 17,
+      "name": "Drifter Jutard"
+    },
+    {
+      "$id": 256,
+      "style": 17,
+      "name": "Lazy Hox"
+    },
+    {
+      "$id": 257,
+      "style": 17,
+      "name": "Mechon M64 Armour+"
+    },
+    {
+      "$id": 258,
+      "style": 17,
+      "name": "Fiery Igna"
+    },
+    {
+      "$id": 259,
+      "style": 17,
+      "name": "M71 Fire Support"
+    },
+    {
+      "$id": 260,
+      "style": 17,
+      "name": "Ancient Rhogulia"
+    },
+    {
+      "$id": 261,
+      "style": 17,
+      "name": "Demon King Dragonia"
+    },
+    {
+      "$id": 262,
+      "style": 17,
+      "name": "Mechon M53X"
+    },
+    {
+      "$id": 263,
+      "style": 17,
+      "name": "Mechon M64X"
+    },
+    {
+      "$id": 264,
+      "style": 17,
+      "name": "Mechon M69X"
+    },
+    {
+      "$id": 265,
+      "style": 17,
+      "name": "Dummy"
+    },
+    {
+      "$id": 266,
+      "style": 17,
+      "name": "Dummy"
+    },
+    {
+      "$id": 267,
+      "style": 17,
+      "name": "Dummy"
+    },
+    {
+      "$id": 268,
+      "style": 17,
+      "name": "Dummy"
+    },
+    {
+      "$id": 269,
+      "style": 17,
+      "name": "Dummy"
+    },
+    {
+      "$id": 270,
+      "style": 17,
+      "name": "Kyel Lexos"
+    },
+    {
+      "$id": 271,
+      "style": 17,
+      "name": "Asha Telethia"
+    },
+    {
+      "$id": 272,
+      "style": 17,
+      "name": "Polkan Telethia"
+    },
+    {
+      "$id": 273,
+      "style": 17,
+      "name": "Sureny Telethia"
+    },
+    {
+      "$id": 274,
+      "style": 17,
+      "name": "Sani Telethia"
+    },
+    {
+      "$id": 275,
+      "style": 17,
+      "name": "Inja Telethia"
+    },
+    {
+      "$id": 276,
+      "style": 17,
+      "name": "Sero Telethia"
+    },
+    {
+      "$id": 277,
+      "style": 17,
+      "name": "Asara Telethia"
+    },
+    {
+      "$id": 278,
+      "style": 17,
+      "name": "Dummy Telethia D"
+    },
+    {
+      "$id": 279,
+      "style": 17,
+      "name": "Simple"
+    },
+    {
+      "$id": 280,
+      "style": 17,
+      "name": "Rage 1"
+    },
+    {
+      "$id": 281,
+      "style": 17,
+      "name": "Rage 2"
+    },
+    {
+      "$id": 282,
+      "style": 17,
+      "name": "Atrophy 1"
+    },
+    {
+      "$id": 283,
+      "style": 17,
+      "name": "Atrophy 2"
+    },
+    {
+      "$id": 284,
+      "style": 17,
+      "name": "Escape Atrophy"
+    },
+    {
+      "$id": 285,
+      "style": 17,
+      "name": "Restricted Arts 1 (Rage"
+    },
+    {
+      "$id": 286,
+      "style": 17,
+      "name": "Restricted Arts 2 (Rage"
+    },
+    {
+      "$id": 287,
+      "style": 17,
+      "name": "Restricted Arts 1 (Atrophy"
+    },
+    {
+      "$id": 288,
+      "style": 17,
+      "name": "Restricted Arts 2 (Atrophy"
+    },
+    {
+      "$id": 289,
+      "style": 17,
+      "name": "Crazed"
+    },
+    {
+      "$id": 290,
+      "style": 17,
+      "name": "Awakening"
+    },
+    {
+      "$id": 291,
+      "style": 17,
+      "name": "Status Change (Weaken"
+    },
+    {
+      "$id": 292,
+      "style": 17,
+      "name": "Status Change (Strengthen"
+    },
+    {
+      "$id": 293,
+      "style": 17,
+      "name": "Hit & Away"
+    },
+    {
+      "$id": 294,
+      "style": 17,
+      "name": "Long-Distance"
+    },
+    {
+      "$id": 295,
+      "style": 17,
+      "name": "Extra Long-Distance"
+    },
+    {
+      "$id": 296,
+      "style": 17,
+      "name": "Dinosaur Exception"
+    },
+    {
+      "$id": 297,
+      "style": 17,
+      "name": "Target Debuff (Strong"
+    },
+    {
+      "$id": 298,
+      "style": 17,
+      "name": "Colony Upa"
+    },
+    {
+      "$id": 299,
+      "style": 17,
+      "name": "Colony Lizard"
+    },
+    {
+      "$id": 300,
+      "style": 17,
+      "name": "Junk Krabble"
+    },
+    {
+      "$id": 301,
+      "style": 17,
+      "name": "Rock Krabble"
+    },
+    {
+      "$id": 302,
+      "style": 17,
+      "name": "Materia Krabble"
+    },
+    {
+      "$id": 303,
+      "style": 17,
+      "name": "Drunk Vang"
+    },
+    {
+      "$id": 304,
+      "style": 17,
+      "name": "M42 Scout Unit"
+    },
+    {
+      "$id": 305,
+      "style": 17,
+      "name": "Mechon M32X"
+    },
+    {
+      "$id": 306,
+      "style": 17,
+      "name": "M32 Transport Unit"
+    },
+    {
+      "$id": 307,
+      "style": 17,
+      "name": "Mechon M53X"
+    },
+    {
+      "$id": 308,
+      "style": 17,
+      "name": "Mechon M55"
+    },
+    {
+      "$id": 309,
+      "style": 17,
+      "name": "Mechon M64X"
+    },
+    {
+      "$id": 310,
+      "style": 17,
+      "name": "Mechon M67"
+    },
+    {
+      "$id": 311,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 312,
+      "style": 17,
+      "name": "Mechon M84"
+    },
+    {
+      "$id": 313,
+      "style": 17,
+      "name": "Zord"
+    },
+    {
+      "$id": 314,
+      "style": 17,
+      "name": "Zord"
+    },
+    {
+      "$id": 315,
+      "style": 17,
+      "name": "Mechon M55"
+    },
+    {
+      "$id": 316,
+      "style": 17,
+      "name": "Mechon M67"
+    },
+    {
+      "$id": 317,
+      "style": 17,
+      "name": "Mechon M42"
+    },
+    {
+      "$id": 318,
+      "style": 17,
+      "name": "Mechon M32X"
+    },
+    {
+      "$id": 319,
+      "style": 17,
+      "name": "Mechon M53X"
+    },
+    {
+      "$id": 320,
+      "style": 17,
+      "name": "Elegant Marin"
+    },
+    {
+      "$id": 321,
+      "style": 17,
+      "name": "Vengeful Daulton"
+    },
+    {
+      "$id": 322,
+      "style": 17,
+      "name": "Dark Kisling"
+    },
+    {
+      "$id": 323,
+      "style": 17,
+      "name": "Captured Juujuu"
+    },
+    {
+      "$id": 324,
+      "style": 17,
+      "name": "Aqua Nebula"
+    },
+    {
+      "$id": 325,
+      "style": 17,
+      "name": "Wind Nebula"
+    },
+    {
+      "$id": 326,
+      "style": 17,
+      "name": "Frost Nebula"
+    },
+    {
+      "$id": 327,
+      "style": 17,
+      "name": "Acid Upa"
+    },
+    {
+      "$id": 328,
+      "style": 17,
+      "name": "Mad Upa"
+    },
+    {
+      "$id": 329,
+      "style": 17,
+      "name": "Mist Rhogul"
+    },
+    {
+      "$id": 330,
+      "style": 17,
+      "name": "Satorl Rhogul"
+    },
+    {
+      "$id": 331,
+      "style": 17,
+      "name": "Satorl Vang"
+    },
+    {
+      "$id": 332,
+      "style": 17,
+      "name": "Storm Vang"
+    },
+    {
+      "$id": 333,
+      "style": 17,
+      "name": "Satorl Flamii"
+    },
+    {
+      "$id": 334,
+      "style": 17,
+      "name": "Marsh Flamii"
+    },
+    {
+      "$id": 335,
+      "style": 17,
+      "name": "Lacus Flamii"
+    },
+    {
+      "$id": 336,
+      "style": 17,
+      "name": "Coppice Quadwing"
+    },
+    {
+      "$id": 337,
+      "style": 17,
+      "name": "Grove Quadwing"
+    },
+    {
+      "$id": 338,
+      "style": 17,
+      "name": "Ogre Bunnia"
+    },
+    {
+      "$id": 339,
+      "style": 17,
+      "name": "Ether Bunnia"
+    },
+    {
+      "$id": 340,
+      "style": 17,
+      "name": "Poison Brog"
+    },
+    {
+      "$id": 341,
+      "style": 17,
+      "name": "Detox Brog"
+    },
+    {
+      "$id": 342,
+      "style": 17,
+      "name": "Satorl Volff"
+    },
+    {
+      "$id": 343,
+      "style": 17,
+      "name": "Officer Volff"
+    },
+    {
+      "$id": 344,
+      "style": 17,
+      "name": "Partner Volff"
+    },
+    {
+      "$id": 345,
+      "style": 17,
+      "name": "Green Feris"
+    },
+    {
+      "$id": 346,
+      "style": 17,
+      "name": "Satorl Caterpile"
+    },
+    {
+      "$id": 347,
+      "style": 17,
+      "name": "Baelfael Gogol"
+    },
+    {
+      "$id": 348,
+      "style": 17,
+      "name": "Baelzeb Gogol"
+    },
+    {
+      "$id": 349,
+      "style": 17,
+      "name": "Fighter Igna"
+    },
+    {
+      "$id": 350,
+      "style": 17,
+      "name": "Shield Igna"
+    },
+    {
+      "$id": 351,
+      "style": 17,
+      "name": "Duel Igna"
+    },
+    {
+      "$id": 352,
+      "style": 17,
+      "name": "Guard Igna"
+    },
+    {
+      "$id": 353,
+      "style": 17,
+      "name": "Barbaro Igna"
+    },
+    {
+      "$id": 354,
+      "style": 17,
+      "name": "Ether Igna"
+    },
+    {
+      "$id": 355,
+      "style": 17,
+      "name": "Mistol Igna"
+    },
+    {
+      "$id": 356,
+      "style": 17,
+      "name": "Satorl Torta"
+    },
+    {
+      "$id": 357,
+      "style": 17,
+      "name": "Satorl Guardian"
+    },
+    {
+      "$id": 358,
+      "style": 17,
+      "name": "Eternal Palsadia"
+    },
+    {
+      "$id": 359,
+      "style": 17,
+      "name": "Cautious Balteid"
+    },
+    {
+      "$id": 360,
+      "style": 17,
+      "name": "Amber Fischer"
+    },
+    {
+      "$id": 361,
+      "style": 17,
+      "name": "Swift Zektol"
+    },
+    {
+      "$id": 362,
+      "style": 17,
+      "name": "Indomitable Daulton"
+    },
+    {
+      "$id": 363,
+      "style": 17,
+      "name": "Stormy Widardun"
+    },
+    {
+      "$id": 364,
+      "style": 17,
+      "name": "Reckless Godwin"
+    },
+    {
+      "$id": 365,
+      "style": 17,
+      "name": "Tumultuous Felix"
+    },
+    {
+      "$id": 366,
+      "style": 17,
+      "name": "Aggressive Cornelius"
+    },
+    {
+      "$id": 367,
+      "style": 17,
+      "name": "Veteran Yozel"
+    },
+    {
+      "$id": 368,
+      "style": 17,
+      "name": "Sunlight Schvaik"
+    },
+    {
+      "$id": 369,
+      "style": 17,
+      "name": "Despotic Arsene"
+    },
+    {
+      "$id": 370,
+      "style": 17,
+      "name": "Hungry Volff"
+    },
+    {
+      "$id": 371,
+      "style": 17,
+      "name": "Woeful Upa"
+    },
+    {
+      "$id": 372,
+      "style": 17,
+      "name": "Dogmatic Gogol"
+    },
+    {
+      "$id": 373,
+      "style": 17,
+      "name": "Deluded Igna"
+    },
+    {
+      "$id": 374,
+      "style": 17,
+      "name": "Deified Queen"
+    },
+    {
+      "$id": 375,
+      "style": 17,
+      "name": "Radiant Pterix"
+    },
+    {
+      "$id": 376,
+      "style": 17,
+      "name": "Makna Piranhax"
+    },
+    {
+      "$id": 377,
+      "style": 17,
+      "name": "Whapol Sardi"
+    },
+    {
+      "$id": 378,
+      "style": 17,
+      "name": "Fool Sardi"
+    },
+    {
+      "$id": 379,
+      "style": 17,
+      "name": "Makna Brog"
+    },
+    {
+      "$id": 380,
+      "style": 17,
+      "name": "Venaes Nebula"
+    },
+    {
+      "$id": 381,
+      "style": 17,
+      "name": "Caris Nebula"
+    },
+    {
+      "$id": 382,
+      "style": 17,
+      "name": "Bagrus Nebula"
+    },
+    {
+      "$id": 383,
+      "style": 17,
+      "name": "Makna Eks"
+    },
+    {
+      "$id": 384,
+      "style": 17,
+      "name": "Jungle Quadwing"
+    },
+    {
+      "$id": 385,
+      "style": 17,
+      "name": "Makna Ansel"
+    },
+    {
+      "$id": 386,
+      "style": 17,
+      "name": "Makna Feris"
+    },
+    {
+      "$id": 387,
+      "style": 17,
+      "name": "Lupus Feris"
+    },
+    {
+      "$id": 388,
+      "style": 17,
+      "name": "Korlba Pterix"
+    },
+    {
+      "$id": 389,
+      "style": 17,
+      "name": "Deinos Sauros"
+    },
+    {
+      "$id": 390,
+      "style": 17,
+      "name": "Laeklit Mammut"
+    },
+    {
+      "$id": 391,
+      "style": 17,
+      "name": "Plasma Deinos"
+    },
+    {
+      "$id": 392,
+      "style": 17,
+      "name": "Inferno Deinos"
+    },
+    {
+      "$id": 393,
+      "style": 17,
+      "name": "Itmos Upa"
+    },
+    {
+      "$id": 394,
+      "style": 17,
+      "name": "Bois Hode"
+    },
+    {
+      "$id": 395,
+      "style": 17,
+      "name": "Bosque Hode"
+    },
+    {
+      "$id": 396,
+      "style": 17,
+      "name": "Hyle Hode"
+    },
+    {
+      "$id": 397,
+      "style": 17,
+      "name": "Scout Hode"
+    },
+    {
+      "$id": 398,
+      "style": 17,
+      "name": "Sabulum Orluga"
+    },
+    {
+      "$id": 399,
+      "style": 17,
+      "name": "Ammos Orluga"
+    },
+    {
+      "$id": 400,
+      "style": 17,
+      "name": "Arena Orluga"
+    },
+    {
+      "$id": 401,
+      "style": 17,
+      "name": "Terra Orluga"
+    },
+    {
+      "$id": 402,
+      "style": 17,
+      "name": "Suelo Orluga"
+    },
+    {
+      "$id": 403,
+      "style": 17,
+      "name": "Makna Eluca"
+    },
+    {
+      "$id": 404,
+      "style": 17,
+      "name": "Petra Apis"
+    },
+    {
+      "$id": 405,
+      "style": 17,
+      "name": "Klanis Apis"
+    },
+    {
+      "$id": 406,
+      "style": 17,
+      "name": "Hasal Apis"
+    },
+    {
+      "$id": 407,
+      "style": 17,
+      "name": "Marmor Apis"
+    },
+    {
+      "$id": 408,
+      "style": 17,
+      "name": "Teneb Vang"
+    },
+    {
+      "$id": 409,
+      "style": 17,
+      "name": "Buio Vang"
+    },
+    {
+      "$id": 410,
+      "style": 17,
+      "name": "Makna Antol"
+    },
+    {
+      "$id": 411,
+      "style": 17,
+      "name": "Puera Telethia"
+    },
+    {
+      "$id": 412,
+      "style": 17,
+      "name": "Leone Telethia"
+    },
+    {
+      "$id": 413,
+      "style": 17,
+      "name": "Leone Telethia"
+    },
+    {
+      "$id": 414,
+      "style": 17,
+      "name": "Agile Albatro"
+    },
+    {
+      "$id": 415,
+      "style": 17,
+      "name": "Lazy Bluco"
+    },
+    {
+      "$id": 416,
+      "style": 17,
+      "name": "Shimmering Forte"
+    },
+    {
+      "$id": 417,
+      "style": 17,
+      "name": "Obsessive Galgaron"
+    },
+    {
+      "$id": 418,
+      "style": 17,
+      "name": "Breezy Zolos"
+    },
+    {
+      "$id": 419,
+      "style": 17,
+      "name": "Magnificent Digalus"
+    },
+    {
+      "$id": 420,
+      "style": 17,
+      "name": "Illustrious Golteus"
+    },
+    {
+      "$id": 421,
+      "style": 17,
+      "name": "Unreliable Rezno"
+    },
+    {
+      "$id": 422,
+      "style": 17,
+      "name": "Brutal Gravar"
+    },
+    {
+      "$id": 423,
+      "style": 17,
+      "name": "Elder Gragus"
+    },
+    {
+      "$id": 424,
+      "style": 17,
+      "name": "Ashy Orluga"
+    },
+    {
+      "$id": 425,
+      "style": 17,
+      "name": "Mysterious Telethia"
+    },
+    {
+      "$id": 426,
+      "style": 17,
+      "name": "Mysterious Telethia Dummy"
+    },
+    {
+      "$id": 427,
+      "style": 17,
+      "name": "Quadrupedal Machine"
+    },
+    {
+      "$id": 428,
+      "style": 17,
+      "name": "Quadrupedal Machine (Alter"
+    },
+    {
+      "$id": 429,
+      "style": 18,
+      "name": "Quadrupedal Machine (Blitz"
+    },
+    {
+      "$id": 430,
+      "style": 17,
+      "name": "Quadrupedal Machine (Hit"
+    },
+    {
+      "$id": 431,
+      "style": 17,
+      "name": "Quadrupedal Machine"
+    },
+    {
+      "$id": 432,
+      "style": 17,
+      "name": "Quadrupedal Machine"
+    },
+    {
+      "$id": 433,
+      "style": 17,
+      "name": "Quadrupedal Machine (Cut"
+    },
+    {
+      "$id": 434,
+      "style": 17,
+      "name": "Quadrupedal Machine"
+    },
+    {
+      "$id": 435,
+      "style": 17,
+      "name": "Quadrupedal Machine"
+    },
+    {
+      "$id": 436,
+      "style": 17,
+      "name": "Wasp Machine"
+    },
+    {
+      "$id": 437,
+      "style": 17,
+      "name": "Wasp Machine (Modify"
+    },
+    {
+      "$id": 438,
+      "style": 17,
+      "name": "Wasp Machine (Attack"
+    },
+    {
+      "$id": 439,
+      "style": 17,
+      "name": "Wasp Machine (Hit"
+    },
+    {
+      "$id": 440,
+      "style": 17,
+      "name": "Wasp Machine"
+    },
+    {
+      "$id": 441,
+      "style": 17,
+      "name": "Wasp Machine"
+    },
+    {
+      "$id": 442,
+      "style": 17,
+      "name": "Wasp Machine (Close"
+    },
+    {
+      "$id": 443,
+      "style": 17,
+      "name": "Wasp Machine"
+    },
+    {
+      "$id": 444,
+      "style": 17,
+      "name": "Wasp Machine"
+    },
+    {
+      "$id": 445,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 446,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 447,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 448,
+      "style": 17,
+      "name": "Android Machine (Eat"
+    },
+    {
+      "$id": 449,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 450,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 451,
+      "style": 17,
+      "name": "Android Machine (Do"
+    },
+    {
+      "$id": 452,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 453,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 454,
+      "style": 17,
+      "name": "Android Machine (Turbo"
+    },
+    {
+      "$id": 455,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 456,
+      "style": 17,
+      "name": "Android Machine"
+    },
+    {
+      "$id": 457,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 458,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 459,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 460,
+      "style": 17,
+      "name": "Large Machine (Seri"
+    },
+    {
+      "$id": 461,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 462,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 463,
+      "style": 17,
+      "name": "Large Machine (Cannon"
+    },
+    {
+      "$id": 464,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 465,
+      "style": 17,
+      "name": "Large Machine"
+    },
+    {
+      "$id": 466,
+      "style": 17,
+      "name": "Scout Machine"
+    },
+    {
+      "$id": 467,
+      "style": 17,
+      "name": "Scout Machine"
+    },
+    {
+      "$id": 468,
+      "style": 17,
+      "name": "Scout Machine"
+    },
+    {
+      "$id": 469,
+      "style": 17,
+      "name": "Scout Machine (Strong"
+    },
+    {
+      "$id": 470,
+      "style": 17,
+      "name": "Scout Machine"
+    },
+    {
+      "$id": 471,
+      "style": 17,
+      "name": "Scout Machine"
+    },
+    {
+      "$id": 472,
+      "style": 17,
+      "name": "Tentacle"
+    },
+    {
+      "$id": 473,
+      "style": 17,
+      "name": "Tentacle"
+    },
+    {
+      "$id": 474,
+      "style": 17,
+      "name": "Tentacle"
+    },
+    {
+      "$id": 475,
+      "style": 17,
+      "name": "Tentacle"
+    },
+    {
+      "$id": 476,
+      "style": 17,
+      "name": "Defence Machine (Strong"
+    },
+    {
+      "$id": 477,
+      "style": 17,
+      "name": "Defence Machine"
+    },
+    {
+      "$id": 478,
+      "style": 17,
+      "name": "Flying Machine (Sword"
+    },
+    {
+      "$id": 479,
+      "style": 17,
+      "name": "Flying Machine"
+    },
+    {
+      "$id": 480,
+      "style": 17,
+      "name": "Flying Machine (Shield"
+    },
+    {
+      "$id": 481,
+      "style": 17,
+      "name": "Flying Machine"
+    },
+    {
+      "$id": 482,
+      "style": 17,
+      "name": "Flying Machine (Strong"
+    },
+    {
+      "$id": 483,
+      "style": 17,
+      "name": "Flying Machine"
+    },
+    {
+      "$id": 484,
+      "style": 17,
+      "name": "Large Quadrupedal Machine"
+    },
+    {
+      "$id": 485,
+      "style": 17,
+      "name": "Large Quadrupedal Machine"
+    },
+    {
+      "$id": 486,
+      "style": 17,
+      "name": "Tank Machine"
+    },
+    {
+      "$id": 487,
+      "style": 17,
+      "name": "Tank Machine"
+    },
+    {
+      "$id": 488,
+      "style": 17,
+      "name": "35m"
+    },
+    {
+      "$id": 489,
+      "style": 17,
+      "name": "35m"
+    },
+    {
+      "$id": 490,
+      "style": 17,
+      "name": "E Defence A"
+    },
+    {
+      "$id": 491,
+      "style": 17,
+      "name": "E Defence A"
+    },
+    {
+      "$id": 492,
+      "style": 17,
+      "name": "E Defence A New"
+    },
+    {
+      "$id": 493,
+      "style": 17,
+      "name": "E Defence A New"
+    },
+    {
+      "$id": 494,
+      "style": 17,
+      "name": "E Defence B"
+    },
+    {
+      "$id": 495,
+      "style": 17,
+      "name": "E Defence B"
+    },
+    {
+      "$id": 496,
+      "style": 17,
+      "name": "Mass-Produced Zord"
+    },
+    {
+      "$id": 497,
+      "style": 17,
+      "name": "Mass-Produced Zord"
+    },
+    {
+      "$id": 498,
+      "style": 17,
+      "name": "Mass-Produced Zord"
+    },
+    {
+      "$id": 499,
+      "style": 17,
+      "name": "Confined Mu"
+    },
+    {
+      "$id": 500,
+      "style": 17,
+      "name": "Confined Zo"
+    },
+    {
+      "$id": 501,
+      "style": 17,
+      "name": "Confined Zo 2"
+    },
+    {
+      "$id": 502,
+      "style": 17,
+      "name": "Confined Ga"
+    },
+    {
+      "$id": 503,
+      "style": 17,
+      "name": "Confined Te"
+    },
+    {
+      "$id": 504,
+      "style": 17,
+      "name": "Frenzied Bahn"
+    },
+    {
+      "$id": 505,
+      "style": 17,
+      "name": "Nero Andos"
+    },
+    {
+      "$id": 506,
+      "style": 17,
+      "name": "Azul Andos"
+    },
+    {
+      "$id": 507,
+      "style": 17,
+      "name": "Hover Astas"
+    },
+    {
+      "$id": 508,
+      "style": 17,
+      "name": "Orluga Rufus"
+    },
+    {
+      "$id": 509,
+      "style": 17,
+      "name": "Taruko"
+    },
+    {
+      "$id": 510,
+      "style": 17,
+      "name": "Solidum Telethia"
+    },
+    {
+      "$id": 511,
+      "style": 17,
+      "name": "Orluga Rufus"
+    },
+    {
+      "$id": 512,
+      "style": 17,
+      "name": "Nero Andos"
+    },
+    {
+      "$id": 513,
+      "style": 17,
+      "name": "Hover Astas"
+    },
+    {
+      "$id": 514,
+      "style": 17,
+      "name": "Calm Anzabi"
+    },
+    {
+      "$id": 515,
+      "style": 17,
+      "name": "Furious Jozan"
+    },
+    {
+      "$id": 516,
+      "style": 17,
+      "name": "Mist Ele (Wind"
+    },
+    {
+      "$id": 517,
+      "style": 17,
+      "name": "Mist Ele (Earth"
+    },
+    {
+      "$id": 518,
+      "style": 17,
+      "name": "Mist Ele (Water"
+    },
+    {
+      "$id": 519,
+      "style": 17,
+      "name": "Mist Ele (Fire"
+    },
+    {
+      "$id": 520,
+      "style": 17,
+      "name": "Mist Ele (Lightning"
+    },
+    {
+      "$id": 521,
+      "style": 17,
+      "name": "Mist Ele (Water"
+    },
+    {
+      "$id": 522,
+      "style": 17,
+      "name": "Ele"
+    },
+    {
+      "$id": 523,
+      "style": 17,
+      "name": "Ele"
+    },
+    {
+      "$id": 524,
+      "style": 17,
+      "name": "Ele"
+    },
+    {
+      "$id": 525,
+      "style": 17,
+      "name": "Ele"
+    },
+    {
+      "$id": 526,
+      "style": 17,
+      "name": "Antibody A"
+    },
+    {
+      "$id": 527,
+      "style": 17,
+      "name": "Antibody A"
+    },
+    {
+      "$id": 528,
+      "style": 17,
+      "name": "Antibody B"
+    },
+    {
+      "$id": 529,
+      "style": 17,
+      "name": "Antibody B"
+    },
+    {
+      "$id": 530,
+      "style": 17,
+      "name": "Antibody C"
+    },
+    {
+      "$id": 531,
+      "style": 17,
+      "name": "Antibody C"
+    },
+    {
+      "$id": 532,
+      "style": 17,
+      "name": "Antibody"
+    },
+    {
+      "$id": 533,
+      "style": 17,
+      "name": "Antibody"
+    },
+    {
+      "$id": 534,
+      "style": 17,
+      "name": "Antibody E"
+    },
+    {
+      "$id": 535,
+      "style": 17,
+      "name": "Antibody E"
+    },
+    {
+      "$id": 536,
+      "style": 17,
+      "name": "Crawler Subspecies (Sword"
+    },
+    {
+      "$id": 537,
+      "style": 17,
+      "name": "Crawler Subspecies (Sword"
+    },
+    {
+      "$id": 538,
+      "style": 17,
+      "name": "Crawler Subspecies (Sword"
+    },
+    {
+      "$id": 539,
+      "style": 17,
+      "name": "Crawler Subspecies (Curve"
+    },
+    {
+      "$id": 540,
+      "style": 17,
+      "name": "Crawler Subspecies (Curve"
+    },
+    {
+      "$id": 541,
+      "style": 17,
+      "name": "Crawler Subspecies (Curve"
+    },
+    {
+      "$id": 542,
+      "style": 17,
+      "name": "Crawler Subspecies (Axe"
+    },
+    {
+      "$id": 543,
+      "style": 17,
+      "name": "Crawler Subspecies (Axe"
+    },
+    {
+      "$id": 544,
+      "style": 17,
+      "name": "Crawler Subspecies (Axe"
+    },
+    {
+      "$id": 545,
+      "style": 17,
+      "name": "Crawler Subspecies (Magic"
+    },
+    {
+      "$id": 546,
+      "style": 17,
+      "name": "Crawler Subspecies (Magic"
+    },
+    {
+      "$id": 547,
+      "style": 17,
+      "name": "Crawler Subspecies (Magic"
+    },
+    {
+      "$id": 548,
+      "style": 17,
+      "name": "E Subspecies (Sword"
+    },
+    {
+      "$id": 549,
+      "style": 17,
+      "name": "E Subspecies (Sword"
+    },
+    {
+      "$id": 550,
+      "style": 17,
+      "name": "E Subspecies (Curve"
+    },
+    {
+      "$id": 551,
+      "style": 17,
+      "name": "E Subspecies (Curve"
+    },
+    {
+      "$id": 552,
+      "style": 17,
+      "name": "E Subspecies (Magic"
+    },
+    {
+      "$id": 553,
+      "style": 17,
+      "name": "E Subspecies (Magic"
+    },
+    {
+      "$id": 554,
+      "style": 17,
+      "name": "E Subspecies (Magic"
+    },
+    {
+      "$id": 555,
+      "style": 17,
+      "name": "Bird Subspecies (Spear"
+    },
+    {
+      "$id": 556,
+      "style": 17,
+      "name": "Bird Subspecies (Spear"
+    },
+    {
+      "$id": 557,
+      "style": 17,
+      "name": "Bird Subspecies (Spear"
+    },
+    {
+      "$id": 558,
+      "style": 18,
+      "name": "Bird Subspecies (Ore Spear"
+    },
+    {
+      "$id": 559,
+      "style": 18,
+      "name": "Bird Subspecies (Ore Spear"
+    },
+    {
+      "$id": 560,
+      "style": 18,
+      "name": "Bird Subspecies (Ore Spear"
+    },
+    {
+      "$id": 561,
+      "style": 17,
+      "name": "Bird Subspecies (Bow"
+    },
+    {
+      "$id": 562,
+      "style": 17,
+      "name": "Bird Subspecies (Bow"
+    },
+    {
+      "$id": 563,
+      "style": 17,
+      "name": "Bird Subspecies (Bow"
+    },
+    {
+      "$id": 564,
+      "style": 17,
+      "name": "Ma Subspecies (Spear"
+    },
+    {
+      "$id": 565,
+      "style": 17,
+      "name": "Ma Subspecies (Spear"
+    },
+    {
+      "$id": 566,
+      "style": 17,
+      "name": "Ma Subspecies (Staff"
+    },
+    {
+      "$id": 567,
+      "style": 17,
+      "name": "Ma Subspecies (Staff"
+    },
+    {
+      "$id": 568,
+      "style": 17,
+      "name": "Ma Subspecies (Bow"
+    },
+    {
+      "$id": 569,
+      "style": 17,
+      "name": "Ma Subspecies (Bow"
+    },
+    {
+      "$id": 570,
+      "style": 17,
+      "name": "Ma Subspecies (Bow B"
+    },
+    {
+      "$id": 571,
+      "style": 17,
+      "name": "Ma Subspecies (Bow B"
+    },
+    {
+      "$id": 572,
+      "style": 17,
+      "name": "Meat Subspecies (Mounted"
+    },
+    {
+      "$id": 573,
+      "style": 17,
+      "name": "Meat Subspecies (Mounted"
+    },
+    {
+      "$id": 574,
+      "style": 17,
+      "name": "Meat Subspecies"
+    },
+    {
+      "$id": 575,
+      "style": 17,
+      "name": "Meat Subspecies"
+    },
+    {
+      "$id": 576,
+      "style": 17,
+      "name": "Meat Subspecies (Plain"
+    },
+    {
+      "$id": 577,
+      "style": 17,
+      "name": "Meat Subspecies (Plain"
+    },
+    {
+      "$id": 578,
+      "style": 17,
+      "name": "Meat Subspecies (Tattoo"
+    },
+    {
+      "$id": 579,
+      "style": 17,
+      "name": "Meat Subspecies (Tattoo"
+    },
+    {
+      "$id": 580,
+      "style": 17,
+      "name": "Meat Subspecies (Tomb"
+    },
+    {
+      "$id": 581,
+      "style": 17,
+      "name": "Meat Subspecies (Tomb"
+    },
+    {
+      "$id": 582,
+      "style": 17,
+      "name": "Snow Subspecies (Tomb"
+    },
+    {
+      "$id": 583,
+      "style": 17,
+      "name": "Snow Subspecies (Tomb"
+    },
+    {
+      "$id": 584,
+      "style": 17,
+      "name": "Racti Lexos"
+    },
+    {
+      "$id": 585,
+      "style": 17,
+      "name": "Eryth Hiln"
+    },
+    {
+      "$id": 586,
+      "style": 17,
+      "name": "Eryth Ansel"
+    },
+    {
+      "$id": 587,
+      "style": 17,
+      "name": "Ciconia Ekidno"
+    },
+    {
+      "$id": 588,
+      "style": 17,
+      "name": "Pelargos Ekidno"
+    },
+    {
+      "$id": 589,
+      "style": 17,
+      "name": "Chloro Laia"
+    },
+    {
+      "$id": 590,
+      "style": 17,
+      "name": "Lunar Grady"
+    },
+    {
+      "$id": 591,
+      "style": 17,
+      "name": "Sol Grady"
+    },
+    {
+      "$id": 592,
+      "style": 17,
+      "name": "Carbon Tude"
+    },
+    {
+      "$id": 593,
+      "style": 17,
+      "name": "Cruz Pagul"
+    },
+    {
+      "$id": 594,
+      "style": 17,
+      "name": "Stella Eks"
+    },
+    {
+      "$id": 595,
+      "style": 17,
+      "name": "Eryth Rhana"
+    },
+    {
+      "$id": 596,
+      "style": 17,
+      "name": "Perna Eluca"
+    },
+    {
+      "$id": 597,
+      "style": 17,
+      "name": "Palti Kromar"
+    },
+    {
+      "$id": 598,
+      "style": 17,
+      "name": "Somati Kromar"
+    },
+    {
+      "$id": 599,
+      "style": 17,
+      "name": "Goldi Kromar"
+    },
+    {
+      "$id": 600,
+      "style": 17,
+      "name": "Zeldi Kromar"
+    },
+    {
+      "$id": 601,
+      "style": 17,
+      "name": "Maleza Kromar"
+    },
+    {
+      "$id": 602,
+      "style": 17,
+      "name": "Tussock Kromar"
+    },
+    {
+      "$id": 603,
+      "style": 17,
+      "name": "Trava Kromar"
+    },
+    {
+      "$id": 604,
+      "style": 17,
+      "name": "Flutes Kromar"
+    },
+    {
+      "$id": 605,
+      "style": 17,
+      "name": "Otol Kromar"
+    },
+    {
+      "$id": 606,
+      "style": 17,
+      "name": "Lograt Kromar"
+    },
+    {
+      "$id": 607,
+      "style": 17,
+      "name": "Unine Hode"
+    },
+    {
+      "$id": 608,
+      "style": 17,
+      "name": "Tarifa Hode"
+    },
+    {
+      "$id": 609,
+      "style": 17,
+      "name": "Archer Hode"
+    },
+    {
+      "$id": 610,
+      "style": 17,
+      "name": "Watcher Hode"
+    },
+    {
+      "$id": 611,
+      "style": 17,
+      "name": "Kurian Hode"
+    },
+    {
+      "$id": 612,
+      "style": 17,
+      "name": "Possessio Hode"
+    },
+    {
+      "$id": 613,
+      "style": 17,
+      "name": "Pulse Orluga"
+    },
+    {
+      "$id": 614,
+      "style": 17,
+      "name": "Tocos Orluga"
+    },
+    {
+      "$id": 615,
+      "style": 17,
+      "name": "Bono Nebula"
+    },
+    {
+      "$id": 616,
+      "style": 17,
+      "name": "Buono Nebula"
+    },
+    {
+      "$id": 617,
+      "style": 17,
+      "name": "Bulganon Nebula"
+    },
+    {
+      "$id": 618,
+      "style": 17,
+      "name": "Flavel Andos"
+    },
+    {
+      "$id": 619,
+      "style": 17,
+      "name": "Aora Telethia"
+    },
+    {
+      "$id": 620,
+      "style": 17,
+      "name": "Arel Telethia"
+    },
+    {
+      "$id": 621,
+      "style": 17,
+      "name": "Asara Telethia"
+    },
+    {
+      "$id": 622,
+      "style": 17,
+      "name": "Skyray"
+    },
+    {
+      "$id": 623,
+      "style": 17,
+      "name": "Cumulus Danaemos"
+    },
+    {
+      "$id": 624,
+      "style": 17,
+      "name": "Turbulent Belmo"
+    },
+    {
+      "$id": 625,
+      "style": 17,
+      "name": "Clamorous Dablon"
+    },
+    {
+      "$id": 626,
+      "style": 17,
+      "name": "Sacred Zagamei"
+    },
+    {
+      "$id": 627,
+      "style": 17,
+      "name": "Subterranean Zomar"
+    },
+    {
+      "$id": 628,
+      "style": 17,
+      "name": "Peeling Kircheis"
+    },
+    {
+      "$id": 629,
+      "style": 17,
+      "name": "Proper Bandaz"
+    },
+    {
+      "$id": 630,
+      "style": 17,
+      "name": "Stormy Belagon"
+    },
+    {
+      "$id": 631,
+      "style": 17,
+      "name": "Bizarre Ragoel"
+    },
+    {
+      "$id": 632,
+      "style": 17,
+      "name": "Funeral Gozra"
+    },
+    {
+      "$id": 633,
+      "style": 17,
+      "name": "Flabbergasted Jerome"
+    },
+    {
+      "$id": 634,
+      "style": 17,
+      "name": "Tempestuous Edegia"
+    },
+    {
+      "$id": 635,
+      "style": 17,
+      "name": "Lightspeed Sonid"
+    },
+    {
+      "$id": 636,
+      "style": 17,
+      "name": "Deadly Medorlo"
+    },
+    {
+      "$id": 637,
+      "style": 17,
+      "name": "Confusion Ekidno"
+    },
+    {
+      "$id": 638,
+      "style": 17,
+      "name": "Decay Ekidno"
+    },
+    {
+      "$id": 639,
+      "style": 17,
+      "name": "Abominable Hiln"
+    },
+    {
+      "$id": 640,
+      "style": 17,
+      "name": "Pillager Hode"
+    },
+    {
+      "$id": 641,
+      "style": 17,
+      "name": "Defensive Kromar"
+    },
+    {
+      "$id": 642,
+      "style": 17,
+      "name": "Defensive Kromar"
+    },
+    {
+      "$id": 643,
+      "style": 17,
+      "name": "Defensive Kromar"
+    },
+    {
+      "$id": 644,
+      "style": 17,
+      "name": "Defensive Kromar"
+    },
+    {
+      "$id": 645,
+      "style": 17,
+      "name": "Wizard Entia"
+    },
+    {
+      "$id": 646,
+      "style": 17,
+      "name": "Scout Entia"
+    },
+    {
+      "$id": 647,
+      "style": 17,
+      "name": "Guard Entia"
+    },
+    {
+      "$id": 648,
+      "style": 17,
+      "name": "Aora Telethia"
+    },
+    {
+      "$id": 649,
+      "style": 17,
+      "name": "Arel Telethia"
+    },
+    {
+      "$id": 650,
+      "style": 17,
+      "name": "Asara Telethia"
+    },
+    {
+      "$id": 651,
+      "style": 17,
+      "name": "Telethia Gangu"
+    },
+    {
+      "$id": 652,
+      "style": 17,
+      "name": "Telethia Lecrough"
+    },
+    {
+      "$id": 653,
+      "style": 17,
+      "name": "Telethia Guarda"
+    },
+    {
+      "$id": 654,
+      "style": 17,
+      "name": "Telethia Kaito"
+    },
+    {
+      "$id": 655,
+      "style": 17,
+      "name": "Telethia Donna"
+    },
+    {
+      "$id": 656,
+      "style": 17,
+      "name": "Primordial Telethia"
+    },
+    {
+      "$id": 657,
+      "style": 17,
+      "name": "Telethia Vol'aren"
+    },
+    {
+      "$id": 658,
+      "style": 17,
+      "name": "Telethia Louise"
+    },
+    {
+      "$id": 659,
+      "style": 17,
+      "name": "Telethia Arietta"
+    },
+    {
+      "$id": 660,
+      "style": 17,
+      "name": "Soldier Bug"
+    },
+    {
+      "$id": 661,
+      "style": 17,
+      "name": "Soldier Bug"
+    },
+    {
+      "$id": 662,
+      "style": 17,
+      "name": "Soldier Bug"
+    },
+    {
+      "$id": 663,
+      "style": 17,
+      "name": "Troop Bug"
+    },
+    {
+      "$id": 664,
+      "style": 17,
+      "name": "Troop Bug"
+    },
+    {
+      "$id": 665,
+      "style": 17,
+      "name": "Troop Bug"
+    },
+    {
+      "$id": 666,
+      "style": 17,
+      "name": "Lithe Bug (Yellow"
+    },
+    {
+      "$id": 667,
+      "style": 17,
+      "name": "Lithe Bug (Yellow"
+    },
+    {
+      "$id": 668,
+      "style": 17,
+      "name": "Lithe Bug (Red"
+    },
+    {
+      "$id": 669,
+      "style": 17,
+      "name": "Lithe Bug (Red"
+    },
+    {
+      "$id": 670,
+      "style": 17,
+      "name": "Queen Bug"
+    },
+    {
+      "$id": 671,
+      "style": 17,
+      "name": "Queen Bug"
+    },
+    {
+      "$id": 672,
+      "style": 17,
+      "name": "Lithe Queen Bug"
+    },
+    {
+      "$id": 673,
+      "style": 17,
+      "name": "Lithe Queen Bug"
+    },
+    {
+      "$id": 674,
+      "style": 17,
+      "name": "Tuber (Yellow"
+    },
+    {
+      "$id": 675,
+      "style": 17,
+      "name": "Tuber (Yellow"
+    },
+    {
+      "$id": 676,
+      "style": 17,
+      "name": "Tuber (Yellow"
+    },
+    {
+      "$id": 677,
+      "style": 17,
+      "name": "Tuber (Red"
+    },
+    {
+      "$id": 678,
+      "style": 17,
+      "name": "Tuber (Red"
+    },
+    {
+      "$id": 679,
+      "style": 17,
+      "name": "Tuber (Red"
+    },
+    {
+      "$id": 680,
+      "style": 17,
+      "name": "Upper Tuber"
+    },
+    {
+      "$id": 681,
+      "style": 17,
+      "name": "Upper Tuber"
+    },
+    {
+      "$id": 682,
+      "style": 17,
+      "name": "Upper Tuber"
+    },
+    {
+      "$id": 683,
+      "style": 17,
+      "name": "Butterfly Bug (Yellow"
+    },
+    {
+      "$id": 684,
+      "style": 17,
+      "name": "Butterfly Bug"
+    },
+    {
+      "$id": 685,
+      "style": 17,
+      "name": "Butterfly Bug"
+    },
+    {
+      "$id": 686,
+      "style": 17,
+      "name": "Butterfly Bug (Blue"
+    },
+    {
+      "$id": 687,
+      "style": 17,
+      "name": "Butterfly Bug"
+    },
+    {
+      "$id": 688,
+      "style": 17,
+      "name": "Butterfly Bug"
+    },
+    {
+      "$id": 689,
+      "style": 17,
+      "name": "Demon Butterfly"
+    },
+    {
+      "$id": 690,
+      "style": 17,
+      "name": "Demon Butterfly"
+    },
+    {
+      "$id": 691,
+      "style": 17,
+      "name": "Demon Butterfly"
+    },
+    {
+      "$id": 692,
+      "style": 17,
+      "name": "Firefly"
+    },
+    {
+      "$id": 693,
+      "style": 17,
+      "name": "Firefly"
+    },
+    {
+      "$id": 694,
+      "style": 17,
+      "name": "Firefly"
+    },
+    {
+      "$id": 695,
+      "style": 17,
+      "name": "Ore Bug"
+    },
+    {
+      "$id": 696,
+      "style": 17,
+      "name": "Ore Bug"
+    },
+    {
+      "$id": 697,
+      "style": 17,
+      "name": "Ore Bug"
+    },
+    {
+      "$id": 698,
+      "style": 17,
+      "name": "Yado"
+    },
+    {
+      "$id": 699,
+      "style": 17,
+      "name": "Yado"
+    },
+    {
+      "$id": 700,
+      "style": 17,
+      "name": "Yado"
+    },
+    {
+      "$id": 701,
+      "style": 17,
+      "name": "Upper Yado"
+    },
+    {
+      "$id": 702,
+      "style": 17,
+      "name": "Upper Yado"
+    },
+    {
+      "$id": 703,
+      "style": 17,
+      "name": "Upper Yado"
+    },
+    {
+      "$id": 704,
+      "style": 17,
+      "name": "Ei A"
+    },
+    {
+      "$id": 705,
+      "style": 17,
+      "name": "Ei A"
+    },
+    {
+      "$id": 706,
+      "style": 17,
+      "name": "Ei B"
+    },
+    {
+      "$id": 707,
+      "style": 17,
+      "name": "Ei B"
+    },
+    {
+      "$id": 708,
+      "style": 17,
+      "name": "Prison Ei"
+    },
+    {
+      "$id": 709,
+      "style": 17,
+      "name": "Prison Ei"
+    },
+    {
+      "$id": 710,
+      "style": 17,
+      "name": "Lower Fish (Green"
+    },
+    {
+      "$id": 711,
+      "style": 17,
+      "name": "Lower Fish (Green"
+    },
+    {
+      "$id": 712,
+      "style": 17,
+      "name": "Lower Fish (Green"
+    },
+    {
+      "$id": 713,
+      "style": 17,
+      "name": "Lower Fish (Red"
+    },
+    {
+      "$id": 714,
+      "style": 17,
+      "name": "Lower Fish (Red"
+    },
+    {
+      "$id": 715,
+      "style": 17,
+      "name": "Lower Fish (Red"
+    },
+    {
+      "$id": 716,
+      "style": 17,
+      "name": "Upper Fish"
+    },
+    {
+      "$id": 717,
+      "style": 17,
+      "name": "Upper Fish"
+    },
+    {
+      "$id": 718,
+      "style": 17,
+      "name": "Upper Fish"
+    },
+    {
+      "$id": 719,
+      "style": 17,
+      "name": "Sea Dragon"
+    },
+    {
+      "$id": 720,
+      "style": 17,
+      "name": "Sea Dragon"
+    },
+    {
+      "$id": 721,
+      "style": 17,
+      "name": "Turtle Fish"
+    },
+    {
+      "$id": 722,
+      "style": 17,
+      "name": "Turtle Fish"
+    },
+    {
+      "$id": 723,
+      "style": 17,
+      "name": "Large Turtle"
+    },
+    {
+      "$id": 724,
+      "style": 17,
+      "name": "Giant Turtle"
+    },
+    {
+      "$id": 725,
+      "style": 17,
+      "name": "Emeraude Nebula"
+    },
+    {
+      "$id": 726,
+      "style": 17,
+      "name": "Saldox Nebula"
+    },
+    {
+      "$id": 727,
+      "style": 17,
+      "name": "Eques Skyray"
+    },
+    {
+      "$id": 728,
+      "style": 17,
+      "name": "Dummy Nemesis"
+    },
+    {
+      "$id": 729,
+      "style": 17,
+      "name": "Black Face"
+    },
+    {
+      "$id": 730,
+      "style": 17,
+      "name": "Dummy Face"
+    },
+    {
+      "$id": 731,
+      "style": 17,
+      "name": "Fla"
+    },
+    {
+      "$id": 732,
+      "style": 17,
+      "name": "Fla (White"
+    },
+    {
+      "$id": 733,
+      "style": 17,
+      "name": "Fla"
+    },
+    {
+      "$id": 734,
+      "style": 17,
+      "name": "Prison Fla"
+    },
+    {
+      "$id": 735,
+      "style": 17,
+      "name": "Prison Fla"
+    },
+    {
+      "$id": 736,
+      "style": 17,
+      "name": "Rock Bird"
+    },
+    {
+      "$id": 737,
+      "style": 17,
+      "name": "Rock Bird"
+    },
+    {
+      "$id": 738,
+      "style": 17,
+      "name": "Rock Bird"
+    },
+    {
+      "$id": 739,
+      "style": 17,
+      "name": "Bird of Paradise"
+    },
+    {
+      "$id": 740,
+      "style": 17,
+      "name": "Bird of Paradise"
+    },
+    {
+      "$id": 741,
+      "style": 17,
+      "name": "Bird of Paradise"
+    },
+    {
+      "$id": 742,
+      "style": 17,
+      "name": "Owl (Brown"
+    },
+    {
+      "$id": 743,
+      "style": 17,
+      "name": "Owl (Brown"
+    },
+    {
+      "$id": 744,
+      "style": 17,
+      "name": "Owl (Brown"
+    },
+    {
+      "$id": 745,
+      "style": 17,
+      "name": "Gargoyle"
+    },
+    {
+      "$id": 746,
+      "style": 17,
+      "name": "Gargoyle"
+    },
+    {
+      "$id": 747,
+      "style": 17,
+      "name": "Bat (Blue"
+    },
+    {
+      "$id": 748,
+      "style": 17,
+      "name": "Bat (Blue"
+    },
+    {
+      "$id": 749,
+      "style": 17,
+      "name": "Bat (Blue"
+    },
+    {
+      "$id": 750,
+      "style": 17,
+      "name": "Bat (Purple"
+    },
+    {
+      "$id": 751,
+      "style": 17,
+      "name": "Bat (Purple"
+    },
+    {
+      "$id": 752,
+      "style": 17,
+      "name": "Bat (Purple"
+    },
+    {
+      "$id": 753,
+      "style": 17,
+      "name": "Sea Bird"
+    },
+    {
+      "$id": 754,
+      "style": 17,
+      "name": "Sea Bird"
+    },
+    {
+      "$id": 755,
+      "style": 17,
+      "name": "Sea Bird"
+    },
+    {
+      "$id": 756,
+      "style": 17,
+      "name": "Tele A (Wild"
+    },
+    {
+      "$id": 757,
+      "style": 17,
+      "name": "Tele A"
+    },
+    {
+      "$id": 758,
+      "style": 17,
+      "name": "Tele B (Wild"
+    },
+    {
+      "$id": 759,
+      "style": 17,
+      "name": "Tele B"
+    },
+    {
+      "$id": 760,
+      "style": 17,
+      "name": "Tele C (Wild"
+    },
+    {
+      "$id": 761,
+      "style": 17,
+      "name": "Tele C"
+    },
+    {
+      "$id": 762,
+      "style": 17,
+      "name": "Tele (Wild"
+    },
+    {
+      "$id": 763,
+      "style": 17,
+      "name": "Tele"
+    },
+    {
+      "$id": 764,
+      "style": 17,
+      "name": "Elite Tele"
+    },
+    {
+      "$id": 765,
+      "style": 17,
+      "name": "Elite Tele"
+    },
+    {
+      "$id": 766,
+      "style": 17,
+      "name": "Rouren"
+    },
+    {
+      "$id": 767,
+      "style": 17,
+      "name": "Rouren"
+    },
+    {
+      "$id": 768,
+      "style": 17,
+      "name": "Taruko"
+    },
+    {
+      "$id": 769,
+      "style": 17,
+      "name": "Taruko"
+    },
+    {
+      "$id": 770,
+      "style": 17,
+      "name": "Assassination (Sword"
+    },
+    {
+      "$id": 771,
+      "style": 17,
+      "name": "Assassination (Shield"
+    },
+    {
+      "$id": 772,
+      "style": 17,
+      "name": "Assassination (Magic"
+    },
+    {
+      "$id": 773,
+      "style": 17,
+      "name": "Dickson"
+    },
+    {
+      "$id": 774,
+      "style": 17,
+      "name": "Dickson"
+    },
+    {
+      "$id": 775,
+      "style": 17,
+      "name": "Silk Zanza"
+    },
+    {
+      "$id": 776,
+      "style": 17,
+      "name": "Silk Zanza"
+    },
+    {
+      "$id": 777,
+      "style": 17,
+      "name": "Zanza Aide A"
+    },
+    {
+      "$id": 778,
+      "style": 17,
+      "name": "Zanza Aide B"
+    },
+    {
+      "$id": 779,
+      "style": 17,
+      "name": "Machine Mumca"
+    },
+    {
+      "$id": 780,
+      "style": 17,
+      "name": "Machine Mumca"
+    },
+    {
+      "$id": 781,
+      "style": 17,
+      "name": "Living Egil"
+    },
+    {
+      "$id": 782,
+      "style": 17,
+      "name": "Living Egil"
+    },
+    {
+      "$id": 783,
+      "style": 17,
+      "name": "Mumca Machine"
+    },
+    {
+      "$id": 784,
+      "style": 17,
+      "name": "Mumca Machine"
+    },
+    {
+      "$id": 785,
+      "style": 17,
+      "name": "Zord Machine"
+    },
+    {
+      "$id": 786,
+      "style": 17,
+      "name": "Zord Machine"
+    },
+    {
+      "$id": 787,
+      "style": 17,
+      "name": "Gado Machine"
+    },
+    {
+      "$id": 788,
+      "style": 17,
+      "name": "Gado Machine"
+    },
+    {
+      "$id": 789,
+      "style": 17,
+      "name": "Fio Machine"
+    },
+    {
+      "$id": 790,
+      "style": 17,
+      "name": "Fio Machine"
+    },
+    {
+      "$id": 791,
+      "style": 17,
+      "name": "Egil Machine"
+    },
+    {
+      "$id": 792,
+      "style": 17,
+      "name": "Egil Machine"
+    },
+    {
+      "$id": 793,
+      "style": 17,
+      "name": "Uragano Nebula"
+    },
+    {
+      "$id": 794,
+      "style": 17,
+      "name": "Randa Nebula"
+    },
+    {
+      "$id": 795,
+      "style": 17,
+      "name": "Fiume Nebula"
+    },
+    {
+      "$id": 796,
+      "style": 17,
+      "name": "Cratere Nebula"
+    },
+    {
+      "$id": 797,
+      "style": 17,
+      "name": "Solare Nebula"
+    },
+    {
+      "$id": 798,
+      "style": 17,
+      "name": "Gracile Nebula"
+    },
+    {
+      "$id": 799,
+      "style": 17,
+      "name": "Tored Ageshu"
+    },
+    {
+      "$id": 800,
+      "style": 17,
+      "name": "Gimran Egel"
+    },
+    {
+      "$id": 801,
+      "style": 17,
+      "name": "Babel Deinos"
+    },
+    {
+      "$id": 802,
+      "style": 17,
+      "name": "Newgate Laia"
+    },
+    {
+      "$id": 803,
+      "style": 17,
+      "name": "Obart Obart"
+    },
+    {
+      "$id": 804,
+      "style": 17,
+      "name": "Babeli Barg"
+    },
+    {
+      "$id": 805,
+      "style": 17,
+      "name": "Caura Balgas"
+    },
+    {
+      "$id": 806,
+      "style": 17,
+      "name": "Sanjibal Behemoth"
+    },
+    {
+      "$id": 807,
+      "style": 17,
+      "name": "Dragon King Alcar"
+    },
+    {
+      "$id": 808,
+      "style": 17,
+      "name": "Disciple Dickson"
+    },
+    {
+      "$id": 809,
+      "style": 17,
+      "name": "Disciple Dickson"
+    },
+    {
+      "$id": 810,
+      "style": 17,
+      "name": "Abnormal Clone Barg"
+    },
+    {
+      "$id": 811,
+      "style": 17,
+      "name": "Majestic Clone Barg"
+    },
+    {
+      "$id": 812,
+      "style": 17,
+      "name": "Ageless Moabit"
+    },
+    {
+      "$id": 813,
+      "style": 17,
+      "name": "Serene Imlaly"
+    },
+    {
+      "$id": 814,
+      "style": 17,
+      "name": "Cold Ageshu"
+    },
+    {
+      "$id": 815,
+      "style": 17,
+      "name": "Fiendish Auburn"
+    },
+    {
+      "$id": 816,
+      "style": 17,
+      "name": "Masterful Gigapur"
+    },
+    {
+      "$id": 817,
+      "style": 17,
+      "name": "Inferno Heinrich"
+    },
+    {
+      "$id": 818,
+      "style": 17,
+      "name": "Obelis Obart"
+    },
+    {
+      "$id": 819,
+      "style": 17,
+      "name": "Master Obart"
+    },
+    {
+      "$id": 820,
+      "style": 17,
+      "name": "Demon Pavlovsk"
+    },
+    {
+      "$id": 821,
+      "style": 17,
+      "name": "Dummy Obart"
+    },
+    {
+      "$id": 822,
+      "style": 17,
+      "name": "Reef Nebula"
+    },
+    {
+      "$id": 823,
+      "style": 17,
+      "name": "Ucan Nebula"
+    },
+    {
+      "$id": 824,
+      "style": 17,
+      "name": "Zefa Ories"
+    },
+    {
+      "$id": 825,
+      "style": 17,
+      "name": "Zegia Ories"
+    },
+    {
+      "$id": 826,
+      "style": 17,
+      "name": "Costa Aries"
+    },
+    {
+      "$id": 827,
+      "style": 17,
+      "name": "Hista Aries"
+    },
+    {
+      "$id": 828,
+      "style": 17,
+      "name": "Setor Eks"
+    },
+    {
+      "$id": 829,
+      "style": 17,
+      "name": "Feltl Eks"
+    },
+    {
+      "$id": 830,
+      "style": 17,
+      "name": "Monta Moramora"
+    },
+    {
+      "$id": 831,
+      "style": 17,
+      "name": "Lophos Moramora"
+    },
+    {
+      "$id": 832,
+      "style": 17,
+      "name": "Atomis Ansel"
+    },
+    {
+      "$id": 833,
+      "style": 17,
+      "name": "Atomizek Ansel"
+    },
+    {
+      "$id": 834,
+      "style": 17,
+      "name": "Krawli Slobos"
+    },
+    {
+      "$id": 835,
+      "style": 17,
+      "name": "Krawla Slobos"
+    },
+    {
+      "$id": 836,
+      "style": 17,
+      "name": "Glory Slobos"
+    },
+    {
+      "$id": 837,
+      "style": 17,
+      "name": "Gloria Slobos"
+    },
+    {
+      "$id": 838,
+      "style": 17,
+      "name": "Latio Apis"
+    },
+    {
+      "$id": 839,
+      "style": 17,
+      "name": "Corladio Apis"
+    },
+    {
+      "$id": 840,
+      "style": 17,
+      "name": "Crista Apis"
+    },
+    {
+      "$id": 841,
+      "style": 17,
+      "name": "Poleaxe Chilkin"
+    },
+    {
+      "$id": 842,
+      "style": 17,
+      "name": "Fork Chilkin"
+    },
+    {
+      "$id": 843,
+      "style": 17,
+      "name": "Fuchsia Chilkin"
+    },
+    {
+      "$id": 844,
+      "style": 17,
+      "name": "Bow Chilkin"
+    },
+    {
+      "$id": 845,
+      "style": 17,
+      "name": "Sesna Lexos"
+    },
+    {
+      "$id": 846,
+      "style": 17,
+      "name": "Sestago Lexos"
+    },
+    {
+      "$id": 847,
+      "style": 17,
+      "name": "Snowi Taos"
+    },
+    {
+      "$id": 848,
+      "style": 17,
+      "name": "Snowal Taos"
+    },
+    {
+      "$id": 849,
+      "style": 17,
+      "name": "Sparas Pagul"
+    },
+    {
+      "$id": 850,
+      "style": 17,
+      "name": "Entma King"
+    },
+    {
+      "$id": 851,
+      "style": 17,
+      "name": "Ent Antol"
+    },
+    {
+      "$id": 852,
+      "style": 17,
+      "name": "Sierra Vang"
+    },
+    {
+      "$id": 853,
+      "style": 17,
+      "name": "Noto Feris"
+    },
+    {
+      "$id": 854,
+      "style": 17,
+      "name": "Porcu Hox"
+    },
+    {
+      "$id": 855,
+      "style": 17,
+      "name": "Teterra Pod"
+    },
+    {
+      "$id": 856,
+      "style": 17,
+      "name": "Bonterra Pod"
+    },
+    {
+      "$id": 857,
+      "style": 17,
+      "name": "Mumca"
+    },
+    {
+      "$id": 858,
+      "style": 17,
+      "name": "Agile Barbatos"
+    },
+    {
+      "$id": 859,
+      "style": 17,
+      "name": "Final Marcus"
+    },
+    {
+      "$id": 860,
+      "style": 17,
+      "name": "Banquet Vassago"
+    },
+    {
+      "$id": 861,
+      "style": 17,
+      "name": "Hidden Gamigin"
+    },
+    {
+      "$id": 862,
+      "style": 17,
+      "name": "Vague Barbas"
+    },
+    {
+      "$id": 863,
+      "style": 17,
+      "name": "Exposure Wolfol"
+    },
+    {
+      "$id": 864,
+      "style": 17,
+      "name": "Wandering Amon"
+    },
+    {
+      "$id": 865,
+      "style": 17,
+      "name": "Moonlight Paimon"
+    },
+    {
+      "$id": 866,
+      "style": 17,
+      "name": "Glorious Buer"
+    },
+    {
+      "$id": 867,
+      "style": 17,
+      "name": "North Star Gusion"
+    },
+    {
+      "$id": 868,
+      "style": 17,
+      "name": "Barbaric Sitri"
+    },
+    {
+      "$id": 869,
+      "style": 17,
+      "name": "Avalanche Abaasy"
+    },
+    {
+      "$id": 870,
+      "style": 17,
+      "name": "Blizzard Belgazas"
+    },
+    {
+      "$id": 871,
+      "style": 17,
+      "name": "Cunning Chilkin"
+    },
+    {
+      "$id": 872,
+      "style": 17,
+      "name": "Invited Slobos"
+    },
+    {
+      "$id": 873,
+      "style": 17,
+      "name": "Conflagrant Raxeal"
+    },
+    {
+      "$id": 874,
+      "style": 17,
+      "name": "Mechon M72"
+    },
+    {
+      "$id": 875,
+      "style": 17,
+      "name": "Mechon M63"
+    },
+    {
+      "$id": 876,
+      "style": 17,
+      "name": "Mechon M69"
+    },
+    {
+      "$id": 877,
+      "style": 17,
+      "name": "Mechon M82"
+    },
+    {
+      "$id": 878,
+      "style": 17,
+      "name": "Mechon M63"
+    },
+    {
+      "$id": 879,
+      "style": 17,
+      "name": "Wasp Unit Mechon"
+    },
+    {
+      "$id": 880,
+      "style": 17,
+      "name": "Quadrupedal Mechon"
+    },
+    {
+      "$id": 881,
+      "style": 17,
+      "name": "Large Mechon"
+    },
+    {
+      "$id": 882,
+      "style": 17,
+      "name": "Mechon M63"
+    },
+    {
+      "$id": 883,
+      "style": 17,
+      "name": "Android Mechon"
+    },
+    {
+      "$id": 884,
+      "style": 17,
+      "name": "Fallen Homs Soldier"
+    },
+    {
+      "$id": 885,
+      "style": 17,
+      "name": "Offensive Mechon Plus"
+    },
+    {
+      "$id": 886,
+      "style": 17,
+      "name": "M104 Fortress Unit"
+    },
+    {
+      "$id": 887,
+      "style": 17,
+      "name": "M71 Flexible Unit"
+    },
+    {
+      "$id": 888,
+      "style": 17,
+      "name": "Mechon M78 Flex+"
+    },
+    {
+      "$id": 889,
+      "style": 17,
+      "name": "M82 Melee Unit"
+    },
+    {
+      "$id": 890,
+      "style": 17,
+      "name": "M82X Melee Unit"
+    },
+    {
+      "$id": 891,
+      "style": 17,
+      "name": "M63X Android Unit"
+    },
+    {
+      "$id": 892,
+      "style": 17,
+      "name": "M63 Harvester Unit"
+    },
+    {
+      "$id": 893,
+      "style": 17,
+      "name": "M63 Destruction Unit"
+    },
+    {
+      "$id": 894,
+      "style": 17,
+      "name": "M34 Honey Bee Unit"
+    },
+    {
+      "$id": 895,
+      "style": 17,
+      "name": "M35 Woodpecker Unit"
+    },
+    {
+      "$id": 896,
+      "style": 17,
+      "name": "M54 Armoured Unit"
+    },
+    {
+      "$id": 897,
+      "style": 17,
+      "name": "M54 Attack Unit"
+    },
+    {
+      "$id": 898,
+      "style": 17,
+      "name": "M46 Covert Killer"
+    },
+    {
+      "$id": 899,
+      "style": 17,
+      "name": "Mumca"
+    },
+    {
+      "$id": 900,
+      "style": 17,
+      "name": "Mumca"
+    },
+    {
+      "$id": 901,
+      "style": 17,
+      "name": "Mumca"
+    },
+    {
+      "$id": 902,
+      "style": 17,
+      "name": "Mass-Produced Face"
+    },
+    {
+      "$id": 903,
+      "style": 17,
+      "name": "Prudent Purson"
+    },
+    {
+      "$id": 904,
+      "style": 17,
+      "name": "Tranquil Morax"
+    },
+    {
+      "$id": 905,
+      "style": 17,
+      "name": "Defective Ipos"
+    },
+    {
+      "$id": 906,
+      "style": 17,
+      "name": "Benevolent Aim"
+    },
+    {
+      "$id": 907,
+      "style": 17,
+      "name": "Mischievious Naberius"
+    },
+    {
+      "$id": 908,
+      "style": 17,
+      "name": "Fate Labolas"
+    },
+    {
+      "$id": 909,
+      "style": 17,
+      "name": "Kamikaze Bune"
+    },
+    {
+      "$id": 910,
+      "style": 17,
+      "name": "Lightning Ronve"
+    },
+    {
+      "$id": 911,
+      "style": 17,
+      "name": "Reinforcement M104"
+    },
+    {
+      "$id": 912,
+      "style": 17,
+      "name": "Mass-Produced Dummy"
+    },
+    {
+      "$id": 913,
+      "style": 17,
+      "name": "M48 Sentry Unit"
+    },
+    {
+      "$id": 914,
+      "style": 17,
+      "name": "Offensive Scout Unit"
+    },
+    {
+      "$id": 915,
+      "style": 17,
+      "name": "M66 Production Unit"
+    },
+    {
+      "$id": 916,
+      "style": 17,
+      "name": "M66 Supply Unit"
+    },
+    {
+      "$id": 917,
+      "style": 17,
+      "name": "M65 Hunter Unit"
+    },
+    {
+      "$id": 918,
+      "style": 17,
+      "name": "M68 Construction Unit"
+    },
+    {
+      "$id": 919,
+      "style": 17,
+      "name": "M85 Infantry Unit"
+    },
+    {
+      "$id": 920,
+      "style": 17,
+      "name": "M85 Sergeant"
+    },
+    {
+      "$id": 921,
+      "style": 17,
+      "name": "M35 Wasp Unit"
+    },
+    {
+      "$id": 922,
+      "style": 17,
+      "name": "M34 Hornet Unit"
+    },
+    {
+      "$id": 923,
+      "style": 17,
+      "name": "M58 Tactical Unit"
+    },
+    {
+      "$id": 924,
+      "style": 17,
+      "name": "M59 Captain"
+    },
+    {
+      "$id": 925,
+      "style": 17,
+      "name": "Precious Retrato"
+    },
+    {
+      "$id": 926,
+      "style": 17,
+      "name": "Glacier Acon"
+    },
+    {
+      "$id": 927,
+      "style": 17,
+      "name": "Glorious Jurom"
+    },
+    {
+      "$id": 928,
+      "style": 17,
+      "name": "Sentinel Mechon"
+    },
+    {
+      "$id": 929,
+      "style": 17,
+      "name": "Face Nemesis"
+    },
+    {
+      "$id": 930,
+      "style": 17,
+      "name": "Face Nemesis"
+    },
+    {
+      "$id": 931,
+      "style": 17,
+      "name": "Defensive Guard Unit"
+    },
+    {
+      "$id": 932,
+      "style": 17,
+      "name": "M94 Guard Unit"
+    },
+    {
+      "$id": 933,
+      "style": 17,
+      "name": "Gold Face"
+    },
+    {
+      "$id": 934,
+      "style": 17,
+      "name": "Defensive Guard Unit"
+    },
+    {
+      "$id": 935,
+      "style": 17,
+      "name": "M94 Guard Unit"
+    },
+    {
+      "$id": 936,
+      "style": 17,
+      "name": "Man-Eater Dummy"
+    },
+    {
+      "$id": 937,
+      "style": 17,
+      "name": "Supply Unit Dummy"
+    },
+    {
+      "$id": 938,
+      "style": 17,
+      "name": "M35 Prototype"
+    },
+    {
+      "$id": 939,
+      "style": 17,
+      "name": "M37 Worker Bee Unit"
+    },
+    {
+      "$id": 940,
+      "style": 17,
+      "name": "Scout Unit Prototype"
+    },
+    {
+      "$id": 941,
+      "style": 17,
+      "name": "Mechon M46X"
+    },
+    {
+      "$id": 942,
+      "style": 17,
+      "name": "M56 Prototype"
+    },
+    {
+      "$id": 943,
+      "style": 17,
+      "name": "M87 Prototype"
+    },
+    {
+      "$id": 944,
+      "style": 17,
+      "name": "M85 Meteor Artillery"
+    },
+    {
+      "$id": 945,
+      "style": 17,
+      "name": "Offensive Seeker Unit"
+    },
+    {
+      "$id": 946,
+      "style": 17,
+      "name": "Offensive Security Unit"
+    },
+    {
+      "$id": 947,
+      "style": 17,
+      "name": "Kukukoro Flamii"
+    },
+    {
+      "$id": 948,
+      "style": 17,
+      "name": "Fair Piranhax"
+    },
+    {
+      "$id": 949,
+      "style": 17,
+      "name": "Lelepago Pterix"
+    },
+    {
+      "$id": 950,
+      "style": 17,
+      "name": "Lampo Ponio"
+    },
+    {
+      "$id": 951,
+      "style": 17,
+      "name": "Oros Krabble"
+    },
+    {
+      "$id": 952,
+      "style": 17,
+      "name": "Corriente Krabble"
+    },
+    {
+      "$id": 953,
+      "style": 17,
+      "name": "Caelum Volff"
+    },
+    {
+      "$id": 954,
+      "style": 17,
+      "name": "Prado Upa"
+    },
+    {
+      "$id": 955,
+      "style": 17,
+      "name": "Rius Antol"
+    },
+    {
+      "$id": 956,
+      "style": 17,
+      "name": "Aura Antol"
+    },
+    {
+      "$id": 957,
+      "style": 17,
+      "name": "Happiness Flier"
+    },
+    {
+      "$id": 958,
+      "style": 17,
+      "name": "Tramont Wisp"
+    },
+    {
+      "$id": 959,
+      "style": 17,
+      "name": "M83 Predator Unit"
+    },
+    {
+      "$id": 960,
+      "style": 17,
+      "name": "M54 Slayer Unit"
+    },
+    {
+      "$id": 961,
+      "style": 17,
+      "name": "Offensive Seeker Unit"
+    },
+    {
+      "$id": 962,
+      "style": 17,
+      "name": "Offensive Security Unit"
+    },
+    {
+      "$id": 963,
+      "style": 17,
+      "name": "Prosperous Zepar"
+    },
+    {
+      "$id": 964,
+      "style": 17,
+      "name": "Affluent Beleth"
+    },
+    {
+      "$id": 965,
+      "style": 17,
+      "name": "Aged Leraje"
+    },
+    {
+      "$id": 966,
+      "style": 17,
+      "name": "Powerful Eligos"
+    },
+    {
+      "$id": 967,
+      "style": 17,
+      "name": "Splendid Botis"
+    },
+    {
+      "$id": 968,
+      "style": 17,
+      "name": "Evil Bathin"
+    },
+    {
+      "$id": 969,
+      "style": 17,
+      "name": "Wicked Sallos"
+    },
+    {
+      "$id": 970,
+      "style": 17,
+      "name": "Ancient Daedala"
+    },
+    {
+      "$id": 971,
+      "style": 17,
+      "name": "Broken Mechon"
+    },
+    {
+      "$id": 972,
+      "style": 17,
+      "name": "Offensive Strike Unit"
+    },
+    {
+      "$id": 973,
+      "style": 17,
+      "name": "Offensive Hover Unit"
+    },
+    {
+      "$id": 974,
+      "style": 17,
+      "name": "Experimental M86"
+    },
+    {
+      "$id": 975,
+      "style": 17,
+      "name": "Bright Wisp"
+    },
+    {
+      "$id": 976,
+      "style": 17,
+      "name": "Large Frog (Green"
+    },
+    {
+      "$id": 977,
+      "style": 17,
+      "name": "Large Frog (White"
+    },
+    {
+      "$id": 978,
+      "style": 17,
+      "name": "Large Frog"
+    },
+    {
+      "$id": 979,
+      "style": 17,
+      "name": "Upper Level Frog"
+    },
+    {
+      "$id": 980,
+      "style": 17,
+      "name": "Upper Level Frog"
+    },
+    {
+      "$id": 981,
+      "style": 17,
+      "name": "Lower Level Lizard (Red"
+    },
+    {
+      "$id": 982,
+      "style": 17,
+      "name": "Lower Level Lizard"
+    },
+    {
+      "$id": 983,
+      "style": 17,
+      "name": "Anglerfish (Red"
+    },
+    {
+      "$id": 984,
+      "style": 17,
+      "name": "Anglerfish"
+    },
+    {
+      "$id": 985,
+      "style": 17,
+      "name": "Anglerfish"
+    },
+    {
+      "$id": 986,
+      "style": 17,
+      "name": "Medium Crawler"
+    },
+    {
+      "$id": 987,
+      "style": 17,
+      "name": "Medium Crawler"
+    },
+    {
+      "$id": 988,
+      "style": 17,
+      "name": "Medium Crawler"
+    },
+    {
+      "$id": 989,
+      "style": 17,
+      "name": "Tyranno"
+    },
+    {
+      "$id": 990,
+      "style": 17,
+      "name": "Tyranno"
+    },
+    {
+      "$id": 991,
+      "style": 17,
+      "name": "Dragon (Black"
+    },
+    {
+      "$id": 992,
+      "style": 17,
+      "name": "Dragon"
+    },
+    {
+      "$id": 993,
+      "style": 17,
+      "name": "Pterano"
+    },
+    {
+      "$id": 994,
+      "style": 17,
+      "name": "Pterano"
+    },
+    {
+      "$id": 995,
+      "style": 17,
+      "name": "Strange Bird"
+    },
+    {
+      "$id": 996,
+      "style": 17,
+      "name": "Strange Bird"
+    },
+    {
+      "$id": 997,
+      "style": 17,
+      "name": "Strange Bird (Demihuman"
+    },
+    {
+      "$id": 998,
+      "style": 17,
+      "name": "Strange Bird (Demihuman"
+    },
+    {
+      "$id": 999,
+      "style": 17,
+      "name": "Lower Level Large Bird"
+    },
+    {
+      "$id": 1000,
+      "style": 17,
+      "name": "Lower Level Large Bird"
+    },
+    {
+      "$id": 1001,
+      "style": 17,
+      "name": "Tricera"
+    },
+    {
+      "$id": 1002,
+      "style": 17,
+      "name": "Tricera"
+    },
+    {
+      "$id": 1003,
+      "style": 17,
+      "name": "Behemoth"
+    },
+    {
+      "$id": 1004,
+      "style": 17,
+      "name": "Behemoth"
+    },
+    {
+      "$id": 1005,
+      "style": 17,
+      "name": "Cocoon"
+    },
+    {
+      "$id": 1006,
+      "style": 17,
+      "name": "Cocoon"
+    },
+    {
+      "$id": 1007,
+      "style": 17,
+      "name": "Bunny (Unarmed"
+    },
+    {
+      "$id": 1008,
+      "style": 17,
+      "name": "Bunny (Unarmed (Weak"
+    },
+    {
+      "$id": 1009,
+      "style": 17,
+      "name": "Bunny (Unarmed (Strong"
+    },
+    {
+      "$id": 1010,
+      "style": 17,
+      "name": "Bunny (Club"
+    },
+    {
+      "$id": 1011,
+      "style": 17,
+      "name": "Bunny (Club (Strong"
+    },
+    {
+      "$id": 1012,
+      "style": 17,
+      "name": "Bunny (Club"
+    },
+    {
+      "$id": 1013,
+      "style": 17,
+      "name": "Bunny (Parts"
+    },
+    {
+      "$id": 1014,
+      "style": 17,
+      "name": "Bunny (Parts"
+    },
+    {
+      "$id": 1015,
+      "style": 17,
+      "name": "Bunny (Parts"
+    },
+    {
+      "$id": 1016,
+      "style": 17,
+      "name": "Bunny (Mineral"
+    },
+    {
+      "$id": 1017,
+      "style": 17,
+      "name": "Bunny (Mineral"
+    },
+    {
+      "$id": 1018,
+      "style": 17,
+      "name": "Bunny (Mineral"
+    },
+    {
+      "$id": 1019,
+      "style": 17,
+      "name": "Mountain Storm Black"
+    },
+    {
+      "$id": 1020,
+      "style": 17,
+      "name": "Mountain Storm Black"
+    },
+    {
+      "$id": 1021,
+      "style": 17,
+      "name": "Mountain Storm White"
+    },
+    {
+      "$id": 1022,
+      "style": 17,
+      "name": "Mountain Storm White"
+    },
+    {
+      "$id": 1023,
+      "style": 17,
+      "name": "Wolf (Spotted"
+    },
+    {
+      "$id": 1024,
+      "style": 17,
+      "name": "Wolf (Spotted (R"
+    },
+    {
+      "$id": 1025,
+      "style": 17,
+      "name": "Wolf (Spotted"
+    },
+    {
+      "$id": 1026,
+      "style": 17,
+      "name": "Wolf (Purple"
+    },
+    {
+      "$id": 1027,
+      "style": 17,
+      "name": "Wolf (Purple (R"
+    },
+    {
+      "$id": 1028,
+      "style": 17,
+      "name": "Wolf (Purple"
+    },
+    {
+      "$id": 1029,
+      "style": 17,
+      "name": "Upper Wolf (Yellow"
+    },
+    {
+      "$id": 1030,
+      "style": 17,
+      "name": "Upper Wolf (Yellow"
+    },
+    {
+      "$id": 1031,
+      "style": 17,
+      "name": "Upper Wolf (Yellow"
+    },
+    {
+      "$id": 1032,
+      "style": 17,
+      "name": "Grass Beast ♀"
+    },
+    {
+      "$id": 1033,
+      "style": 17,
+      "name": "Grass Beast ♀ (Young"
+    },
+    {
+      "$id": 1034,
+      "style": 17,
+      "name": "Grass Beast ♀"
+    },
+    {
+      "$id": 1035,
+      "style": 17,
+      "name": "Grass Beast ♂"
+    },
+    {
+      "$id": 1036,
+      "style": 17,
+      "name": "Grass Beast ♂ (Violent"
+    },
+    {
+      "$id": 1037,
+      "style": 17,
+      "name": "Grass Beast ♂"
+    },
+    {
+      "$id": 1038,
+      "style": 17,
+      "name": "Cattle Beast ♀"
+    },
+    {
+      "$id": 1039,
+      "style": 17,
+      "name": "Cattle Beast ♀"
+    },
+    {
+      "$id": 1040,
+      "style": 17,
+      "name": "Cattle Beast ♂"
+    },
+    {
+      "$id": 1041,
+      "style": 17,
+      "name": "Cattle Beast ♂"
+    },
+    {
+      "$id": 1042,
+      "style": 17,
+      "name": "Prison Shellfish"
+    },
+    {
+      "$id": 1043,
+      "style": 17,
+      "name": "Prison Shellfish"
+    },
+    {
+      "$id": 1044,
+      "style": 17,
+      "name": "Horse"
+    },
+    {
+      "$id": 1045,
+      "style": 17,
+      "name": "Horse (Foal"
+    },
+    {
+      "$id": 1046,
+      "style": 17,
+      "name": "Sword Horse (Blue"
+    },
+    {
+      "$id": 1047,
+      "style": 17,
+      "name": "Sword Horse (Blue"
+    },
+    {
+      "$id": 1048,
+      "style": 17,
+      "name": "Giraffe"
+    },
+    {
+      "$id": 1049,
+      "style": 17,
+      "name": "Giraffe"
+    },
+    {
+      "$id": 1050,
+      "style": 17,
+      "name": "Goby (Black"
+    },
+    {
+      "$id": 1051,
+      "style": 17,
+      "name": "Goby (Black (Large"
+    },
+    {
+      "$id": 1052,
+      "style": 17,
+      "name": "Goby (Black"
+    },
+    {
+      "$id": 1053,
+      "style": 17,
+      "name": "Manti"
+    },
+    {
+      "$id": 1054,
+      "style": 17,
+      "name": "Manti"
+    },
+    {
+      "$id": 1055,
+      "style": 17,
+      "name": "Offensive/SCOUT"
+    },
+    {
+      "$id": 1056,
+      "style": 17,
+      "name": "Offensive/HONEY"
+    },
+    {
+      "$id": 1057,
+      "style": 17,
+      "name": "M91/DOGMA"
+    },
+    {
+      "$id": 1058,
+      "style": 17,
+      "name": "Defensive/ONION"
+    },
+    {
+      "$id": 1059,
+      "style": 17,
+      "name": "M66/TRICK"
+    },
+    {
+      "$id": 1060,
+      "style": 17,
+      "name": "M68/CHORD"
+    },
+    {
+      "$id": 1061,
+      "style": 17,
+      "name": "M45/VIOLA"
+    },
+    {
+      "$id": 1062,
+      "style": 17,
+      "name": "M57/FAITH"
+    },
+    {
+      "$id": 1063,
+      "style": 17,
+      "name": "M55/GRACE"
+    },
+    {
+      "$id": 1064,
+      "style": 17,
+      "name": "M37/WITCH"
+    },
+    {
+      "$id": 1065,
+      "style": 17,
+      "name": "M37/ZEBRA"
+    },
+    {
+      "$id": 1066,
+      "style": 17,
+      "name": "M84/GRUNT"
+    },
+    {
+      "$id": 1067,
+      "style": 17,
+      "name": "M76/MOIST"
+    },
+    {
+      "$id": 1068,
+      "style": 17,
+      "name": "Jade Face"
+    },
+    {
+      "$id": 1069,
+      "style": 17,
+      "name": "M45/VIOLA"
+    },
+    {
+      "$id": 1070,
+      "style": 17,
+      "name": "Offensive/SCOUT"
+    },
+    {
+      "$id": 1071,
+      "style": 17,
+      "name": "Offensive/HONEY"
+    },
+    {
+      "$id": 1072,
+      "style": 17,
+      "name": "Defensive/ONION"
+    },
+    {
+      "$id": 1073,
+      "style": 17,
+      "name": "M66/TRICK"
+    },
+    {
+      "$id": 1074,
+      "style": 17,
+      "name": "Commander Oracion"
+    },
+    {
+      "$id": 1075,
+      "style": 17,
+      "name": "Destroyer Salvacion"
+    },
+    {
+      "$id": 1076,
+      "style": 17,
+      "name": "Amorous Arca"
+    },
+    {
+      "$id": 1077,
+      "style": 17,
+      "name": "Revolutionary Bifrons"
+    },
+    {
+      "$id": 1078,
+      "style": 17,
+      "name": "Infernal Crocell"
+    },
+    {
+      "$id": 1079,
+      "style": 17,
+      "name": "Mass-Produced Face"
+    },
+    {
+      "$id": 1080,
+      "style": 17,
+      "name": "Exterminator/EMBER"
+    },
+    {
+      "$id": 1081,
+      "style": 17,
+      "name": "Offensive/BRAVE"
+    },
+    {
+      "$id": 1082,
+      "style": 17,
+      "name": "Defensive/SHAME"
+    },
+    {
+      "$id": 1083,
+      "style": 17,
+      "name": "M97/CYCLE"
+    },
+    {
+      "$id": 1084,
+      "style": 17,
+      "name": "M36/SACRE"
+    },
+    {
+      "$id": 1085,
+      "style": 17,
+      "name": "M37/EAGER"
+    },
+    {
+      "$id": 1086,
+      "style": 17,
+      "name": "M55/DREAD"
+    },
+    {
+      "$id": 1087,
+      "style": 17,
+      "name": "M56/UNION"
+    },
+    {
+      "$id": 1088,
+      "style": 17,
+      "name": "M67/RADAR"
+    },
+    {
+      "$id": 1089,
+      "style": 17,
+      "name": "M67/REALM"
+    },
+    {
+      "$id": 1090,
+      "style": 17,
+      "name": "M67/HASTE"
+    },
+    {
+      "$id": 1091,
+      "style": 17,
+      "name": "M68/MISER"
+    },
+    {
+      "$id": 1092,
+      "style": 17,
+      "name": "M87/GRAND"
+    },
+    {
+      "$id": 1093,
+      "style": 17,
+      "name": "Gado"
+    },
+    {
+      "$id": 1094,
+      "style": 17,
+      "name": "Gado"
+    },
+    {
+      "$id": 1095,
+      "style": 17,
+      "name": "Egil"
+    },
+    {
+      "$id": 1096,
+      "style": 17,
+      "name": "M87/TAPIR"
+    },
+    {
+      "$id": 1097,
+      "style": 17,
+      "name": "M68/TROUT"
+    },
+    {
+      "$id": 1098,
+      "style": 17,
+      "name": "M36/ROBIN"
+    },
+    {
+      "$id": 1099,
+      "style": 17,
+      "name": "M97/EAGLE"
+    },
+    {
+      "$id": 1100,
+      "style": 17,
+      "name": "M37/COBRA"
+    },
+    {
+      "$id": 1101,
+      "style": 17,
+      "name": "Yaldabaoth"
+    },
+    {
+      "$id": 1102,
+      "style": 17,
+      "name": "Vagabond Allocer"
+    },
+    {
+      "$id": 1103,
+      "style": 17,
+      "name": "Experienced Tristan"
+    },
+    {
+      "$id": 1104,
+      "style": 17,
+      "name": "Wise Gremory"
+    },
+    {
+      "$id": 1105,
+      "style": 17,
+      "name": "Meditative Varla"
+    },
+    {
+      "$id": 1106,
+      "style": 17,
+      "name": "Destructive Bors"
+    },
+    {
+      "$id": 1107,
+      "style": 17,
+      "name": "Wrathful Orobas"
+    },
+    {
+      "$id": 1108,
+      "style": 17,
+      "name": "Soothed Aglovale"
+    },
+    {
+      "$id": 1109,
+      "style": 17,
+      "name": "Sentimental Flamral"
+    },
+    {
+      "$id": 1110,
+      "style": 17,
+      "name": "Defensive/SHAME"
+    },
+    {
+      "$id": 1111,
+      "style": 17,
+      "name": "M53/THANK"
+    },
+    {
+      "$id": 1112,
+      "style": 17,
+      "name": "M57/BEAST"
+    },
+    {
+      "$id": 1113,
+      "style": 17,
+      "name": "M36/FAIRY"
+    },
+    {
+      "$id": 1114,
+      "style": 17,
+      "name": "M38/ESSAY"
+    },
+    {
+      "$id": 1115,
+      "style": 17,
+      "name": "Offensive/DIARY"
+    },
+    {
+      "$id": 1116,
+      "style": 17,
+      "name": "Offensive/FOUND"
+    },
+    {
+      "$id": 1117,
+      "style": 17,
+      "name": "Offensive/LYRIC"
+    },
+    {
+      "$id": 1118,
+      "style": 17,
+      "name": "M108/SPADE"
+    },
+    {
+      "$id": 1119,
+      "style": 17,
+      "name": "Defensive/GUARD"
+    },
+    {
+      "$id": 1120,
+      "style": 17,
+      "name": "M44/ANGRY"
+    },
+    {
+      "$id": 1121,
+      "style": 17,
+      "name": "M96/AWAKE"
+    },
+    {
+      "$id": 1122,
+      "style": 17,
+      "name": "M68/MARCH"
+    },
+    {
+      "$id": 1123,
+      "style": 17,
+      "name": "M65/NOBLE"
+    },
+    {
+      "$id": 1124,
+      "style": 17,
+      "name": "M67/SONAR"
+    },
+    {
+      "$id": 1125,
+      "style": 17,
+      "name": "M88/WORST"
+    },
+    {
+      "$id": 1126,
+      "style": 17,
+      "name": "Mass-Produced Face"
+    },
+    {
+      "$id": 1127,
+      "style": 17,
+      "name": "M88/RAPID"
+    },
+    {
+      "$id": 1128,
+      "style": 17,
+      "name": "Apocrypha Generator"
+    },
+    {
+      "$id": 1129,
+      "style": 17,
+      "name": "Mild Florence"
+    },
+    {
+      "$id": 1130,
+      "style": 17,
+      "name": "Temporal Gawain"
+    },
+    {
+      "$id": 1131,
+      "style": 17,
+      "name": "Faithful Lancelot"
+    },
+    {
+      "$id": 1132,
+      "style": 17,
+      "name": "Beautiful Vagul"
+    },
+    {
+      "$id": 1133,
+      "style": 17,
+      "name": "Venerable Focalor"
+    },
+    {
+      "$id": 1134,
+      "style": 17,
+      "name": "Sinful Lamorak"
+    },
+    {
+      "$id": 1135,
+      "style": 17,
+      "name": "Balanced Palamedes"
+    },
+    {
+      "$id": 1136,
+      "style": 17,
+      "name": "Synchronised Gaheris"
+    },
+    {
+      "$id": 1137,
+      "style": 17,
+      "name": "Magestic Mordred"
+    },
+    {
+      "$id": 1138,
+      "style": 17,
+      "name": "M88 Watchtower"
+    },
+    {
+      "$id": 1139,
+      "style": 17,
+      "name": "M97 Commander"
+    },
+    {
+      "$id": 1140,
+      "style": 17,
+      "name": "Offensive Scout"
+    },
+    {
+      "$id": 1141,
+      "style": 17,
+      "name": "M96 Crisis Unit"
+    },
+    {
+      "$id": 1142,
+      "style": 17,
+      "name": "Crisis Response Unit"
+    },
+    {
+      "$id": 1143,
+      "style": 17,
+      "name": "Jelly Selua"
+    },
+    {
+      "$id": 1144,
+      "style": 17,
+      "name": "Largo Selua"
+    },
+    {
+      "$id": 1145,
+      "style": 17,
+      "name": "Wool Selua"
+    },
+    {
+      "$id": 1146,
+      "style": 17,
+      "name": "Chimai Selua"
+    },
+    {
+      "$id": 1147,
+      "style": 17,
+      "name": "Gigas Telethia"
+    },
+    {
+      "$id": 1148,
+      "style": 17,
+      "name": "Drakos Telethia"
+    },
+    {
+      "$id": 1149,
+      "style": 17,
+      "name": "Phoenix Telethia"
+    },
+    {
+      "$id": 1150,
+      "style": 17,
+      "name": "Licorne Telethia"
+    },
+    {
+      "$id": 1151,
+      "style": 17,
+      "name": "Disciple Rouren"
+    },
+    {
+      "$id": 1152,
+      "style": 17,
+      "name": "Primo Nova"
+    },
+    {
+      "$id": 1153,
+      "style": 17,
+      "name": "Secondo Nova"
+    },
+    {
+      "$id": 1154,
+      "style": 17,
+      "name": "Quarto Nova"
+    },
+    {
+      "$id": 1155,
+      "style": 17,
+      "name": "Quinto Nova"
+    },
+    {
+      "$id": 1156,
+      "style": 17,
+      "name": "Clandestine Apety"
+    },
+    {
+      "$id": 1157,
+      "style": 17,
+      "name": "Active Impulso"
+    },
+    {
+      "$id": 1158,
+      "style": 17,
+      "name": "Vivid Anstan"
+    },
+    {
+      "$id": 1159,
+      "style": 17,
+      "name": "Mystical Klesida"
+    },
+    {
+      "$id": 1160,
+      "style": 17,
+      "name": "Victorious Gross"
+    },
+    {
+      "$id": 1161,
+      "style": 17,
+      "name": "Officer Robusto"
+    },
+    {
+      "$id": 1162,
+      "style": 17,
+      "name": "Ghostly Mahatos"
+    },
+    {
+      "$id": 1163,
+      "style": 17,
+      "name": "Dark King Barbarus"
+    },
+    {
+      "$id": 1164,
+      "style": 17,
+      "name": "Spirit - Mumca"
+    },
+    {
+      "$id": 1165,
+      "style": 17,
+      "name": "Spirit - Zord"
+    },
+    {
+      "$id": 1166,
+      "style": 17,
+      "name": "Spirit - Face"
+    },
+    {
+      "$id": 1167,
+      "style": 17,
+      "name": "Spirit - Gado"
+    },
+    {
+      "$id": 1168,
+      "style": 17,
+      "name": "Spirit - Telethia"
+    },
+    {
+      "$id": 1169,
+      "style": 17,
+      "name": "Spirit - Disciple Rouren"
+    },
+    {
+      "$id": 1170,
+      "style": 17,
+      "name": "Zanza"
+    },
+    {
+      "$id": 1171,
+      "style": 17,
+      "name": "Zanza"
+    },
+    {
+      "$id": 1172,
+      "style": 17,
+      "name": "Zanza Guardian"
+    },
+    {
+      "$id": 1173,
+      "style": 17,
+      "name": "Zanza Guardian"
+    },
+    {
+      "$id": 1174,
+      "style": 17,
+      "name": "Zanza"
+    },
+    {
+      "$id": 1175,
+      "style": 17,
+      "name": "Zanza Guardian"
+    },
+    {
+      "$id": 1176,
+      "style": 17,
+      "name": "Test Zanza"
+    },
+    {
+      "$id": 1177,
+      "style": 17,
+      "name": "Yaldabaoth"
+    },
+    {
+      "$id": 1178,
+      "style": 17,
+      "name": "Machine God"
+    },
+    {
+      "$id": 1179,
+      "style": 17,
+      "name": "Zanza"
+    },
+    {
+      "$id": 1180,
+      "style": 17,
+      "name": "Energy Device"
+    },
+    {
+      "$id": 1181,
+      "style": 17,
+      "name": "Offensive/MOTOR"
+    },
+    {
+      "$id": 1182,
+      "style": 17,
+      "name": "Exterminator/CLOCK"
+    },
+    {
+      "$id": 1183,
+      "style": 17,
+      "name": "Sureny Telethia"
+    },
+    {
+      "$id": 1184,
+      "style": 17,
+      "name": "Telethia C (Dummy"
+    },
+    {
+      "$id": 1185,
+      "style": 17,
+      "name": "Telethia D (Dummy"
+    },
+    {
+      "$id": 1186,
+      "style": 17,
+      "name": "Gelgar"
+    },
+    {
+      "$id": 1187,
+      "style": 17,
+      "name": "Aggressor Andos"
+    },
+    {
+      "$id": 1188,
+      "style": 17,
+      "name": "Defendor Andos"
+    },
+    {
+      "$id": 1189,
+      "style": 17,
+      "name": "Fog King"
+    },
+    {
+      "$id": 1190,
+      "style": 17,
+      "name": "Fog Knight"
+    },
+    {
+      "$id": 1191,
+      "style": 17,
+      "name": "Inconvenient Kromar"
+    },
+    {
+      "$id": 1192,
+      "style": 17,
+      "name": "Ramrod Tirkin"
+    },
+    {
+      "$id": 1193,
+      "style": 17,
+      "name": "Bodacious Rhogul"
+    },
+    {
+      "$id": 1194,
+      "style": 17,
+      "name": "Thing-a-Majicker XIII"
+    },
+    {
+      "$id": 1195,
+      "style": 17,
+      "name": "Slobbering Antol"
+    },
+    {
+      "$id": 1196,
+      "style": 17,
+      "name": "Cutpurse Igna"
+    },
+    {
+      "$id": 1197,
+      "style": 17,
+      "name": "Prosecutor Davrum"
+    },
+    {
+      "$id": 1198,
+      "style": 17,
+      "name": "Vicejaw Antol"
+    },
+    {
+      "$id": 1199,
+      "style": 17,
+      "name": "Somnivore Lexos"
+    },
+    {
+      "$id": 1200,
+      "style": 17,
+      "name": "Revenant Volff"
+    },
+    {
+      "$id": 1201,
+      "style": 17,
+      "name": "Clamouring Pagul"
+    },
+    {
+      "$id": 1202,
+      "style": 17,
+      "name": "Resentful Gelgar"
+    },
+    {
+      "$id": 1203,
+      "style": 17,
+      "name": "Diabolical Bahn"
+    },
+    {
+      "$id": 1204,
+      "style": 17,
+      "name": "Air Marshal Reisenbach"
+    },
+    {
+      "$id": 1205,
+      "style": 17,
+      "name": "Marquis Odesh"
+    },
+    {
+      "$id": 1206,
+      "style": 17,
+      "name": "Perceptive Quinops"
+    },
+    {
+      "$id": 1207,
+      "style": 17,
+      "name": "Confluent Uzva"
+    },
+    {
+      "$id": 1208,
+      "style": 17,
+      "name": "Booming Frederick"
+    },
+    {
+      "$id": 1209,
+      "style": 17,
+      "name": "Grotesque Deimis"
+    },
+    {
+      "$id": 1210,
+      "style": 17,
+      "name": "Cyclonic Yughana"
+    },
+    {
+      "$id": 1211,
+      "style": 17,
+      "name": "NM枠"
+    },
+    {
+      "$id": 1212,
+      "style": 17,
+      "name": "Custodian Barreldart"
+    },
+    {
+      "$id": 1213,
+      "style": 17,
+      "name": "Terpsichorean Cenoth"
+    },
+    {
+      "$id": 1214,
+      "style": 17,
+      "name": "Caustic Naquatra"
+    },
+    {
+      "$id": 1215,
+      "style": 17,
+      "name": "Deputy Seagal"
+    },
+    {
+      "$id": 1216,
+      "style": 17,
+      "name": "Ravager Apelpisía"
+    },
+    {
+      "$id": 1217,
+      "style": 17,
+      "name": "Phlegmatic Jamir"
+    },
+    {
+      "$id": 1218,
+      "style": 17,
+      "name": "Dismal Umya"
+    },
+    {
+      "$id": 1219,
+      "style": 17,
+      "name": "Glow Deinos"
+    },
+    {
+      "$id": 1220,
+      "style": 17,
+      "name": "Dozy Eluca"
+    },
+    {
+      "$id": 1221,
+      "style": 17,
+      "name": "Watch Chilkin"
+    },
+    {
+      "$id": 1222,
+      "style": 17,
+      "name": "Highborn Alexandra"
+    },
+    {
+      "$id": 1223,
+      "style": 17,
+      "name": "Contemptuous Greymane"
+    },
+    {
+      "$id": 1224,
+      "style": 17,
+      "name": "Quondam Grimbellum"
+    },
+    {
+      "$id": 1225,
+      "style": 17,
+      "name": "Buoyant Rostein"
+    },
+    {
+      "$id": 1226,
+      "style": 17,
+      "name": "Citadel Tostega"
+    }
+  ]
+}

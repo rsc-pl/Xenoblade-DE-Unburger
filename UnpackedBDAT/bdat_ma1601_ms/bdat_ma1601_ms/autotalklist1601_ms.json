@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "These burials are fun! Come on[XENO:n ]\neveryone, get to it!"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "What's that noise?[XENO:n ]\nIt's giving me the creeps."
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "Ether Cylinder"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "Queen's Gut Fluid"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Blue Radiant"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Rainbow Radiant"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Dull Radiant"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "White Radiant"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Swamp Item 5 (Temporary)"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Water Ether Crystals"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "Magma Rock"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Fortress Pass Key"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Clean Water"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Piezoelectric Unit"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Bulkhead Key"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Electrical Fuse"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Ether Explosive"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Timer"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Dragon's Eye"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Time Bomb"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "High Entia Emblem"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Safety Device Key"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Kitchen Door Key"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Ultra Small Reactor"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Mobile Furnace"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Orthlus' Liver"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Empress' Ornament"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "Transmission Bypass"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Exhaust Pump"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Mini Reactor"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Marcia's Biscuits"
+    },
+    {
+      "$id": 30,
+      "style": 12,
+      "name": "Nilny's Letter"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "Désirée's Watch"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Désirée's Watch"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Tephra Drop"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Top-Secret Orders"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Sealed Package"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Fragile Package"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "Old Ring"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "Marcia's Biscuits"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Broken Pendant"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Fixed Pendant"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Message in a Bottle"
+    },
+    {
+      "$id": 42,
+      "style": 12,
+      "name": "Ether Cylinder"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "Letter for Emmy"
+    },
+    {
+      "$id": 44,
+      "style": 12,
+      "name": "Wedding Ring"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "Blue Glass Bead"
+    },
+    {
+      "$id": 46,
+      "style": 12,
+      "name": "Key"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "Spanner"
+    },
+    {
+      "$id": 48,
+      "style": 12,
+      "name": "Tatty Armour"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "Twisted Gun"
+    },
+    {
+      "$id": 50,
+      "style": 12,
+      "name": "Nicked Knife"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "Lost Pendant"
+    },
+    {
+      "$id": 52,
+      "style": 12,
+      "name": "Starlight Book"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "White Spider Heart"
+    },
+    {
+      "$id": 54,
+      "style": 12,
+      "name": "Inscription Rubbing"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Sacrificial Tablet"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Moonlight Book"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Trader's Spare Key"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "Emergency Rations"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "Fixed Toy"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "Items from Ewan"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "Medicinal Herb"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "Lake Drop"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "Picture Book"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "Bird Necklace"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "Torn Paper"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "Clothes"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "Large Spider Shell"
+    },
+    {
+      "$id": 68,
+      "style": 12,
+      "name": "Giants' Mirror"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "Tokilos' Egg"
+    },
+    {
+      "$id": 70,
+      "style": 12,
+      "name": "Pandora Mushroom"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "Ether Wisdom"
+    },
+    {
+      "$id": 72,
+      "style": 12,
+      "name": "Nopon Coin"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "Daza's Letter"
+    },
+    {
+      "$id": 74,
+      "style": 12,
+      "name": "Grelee's Letter"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "Top-Secret Data"
+    },
+    {
+      "$id": 76,
+      "style": 12,
+      "name": "Sky Frying Pan"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "Nature's Stove"
+    },
+    {
+      "$id": 78,
+      "style": 12,
+      "name": "Smelly Perfume"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "Pure Perfume"
+    },
+    {
+      "$id": 80,
+      "style": 12,
+      "name": "Statue Fragment"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "Bitter Pojics"
+    },
+    {
+      "$id": 82,
+      "style": 12,
+      "name": "Pojics"
+    },
+    {
+      "$id": 83,
+      "style": 12,
+      "name": "Swan Pendant"
+    },
+    {
+      "$id": 84,
+      "style": 12,
+      "name": "Mysterious Droplet"
+    },
+    {
+      "$id": 85,
+      "style": 12,
+      "name": "Poetry Anthology"
+    },
+    {
+      "$id": 86,
+      "style": 12,
+      "name": "Machina Energy"
+    },
+    {
+      "$id": 87,
+      "style": 12,
+      "name": "Tobogan Wing"
+    },
+    {
+      "$id": 88,
+      "style": 12,
+      "name": "Theta Cross's Delivery"
+    },
+    {
+      "$id": 89,
+      "style": 12,
+      "name": "Theta Cross's Delivery"
+    },
+    {
+      "$id": 90,
+      "style": 12,
+      "name": "Nasty Weed"
+    },
+    {
+      "$id": 91,
+      "style": 12,
+      "name": "Beautiful Portrait"
+    },
+    {
+      "$id": 92,
+      "style": 12,
+      "name": "Repulsive Portrait"
+    },
+    {
+      "$id": 93,
+      "style": 12,
+      "name": "Dynamite"
+    },
+    {
+      "$id": 94,
+      "style": 12,
+      "name": "Mushroom Cap"
+    },
+    {
+      "$id": 95,
+      "style": 12,
+      "name": "Nopon Potion"
+    },
+    {
+      "$id": 96,
+      "style": 12,
+      "name": "Red Pollen Orb"
+    },
+    {
+      "$id": 97,
+      "style": 12,
+      "name": "Highmore Caviar"
+    },
+    {
+      "$id": 98,
+      "style": 12,
+      "name": "Rear Door Key"
+    },
+    {
+      "$id": 99,
+      "style": 12,
+      "name": "Giants' Key"
+    },
+    {
+      "$id": 100,
+      "style": 12,
+      "name": "Daring of the Giants"
+    },
+    {
+      "$id": 101,
+      "style": 12,
+      "name": "Fresh Algora Sap"
+    },
+    {
+      "$id": 102,
+      "style": 12,
+      "name": "Yellow Pollen"
+    },
+    {
+      "$id": 103,
+      "style": 12,
+      "name": "Kika's Note"
+    },
+    {
+      "$id": 104,
+      "style": 12,
+      "name": "Filtered Water"
+    },
+    {
+      "$id": 105,
+      "style": 12,
+      "name": "Proof of Courage"
+    },
+    {
+      "$id": 106,
+      "style": 12,
+      "name": "Monster Egg"
+    },
+    {
+      "$id": 107,
+      "style": 12,
+      "name": "Ancient Document"
+    },
+    {
+      "$id": 108,
+      "style": 12,
+      "name": "Algora Sap"
+    },
+    {
+      "$id": 109,
+      "style": 12,
+      "name": "Sage's Food"
+    },
+    {
+      "$id": 110,
+      "style": 12,
+      "name": "Special Mixer"
+    },
+    {
+      "$id": 111,
+      "style": 12,
+      "name": "Sacred Flower"
+    },
+    {
+      "$id": 112,
+      "style": 12,
+      "name": "High Entia Medicine"
+    },
+    {
+      "$id": 113,
+      "style": 12,
+      "name": "Enlarging Seaweed"
+    },
+    {
+      "$id": 114,
+      "style": 12,
+      "name": "Cloth Shred"
+    },
+    {
+      "$id": 115,
+      "style": 12,
+      "name": "Daboll's Evidence"
+    },
+    {
+      "$id": 116,
+      "style": 12,
+      "name": "Zazadan's Memo"
+    },
+    {
+      "$id": 117,
+      "style": 12,
+      "name": "Compost"
+    },
+    {
+      "$id": 118,
+      "style": 12,
+      "name": "Flower Bracelet"
+    },
+    {
+      "$id": 119,
+      "style": 12,
+      "name": "Deinos Hook"
+    },
+    {
+      "$id": 120,
+      "style": 12,
+      "name": "Shiny Ball"
+    },
+    {
+      "$id": 121,
+      "style": 12,
+      "name": "Lubricant Oil"
+    },
+    {
+      "$id": 122,
+      "style": 12,
+      "name": "Research Data"
+    },
+    {
+      "$id": 123,
+      "style": 12,
+      "name": "Chalk Container"
+    },
+    {
+      "$id": 124,
+      "style": 12,
+      "name": "Kasharpa Water"
+    },
+    {
+      "$id": 125,
+      "style": 12,
+      "name": "Statue Water"
+    },
+    {
+      "$id": 126,
+      "style": 12,
+      "name": "Makna Water"
+    },
+    {
+      "$id": 127,
+      "style": 12,
+      "name": "Affection Seal Half"
+    },
+    {
+      "$id": 128,
+      "style": 12,
+      "name": "Attachment Part"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "Armour Shard"
+    },
+    {
+      "$id": 130,
+      "style": 12,
+      "name": "Family Picture"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "Telethia Research"
+    },
+    {
+      "$id": 132,
+      "style": 12,
+      "name": "Arietta's Ring"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "Affection Seal Half"
+    },
+    {
+      "$id": 134,
+      "style": 12,
+      "name": "Secret Club Card"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "Pure Ice Flower"
+    },
+    {
+      "$id": 136,
+      "style": 12,
+      "name": "Morning Dew Ice"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "External Sensor"
+    },
+    {
+      "$id": 138,
+      "style": 12,
+      "name": "Memory 925 Piece"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "Memory 903"
+    },
+    {
+      "$id": 140,
+      "style": 12,
+      "name": "Oath Sword"
+    },
+    {
+      "$id": 141,
+      "style": 12,
+      "name": "Strong Lubricant Oil"
+    },
+    {
+      "$id": 142,
+      "style": 12,
+      "name": "Circulatory Fluid"
+    },
+    {
+      "$id": 143,
+      "style": 12,
+      "name": "Pure Water"
+    },
+    {
+      "$id": 144,
+      "style": 12,
+      "name": "Weapon Material"
+    },
+    {
+      "$id": 145,
+      "style": 12,
+      "name": "Mother's Necklace"
+    },
+    {
+      "$id": 146,
+      "style": 12,
+      "name": "Silver Ring"
+    },
+    {
+      "$id": 147,
+      "style": 12,
+      "name": "Merchant's Gift"
+    },
+    {
+      "$id": 148,
+      "style": 12,
+      "name": "Health Amulet"
+    },
+    {
+      "$id": 149,
+      "style": 12,
+      "name": "Divine Rock"
+    },
+    {
+      "$id": 150,
+      "style": 12,
+      "name": "Music Box"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "Boxed Meal"
+    },
+    {
+      "$id": 152,
+      "style": 12,
+      "name": "Deepwater Fish"
+    },
+    {
+      "$id": 153,
+      "style": 12,
+      "name": "Tear of the Sky"
+    },
+    {
+      "$id": 154,
+      "style": 12,
+      "name": "Machine God Key"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "Ancient Lily"
+    },
+    {
+      "$id": 156,
+      "style": 12,
+      "name": "Emergency Rations"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "Carbo Shield"
+    },
+    {
+      "$id": 158,
+      "style": 12,
+      "name": "Nopon Claymore"
+    },
+    {
+      "$id": 159,
+      "style": 12,
+      "name": "Cloister Key"
+    },
+    {
+      "$id": 160,
+      "style": 12,
+      "name": "Truth of the Giants"
+    },
+    {
+      "$id": 161,
+      "style": 12,
+      "name": "Heart of the Giants"
+    },
+    {
+      "$id": 162,
+      "style": 12,
+      "name": "Mist Radiant"
+    },
+    {
+      "$id": 163,
+      "style": 12,
+      "name": "Ocean Radiant"
+    },
+    {
+      "$id": 164,
+      "style": 12,
+      "name": "Imperial Radiant"
+    },
+    {
+      "$id": 165,
+      "style": 12,
+      "name": "Snow Radiant"
+    },
+    {
+      "$id": 166,
+      "style": 12,
+      "name": "Red Pollen Orb"
+    },
+    {
+      "$id": 167,
+      "style": 12,
+      "name": "Grave Bouquet"
+    },
+    {
+      "$id": 168,
+      "style": 12,
+      "name": "Friendship Tokens"
+    },
+    {
+      "$id": 169,
+      "style": 12,
+      "name": "Milia's Telescope"
+    },
+    {
+      "$id": 170,
+      "style": 12,
+      "name": "Stronger Telescope"
+    },
+    {
+      "$id": 171,
+      "style": 12,
+      "name": "Seagal's Letter"
+    },
+    {
+      "$id": 172,
+      "style": 12,
+      "name": "Fallen Object"
+    },
+    {
+      "$id": 173,
+      "style": 12,
+      "name": "Galba's Repair Kit"
+    },
+    {
+      "$id": 174,
+      "style": 12,
+      "name": "Secret Nopon Elixir"
+    },
+    {
+      "$id": 175,
+      "style": 12,
+      "name": "Top-Secret Data"
+    },
+    {
+      "$id": 176,
+      "style": 12,
+      "name": "Dawn Smile"
+    },
+    {
+      "$id": 177,
+      "style": 12,
+      "name": "Airship Parts"
+    },
+    {
+      "$id": 178,
+      "style": 12,
+      "name": "Plump Wildgrass"
+    },
+    {
+      "$id": 179,
+      "style": 12,
+      "name": "Noino's License"
+    },
+    {
+      "$id": 180,
+      "style": 12,
+      "name": "First-Aid Kit"
+    },
+    {
+      "$id": 181,
+      "style": 12,
+      "name": "Glutton's Herb"
+    },
+    {
+      "$id": 182,
+      "style": 12,
+      "name": "Letter for Melia"
+    },
+    {
+      "$id": 183,
+      "style": 12,
+      "name": "Faded ID Tag"
+    },
+    {
+      "$id": 184,
+      "style": 12,
+      "name": "Elastic Ivy"
+    },
+    {
+      "$id": 185,
+      "style": 12,
+      "name": "Sparkle Stone"
+    },
+    {
+      "$id": 186,
+      "style": 12,
+      "name": "Brightite"
+    },
+    {
+      "$id": 187,
+      "style": 12,
+      "name": "Tsukuku's Mirror"
+    },
+    {
+      "$id": 188,
+      "style": 12,
+      "name": "Warped Bangle"
+    },
+    {
+      "$id": 189,
+      "style": 12,
+      "name": "High Entia Feather"
+    },
+    {
+      "$id": 190,
+      "style": 12,
+      "name": "Setichi's Stake"
+    },
+    {
+      "$id": 191,
+      "style": 12,
+      "name": "Pointy Stake"
+    },
+    {
+      "$id": 192,
+      "style": 12,
+      "name": "Hachocho's Charm"
+    },
+    {
+      "$id": 193,
+      "style": 12,
+      "name": "Melekanze's Camera"
+    },
+    {
+      "$id": 194,
+      "style": 12,
+      "name": "Photo of Glow Deinos"
+    },
+    {
+      "$id": 195,
+      "style": 12,
+      "name": "Photo of Dozy Eluca"
+    },
+    {
+      "$id": 196,
+      "style": 12,
+      "name": "Somebody's Memo"
+    },
+    {
+      "$id": 197,
+      "style": 12,
+      "name": "Peppity Herb"
+    },
+    {
+      "$id": 198,
+      "style": 12,
+      "name": "Hover Stone"
+    },
+    {
+      "$id": 199,
+      "style": 12,
+      "name": "Eks Beastmeat"
+    },
+    {
+      "$id": 200,
+      "style": 12,
+      "name": "Paleglow Ring"
+    },
+    {
+      "$id": 201,
+      "style": 12,
+      "name": "Katchafish DX"
+    },
+    {
+      "$id": 202,
+      "style": 12,
+      "name": "Sweet Cherry"
+    },
+    {
+      "$id": 203,
+      "style": 12,
+      "name": "Pororo's Favourite"
+    },
+    {
+      "$id": 204,
+      "style": 12,
+      "name": "Ether Pick"
+    },
+    {
+      "$id": 205,
+      "style": 12,
+      "name": "Reinforced Ether Pick"
+    },
+    {
+      "$id": 206,
+      "style": 12,
+      "name": "High Ether Crystal"
+    },
+    {
+      "$id": 207,
+      "style": 12,
+      "name": "Common Ether Pick"
+    },
+    {
+      "$id": 208,
+      "style": 12,
+      "name": "Broken Ether Pick"
+    },
+    {
+      "$id": 209,
+      "style": 12,
+      "name": "Cerulean Shard"
+    },
+    {
+      "$id": 210,
+      "style": 12,
+      "name": "Dried Golden Shroom"
+    },
+    {
+      "$id": 211,
+      "style": 12,
+      "name": "Mystery Drink"
+    },
+    {
+      "$id": 212,
+      "style": 12,
+      "name": "予備枠"
+    },
+    {
+      "$id": 213,
+      "style": 12,
+      "name": "予備枠"
+    },
+    {
+      "$id": 214,
+      "style": 12,
+      "name": "予備枠"
+    },
+    {
+      "$id": 215,
+      "style": 12,
+      "name": "予備枠"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "That's the two Clear Almonds.[XENO:wait wait=key ][System:PageBreak ]We'd better get them back quickly.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "That makes two Bright Figs.[XENO:wait wait=key ][System:PageBreak ]These should solve the problem.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "That's the three pieces of Arachno[XENO:n ]\nSilk he asked for.[XENO:wait wait=key ][System:PageBreak ]Is this stuff really worth anything?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "That's the two Croaking Brog Bags[XENO:n ]\nthat Salt Sesame asked for.[XENO:wait wait=key ][System:PageBreak ]These things give me the creeps...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Nice. That's all three[XENO:n ]\nBroken Pincers.[XENO:wait wait=key ][System:PageBreak ]I didn't think it'd be this difficult.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 0,
+      "name": "AoC additions below"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Hey, Reyn. There's something here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Hey, Shulk! I found something![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Say, Shulk...\nWhat do you think this is?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Hmmm... I've no idea.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "...All right.\nI'll just poke it and see what happens.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "H-hold on, now...[XENO:wait wait=key ][System:PageBreak ]We don't know what it'll do.\nIt could be dangerous...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

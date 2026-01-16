@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "Integrity"
+    },
+    {
+      "$id": 2,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove block rate."
+    },
+    {
+      "$id": 3,
+      "style": 9,
+      "name": "Humanity"
+    },
+    {
+      "$id": 4,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether."
+    },
+    {
+      "$id": 5,
+      "style": 9,
+      "name": "Intuition"
+    },
+    {
+      "$id": 6,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove agility."
+    },
+    {
+      "$id": 7,
+      "style": 9,
+      "name": "Bravery"
+    },
+    {
+      "$id": 8,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Pessimism"
+    },
+    {
+      "$id": 10,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "Spirit"
+    },
+    {
+      "$id": 12,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove strength."
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "Enthusiasm"
+    },
+    {
+      "$id": 14,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "Diligence"
+    },
+    {
+      "$id": 16,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove agility."
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Camaraderie"
+    },
+    {
+      "$id": 18,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove physical defence."
+    },
+    {
+      "$id": 19,
+      "style": 9,
+      "name": "Impatience"
+    },
+    {
+      "$id": 20,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nboost counter-attack rate."
+    },
+    {
+      "$id": 21,
+      "style": 9,
+      "name": "Courage"
+    },
+    {
+      "$id": 22,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "Daring"
+    },
+    {
+      "$id": 24,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove strength."
+    },
+    {
+      "$id": 25,
+      "style": 9,
+      "name": "Zeal"
+    },
+    {
+      "$id": 26,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove maximum HP."
+    },
+    {
+      "$id": 27,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 28,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "Rashness"
+    },
+    {
+      "$id": 30,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nboost counter-attack rate."
+    },
+    {
+      "$id": 31,
+      "style": 9,
+      "name": "Bravery"
+    },
+    {
+      "$id": 32,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nboost counter-attack rate."
+    },
+    {
+      "$id": 33,
+      "style": 9,
+      "name": "Wisdom"
+    },
+    {
+      "$id": 34,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove agility."
+    },
+    {
+      "$id": 35,
+      "style": 9,
+      "name": "Prudence"
+    },
+    {
+      "$id": 36,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove block rate."
+    },
+    {
+      "$id": 37,
+      "style": 9,
+      "name": "Enthusiasm"
+    },
+    {
+      "$id": 38,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove strength."
+    },
+    {
+      "$id": 39,
+      "style": 9,
+      "name": "Obstinance"
+    },
+    {
+      "$id": 40,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove physical defence."
+    },
+    {
+      "$id": 41,
+      "style": 9,
+      "name": "Devotion"
+    },
+    {
+      "$id": 42,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether."
+    },
+    {
+      "$id": 43,
+      "style": 9,
+      "name": "Perseverance"
+    },
+    {
+      "$id": 44,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove physical defence."
+    },
+    {
+      "$id": 45,
+      "style": 9,
+      "name": "Confidence"
+    },
+    {
+      "$id": 46,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove strength."
+    },
+    {
+      "$id": 47,
+      "style": 9,
+      "name": "Affection"
+    },
+    {
+      "$id": 48,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove maximum HP."
+    },
+    {
+      "$id": 49,
+      "style": 9,
+      "name": "Reliance"
+    },
+    {
+      "$id": 50,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 51,
+      "style": 9,
+      "name": "Vivacity"
+    },
+    {
+      "$id": 52,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove maximum HP."
+    },
+    {
+      "$id": 53,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 54,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 55,
+      "style": 9,
+      "name": "Flexibility"
+    },
+    {
+      "$id": 56,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove agility."
+    },
+    {
+      "$id": 57,
+      "style": 9,
+      "name": "Heroism"
+    },
+    {
+      "$id": 58,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 59,
+      "style": 9,
+      "name": "Cowardice"
+    },
+    {
+      "$id": 60,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove block rate."
+    },
+    {
+      "$id": 61,
+      "style": 9,
+      "name": "Serenity"
+    },
+    {
+      "$id": 62,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove agility."
+    },
+    {
+      "$id": 63,
+      "style": 9,
+      "name": "Honesty"
+    },
+    {
+      "$id": 64,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 65,
+      "style": 9,
+      "name": "Reliability"
+    },
+    {
+      "$id": 66,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove physical defence."
+    },
+    {
+      "$id": 67,
+      "style": 9,
+      "name": "Passion"
+    },
+    {
+      "$id": 68,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether."
+    },
+    {
+      "$id": 69,
+      "style": 9,
+      "name": "Reticence"
+    },
+    {
+      "$id": 70,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Courage"
+    },
+    {
+      "$id": 72,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove critical hit rate."
+    },
+    {
+      "$id": 73,
+      "style": 9,
+      "name": "Daring"
+    },
+    {
+      "$id": 74,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove strength."
+    },
+    {
+      "$id": 75,
+      "style": 9,
+      "name": "Zeal"
+    },
+    {
+      "$id": 76,
+      "style": 75,
+      "name": "■ Basic Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove maximum HP."
+    },
+    {
+      "$id": 77,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 78,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nimprove ether defence."
+    },
+    {
+      "$id": 79,
+      "style": 9,
+      "name": "Rashness"
+    },
+    {
+      "$id": 80,
+      "style": 75,
+      "name": "■ Essential Trait[XENO:n ]\nPrioritising this trait will[XENO:n ]\nboost counter-attack rate."
+    }
+  ]
+}

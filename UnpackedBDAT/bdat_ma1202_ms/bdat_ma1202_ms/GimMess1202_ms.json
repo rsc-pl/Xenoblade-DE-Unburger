@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Prison Island Hell Gate"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Meal Lift Activator"
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Kitchen Door"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It appears to be locked."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Bone Pillar Control"
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Dragon Summon"
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Altar"
+    },
+    {
+      "$id": 8,
+      "style": 117,
+      "name": "It has a cavity for inserting something."
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Giants' Treasure Chest"
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "Unable to return."
+    },
+    {
+      "$id": 11,
+      "style": 14,
+      "name": "Bone Pillar Control Door"
+    }
+  ]
+}

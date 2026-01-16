@@ -1,0 +1,1659 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Monado"
+    },
+    {
+      "$id": 2,
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Junk Sword"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Monado II"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Monado III"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Replica Monado"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Scrap Driver"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Hunting Knives"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Homs Sabre"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Anti-Mechon Glaive"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Monado"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Monado"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Gado's Rifle"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Shift Rifle"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Gado's Cannon"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Hunter Biter"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Warrior Gnasher"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Monapon"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Protect Staff"
+    },
+    {
+      "$id": 20,
+      "style": 11,
+      "name": "Imperial Staff"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Machine God Swords"
+    },
+    {
+      "$id": 22,
+      "style": 11,
+      "name": "Meyneth Monado"
+    },
+    {
+      "$id": 23,
+      "style": 11,
+      "name": "Utopia"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Sabre"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Steel Claws"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Claymore"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Break Sword"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Salvage Sword"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Easy Edge"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Debug Sword"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Acrylic Driver"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Aegis Guarder"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Army Pike"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Iron Pike"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Rusty Guarder"
+    },
+    {
+      "$id": 36,
+      "style": 11,
+      "name": "Steady Driver"
+    },
+    {
+      "$id": 37,
+      "style": 11,
+      "name": "Battle Driver"
+    },
+    {
+      "$id": 38,
+      "style": 11,
+      "name": "Heavy Driver"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Peak Driver"
+    },
+    {
+      "$id": 40,
+      "style": 11,
+      "name": "Ace Lancer"
+    },
+    {
+      "$id": 41,
+      "style": 11,
+      "name": "Crown Pike"
+    },
+    {
+      "$id": 42,
+      "style": 11,
+      "name": "Anti-Mechon Driver"
+    },
+    {
+      "$id": 43,
+      "style": 11,
+      "name": "Machina Guarder"
+    },
+    {
+      "$id": 44,
+      "style": 11,
+      "name": "Giant Guarder"
+    },
+    {
+      "$id": 45,
+      "style": 11,
+      "name": "Shield Ramtok"
+    },
+    {
+      "$id": 46,
+      "style": 11,
+      "name": "Flash Shield Elfidar"
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Strike Lance Sildra"
+    },
+    {
+      "$id": 48,
+      "style": 11,
+      "name": "Daedalus"
+    },
+    {
+      "$id": 49,
+      "style": 11,
+      "name": "Machina Driver III"
+    },
+    {
+      "$id": 50,
+      "style": 11,
+      "name": "Safe Driver"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Colony Knives"
+    },
+    {
+      "$id": 52,
+      "style": 11,
+      "name": "Defence Knives"
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Alpine Spear"
+    },
+    {
+      "$id": 54,
+      "style": 11,
+      "name": "Iron Cutlass"
+    },
+    {
+      "$id": 55,
+      "style": 11,
+      "name": "Snowy Striker"
+    },
+    {
+      "$id": 56,
+      "style": 11,
+      "name": "Anti-Mechon Striker"
+    },
+    {
+      "$id": 57,
+      "style": 11,
+      "name": "Machina Sword"
+    },
+    {
+      "$id": 58,
+      "style": 11,
+      "name": "Alpine Striker"
+    },
+    {
+      "$id": 59,
+      "style": 11,
+      "name": "Natura Defender"
+    },
+    {
+      "$id": 60,
+      "style": 11,
+      "name": "Steel Cutlass"
+    },
+    {
+      "$id": 61,
+      "style": 11,
+      "name": "Murakmor"
+    },
+    {
+      "$id": 62,
+      "style": 11,
+      "name": "Lazard"
+    },
+    {
+      "$id": 63,
+      "style": 11,
+      "name": "Machina Sword III"
+    },
+    {
+      "$id": 64,
+      "style": 11,
+      "name": "Calming Spear"
+    },
+    {
+      "$id": 65,
+      "style": 11,
+      "name": "Reward Defender"
+    },
+    {
+      "$id": 66,
+      "style": 11,
+      "name": "Air Sniper"
+    },
+    {
+      "$id": 67,
+      "style": 11,
+      "name": "Stealth Rifle"
+    },
+    {
+      "$id": 68,
+      "style": 11,
+      "name": "Machina Rifle"
+    },
+    {
+      "$id": 69,
+      "style": 11,
+      "name": "Ignis Rifle"
+    },
+    {
+      "$id": 70,
+      "style": 11,
+      "name": "Havoc Sniper"
+    },
+    {
+      "$id": 71,
+      "style": 11,
+      "name": "Covert Sniper"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "Anti-Mechon Sniper"
+    },
+    {
+      "$id": 73,
+      "style": 11,
+      "name": "Nopon Cannon"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "Railgun"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "Trinity"
+    },
+    {
+      "$id": 76,
+      "style": 11,
+      "name": "Machina Rifle III"
+    },
+    {
+      "$id": 77,
+      "style": 11,
+      "name": "Safe Rifle"
+    },
+    {
+      "$id": 78,
+      "style": 11,
+      "name": "Bonus Sniper"
+    },
+    {
+      "$id": 79,
+      "style": 11,
+      "name": "Wrecking Nibbler"
+    },
+    {
+      "$id": 80,
+      "style": 11,
+      "name": "Hunting Nibbler"
+    },
+    {
+      "$id": 81,
+      "style": 11,
+      "name": "Beast Biter"
+    },
+    {
+      "$id": 82,
+      "style": 11,
+      "name": "Anti-Mechon Biter"
+    },
+    {
+      "$id": 83,
+      "style": 11,
+      "name": "Machina Biter"
+    },
+    {
+      "$id": 84,
+      "style": 11,
+      "name": "Guarded Gnasher"
+    },
+    {
+      "$id": 85,
+      "style": 11,
+      "name": "Kaboom Nibbler"
+    },
+    {
+      "$id": 86,
+      "style": 11,
+      "name": "Silver Vasanova"
+    },
+    {
+      "$id": 87,
+      "style": 11,
+      "name": "Kongamato"
+    },
+    {
+      "$id": 88,
+      "style": 11,
+      "name": "Machina Nibbler III"
+    },
+    {
+      "$id": 89,
+      "style": 11,
+      "name": "Calming Biter"
+    },
+    {
+      "$id": 90,
+      "style": 11,
+      "name": "Popular Staff"
+    },
+    {
+      "$id": 91,
+      "style": 11,
+      "name": "Official's Staff"
+    },
+    {
+      "$id": 92,
+      "style": 11,
+      "name": "Anti-Mechon Rod"
+    },
+    {
+      "$id": 93,
+      "style": 11,
+      "name": "Machina Staff"
+    },
+    {
+      "$id": 94,
+      "style": 11,
+      "name": "Comet Rod"
+    },
+    {
+      "$id": 95,
+      "style": 11,
+      "name": "Dusk Staff"
+    },
+    {
+      "$id": 96,
+      "style": 11,
+      "name": "High Entia Soul"
+    },
+    {
+      "$id": 97,
+      "style": 11,
+      "name": "Dragon Rod Alcar"
+    },
+    {
+      "$id": 98,
+      "style": 11,
+      "name": "Ether Burst"
+    },
+    {
+      "$id": 99,
+      "style": 11,
+      "name": "Machina Rod III"
+    },
+    {
+      "$id": 100,
+      "style": 11,
+      "name": "Safe Rod"
+    },
+    {
+      "$id": 101,
+      "style": 11,
+      "name": "Mell Edge"
+    },
+    {
+      "$id": 102,
+      "style": 11,
+      "name": "Monado Rudra"
+    },
+    {
+      "$id": 103,
+      "style": 11,
+      "name": "Monado Agni"
+    },
+    {
+      "$id": 104,
+      "style": 11,
+      "name": "Monado Abyss"
+    },
+    {
+      "$id": 105,
+      "style": 11,
+      "name": "Monado Dogma"
+    },
+    {
+      "$id": 106,
+      "style": 11,
+      "name": "Monado Saga"
+    },
+    {
+      "$id": 107,
+      "style": 11,
+      "name": "Metal Lancer"
+    },
+    {
+      "$id": 108,
+      "style": 11,
+      "name": "Block Guarder"
+    },
+    {
+      "$id": 109,
+      "style": 11,
+      "name": "Light Driver"
+    },
+    {
+      "$id": 110,
+      "style": 11,
+      "name": "Soldier Pike"
+    },
+    {
+      "$id": 111,
+      "style": 11,
+      "name": "Brave Guarder"
+    },
+    {
+      "$id": 112,
+      "style": 11,
+      "name": "Arachno Driver"
+    },
+    {
+      "$id": 113,
+      "style": 11,
+      "name": "Carbon Driver"
+    },
+    {
+      "$id": 114,
+      "style": 11,
+      "name": "Bomber Lancer"
+    },
+    {
+      "$id": 115,
+      "style": 11,
+      "name": "Arkose Pike"
+    },
+    {
+      "$id": 116,
+      "style": 11,
+      "name": "Rayon Pike"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "Marble Driver"
+    },
+    {
+      "$id": 118,
+      "style": 11,
+      "name": "Sacred Driver"
+    },
+    {
+      "$id": 119,
+      "style": 11,
+      "name": "Lieutenant Pike"
+    },
+    {
+      "$id": 120,
+      "style": 11,
+      "name": "Tank Guarder"
+    },
+    {
+      "$id": 121,
+      "style": 11,
+      "name": "Jack Guarder"
+    },
+    {
+      "$id": 122,
+      "style": 11,
+      "name": "Crushing Guarder"
+    },
+    {
+      "$id": 123,
+      "style": 11,
+      "name": "Knuckle Driver"
+    },
+    {
+      "$id": 124,
+      "style": 11,
+      "name": "Jumbo Guarder"
+    },
+    {
+      "$id": 125,
+      "style": 11,
+      "name": "Spark Lancer"
+    },
+    {
+      "$id": 126,
+      "style": 11,
+      "name": "Sonic Lancer"
+    },
+    {
+      "$id": 127,
+      "style": 11,
+      "name": "Pile Driver"
+    },
+    {
+      "$id": 128,
+      "style": 11,
+      "name": "Duel Guarder"
+    },
+    {
+      "$id": 129,
+      "style": 11,
+      "name": "Hazzard Driver"
+    },
+    {
+      "$id": 130,
+      "style": 11,
+      "name": "Northern Pike"
+    },
+    {
+      "$id": 131,
+      "style": 11,
+      "name": "Bloody Driver"
+    },
+    {
+      "$id": 132,
+      "style": 11,
+      "name": "Wolf Guarder"
+    },
+    {
+      "$id": 133,
+      "style": 11,
+      "name": "Machina Driver"
+    },
+    {
+      "$id": 134,
+      "style": 11,
+      "name": "Machina Guarder II"
+    },
+    {
+      "$id": 135,
+      "style": 11,
+      "name": "Empire Pike"
+    },
+    {
+      "$id": 136,
+      "style": 11,
+      "name": "Jaguar Lancer"
+    },
+    {
+      "$id": 137,
+      "style": 11,
+      "name": "General Driver"
+    },
+    {
+      "$id": 138,
+      "style": 11,
+      "name": "Machina Guarder III"
+    },
+    {
+      "$id": 139,
+      "style": 11,
+      "name": "Vangarre Driver"
+    },
+    {
+      "$id": 140,
+      "style": 11,
+      "name": "Atomic Driver"
+    },
+    {
+      "$id": 141,
+      "style": 11,
+      "name": "Super Cruiser"
+    },
+    {
+      "$id": 142,
+      "style": 11,
+      "name": "Dynastrar"
+    },
+    {
+      "$id": 143,
+      "style": 11,
+      "name": "Machina Driver II"
+    },
+    {
+      "$id": 144,
+      "style": 11,
+      "name": "Rigel Hand"
+    },
+    {
+      "$id": 145,
+      "style": 11,
+      "name": "Bonus Driver"
+    },
+    {
+      "$id": 146,
+      "style": 11,
+      "name": "Titan Guarder"
+    },
+    {
+      "$id": 147,
+      "style": 11,
+      "name": "Jack Knives"
+    },
+    {
+      "$id": 148,
+      "style": 11,
+      "name": "Bouncer Knives"
+    },
+    {
+      "$id": 149,
+      "style": 11,
+      "name": "Luna Defender"
+    },
+    {
+      "$id": 150,
+      "style": 11,
+      "name": "Purity Striker"
+    },
+    {
+      "$id": 151,
+      "style": 11,
+      "name": "Evening Sickle"
+    },
+    {
+      "$id": 152,
+      "style": 11,
+      "name": "Black-Steel Striker"
+    },
+    {
+      "$id": 153,
+      "style": 11,
+      "name": "Half-Bloom Striker"
+    },
+    {
+      "$id": 154,
+      "style": 11,
+      "name": "Cumulo Cutlass"
+    },
+    {
+      "$id": 155,
+      "style": 11,
+      "name": "Frigus Striker"
+    },
+    {
+      "$id": 156,
+      "style": 11,
+      "name": "Lion Cutlass"
+    },
+    {
+      "$id": 157,
+      "style": 11,
+      "name": "Caliga Defender"
+    },
+    {
+      "$id": 158,
+      "style": 11,
+      "name": "Steel Katana"
+    },
+    {
+      "$id": 159,
+      "style": 11,
+      "name": "Moonlit Defender"
+    },
+    {
+      "$id": 160,
+      "style": 11,
+      "name": "Illunis Defender"
+    },
+    {
+      "$id": 161,
+      "style": 11,
+      "name": "Cloud Cutlass"
+    },
+    {
+      "$id": 162,
+      "style": 11,
+      "name": "Snaer Striker"
+    },
+    {
+      "$id": 163,
+      "style": 11,
+      "name": "Night Sickle"
+    },
+    {
+      "$id": 164,
+      "style": 11,
+      "name": "Mani Defender"
+    },
+    {
+      "$id": 165,
+      "style": 11,
+      "name": "Cerasus Cutlass"
+    },
+    {
+      "$id": 166,
+      "style": 11,
+      "name": "Machina Blade"
+    },
+    {
+      "$id": 167,
+      "style": 11,
+      "name": "Machina Sword II"
+    },
+    {
+      "$id": 168,
+      "style": 11,
+      "name": "Forma Spear"
+    },
+    {
+      "$id": 169,
+      "style": 11,
+      "name": "Mountain Spear"
+    },
+    {
+      "$id": 170,
+      "style": 11,
+      "name": "Machina Blade III"
+    },
+    {
+      "$id": 171,
+      "style": 11,
+      "name": "Darkness Sickle"
+    },
+    {
+      "$id": 172,
+      "style": 11,
+      "name": "Wyvern Cutlass"
+    },
+    {
+      "$id": 173,
+      "style": 11,
+      "name": "Calm Shot"
+    },
+    {
+      "$id": 174,
+      "style": 11,
+      "name": "Chrome Sniper"
+    },
+    {
+      "$id": 175,
+      "style": 11,
+      "name": "Ain Rifle"
+    },
+    {
+      "$id": 176,
+      "style": 11,
+      "name": "Danger Sniper"
+    },
+    {
+      "$id": 177,
+      "style": 11,
+      "name": "Gust Shot"
+    },
+    {
+      "$id": 178,
+      "style": 11,
+      "name": "Black Sniper"
+    },
+    {
+      "$id": 179,
+      "style": 11,
+      "name": "Pride Sniper"
+    },
+    {
+      "$id": 180,
+      "style": 11,
+      "name": "Hurricane Shot"
+    },
+    {
+      "$id": 181,
+      "style": 11,
+      "name": "Breeze Shot"
+    },
+    {
+      "$id": 182,
+      "style": 11,
+      "name": "Wind Shot"
+    },
+    {
+      "$id": 183,
+      "style": 11,
+      "name": "Dark Cannon"
+    },
+    {
+      "$id": 184,
+      "style": 11,
+      "name": "Gale Shot"
+    },
+    {
+      "$id": 185,
+      "style": 11,
+      "name": "Delta Rifle"
+    },
+    {
+      "$id": 186,
+      "style": 11,
+      "name": "Forest Sniper"
+    },
+    {
+      "$id": 187,
+      "style": 11,
+      "name": "Point Rifle"
+    },
+    {
+      "$id": 188,
+      "style": 11,
+      "name": "Search Sniper"
+    },
+    {
+      "$id": 189,
+      "style": 11,
+      "name": "Spirit Rifle"
+    },
+    {
+      "$id": 190,
+      "style": 11,
+      "name": "Storm Shot"
+    },
+    {
+      "$id": 191,
+      "style": 11,
+      "name": "Draft Rifle"
+    },
+    {
+      "$id": 192,
+      "style": 11,
+      "name": "Machina Sniper"
+    },
+    {
+      "$id": 193,
+      "style": 11,
+      "name": "Machina Cannon"
+    },
+    {
+      "$id": 194,
+      "style": 11,
+      "name": "Devil Cannon"
+    },
+    {
+      "$id": 195,
+      "style": 11,
+      "name": "Brain Rifle"
+    },
+    {
+      "$id": 196,
+      "style": 11,
+      "name": "Etoile Sniper"
+    },
+    {
+      "$id": 197,
+      "style": 11,
+      "name": "Disaster Cannon"
+    },
+    {
+      "$id": 198,
+      "style": 11,
+      "name": "Machina Sniper II"
+    },
+    {
+      "$id": 199,
+      "style": 11,
+      "name": "Satellite Shot"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Endless Rifle"
+    },
+    {
+      "$id": 201,
+      "style": 11,
+      "name": "Gladiator Biter"
+    },
+    {
+      "$id": 202,
+      "style": 11,
+      "name": "Serpent Biter"
+    },
+    {
+      "$id": 203,
+      "style": 11,
+      "name": "Dream Gnasher"
+    },
+    {
+      "$id": 204,
+      "style": 11,
+      "name": "Ironwall Gnasher"
+    },
+    {
+      "$id": 205,
+      "style": 11,
+      "name": "Rex Biter"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "Barrier Gnasher"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "Cosmic Nibbler"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "Meditor Gnasher"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "Boom Nibbler"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "Jaw Nibbler"
+    },
+    {
+      "$id": 211,
+      "style": 11,
+      "name": "Machina Biter III"
+    },
+    {
+      "$id": 212,
+      "style": 11,
+      "name": "Meteor Nibbler"
+    },
+    {
+      "$id": 213,
+      "style": 11,
+      "name": "Comet Biter"
+    },
+    {
+      "$id": 214,
+      "style": 11,
+      "name": "Machina Nibbler II"
+    },
+    {
+      "$id": 215,
+      "style": 11,
+      "name": "Banquet Biter"
+    },
+    {
+      "$id": 216,
+      "style": 11,
+      "name": "Strike Biter"
+    },
+    {
+      "$id": 217,
+      "style": 11,
+      "name": "Siege Gnasher"
+    },
+    {
+      "$id": 218,
+      "style": 11,
+      "name": "Prosperity Biter"
+    },
+    {
+      "$id": 219,
+      "style": 11,
+      "name": "Machina Nibbler"
+    },
+    {
+      "$id": 220,
+      "style": 11,
+      "name": "Machina Biter II"
+    },
+    {
+      "$id": 221,
+      "style": 11,
+      "name": "Hero Biter"
+    },
+    {
+      "$id": 222,
+      "style": 11,
+      "name": "Dawn Staff"
+    },
+    {
+      "$id": 223,
+      "style": 11,
+      "name": "Saint Rod"
+    },
+    {
+      "$id": 224,
+      "style": 11,
+      "name": "Nightglow Staff"
+    },
+    {
+      "$id": 225,
+      "style": 11,
+      "name": "Clarity Staff"
+    },
+    {
+      "$id": 226,
+      "style": 11,
+      "name": "Wisdom Rod"
+    },
+    {
+      "$id": 227,
+      "style": 11,
+      "name": "Amber Rod"
+    },
+    {
+      "$id": 228,
+      "style": 11,
+      "name": "Rain Staff"
+    },
+    {
+      "$id": 229,
+      "style": 11,
+      "name": "Five-Star Rod"
+    },
+    {
+      "$id": 230,
+      "style": 11,
+      "name": "Acid Staff"
+    },
+    {
+      "$id": 231,
+      "style": 11,
+      "name": "Sky Rod"
+    },
+    {
+      "$id": 232,
+      "style": 11,
+      "name": "Cloud Staff"
+    },
+    {
+      "$id": 233,
+      "style": 11,
+      "name": "Mirage Staff"
+    },
+    {
+      "$id": 234,
+      "style": 11,
+      "name": "Machina Rod"
+    },
+    {
+      "$id": 235,
+      "style": 11,
+      "name": "Machina Staff II"
+    },
+    {
+      "$id": 236,
+      "style": 11,
+      "name": "Will-o'-Wisp Staff"
+    },
+    {
+      "$id": 237,
+      "style": 11,
+      "name": "Autumn Staff"
+    },
+    {
+      "$id": 238,
+      "style": 11,
+      "name": "Machina Staff III"
+    },
+    {
+      "$id": 239,
+      "style": 11,
+      "name": "Meteor Staff"
+    },
+    {
+      "$id": 240,
+      "style": 11,
+      "name": "Sun Staff"
+    },
+    {
+      "$id": 241,
+      "style": 11,
+      "name": "Empress Staff"
+    },
+    {
+      "$id": 242,
+      "style": 11,
+      "name": "Sparrow Blades"
+    },
+    {
+      "$id": 243,
+      "style": 11,
+      "name": "Murder Knives"
+    },
+    {
+      "$id": 244,
+      "style": 11,
+      "name": "Karma Blades"
+    },
+    {
+      "$id": 245,
+      "style": 11,
+      "name": "Protector Daggers"
+    },
+    {
+      "$id": 246,
+      "style": 11,
+      "name": "Swallow Blades"
+    },
+    {
+      "$id": 247,
+      "style": 11,
+      "name": "Jack Daggers"
+    },
+    {
+      "$id": 248,
+      "style": 11,
+      "name": "Delay Blades"
+    },
+    {
+      "$id": 249,
+      "style": 11,
+      "name": "Star Knives"
+    },
+    {
+      "$id": 250,
+      "style": 11,
+      "name": "Omega Break"
+    },
+    {
+      "$id": 251,
+      "style": 11,
+      "name": "Chaos Break"
+    },
+    {
+      "$id": 252,
+      "style": 11,
+      "name": "Falcon Blades"
+    },
+    {
+      "$id": 253,
+      "style": 11,
+      "name": "Grace Blades"
+    },
+    {
+      "$id": 254,
+      "style": 11,
+      "name": "Orca Daggers"
+    },
+    {
+      "$id": 255,
+      "style": 11,
+      "name": "War Blades"
+    },
+    {
+      "$id": 256,
+      "style": 11,
+      "name": "Regal Daggers"
+    },
+    {
+      "$id": 257,
+      "style": 11,
+      "name": "Eternity Knives"
+    },
+    {
+      "$id": 258,
+      "style": 11,
+      "name": "Dystopia"
+    },
+    {
+      "$id": 259,
+      "style": 11,
+      "name": "Conviction Blades"
+    },
+    {
+      "$id": 260,
+      "style": 11,
+      "name": "Infinity"
+    },
+    {
+      "$id": 261,
+      "style": 11,
+      "name": "Hrunting"
+    },
+    {
+      "$id": 262,
+      "style": 11,
+      "name": "Final Cut"
+    },
+    {
+      "$id": 263,
+      "style": 11,
+      "name": "Safe Blades"
+    },
+    {
+      "$id": 264,
+      "style": 11,
+      "name": "Reward Swords"
+    },
+    {
+      "$id": 265,
+      "style": 11,
+      "name": "Crusher"
+    },
+    {
+      "$id": 266,
+      "style": 11,
+      "name": "Million Driver"
+    },
+    {
+      "$id": 267,
+      "style": 11,
+      "name": "Rag Bone Hammer"
+    },
+    {
+      "$id": 268,
+      "style": 11,
+      "name": "Phalanx"
+    },
+    {
+      "$id": 269,
+      "style": 11,
+      "name": "Flame Gear"
+    },
+    {
+      "$id": 270,
+      "style": 11,
+      "name": "Bloody Roar"
+    },
+    {
+      "$id": 271,
+      "style": 11,
+      "name": "Defender"
+    },
+    {
+      "$id": 272,
+      "style": 11,
+      "name": "Goliath"
+    },
+    {
+      "$id": 273,
+      "style": 11,
+      "name": "Verdigris"
+    },
+    {
+      "$id": 274,
+      "style": 11,
+      "name": "Lightweight Driver"
+    },
+    {
+      "$id": 275,
+      "style": 11,
+      "name": "Asura"
+    },
+    {
+      "$id": 276,
+      "style": 11,
+      "name": "Pandemonium"
+    },
+    {
+      "$id": 277,
+      "style": 11,
+      "name": "Pioneer"
+    },
+    {
+      "$id": 278,
+      "style": 11,
+      "name": "Quitter"
+    },
+    {
+      "$id": 279,
+      "style": 11,
+      "name": "Firing Hammer"
+    },
+    {
+      "$id": 280,
+      "style": 11,
+      "name": "Horizon"
+    },
+    {
+      "$id": 281,
+      "style": 11,
+      "name": "Endymion"
+    },
+    {
+      "$id": 282,
+      "style": 11,
+      "name": "Dividing Line"
+    },
+    {
+      "$id": 283,
+      "style": 11,
+      "name": "Machina Blade II"
+    },
+    {
+      "$id": 284,
+      "style": 11,
+      "name": "Chosen One"
+    },
+    {
+      "$id": 285,
+      "style": 11,
+      "name": "Spit Cluster"
+    },
+    {
+      "$id": 286,
+      "style": 11,
+      "name": "Lightning"
+    },
+    {
+      "$id": 287,
+      "style": 11,
+      "name": "White Cluster"
+    },
+    {
+      "$id": 288,
+      "style": 11,
+      "name": "King Cluster"
+    },
+    {
+      "$id": 289,
+      "style": 11,
+      "name": "Queen Cluster"
+    },
+    {
+      "$id": 290,
+      "style": 11,
+      "name": "Thunderclap"
+    },
+    {
+      "$id": 291,
+      "style": 11,
+      "name": "Rock Winder"
+    },
+    {
+      "$id": 292,
+      "style": 11,
+      "name": "Silence"
+    },
+    {
+      "$id": 293,
+      "style": 11,
+      "name": "Machina Rifle II"
+    },
+    {
+      "$id": 294,
+      "style": 11,
+      "name": "Agape"
+    },
+    {
+      "$id": 295,
+      "style": 11,
+      "name": "Queen Frog"
+    },
+    {
+      "$id": 296,
+      "style": 11,
+      "name": "Longevity Biter"
+    },
+    {
+      "$id": 297,
+      "style": 11,
+      "name": "Fish Biter"
+    },
+    {
+      "$id": 298,
+      "style": 11,
+      "name": "Love Biter"
+    },
+    {
+      "$id": 299,
+      "style": 11,
+      "name": "King Frog"
+    },
+    {
+      "$id": 300,
+      "style": 11,
+      "name": "Reward Nibbler"
+    },
+    {
+      "$id": 301,
+      "style": 11,
+      "name": "Khatorl Staff"
+    },
+    {
+      "$id": 302,
+      "style": 11,
+      "name": "Jailer Staff"
+    },
+    {
+      "$id": 303,
+      "style": 11,
+      "name": "Century Staff"
+    },
+    {
+      "$id": 304,
+      "style": 11,
+      "name": "Glass Rod"
+    },
+    {
+      "$id": 305,
+      "style": 11,
+      "name": "Soltnar Staff"
+    },
+    {
+      "$id": 306,
+      "style": 11,
+      "name": "Machina Rod II"
+    },
+    {
+      "$id": 307,
+      "style": 11,
+      "name": "Alcor Staff"
+    },
+    {
+      "$id": 308,
+      "style": 11,
+      "name": "Bonus Staff"
+    },
+    {
+      "$id": 309,
+      "style": 11,
+      "name": "Husk Shooter"
+    },
+    {
+      "$id": 310,
+      "style": 11,
+      "name": "Seed Blammer"
+    },
+    {
+      "$id": 311,
+      "style": 11,
+      "name": "Fruit Spouter"
+    },
+    {
+      "$id": 312,
+      "style": 11,
+      "name": "Friend Shelterer"
+    },
+    {
+      "$id": 313,
+      "style": 11,
+      "name": "Madcap Stopper"
+    },
+    {
+      "$id": 314,
+      "style": 11,
+      "name": "Snughug Blocker"
+    },
+    {
+      "$id": 315,
+      "style": 11,
+      "name": "Monado Replica EX"
+    },
+    {
+      "$id": 316,
+      "style": 11,
+      "name": "Monado Replica EX+"
+    },
+    {
+      "$id": 317,
+      "style": 11,
+      "name": "World Ender"
+    },
+    {
+      "$id": 318,
+      "style": 11,
+      "name": "Seed Spitter"
+    },
+    {
+      "$id": 319,
+      "style": 11,
+      "name": "Seed Boomer"
+    },
+    {
+      "$id": 320,
+      "style": 11,
+      "name": "Fruit Lobber"
+    },
+    {
+      "$id": 321,
+      "style": 11,
+      "name": "Fruit Bouncer"
+    },
+    {
+      "$id": 322,
+      "style": 11,
+      "name": "Jumbo Fruitshot"
+    },
+    {
+      "$id": 323,
+      "style": 11,
+      "name": "Madcap Stopper R"
+    },
+    {
+      "$id": 324,
+      "style": 11,
+      "name": "Madcap Stopper S"
+    },
+    {
+      "$id": 325,
+      "style": 11,
+      "name": "Snughug Blocker L"
+    },
+    {
+      "$id": 326,
+      "style": 11,
+      "name": "Snughug Blocker C"
+    },
+    {
+      "$id": 327,
+      "style": 11,
+      "name": "Tenderheart Blocker"
+    },
+    {
+      "$id": 328,
+      "style": 11,
+      "name": "Husk Chucker"
+    },
+    {
+      "$id": 329,
+      "style": 11,
+      "name": "Friend Shelterer O"
+    }
+  ]
+}

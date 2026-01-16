@@ -1,0 +1,319 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "トライアル名"
+    },
+    {
+      "$id": 2,
+      "style": 9,
+      "name": "Difficulty"
+    },
+    {
+      "$id": 3,
+      "style": 9,
+      "name": "Free"
+    },
+    {
+      "$id": 4,
+      "style": 9,
+      "name": "Restricted"
+    },
+    {
+      "$id": 5,
+      "style": 9,
+      "name": "Best Rank"
+    },
+    {
+      "$id": 6,
+      "style": 9,
+      "name": "Clear Time"
+    },
+    {
+      "$id": 7,
+      "style": 9,
+      "name": "Initial Reward"
+    },
+    {
+      "$id": 8,
+      "style": 9,
+      "name": "必要評価"
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Party Formation"
+    },
+    {
+      "$id": 10,
+      "style": 9,
+      "name": "Noponstone"
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "Total Rank"
+    },
+    {
+      "$id": 12,
+      "style": 9,
+      "name": "Bonus"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Heals"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Chain Attacks"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Chain Attack Arts"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Vision Tags smashed"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Buffs/Debuffs"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Chance Arts"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Topples inflicted"
+    },
+    {
+      "$id": 20,
+      "style": 10,
+      "name": "To Regular Arts"
+    },
+    {
+      "$id": 21,
+      "style": 10,
+      "name": "To Monado Arts"
+    },
+    {
+      "$id": 22,
+      "style": 9,
+      "name": "Rank S or better"
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "Rank B or better"
+    },
+    {
+      "$id": 24,
+      "style": 9,
+      "name": "未クリア"
+    },
+    {
+      "$id": 25,
+      "style": 9,
+      "name": "Reward Earned"
+    },
+    {
+      "$id": 26,
+      "style": 9,
+      "name": "Results"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Needed:[ML:space ]"
+    },
+    {
+      "$id": 28,
+      "style": 9,
+      "name": "Rank A or better"
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "High Score"
+    },
+    {
+      "$id": 30,
+      "style": 7,
+      "name": "Achieved"
+    },
+    {
+      "$id": 31,
+      "style": 9,
+      "name": "Wave"
+    },
+    {
+      "$id": 32,
+      "style": 9,
+      "name": "Set Level"
+    },
+    {
+      "$id": 33,
+      "style": 9,
+      "name": "Noponstone"
+    },
+    {
+      "$id": 34,
+      "style": 9,
+      "name": "Equipment"
+    },
+    {
+      "$id": 35,
+      "style": 9,
+      "name": "Traits"
+    },
+    {
+      "$id": 36,
+      "style": 9,
+      "name": "Arts"
+    },
+    {
+      "$id": 37,
+      "style": 9,
+      "name": "Monado Arts"
+    },
+    {
+      "$id": 38,
+      "style": 9,
+      "name": "Waves"
+    },
+    {
+      "$id": 39,
+      "style": 29,
+      "name": "Begin this challenge?"
+    },
+    {
+      "$id": 40,
+      "style": 9,
+      "name": "New Record!"
+    },
+    {
+      "$id": 41,
+      "style": 9,
+      "name": "TIME ATTACK"
+    },
+    {
+      "$id": 42,
+      "style": 9,
+      "name": "START!!!"
+    },
+    {
+      "$id": 43,
+      "style": 9,
+      "name": "SUCCESS"
+    },
+    {
+      "$id": 44,
+      "style": 9,
+      "name": "FAILURE"
+    },
+    {
+      "$id": 45,
+      "style": 9,
+      "name": "Attempt trial"
+    },
+    {
+      "$id": 46,
+      "style": 9,
+      "name": "Trade items"
+    },
+    {
+      "$id": 47,
+      "style": 9,
+      "name": "Do you give up?"
+    },
+    {
+      "$id": 48,
+      "style": 9,
+      "name": "Give up"
+    },
+    {
+      "$id": 49,
+      "style": 9,
+      "name": "Total Time"
+    },
+    {
+      "$id": 50,
+      "style": 49,
+      "name": "Continue the story!"
+    },
+    {
+      "$id": 51,
+      "style": 49,
+      "name": "Complete the extra story!"
+    },
+    {
+      "$id": 52,
+      "style": 9,
+      "name": "トライアル構成"
+    },
+    {
+      "$id": 53,
+      "style": 9,
+      "name": "Skills Learnt"
+    },
+    {
+      "$id": 54,
+      "style": 9,
+      "name": "Noponstone"
+    },
+    {
+      "$id": 55,
+      "style": 9,
+      "name": "Challenge Name"
+    },
+    {
+      "$id": 56,
+      "style": 9,
+      "name": "Rec. Level"
+    },
+    {
+      "$id": 57,
+      "style": 9,
+      "name": "Rules"
+    },
+    {
+      "$id": 58,
+      "style": 17,
+      "name": "タイムアタックトライアル"
+    },
+    {
+      "$id": 59,
+      "style": 9,
+      "name": "Unlock Condition"
+    },
+    {
+      "$id": 60,
+      "style": 9,
+      "name": "ランクC以上"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Time Attack"
+    }
+  ]
+}

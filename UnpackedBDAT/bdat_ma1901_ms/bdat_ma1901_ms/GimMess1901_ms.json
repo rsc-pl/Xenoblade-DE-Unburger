@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Call Panel"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Activation Panel"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "It does not look like it will activate."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "Shutter Control Panel"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Verification Device"
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Verification Device"
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Verification Device"
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Verification Device"
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "Observation Door"
+    },
+    {
+      "$id": 11,
+      "style": 117,
+      "name": "It appears to be locked."
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "You have to go to the Data Centre."
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "You must first stop Gado."
+    }
+  ]
+}

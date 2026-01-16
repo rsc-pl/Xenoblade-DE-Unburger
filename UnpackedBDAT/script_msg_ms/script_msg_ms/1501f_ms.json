@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=735 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:qst qst=736 ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:qst qst=737 ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:qst qst=738 ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:qst qst=739 ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:qst qst=740 ]"
+    }
+  ]
+}

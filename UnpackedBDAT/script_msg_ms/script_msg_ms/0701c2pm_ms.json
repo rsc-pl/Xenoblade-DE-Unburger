@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This is my friend. He a Laeklit.[XENO:wait wait=key ][System:PageBreak ]He look scary, but he have[XENO:n ]\nvery kind heart.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Laeklit look like he really scared.[XENO:wait wait=key ][System:PageBreak ]Maybe it is because the Hom Hom[XENO:n ]\nhave come to say hello.[XENO:wait wait=key ][System:PageBreak ]Do not be scaring Laeklit![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Laeklit is not so scared anymore.[XENO:wait wait=key ][System:PageBreak ]He realises that Hom Hom are[XENO:n ]\nhis and my friends![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Nopon are small, so fighting in[XENO:n ]\nbattle is tough for us.[XENO:wait wait=key ][System:PageBreak ]You people are big.[XENO:n ]\nWe depend on you in battle.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]"
+    }
+  ]
+}

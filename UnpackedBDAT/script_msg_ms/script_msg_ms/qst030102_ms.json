@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Huh...?[XENO:n ]\nWell, that's odd...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "What's the matter, Shulk?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "The kit is missing. I could've sworn[XENO:n ]\nI saw one right here...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "...Do you think someone took it?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "That could be one explanation...[XENO:n ]\nI hope this turns out to be nothing.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "...Oh? Shulk, look.[XENO:n ]\nThere's something lying over there.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Huh?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "So there is...[XENO:n ]\nLooks like some kind of note.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "It's an inventory of military goods...[XENO:n ]\nAnd it's signed by the person in charge.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "'Hersel'...I think? Maybe?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Hmm...[XENO:n ]\nI may be wrong, but I do think there was[XENO:n ]\na guard by that name in the regiment.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "According to the inventory, he's meant to[XENO:n ]\nbe working to recover materiel from a\nnumber of caches on the Giant God's Shoulder.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Maybe he was the one who[XENO:n ]\ntook the kit as well...?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I don't think we have any other leads.[XENO:n ]\nDoes the note list an itinerary?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Hm. He might be in Nerthis Necropolis.[XENO:n ]\nIt's the only one on the list of caches[XENO:n ]\nwithout a tick next to it.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Then it is decided.[XENO:n ]\nLet's head there and hope we do not\nmiss each other on the way...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 0,
+      "name": "Shulk nods"
+    }
+  ]
+}

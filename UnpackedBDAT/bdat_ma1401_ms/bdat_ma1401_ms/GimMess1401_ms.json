@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 117,
+      "name": "You must first stop Mumca."
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Gate Lock Release"
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "6th Gate Access Panel"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "5th Gate Access Panel"
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Gate Lock Release"
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "4th Gate Access Panel"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "Gate Lock Release"
+    },
+    {
+      "$id": 11,
+      "style": 14,
+      "name": "3rd Gate Access Panel"
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "You must talk to Dickson."
+    },
+    {
+      "$id": 14,
+      "style": 117,
+      "name": "You must defeat the enemies ahead."
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "You can't retreat if you are to seize the future."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=525 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:qst qst=569 ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "I must report news of the Telethia[XENO:n ]\nsubjugation to His Majesty.[XENO:wait wait=key ][System:PageBreak ]I should hurry to the Audience[XENO:n ]\nChamber.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "We have been expelled...[XENO:n ]\nIt looks like I can't go in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "I must report news of the Telethia[XENO:n ]\nsubjugation to His Majesty.[XENO:wait wait=key ][System:PageBreak ]I should hurry to the Audience[XENO:n ]\nChamber.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "This is not the way to the[XENO:n ]\nAudience Chamber.[XENO:wait wait=key ][System:PageBreak ]I must use the transporter[XENO:n ]\nin Ascension Hall.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "We don't need to go any further.[XENO:n ]\nWe should go back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "We ain't got nothing to do here.[XENO:n ]\nLet's go back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "There is no need to proceed any[XENO:n ]\nfurther. We should turn back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "We don't have anything to do here.[XENO:n ]\nLet's go back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "We have no time for sightseeing.[XENO:n ]\nWe should go back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Riki get lost if he go here.[XENO:n ]\nWe should go back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "I don't need to go down here.[XENO:n ]\nI should find Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "We have been expelled...[XENO:n ]\nThey won't let us in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "We got kicked out...[XENO:n ]\nThey no let us go in.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

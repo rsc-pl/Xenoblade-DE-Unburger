@@ -1,0 +1,169 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "It was all because of our world, because of[XENO:n ]\nGiant God, that this city was devastated.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Now I understand why Egil would want[XENO:n ]\nto stop the Giant God from reawakening.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]I get it too, but how's killing any of us[XENO:n ]\ngoing to solve his problem?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Precisely.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "What happened to the Machina was a tragedy,[XENO:n ]\nbut we cannot forgive the Mechon attack on Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "What worries me is the Monado that the Giant God used.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "It's no different from how[XENO:n ]\nthe legends describe, but still...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "It must hold a deadly power.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But you have used it wisely, Shulk.[XENO:n ]\nIt has not overwhelmed you as it did me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]He's right! If you hadn't been using the Monado,[XENO:n ]\nwe wouldn't have lasted five minutes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "But it was Zanza who bestowed this sword upon me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "However, it is not Zanza who now[XENO:n ]\nwields the Monado. It is you, Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "That is also the reason why Meyneth[XENO:n ]\nchose Fiorung as a vessel.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "So that the tragedy of he who wields the[XENO:n ]\nMonado would not be repeated.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "The tragedy of he who wields the Monado?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Shulk... Believe.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "Believe in the path you have chosen[XENO:n ]\nand those who walk it with you.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "Meyneth once said this of the Monado.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "The Monado is not simply a unique weapon.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "It is the light within each and every[XENO:n ]\nperson in this world.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Light? What do you mean?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "It is the light of life, the will to[XENO:n ]\nsurvive no matter what.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Perhaps Lady Meyneth[XENO:n ]\nwas drawn to your light.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "Beyond there lies the Meyneth Shrine.[XENO:n ]\nEgil will be there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "Is it still your intention to defeat Egil?[XENO:n ]\nThat has not changed?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "We understand the history of Machine God now.[XENO:n ]\nIf he is willing to listen, we will try to reason with him.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]But if not...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I understand. Then if that is your[XENO:n ]\ndecision, so be it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "I will try to persuade Egil one last time.[XENO:n ]\nBut I am prepared for his refusal.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "Vanea...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

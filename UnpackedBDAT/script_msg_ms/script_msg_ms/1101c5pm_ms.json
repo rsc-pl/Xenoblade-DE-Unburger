@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "May I please see your[XENO:n ]\nSecret Club Card?[XENO:wait wait=key ][System:PageBreak ]Wonderful! Thank you![XENO:n ]\nPlease, come in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Here you can enjoy the delights[XENO:n ]\nof Highmore Caviar![XENO:wait wait=key ][System:PageBreak ]To taste its exquisiteness is to be[XENO:n ]\nforever more captivated by it![XENO:wait wait=key ][System:PageBreak ]It is the most expensive and precious[XENO:n ]\nthing in Frontier Village![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Highmore Caviar! Oh Giant God![XENO:n ]\nWhat a delicious gourmet treat![XENO:wait wait=key ][System:PageBreak ]That feeling of popping against[XENO:n ]\nyour teeth! Ah! Simply to die for![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "THIS IS DELICIOUS![XENO:wait wait=key ][System:PageBreak ]I just can't stop eating[XENO:n ]\nHighmore Caviar![XENO:wait wait=key ][System:PageBreak ]It tastes amazing, whether you[XENO:n ]\nnibble it or wolf it down![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Wow! What an impressive[XENO:n ]\nhairstyle, indeed![XENO:wait wait=key ][System:PageBreak ]Why, I've never seen anyone[XENO:n ]\nwith such refined tastes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "He's round and furry. I wish[XENO:n ]\nI could take him home.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I'm afraid those without Secret[XENO:n ]\nClub Cards may not enter.[XENO:wait wait=key ][System:PageBreak ]We ask you to leave.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "If you had a Secret Club Card,[XENO:n ]\nyou could go inside.[XENO:wait wait=key ][System:PageBreak ]Better look for someone with one.[XENO:n ]\nDoubt they'll lend it to you though![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:qst qst=565 ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "As long as you have no Secret[XENO:n ]\nClub Card, you will not enter.[XENO:wait wait=key ][System:PageBreak ]We request that you leave![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "This is a...[XENO:n ]\nSecret Club Card![XENO:wait wait=key ][System:PageBreak ]My most humble apologies![XENO:n ]\nPlease, right this way![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:60 ]"
+    }
+  ]
+}

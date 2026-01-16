@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Come on, come on...[XENO:n ]\nWhere is it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You OK, Carna?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]...Aha![XENO:wait wait=key ][System:PageBreak ]Found it! My pocket watch![XENO:wait wait=key ][System:PageBreak ]And still in one piece...[XENO:n ]\nmore or less.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・It's a beautiful watch./・It's kind of dirty. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]The design is so elaborate.[XENO:n ]\nI've never seen one like it.[XENO:wait wait=key ][System:PageBreak ]So this is yours?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yes. It was my father's. He gave[XENO:n ]\nit to me before he died.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]It's nice.[XENO:wait wait=key ][System:PageBreak ]But why was it here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I think I dropped it here when[XENO:n ]\nwe evacuated the colony.[XENO:wait wait=key ][System:PageBreak ]Odama must have found it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I can tell he looked after it.[XENO:n ]\nDoes it still work?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]No. From the looks of things,[XENO:n ]\nit stopped when I dropped it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・I can fix it!/・It's ticked its last tock. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]If we could just get our hands on[XENO:n ]\nan ether battery, I could fix it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Really? That would be[XENO:n ]\namazing, Shulk![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I can fix anything, no problem![XENO:wait wait=key ][System:PageBreak ]The people at Colony 9 were[XENO:n ]\nalways coming to me to fix things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "You're so kind, Shulk.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]You don't know how much this[XENO:n ]\nwatch means to me.[XENO:wait wait=key ][System:PageBreak ]I'll never forget how happy I was[XENO:n ]\nwhen my father gave it to me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I can tell you cherish it.[XENO:n ]\nI hope I can make it work again.[XENO:wait wait=key ][System:PageBreak ]And if you need me to repair[XENO:n ]\nanything else, just ask![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I'll let you know, Shulk.[XENO:n ]\nThank you so much.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]It's a really rare kind of watch.[XENO:wait wait=key ][System:PageBreak ]I'm sorry, Carna. I don't know[XENO:n ]\nif I can fix this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Are you sure? I thought you were[XENO:n ]\ngood at repairing stuff.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Kinda. But not that good.[XENO:wait wait=key ][System:PageBreak ]Hold on a second...[XENO:wait wait=key ][System:PageBreak ]There might be one way. If we[XENO:n ]\nhad an ether battery maybe...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Leave it to me. I'll find one.[XENO:n ]\nWill you fix it for me then?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]It's a family heirloom, you see.[XENO:wait wait=key ][System:PageBreak ]My father gave it to me, and[XENO:n ]\nI'd be heartbroken if you couldn't.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]It sounds like a big deal to you,[XENO:n ]\nso I'll do everything I can.[XENO:wait wait=key ][System:PageBreak ]With any luck you'll get[XENO:n ]\nyour watch back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Oh, thank you so much, Shulk![XENO:n ]\nI knew you wouldn't let me down.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]In fact, the face is all cracked and[XENO:n ]\nyou can't even see the time.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Oi, careful what you say![XENO:n ]\nIt's not a piece of junk![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]S-sorry, Carna.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][System:PageBreak ]What's it doing here though?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]When we ran from the colony,[XENO:n ]\nI must have dropped it.[XENO:wait wait=key ][System:PageBreak ]Odama probably picked it up.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]You know, this thing looks[XENO:n ]\nkind of expensive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:sel sel=・You should sell it!/・Was it a present from someone? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "I bet you'd make a fortune![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]Let me be clear, Shulk. I could[XENO:n ]\nnever, ever sell this watch![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I-I didn't mean to offend you.[XENO:wait wait=key ][XENO:act act=EVT4 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "This watch was given to me by[XENO:n ]\nmy dying father.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]It's very important to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I'm sorry. I wouldn't have[XENO:n ]\nsuggested that if I'd realised.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]It's fine. Forget it. It probably[XENO:n ]\ncan't be fixed anyway.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Hold on. I reckon I can fix it.[XENO:wait wait=key ][System:PageBreak ]All I need is an ether battery.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Really? You can fix this?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Just leave it to me, Carna![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Back in Colony 9, I was the[XENO:n ]\nbest repairman around![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Then I'll leave it in your capable[XENO:n ]\nhands. Thanks, Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Yes. My father gave it to me[XENO:n ]\nbefore he...passed away.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I'm sorry. It must mean[XENO:n ]\na lot to you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]It's all I have to[XENO:n ]\nremember him by.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Lucky you found it. It's just[XENO:n ]\na shame it's not working...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]A big shame. But at least[XENO:n ]\nI've got it back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Wait! If I had an ether battery,[XENO:n ]\nI think I might be able to fix it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]You could?! Don't joke with me.[XENO:n ]\nCan you really fix it?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]You can't just get them anywhere,[XENO:n ]\nbut that's all I really need.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]If you want it fixed,[XENO:n ]\nleave it to me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Wow... I can't thank you[XENO:n ]\nenough, Shulk.[XENO:wait wait=key ][System:PageBreak ]And I'm sure it'll make[XENO:n ]\nJuujuu happy as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    }
+  ]
+}

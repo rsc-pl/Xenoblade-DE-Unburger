@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]That was way harder than I thought it'd be.[XENO:n ]\nI'm just about ready to collapse![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "Let's take a rest.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]If the monsters in here killed all these[XENO:n ]\ntraders, we need to be at our best.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I'm wide awake, so I'll take first watch.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Thanks, man. The nap'll do me good.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Shulk. My turn.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT27 ]Awake already?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]Didn't sleep a wink. And I still feel like[XENO:n ]\nI just did one of Vangarre's drills![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Heh.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "Hey... Why do you think the Mechon attacked?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Are we just food to them?[XENO:n ]\nOr, what, did we do something wrong?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Sort of reminds me of the battle between[XENO:n ]\nthe Giant God and the Machine God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "I wonder if it's anything to do with that?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Well...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "It's hard to believe that living things[XENO:n ]\nare just a source of energy for machines.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "There has to be another reason.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]The Mechon killed Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "Yeah.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]You know what? I'll never forgive 'em.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "I don't care what their reason is.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "Hmm.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "When it happened, the Monado showed me[XENO:n ]\nthat Fiorung was in danger.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "But I couldn't save her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "It's not your fault.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Just 'cos the Monado showed you some future,[XENO:n ]\nthat don't mean you could do anything about it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "You did great. You fought them off.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I couldn't have done that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "I suppose...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "You know, I've been thinking about it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "Why you can use the Monado, I mean.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "Dickson told me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "You're a survivor from the Monado expedition[XENO:n ]\nteam that went out 14 years ago.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "There was a blizzard or something[XENO:n ]\nand your mum and dad died.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "And then Dickson found you and brought you back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]That sounds right. I was pretty young,[XENO:n ]\nso I don't really remember anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "Is that why you do it?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "Why you're always helping Dickson with his research[XENO:n ]\nand trying to figure out the Monado?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "Maybe.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "Part of me does see it as something[XENO:n ]\nto remind me of my mum and dad.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "But mainly, if it really is the sword that the Giant God[XENO:n ]\nused to kill the Machine God, like in the legend...[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "I want to work out its secret.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "That's the real reason.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "I've got it! You were chosen.[XENO:n ]\nBy the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "What? Chosen?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Don't you see? Not even Dunban can handle it.[XENO:n ]\nIt ain't chance that you can and he can't.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I'll take the next watch.[XENO:n ]\nYou get some rest.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "OK, I'll try.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "Night, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

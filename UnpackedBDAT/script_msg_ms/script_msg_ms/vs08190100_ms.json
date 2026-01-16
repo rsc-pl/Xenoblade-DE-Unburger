@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "This is the Tomb. Defensive measures[XENO:n ]\nprevent intruders from entering.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "You will have to circumvent these[XENO:n ]\nto move within the Tomb.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "One thing before we enter.[XENO:n ]\nAlvis, you can see the future, like me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "I am from a long line of seers dedicated[XENO:n ]\nto serving the imperial family.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]My visions help to protect the empire.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "But you're a Homs...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes. But that is for another time.[XENO:n ]\nMy ancestry is not easily explained.[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "And my ability to see the future[XENO:n ]\nis equally complicated.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "You might say I have my own ritual.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]Is it not the same for you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "No. My visions appear suddenly,[XENO:n ]\nwithout warning.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "At first, they're obscure. Then as it gets closer[XENO:n ]\nto the event, I start to understand.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "It seems you possess[XENO:n ]\na power greater than I.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "I still have not seen any danger[XENO:n ]\nbefall Her Highness.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Not much use as a seer then, are you?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]Nothing passes you by, does it?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Now you see why I asked for your help. What a lucky[XENO:n ]\ncoincidence that I happened to see you in danger.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT4 ]A coincidence?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]But I've seen you use the Monado![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "The Monado has been passed down[XENO:n ]\nthe imperial line for generations.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "The sword of the Giant God. It is compelled[XENO:n ]\nto do its master's bidding.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "Magnified greatly, it has the power to control[XENO:n ]\nthe very fabric of our world - ether.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "Control the ether and your will is made reality.[XENO:n ]\nI willed it, and it happened. That is all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "Perhaps due to that power, the High Entia[XENO:n ]\nsealed away the Monado for centuries.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "Eventually, it found its way into the hands of[XENO:n ]\nthe Homs, and then you, Shulk.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "A coincidence or something more?[XENO:n ]\nYou must discover this yourself.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "For you are the one who wields the Monado.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "The Giant God is stirring.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

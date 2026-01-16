@@ -1,0 +1,804 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "Strength Up"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Str. & Phys. Def. Up"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Light Equip. Plus"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Medium Equip. Plus"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Heavy Equip. Plus"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "Ether Up"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Accuracy Up"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Accuracy Up"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Tension Low Protect"
+    },
+    {
+      "$id": 30,
+      "style": 12,
+      "name": "Phys. & Ether Def. Up"
+    },
+    {
+      "$id": 31,
+      "style": 12,
+      "name": "Phys. & Ether Def. Up"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Physical Protect"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Ether Protect"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Physical Defence Up"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Ether Defence Up"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Heavy Equip. Plus"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "HP Up"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "HP Up"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Block Rate Up"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Block Rate Up"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Double Atk Rate Up"
+    },
+    {
+      "$id": 42,
+      "style": 12,
+      "name": "Counter Rate Up"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "Counter Rate Up"
+    },
+    {
+      "$id": 44,
+      "style": 12,
+      "name": "Critical Hit Rate Up"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "Weapon Dmg. Plus"
+    },
+    {
+      "$id": 46,
+      "style": 12,
+      "name": "All Stats Up"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "All Stats Up"
+    },
+    {
+      "$id": 48,
+      "style": 12,
+      "name": "All Stats Up"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 50,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 52,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "Haste"
+    },
+    {
+      "$id": 54,
+      "style": 12,
+      "name": "Tension Bonus"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Tension Bonus"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Talent Bonus"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Talent Bonus"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "Tension Bonus"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "Tension Bonus"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "Tension Bonus"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "Heal Bonus"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "Heal Bonus"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "Heal Bonus"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "Heal Bonus"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "Heal Bonus"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "Water Arts Plus"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 68,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 70,
+      "style": 12,
+      "name": "Damage Heal"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 72,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "HP Recovery Extra"
+    },
+    {
+      "$id": 74,
+      "style": 12,
+      "name": "Chain Damage Plus"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "Chain Damage Plus"
+    },
+    {
+      "$id": 76,
+      "style": 12,
+      "name": "Attack Arts Plus"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "Attack Arts Plus"
+    },
+    {
+      "$id": 78,
+      "style": 12,
+      "name": "Ether Arts Plus"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "Phys. Damage Down"
+    },
+    {
+      "$id": 80,
+      "style": 12,
+      "name": "Ether Damage Down"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "Critical Hit Plus"
+    },
+    {
+      "$id": 82,
+      "style": 12,
+      "name": "First Strike Plus"
+    },
+    {
+      "$id": 83,
+      "style": 12,
+      "name": "Effective on Telethia"
+    },
+    {
+      "$id": 84,
+      "style": 12,
+      "name": "Ether Damage Down"
+    },
+    {
+      "$id": 85,
+      "style": 12,
+      "name": "Electric Arts Plus"
+    },
+    {
+      "$id": 86,
+      "style": 12,
+      "name": "Wind Arts Plus"
+    },
+    {
+      "$id": 87,
+      "style": 12,
+      "name": "Spike Damage Down"
+    },
+    {
+      "$id": 88,
+      "style": 12,
+      "name": "Effective on Sleep"
+    },
+    {
+      "$id": 89,
+      "style": 12,
+      "name": "Definite Critical Hits"
+    },
+    {
+      "$id": 90,
+      "style": 12,
+      "name": "Definite Critical Hits"
+    },
+    {
+      "$id": 91,
+      "style": 12,
+      "name": "Spike Attack Plus"
+    },
+    {
+      "$id": 92,
+      "style": 12,
+      "name": "Cooldown Reduced"
+    },
+    {
+      "$id": 93,
+      "style": 12,
+      "name": "Cooldown Reduced"
+    },
+    {
+      "$id": 94,
+      "style": 12,
+      "name": "Cooldown Reduced"
+    },
+    {
+      "$id": 95,
+      "style": 12,
+      "name": "Cooldown Reduced"
+    },
+    {
+      "$id": 96,
+      "style": 12,
+      "name": "Bonding Up"
+    },
+    {
+      "$id": 97,
+      "style": 12,
+      "name": "Party Gauge Up"
+    },
+    {
+      "$id": 98,
+      "style": 12,
+      "name": "Party Gauge Up"
+    },
+    {
+      "$id": 99,
+      "style": 12,
+      "name": "Party Gauge Up"
+    },
+    {
+      "$id": 100,
+      "style": 12,
+      "name": "Aggro Down"
+    },
+    {
+      "$id": 101,
+      "style": 12,
+      "name": "Low Tension Immunity"
+    },
+    {
+      "$id": 102,
+      "style": 12,
+      "name": "Stat Down Defence"
+    },
+    {
+      "$id": 103,
+      "style": 12,
+      "name": "Taunt Arts Plus"
+    },
+    {
+      "$id": 104,
+      "style": 12,
+      "name": "Taunt Arts Plus"
+    },
+    {
+      "$id": 105,
+      "style": 12,
+      "name": "Party Gauge Maintain"
+    },
+    {
+      "$id": 106,
+      "style": 12,
+      "name": "Burst Bonding Rate Up"
+    },
+    {
+      "$id": 107,
+      "style": 12,
+      "name": "Chain Link Up"
+    },
+    {
+      "$id": 108,
+      "style": 12,
+      "name": "Increased Vision Time"
+    },
+    {
+      "$id": 109,
+      "style": 12,
+      "name": "Talent Bonus"
+    },
+    {
+      "$id": 110,
+      "style": 12,
+      "name": "Aggro Down"
+    },
+    {
+      "$id": 111,
+      "style": 12,
+      "name": "Aggro Bonus"
+    },
+    {
+      "$id": 112,
+      "style": 12,
+      "name": "Aggro Bonus"
+    },
+    {
+      "$id": 113,
+      "style": 12,
+      "name": "Aggro Down"
+    },
+    {
+      "$id": 114,
+      "style": 12,
+      "name": "Movement Speed Up"
+    },
+    {
+      "$id": 115,
+      "style": 12,
+      "name": "Very Low Ten. Cancel"
+    },
+    {
+      "$id": 116,
+      "style": 12,
+      "name": "Tension Down Protect"
+    },
+    {
+      "$id": 117,
+      "style": 12,
+      "name": "Increased Aura Time"
+    },
+    {
+      "$id": 118,
+      "style": 12,
+      "name": "Blow-Down Immunity"
+    },
+    {
+      "$id": 119,
+      "style": 12,
+      "name": "Remote Arts Plus"
+    },
+    {
+      "$id": 120,
+      "style": 12,
+      "name": "Theft Arts Plus"
+    },
+    {
+      "$id": 121,
+      "style": 12,
+      "name": "Theft Arts Plus"
+    },
+    {
+      "$id": 122,
+      "style": 12,
+      "name": "Reduced Revival Cost"
+    },
+    {
+      "$id": 123,
+      "style": 12,
+      "name": "Strength Down Block"
+    },
+    {
+      "$id": 124,
+      "style": 12,
+      "name": "Debuff Defence"
+    },
+    {
+      "$id": 125,
+      "style": 12,
+      "name": "Ether Down Block"
+    },
+    {
+      "$id": 126,
+      "style": 12,
+      "name": "Back Atk Accuracy Up"
+    },
+    {
+      "$id": 127,
+      "style": 12,
+      "name": "Chill Time Up"
+    },
+    {
+      "$id": 128,
+      "style": 12,
+      "name": "Blaze Time Up"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "Poison Time Up"
+    },
+    {
+      "$id": 130,
+      "style": 12,
+      "name": "Reduced Ether Resist"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "Cool Off Reduced"
+    },
+    {
+      "$id": 132,
+      "style": 12,
+      "name": "Medium Equip. OK"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "Heavy Equip. OK"
+    },
+    {
+      "$id": 134,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 136,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 138,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 140,
+      "style": 12,
+      "name": "EXP Bonus"
+    },
+    {
+      "$id": 141,
+      "style": 12,
+      "name": "AP Bonus"
+    },
+    {
+      "$id": 142,
+      "style": 12,
+      "name": "AP Bonus"
+    },
+    {
+      "$id": 143,
+      "style": 12,
+      "name": "Trading Bonus"
+    },
+    {
+      "$id": 144,
+      "style": 12,
+      "name": "Gem Crafting Bonus"
+    },
+    {
+      "$id": 145,
+      "style": 12,
+      "name": "Crystal Harvest Bonus"
+    },
+    {
+      "$id": 146,
+      "style": 12,
+      "name": "Rare Treasure Bonus"
+    },
+    {
+      "$id": 147,
+      "style": 12,
+      "name": "Profit Up"
+    },
+    {
+      "$id": 148,
+      "style": 12,
+      "name": "Rare Treasure Bonus"
+    },
+    {
+      "$id": 149,
+      "style": 12,
+      "name": "Phys. & Ether Def. Up"
+    },
+    {
+      "$id": 150,
+      "style": 12,
+      "name": "Phys. & Ether Def. Up"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "Reduced Weight"
+    },
+    {
+      "$id": 152,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 153,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 154,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "Agility Up"
+    },
+    {
+      "$id": 156,
+      "style": 12,
+      "name": "Back Attack Dmg Up"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "Cooldown Reduced"
+    },
+    {
+      "$id": 158,
+      "style": 12,
+      "name": "Machine God Equip. OK"
+    }
+  ]
+}

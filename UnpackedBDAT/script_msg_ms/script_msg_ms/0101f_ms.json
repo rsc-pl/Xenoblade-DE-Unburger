@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=57 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "I don't need to go to Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]I'd better get back to the lab.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "This is Tephra Cave.[XENO:n ]\nI really don't like it in there.[XENO:wait wait=key ][System:PageBreak ]I have to find Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "I don't need to go to Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]The debris siren is sounding.[XENO:n ]\nWe'd best get back to the lab.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "This is Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]The debris siren is sounding.[XENO:n ]\nWe'd better go to the lab.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:qst qst=82 ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "What should we do?[XENO:wait wait=key ][System:PageBreak ]I know![XENO:n ]\nWe'll go to Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "We can't go this way![XENO:n ]\nWe can't beat the Mechon![XENO:wait wait=key ][System:PageBreak ]Looks like that's that![XENO:n ]\nWe have to go to Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "I'm worried about my brother.[XENO:n ]\nI have to go home![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "It's no good![XENO:n ]\nFiorung's still at home.[XENO:wait wait=key ][System:PageBreak ]We have to defeat the Mechon in[XENO:n ]\nfront of Dunban's house![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "We can't leave Fiorung![XENO:wait wait=key ][System:PageBreak ]Let's trash that Mechon rust[XENO:n ]\nbucket in front of Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "We have to go to the lab![XENO:n ]\nWe need to get the Monado![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "We gotta get it together.[XENO:wait wait=key ][System:PageBreak ]We ain't got no business here.[XENO:n ]\nThe Monado's in the lab![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "The Monado's in the lab.[XENO:wait wait=key ][System:PageBreak ]Now is not the time for a stroll.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Get it![XENO:n ]\nTake down that black Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "We can't just run and hide! [XENO:n ]\nTake out that black Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "That black Mechon will pay![XENO:n ]\nI swear I will destroy it![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

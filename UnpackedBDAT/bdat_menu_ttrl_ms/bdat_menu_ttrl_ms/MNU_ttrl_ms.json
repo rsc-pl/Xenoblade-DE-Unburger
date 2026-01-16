@@ -1,0 +1,1069 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Battle Introduction 1"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Battle Introduction 2"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Battle Introduction 3"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Using Arts 1"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "HP Gauge"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Using Arts 2"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Using Arts 3"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Talent Arts"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Treasure Chests"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Barrier Battles"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Aggro and Positioning"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Destination"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Saving"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Shops"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Quests and Trading"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Targeting and Commands"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Camera"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Story Quests"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Story Quests 2"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Bonding Talks"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Levelling Up Arts"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Skills"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Party Gauge"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Switching Party Leader"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Monster Types 1"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Hints: Luring Monsters"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Buffs and Debuffs"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Battling Mechon"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Fleeing Battle"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Visions"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Bonding Cries"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Gem Crafting Available"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Battle Tactics: Shulk"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Battle Tactics: Reyn"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Hints: Quests"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Party Formation"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Camera (Cont'd)"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Battle Tactics: Fiorung"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Bonding Talks (Cont'd)"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Levelling Up Arts (Cont'd)"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Skills (Cont'd)"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Chain Attacks"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Using Monado Arts"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Hints: Bonding During Battle"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Hints: Equipment"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Hints: Changing the Future"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Monster Types 2"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Climbing Walls"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Monster Types 3"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Battle Tactics: Carna"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Battling Faces"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Battle Tactics: Dunban"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Battle Tactics: Melia"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Battle Tactics: Riki"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Battle Tactics: Fiorung 2"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Bonding Graph"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Bonding Graph (Cont'd)"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Collectopaedia"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Item Visions"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Selling Items"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Bonding Talk List"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Unique Monsters"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Landmarks and Locations"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Story Memos"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Trading Items"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Reorganising Arts"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Gem Crafting"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Skill Links (Cont'd)"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "The Reconstruction"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Fighting with Melia Alone"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "Gem Slots"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Incapacitation 2"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "The Monado Unbound"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Harvesting Crystals"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Levelling Up Monado Arts"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "Reconstructing Colony 6"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "Hints: Recolonisation"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "Hints: Monster Attacks"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "Hints: Heat and Fever"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "Chain Attack and Break Art"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "Buying Items"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "Cleared Data"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "Hints: Break, Topple, Daze"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "Incapacitation 1"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "Battle Tactics: Shulk 2"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "Hints: Danger Levels"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "Hints: Crafting Support"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "Spike Abilities"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "Monado Arts: Shield"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "Monado Arts: Purge"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "Controls"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "Quest Tutorial"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "Update Notification Icons"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "Two Types of Equipment"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "Present Tutorial"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "Expert Mode"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "Gem Crafting Tutorial"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "Buff Tutorial"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Debuff Tutorial"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Event Theatre"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Time Attack Mode 1"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Time Attack Mode 2"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Time Attack Mode 3"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Time Attack Mode 4"
+    },
+    {
+      "$id": 109,
+      "style": 15,
+      "name": "Casual Mode"
+    },
+    {
+      "$id": 110,
+      "style": 15,
+      "name": "Expert Mode Tips"
+    },
+    {
+      "$id": 111,
+      "style": 15,
+      "name": "A New Adventure Begins"
+    },
+    {
+      "$id": 112,
+      "style": 29,
+      "name": "Gameplay differences"
+    },
+    {
+      "$id": 113,
+      "style": 29,
+      "name": "The party gauge"
+    },
+    {
+      "$id": 114,
+      "style": 29,
+      "name": "Visions"
+    },
+    {
+      "$id": 115,
+      "style": 29,
+      "name": "Other changes"
+    },
+    {
+      "$id": 116,
+      "style": 166,
+      "name": "Some elements of this new adventure are [System:Color name=arts_sp ]very different from the \nadventure so far[/System:Color].\n\nThe most major points will be introduced on the following pages."
+    },
+    {
+      "$id": 117,
+      "style": 166,
+      "name": "As you progress through the adventure, instead of Chain Attacks,\nyou will unlock an [System:Color name=arts_sp ]all-new system for performing all-out attacks[/System:Color].\n\nYou'll still require a segment of the gauge to revive fallen allies."
+    },
+    {
+      "$id": 118,
+      "style": 166,
+      "name": "In the new adventure, [System:Color name=arts_sp ]Shulk has lost his power to see visions[/System:Color].\n\nThis calls for more caution than before when it comes to\nyour enemies' most powerful attacks."
+    },
+    {
+      "$id": 119,
+      "style": 166,
+      "name": "・Some allies will [System:Color name=arts_sp ]battle in ways not present before[/System:Color].\n・The Skill Tree system has been removed.\n\nThere are further changes, so keep an eye out for them as you play."
+    },
+    {
+      "$id": 120,
+      "style": 15,
+      "name": "Assembling Ponspectors"
+    },
+    {
+      "$id": 121,
+      "style": 29,
+      "name": "Ponspector-enabled special attacks"
+    },
+    {
+      "$id": 122,
+      "style": 29,
+      "name": "Finding the Ponspectors"
+    },
+    {
+      "$id": 123,
+      "style": 29,
+      "name": "Recruiting the Ponspectors"
+    },
+    {
+      "$id": 124,
+      "style": 29,
+      "name": "Checking member information"
+    },
+    {
+      "$id": 125,
+      "style": 166,
+      "name": "The Ponspectors are an elite band of surveyors from Frontier Village,\nsplit between red, blue and yellow teams. If you can [System:Color name=arts_sp ]befriend members\nfrom all three teams[/System:Color], Shulk and his friends will [System:Color name=arts_sp ]gain access to a new\nkind of special attack[/System:Color], so try to seek them out wherever possible!"
+    },
+    {
+      "$id": 126,
+      "style": 166,
+      "name": "The full Ponspector brigade numbers [System:Color name=arts_sp ]12 members[/System:Color].\n\nWhen you recruit one, they may tip you off to [System:Color name=arts_sp ]the location of others[/System:Color].\nLocations you've heard of are marked on the map with a [ML:icon icon=map01 ]."
+    },
+    {
+      "$id": 127,
+      "style": 166,
+      "name": "Ponspectors on the Giant God's Shoulder have [System:Color name=arts_sp ]issues [/System:Color]they struggle with.\n\nResolve those issues for them to gain their help in your quest."
+    },
+    {
+      "$id": 128,
+      "style": 166,
+      "name": "In the Collectables section of the main menu, you can access the\n[System:Color name=arts_sp ]Ponspector Report [/System:Color]to learn more about the Ponspectors you have\nbefriended up until that point."
+    },
+    {
+      "$id": 129,
+      "style": 15,
+      "name": "Using Ponspectors in Battle"
+    },
+    {
+      "$id": 130,
+      "style": 29,
+      "name": "Ponspector assistance"
+    },
+    {
+      "$id": 131,
+      "style": 29,
+      "name": "High Ponspector tension 1"
+    },
+    {
+      "$id": 132,
+      "style": 29,
+      "name": "High Ponspector tension 2"
+    },
+    {
+      "$id": 133,
+      "style": 166,
+      "name": "In battle against enemies, Ponspectors will jump in to help Shulk\nand his friends on their own initiative.\nEach Ponspector has a [System:Color name=arts_sp ]signature move[/System:Color], healing the party,\ndebuffing the enemies, and so on."
+    },
+    {
+      "$id": 134,
+      "style": 166,
+      "name": "If you perform well in Battle Start Bonding, Burst Bonding, etc.\nby pressing [ML:icon icon=btn_b ] at the right time, the Ponspectors may enter a state\nof [System:Color name=arts_sp ]High Tension[/System:Color]."
+    },
+    {
+      "$id": 135,
+      "style": 166,
+      "name": "Ponspectors in a state of [System:Color name=arts_sp ]High Tension [/System:Color]will join in the battle with\nall their strength, and with no slacking off.\n\nHigh Tension will wear off with time, returning to the usual state."
+    },
+    {
+      "$id": 136,
+      "style": 15,
+      "name": "Ponspector teams"
+    },
+    {
+      "$id": 137,
+      "style": 29,
+      "name": "Ponspector teams and hidden powers"
+    },
+    {
+      "$id": 138,
+      "style": 29,
+      "name": "Team colours"
+    },
+    {
+      "$id": 139,
+      "style": 166,
+      "name": "The Ponspectors are divided up into [System:Color name=arts_sp ]Red[/System:Color], [System:Color name=arts_sp ]Blue [/System:Color]and [System:Color name=arts_sp ]Yellow Teams[/System:Color].\n\nThere's a rumour that if members of all three teams ever gather in\none place, [System:Color name=arts_sp ]the Ponspectors' hidden powers[/System:Color] will be unleashed..."
+    },
+    {
+      "$id": 140,
+      "style": 166,
+      "name": "Red Team have an [System:Color name=arts_sp ]offensive [/System:Color]signature move.\nBlue Team mostly have a [System:Color name=arts_sp ]healing [/System:Color]signature move, but not all of them.\nYellow Team have a [System:Color name=arts_sp ]debuffing [/System:Color]signature move."
+    },
+    {
+      "$id": 141,
+      "style": 15,
+      "name": "Ponspector Union Strikes"
+    },
+    {
+      "$id": 142,
+      "style": 29,
+      "name": "Union Strikes"
+    },
+    {
+      "$id": 143,
+      "style": 29,
+      "name": "Union Strikes and extra effects"
+    },
+    {
+      "$id": 144,
+      "style": 29,
+      "name": "Increasing Union Strike intensity"
+    },
+    {
+      "$id": 145,
+      "style": 29,
+      "name": "Extra Chances 1"
+    },
+    {
+      "$id": 146,
+      "style": 29,
+      "name": "Extra Chances 2"
+    },
+    {
+      "$id": 147,
+      "style": 166,
+      "name": "By befriending Ponspectors from all three teams, you have unlocked\nthe ability to perform a special [System:Color name=arts_sp ]coordinated attack [/System:Color]- the [System:Color name=arts_sp ]Union Strike[/System:Color].\nDoing so requires spending three bars of the Party Gauge, but it\ndeals damage to enemies in a wide area and has [System:Color name=arts_sp ]extra effects[/System:Color]."
+    },
+    {
+      "$id": 148,
+      "style": 166,
+      "name": "There are three variations to choose from, each with extra effects:\nRed Comet - deals [System:Color name=arts_sp ]major damage [/System:Color]to one enemy\nBlue Caress - [System:Color name=arts_sp ]heal [/System:Color]and grant [System:Color name=arts_sp ]Regen.[/System:Color] ([ML:icon icon=enh06 ]) and [System:Color name=arts_sp ]Debuff Immu.[/System:Color] ([ML:icon icon=enh14 ]) to allies\nYellow Chaos - [System:Color name=arts_sp ]force Daze[/System:Color] ([ML:icon icon=enh39 ]) and [System:Color name=arts_sp ]Str. Down[/System:Color] ([ML:icon icon=enh27 ]) on enemies in area"
+    },
+    {
+      "$id": 149,
+      "style": 166,
+      "name": "The more Ponspectors you're able to befriend,\n[System:Color name=arts_sp ]the more powerful their Union Strike will become[/System:Color]."
+    },
+    {
+      "$id": 150,
+      "style": 166,
+      "name": "When you use a Union Strike while all three allies are capable of\nacting freely, an [System:Color name=arts_sp ]Extra Chance [/System:Color]may sometimes occur.\nAn Extra Chance lets you [System:Color name=arts_sp ]perform another Union Strike [/System:Color]without\nusing the Party Gauge. (You cannot choose the same extra effect.)"
+    },
+    {
+      "$id": 151,
+      "style": 166,
+      "name": "The probability of an Extra Chance occurring is higher\n[System:Color name=arts_sp ]the more Ponspectors are in a state of High Tension[/System:Color].\nAfter a Union Strike, the party's tension will go up, while all\nPonspectors in a state of High Tension will revert to normal."
+    },
+    {
+      "$id": 152,
+      "style": 15,
+      "name": "Fogbeasts"
+    },
+    {
+      "$id": 153,
+      "style": 29,
+      "name": "Fogbeast surges"
+    },
+    {
+      "$id": 154,
+      "style": 29,
+      "name": "Rioting monsters"
+    },
+    {
+      "$id": 155,
+      "style": 166,
+      "name": "Fogbeasts are more powerful than their regular monster equivalents.\nIn addition to that, they also spread a [System:Color name=arts_sp ]riot surge [/System:Color]in a set radius\naround themselves, drawing in nearby monsters."
+    },
+    {
+      "$id": 156,
+      "style": 166,
+      "name": "Enemies who come under the effects of the surge will become\naggressive towards Shulk and the party.\nAdditionally, these enemies will be affected by the [System:Color name=arts_sp ]Riot [/System:Color]Aura ([ML:icon icon=enh35 ]),\n[System:Color name=arts_sp ]increasing their level [/System:Color]based on the strength of the Fogbeast."
+    },
+    {
+      "$id": 157,
+      "style": 15,
+      "name": "Dealing with Fogbeasts 1"
+    },
+    {
+      "$id": 158,
+      "style": 29,
+      "name": "Riot Aura effects"
+    },
+    {
+      "$id": 159,
+      "style": 29,
+      "name": "Aura removal through Art effects"
+    },
+    {
+      "$id": 160,
+      "style": 29,
+      "name": "Aura removal through Daze"
+    },
+    {
+      "$id": 161,
+      "style": 166,
+      "name": "The [System:Color name=arts_sp ]Riot [/System:Color]Aura ([ML:icon icon=enh35 ]) granted to enemies by Fogbeasts can be removed\nin the same way as any other Aura ([ML:icon icon=enh35 ]).\nDoing so will remove the Riot Aura's ([ML:icon icon=enh35 ]) level-up effect, making it\ncrucial in an emergency."
+    },
+    {
+      "$id": 162,
+      "style": 166,
+      "name": "Arts like Shulk's [System:Color name=arts_sp ]Monado Purge[/System:Color] or Melia's [System:Color name=arts_sp ]Mind Blast[/System:Color] have the effect\nof removing Auras ([ML:icon icon=enh35 ]) from enemies, making them extremely useful\nin fighting Fogbeasts."
+    },
+    {
+      "$id": 163,
+      "style": 166,
+      "name": "You can also remove an enemy's Aura effect ([ML:icon icon=enh35 ]) by [System:Color name=arts_sp ]Dazing[/System:Color] ([ML:icon icon=enh39 ]) them."
+    },
+    {
+      "$id": 164,
+      "style": 15,
+      "name": "Dealing with Fogbeasts 2"
+    },
+    {
+      "$id": 165,
+      "style": 29,
+      "name": "Aura removal through Union Strikes"
+    },
+    {
+      "$id": 166,
+      "style": 166,
+      "name": "When numerous enemies are under the effects of the Riot Aura ([ML:icon icon=enh35 ]),\nthe [System:Color name=arts_sp ]Yellow Chaos[/System:Color] Union Strike is a very efficient means of removing it.\nIt allows you to force Daze ([ML:icon icon=enh39 ]) on enemies in a wide area, removing\ntheir Auras ([ML:icon icon=enh35 ]) in the process."
+    },
+    {
+      "$id": 167,
+      "style": 15,
+      "name": "Arts Manual Shop"
+    },
+    {
+      "$id": 168,
+      "style": 29,
+      "name": "A shop selling Arts Manuals has opened!"
+    },
+    {
+      "$id": 169,
+      "style": 29,
+      "name": "Obtaining Arts Coins"
+    },
+    {
+      "$id": 170,
+      "style": 29,
+      "name": "What about the coins I already earned?"
+    },
+    {
+      "$id": 171,
+      "style": 166,
+      "name": "In the Arts Manual Shop, you can exchange [System:Color name=arts_sp ]Arts Coins[/System:Color] for\nArts Manuals to level up your favourite Arts."
+    },
+    {
+      "$id": 172,
+      "style": 166,
+      "name": "You may obtain Arts Coins when [System:Color name=arts_sp ]defeating unique monsters and\nFogbeasts[/System:Color]. (Defeating a given monster for the first time will always\ngrant an Arts Coin.)"
+    },
+    {
+      "$id": 173,
+      "style": 166,
+      "name": "Arts Coins received for unique monsters and Fogbeasts you defeat\nbefore the shop opens should [System:Color name=arts_sp ]already be in your possession[/System:Color].\n\nYou can check the coins you own at the Arts Manual Shop."
+    },
+    {
+      "$id": 174,
+      "style": 15,
+      "name": "Quiet Moments"
+    },
+    {
+      "$id": 175,
+      "style": 29,
+      "name": "Get to know each other in the Quiet Moments"
+    },
+    {
+      "$id": 176,
+      "style": 29,
+      "name": "Checking the Quiet Moment list"
+    },
+    {
+      "$id": 177,
+      "style": 166,
+      "name": "Investigate a [ML:icon icon=map02 ] icon to view the corresponding [System:Color name=arts_sp ]Quiet Moment[/System:Color].\n\nIf you don't already meet the conditions for viewing a given scene,\nfeel free to come back to it when you do!"
+    },
+    {
+      "$id": 178,
+      "style": 166,
+      "name": "Any Quiet Moments you've investigated will be added to a list\nfound under [System:Color name=arts_sp ]Quiet Moments [/System:Color]in the main menu's Collectables section.\n\nYou can also use it to check the conditions for viewing each event."
+    },
+    {
+      "$id": 179,
+      "style": 15,
+      "name": "Ether Deposits"
+    },
+    {
+      "$id": 180,
+      "style": 29,
+      "name": "Obtaining gems from ether deposits"
+    },
+    {
+      "$id": 181,
+      "style": 29,
+      "name": "Powering up the Ether Pick"
+    },
+    {
+      "$id": 182,
+      "style": 166,
+      "name": "On the Giant God's Shoulder, you can use a tool called an [System:Color name=arts_sp ]Ether Pick[/System:Color] to\n[System:Color name=arts_sp ]mine actual gems[/System:Color] from ether deposits, not just crystals.\n\nIf you exhaust a given deposit, check back after a while!"
+    },
+    {
+      "$id": 183,
+      "style": 166,
+      "name": "As you progress through the story, you may be able to obtain\n[System:Color name=arts_sp ]a more efficient Ether Pick[/System:Color].\n\nWith a better Ether Pick, you could mine gems of higher rank!"
+    },
+    {
+      "$id": 184,
+      "style": 15,
+      "name": "Congratulations!"
+    },
+    {
+      "$id": 185,
+      "style": 29,
+      "name": "New game elements have been unlocked"
+    },
+    {
+      "$id": 186,
+      "style": 166,
+      "name": "・Shulk's weapon's look can be changed in \"Future Connected\"\n・The 8th challenge in the main game's Time Attack is unlocked\n・[System:Color name=arts_sp ]Master-level Arts Manuals[/System:Color] have been added to the main game's\n Time Attack item exchange, letting you improve Arts up to level XII"
+    },
+    {
+      "$id": 187,
+      "style": 15,
+      "name": "Expert Mode"
+    },
+    {
+      "$id": 188,
+      "style": 29,
+      "name": "Reserve EXP"
+    },
+    {
+      "$id": 189,
+      "style": 29,
+      "name": "Enabling Expert mode"
+    },
+    {
+      "$id": 190,
+      "style": 166,
+      "name": "[System:Color name=arts_sp ]Expert mode[/System:Color] lets you store a portion of earned EXP for later use,\nrather than being granted to a character immediately. You can\nenable it by opening the System menu with [ML:icon icon=btn_plus ], going to [System:Color name=arts_sp ]Expert Mode\n[/System:Color]and toggling the option. The option is [System:Color name=arts_sp ]disabled by default[/System:Color]."
+    },
+    {
+      "$id": 191,
+      "style": 166,
+      "name": "When Expert mode is enabled with [ML:icon icon=btn_r_stick_on ], all further experience\ngained through completing quests, discovering Landmarks and\nLocations etc. will be stored as reserve EXP."
+    },
+    {
+      "$id": 192,
+      "style": 15,
+      "name": "Casual Mode"
+    },
+    {
+      "$id": 193,
+      "style": 29,
+      "name": "If enemies feel a bit too strong..."
+    },
+    {
+      "$id": 194,
+      "style": 166,
+      "name": "Switching to [System:Color name=arts_sp ]Casual mode[/System:Color] lets you lower the difficulty of battles.\nSimply open the System menu with [ML:icon icon=btn_plus ] and go to [System:Color name=arts_sp ]Options[/System:Color], followed by\nGame Settings, then set Casual Mode to on or off. When a prompt\nis shown recommending the switch, press [ML:icon icon=btn_minus ] to see the options."
+    },
+    {
+      "$id": 195,
+      "style": 15,
+      "name": "Event Theatre"
+    },
+    {
+      "$id": 196,
+      "style": 29,
+      "name": "Event Theatre 1"
+    },
+    {
+      "$id": 197,
+      "style": 29,
+      "name": "Event Theatre 2"
+    },
+    {
+      "$id": 198,
+      "style": 166,
+      "name": "The [System:Color name=arts_sp ]Event Theatre[/System:Color] has been added to the title screen.\nThere you can view any event cutscenes you've previously seen."
+    },
+    {
+      "$id": 199,
+      "style": 166,
+      "name": "You can change the following options when viewing an event:\n\n・The weather and time of day (not for all events)\n・Character appearance (already-acquired looks only)"
+    },
+    {
+      "$id": 200,
+      "style": 15,
+      "name": "Expert Mode Tips"
+    },
+    {
+      "$id": 201,
+      "style": 29,
+      "name": "Adjusting levels 1"
+    },
+    {
+      "$id": 202,
+      "style": 29,
+      "name": "Adjusting levels 2"
+    },
+    {
+      "$id": 203,
+      "style": 29,
+      "name": "Adjusting levels 3"
+    },
+    {
+      "$id": 204,
+      "style": 166,
+      "name": "The [System:Color name=arts_sp ]Expert Mode[/System:Color] section of the System menu ([ML:icon icon=btn_plus ]) lets you manually\nadjust party characters' levels. Increasing a character's level will\ncost reserve EXP. Reducing a character's level will convert excess\nexperience points back into reserve EXP."
+    },
+    {
+      "$id": 205,
+      "style": 166,
+      "name": "Level adjustment is performed individually for each character.\nSelect your desired character with [ML:icon icon=btn_a ], then pick the desired level\nusing [ML:icon icon=btn_left ] and [ML:icon icon=btn_right ], and then confirm it with [ML:icon icon=btn_a ]."
+    },
+    {
+      "$id": 206,
+      "style": 166,
+      "name": "While levelling up, the maximum level available with your current\nEXP stockpile will be shown. You cannot lower a character's level\nbeyond the level they were first introduced at."
+    },
+    {
+      "$id": 207,
+      "style": 15,
+      "name": "Interacting with People"
+    },
+    {
+      "$id": 208,
+      "style": 29,
+      "name": "Visiting the shops"
+    },
+    {
+      "$id": 209,
+      "style": 29,
+      "name": "Accepting Quests"
+    },
+    {
+      "$id": 210,
+      "style": 166,
+      "name": "You can buy weapons and armour in shops to help your journey go\nsmoother. In this chapter of your adventure, you will not find armour\namong the spoils for defeating monsters, but you may find weapons\nthat differ from what shops have on offer."
+    },
+    {
+      "$id": 211,
+      "style": 166,
+      "name": "There's no lack of people having problems on the Giant God's Shoulder.\nThrough completing the quests they give you, you'll obtain rewards\nsuch as money and equipment in new colour variations, suitable for\nuse as cosmetics."
+    }
+  ]
+}

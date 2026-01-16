@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "You'll never see a sight like this[XENO:n ]\nfrom Colony 9. Right, Dunban?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Right.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "I don't think I'd ever get tired of[XENO:n ]\nlooking out at this landscape.[XENO:wait wait=key ][System:PageBreak ]I wonder when these rock[XENO:n ]\nformations date from?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Yeah.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "You don't sound very interested.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Sorry, what was that?/・Of course I'm interested. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Yeah, I guess not then.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Did you say something?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]I...I apologise, Shulk.[XENO:n ]\nMy mind was elsewhere.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I guess if you're not into a topic,[XENO:n ]\nyou're really not into it![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Me? Am I really like that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Yes, you are.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT4 ]Here, let me test you. What part[XENO:n ]\nof the Giant God are we on?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・The thigh of course./・The lower leg of course. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Who do you think you are[XENO:n ]\ntalking to, Shulk?[XENO:wait wait=key ][System:PageBreak ]That much I do know. It's obvious.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I didn't mean to offend you.[XENO:n ]\nI could have put that better...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I'll get over it.[XENO:wait wait=key ][System:PageBreak ]These things interest you a lot,[XENO:n ]\ndon't they? They always have.[XENO:wait wait=key ][System:PageBreak ]Geography, geology...[XENO:n ]\nThat kind of thing.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Yeah.[XENO:wait wait=key ][System:PageBreak ]It's just...the Giant God is so big![XENO:wait wait=key ][System:PageBreak ]There are all these places and[XENO:n ]\nI've not even seen half of them.[XENO:wait wait=key ][System:PageBreak ]Can you imagine exploring the[XENO:n ]\nGiant God's back, for example?[XENO:wait wait=key ][System:PageBreak ]No one's ever been there.[XENO:n ]\nIt's completely uncharted![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]And I bet the view is better than[XENO:n ]\nanywhere else on Giant God![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I feel your enthusiasm, Shulk.[XENO:n ]\nYour passion is a great thing.[XENO:wait wait=key ][System:PageBreak ]I support you implicitly in[XENO:n ]\nall your endeavours.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]You can support me out loud as[XENO:n ]\nwell, you know. I won't mind![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Who do you think you are[XENO:n ]\ntalking to, Shulk?[XENO:wait wait=key ][System:PageBreak ]That much I do know. It's obvious.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Obvious? You're not even[XENO:n ]\nclose, Dunban![XENO:wait wait=key ][System:PageBreak ]This is the thigh![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]It... It is?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Yes! Don't you remember?[XENO:n ]\nI'm the one who told you that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Then I owe you an apology.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I still have my old textbook,[XENO:n ]\n'Giant God Geography for Beginners'.[XENO:wait wait=key ][System:PageBreak ]You should read it.[XENO:n ]\nFrom page one![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Y-yes, sir![XENO:wait wait=key ][System:PageBreak ]But I doubt I'll ever be as[XENO:n ]\nknowledgeable as you, Shulk...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I listened to every word.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You did? It looked like you[XENO:n ]\nwere just staring into space.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "It was about those rock formations[XENO:n ]\nand how they looked in the past.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Uh, something like that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "I guess when I talk about geeky[XENO:n ]\nstuff, you're gonna switch off.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Me? Switch off?[XENO:n ]\nI didn't realise I did that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "It's not just geeky stuff. It's[XENO:n ]\nanything that doesn't interest you.[XENO:wait wait=key ][System:PageBreak ]Like the latest fads in the[XENO:n ]\ncolony. I could ask you...[XENO:wait wait=key ][System:PageBreak ]What's the latest 'superfood'[XENO:n ]\neveryone's talking about?[XENO:wait wait=key ][System:PageBreak ]And you'd say...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・No idea. Not a clue./・Oh! I know! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]See! You don't really care.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]And why do I have to care?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "What if Fiorung was interested?[XENO:n ]\nWould you care then?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Well... If Fiorung liked something,[XENO:n ]\nI suppose I would pay attention.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Now I think of it, I don't actually[XENO:n ]\nknow what it is either.[XENO:wait wait=key ][System:PageBreak ]I heard someone mention it once,[XENO:n ]\nbut I've forgotten by now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]What's that sound? Is it the pot[XENO:n ]\ncalling the kettle black?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]All right, how about this.[XENO:wait wait=key ][System:PageBreak ]Instead of me trying to make you[XENO:n ]\ncare about geography...[XENO:wait wait=key ][System:PageBreak ]We could both try and learn about[XENO:n ]\nthe latest trends instead![XENO:wait wait=key ][System:PageBreak ]It could be fun![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I cannot argue with that.[XENO:n ]\nYou have a deal.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Chewy Radishes! They're the[XENO:n ]\nlatest healthy ingredient.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]I saw a line of people queueing[XENO:n ]\nup to buy them the other day.[XENO:wait wait=key ][System:PageBreak ]It was as long as the Giant God's leg.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Wow! You really are in the know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Wait, does that mean that the[XENO:n ]\nall-knowing Shulk didn't know?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I'm afraid so. I've barely even[XENO:n ]\nheard of a Chewy Radish.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You really had no idea. And you[XENO:n ]\nthought I was out of the loop.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I was kind of betting on you not[XENO:n ]\nknowing. You surprised me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Let this be a lesson to you.[XENO:n ]\nStudying is all well and good...[XENO:wait wait=key ][System:PageBreak ]But there are some things you[XENO:n ]\ncan't learn from books.[XENO:wait wait=key ][System:PageBreak ]Or from conducting ether research[XENO:n ]\nand building weapons.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]You're right. I'll try to bear that[XENO:n ]\nin mind from now on![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

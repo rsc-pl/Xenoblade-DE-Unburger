@@ -1,0 +1,469 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Attack"
+    },
+    {
+      "$id": 2,
+      "style": 25,
+      "name": "Initiate a battle."
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Flee"
+    },
+    {
+      "$id": 4,
+      "style": 25,
+      "name": "Stop attacking."
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Lure"
+    },
+    {
+      "$id": 6,
+      "style": 25,
+      "name": "Lure enemy from a distance."
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Chain Attack"
+    },
+    {
+      "$id": 8,
+      "style": 25,
+      "name": "Initiate a chain attack."
+    },
+    {
+      "$id": 9,
+      "style": 13,
+      "name": "Treasure Chest"
+    },
+    {
+      "$id": 10,
+      "style": 13,
+      "name": "Harvest Point"
+    },
+    {
+      "$id": 11,
+      "style": 13,
+      "name": "Examine"
+    },
+    {
+      "$id": 12,
+      "style": 8,
+      "name": "MISS"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "BLOCK"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "IMMUNE"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "RESIST"
+    },
+    {
+      "$id": 16,
+      "style": 0,
+      "name": "▲"
+    },
+    {
+      "$id": 17,
+      "style": 19,
+      "name": "Arts Setting"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "Current AP"
+    },
+    {
+      "$id": 19,
+      "style": 1,
+      "name": "pt"
+    },
+    {
+      "$id": 20,
+      "style": 5,
+      "name": "Switch"
+    },
+    {
+      "$id": 21,
+      "style": 0,
+      "name": "Ⅰ"
+    },
+    {
+      "$id": 22,
+      "style": 0,
+      "name": "Ⅱ"
+    },
+    {
+      "$id": 23,
+      "style": 0,
+      "name": "Ⅲ"
+    },
+    {
+      "$id": 24,
+      "style": 0,
+      "name": "Ⅳ"
+    },
+    {
+      "$id": 25,
+      "style": 0,
+      "name": "Ⅴ"
+    },
+    {
+      "$id": 26,
+      "style": 0,
+      "name": "Ⅵ"
+    },
+    {
+      "$id": 27,
+      "style": 0,
+      "name": "Ⅶ"
+    },
+    {
+      "$id": 28,
+      "style": 0,
+      "name": "Ⅷ"
+    },
+    {
+      "$id": 29,
+      "style": 0,
+      "name": "Ⅸ"
+    },
+    {
+      "$id": 30,
+      "style": 0,
+      "name": "Ⅹ"
+    },
+    {
+      "$id": 31,
+      "style": 8,
+      "name": "Required AP"
+    },
+    {
+      "$id": 32,
+      "style": 8,
+      "name": "Level Up"
+    },
+    {
+      "$id": 33,
+      "style": 8,
+      "name": "Cancel"
+    },
+    {
+      "$id": 34,
+      "style": 116,
+      "name": "Not enough AP!"
+    },
+    {
+      "$id": 35,
+      "style": 116,
+      "name": "You cannot level up this Art anymore!"
+    },
+    {
+      "$id": 36,
+      "style": 116,
+      "name": "This Art has reached its maximum level.[XENO:n ]\nTo level up further you will need an[XENO:n ]\nIntermediate Arts Manual or higher."
+    },
+    {
+      "$id": 37,
+      "style": 116,
+      "name": "This Art has reached its maximum level.[XENO:n ]\nTo level up further you will need an[XENO:n ]\nAdvanced Arts Manual."
+    },
+    {
+      "$id": 38,
+      "style": 116,
+      "name": "This Art has reached its maximum level."
+    },
+    {
+      "$id": 39,
+      "style": 26,
+      "name": "has been learnt."
+    },
+    {
+      "$id": 40,
+      "style": 26,
+      "name": "is now intermediate level."
+    },
+    {
+      "$id": 41,
+      "style": 26,
+      "name": "is now advanced level."
+    },
+    {
+      "$id": 42,
+      "style": 116,
+      "name": "No Arts are currently set.[XENO:n ]\nPlease set one or more Arts."
+    },
+    {
+      "$id": 43,
+      "style": 116,
+      "name": "This Arts Manual has already been studied."
+    },
+    {
+      "$id": 44,
+      "style": 116,
+      "name": "This Arts Manual cannot be used as[XENO:n ]\nthe Art has not been learnt yet."
+    },
+    {
+      "$id": 45,
+      "style": 116,
+      "name": "This Arts Manual cannot be used as the[XENO:n ]\ncharacter who needs it isn't here."
+    },
+    {
+      "$id": 46,
+      "style": 30,
+      "name": "x"
+    },
+    {
+      "$id": 47,
+      "style": 1,
+      "name": "sec"
+    },
+    {
+      "$id": 48,
+      "style": 31,
+      "name": "%"
+    },
+    {
+      "$id": 49,
+      "style": 0,
+      "name": "-"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Item obtained!"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "EXP received!"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "AP received!"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "HP received!"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Strength up!"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Agility up!"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Ether up!"
+    },
+    {
+      "$id": 57,
+      "style": 5,
+      "name": "CHAIN"
+    },
+    {
+      "$id": 58,
+      "style": 7,
+      "name": "MAX"
+    },
+    {
+      "$id": 59,
+      "style": 13,
+      "name": "Chain Damage"
+    },
+    {
+      "$id": 60,
+      "style": 13,
+      "name": "Level Up!"
+    },
+    {
+      "$id": 61,
+      "style": 13,
+      "name": "Bonding Coin!"
+    },
+    {
+      "$id": 62,
+      "style": 13,
+      "name": "Skill Learnt"
+    },
+    {
+      "$id": 63,
+      "style": 13,
+      "name": "Art Learnt"
+    },
+    {
+      "$id": 64,
+      "style": 13,
+      "name": "Art Level Up Reqs"
+    },
+    {
+      "$id": 65,
+      "style": 2,
+      "name": "AP"
+    },
+    {
+      "$id": 66,
+      "style": 2,
+      "name": "EXP"
+    },
+    {
+      "$id": 67,
+      "style": 2,
+      "name": "SP"
+    },
+    {
+      "$id": 68,
+      "style": 7,
+      "name": "CAUTION"
+    },
+    {
+      "$id": 69,
+      "style": 5,
+      "name": "CHANCE!"
+    },
+    {
+      "$id": 70,
+      "style": 1,
+      "name": "Lv"
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Set"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "Union Strike"
+    },
+    {
+      "$id": 73,
+      "style": 25,
+      "name": "Team up with Ponspectors for a fierce attack"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "Setting"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "Level Up"
+    },
+    {
+      "$id": 76,
+      "style": 26,
+      "name": "が究極レベルになりました"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "EXTRA CHANCE!!"
+    },
+    {
+      "$id": 78,
+      "style": 13,
+      "name": "Max Art Level Increased"
+    },
+    {
+      "$id": 79,
+      "style": 136,
+      "name": "New Arts Manuals have allowed you to attain a new level of Arts!"
+    },
+    {
+      "$id": 80,
+      "style": 9,
+      "name": "Close"
+    },
+    {
+      "$id": 81,
+      "style": 29,
+      "name": "To Monado Arts"
+    },
+    {
+      "$id": 82,
+      "style": 29,
+      "name": "To Regular Arts"
+    },
+    {
+      "$id": 83,
+      "style": 2,
+      "name": "???"
+    },
+    {
+      "$id": 84,
+      "style": 9,
+      "name": "BONUS DAMAGE"
+    },
+    {
+      "$id": 85,
+      "style": 7,
+      "name": "Excellent!"
+    },
+    {
+      "$id": 86,
+      "style": 17,
+      "name": "Not enough AP."
+    },
+    {
+      "$id": 87,
+      "style": 0,
+      "name": "Ⅺ"
+    },
+    {
+      "$id": 88,
+      "style": 0,
+      "name": "Ⅻ"
+    },
+    {
+      "$id": 89,
+      "style": 13,
+      "name": "Monado Art Learnt"
+    },
+    {
+      "$id": 90,
+      "style": 136,
+      "name": "You have learnt a new Monado Art from the records!"
+    },
+    {
+      "$id": 91,
+      "style": 1,
+      "name": ":[ML:space ]"
+    }
+  ]
+}

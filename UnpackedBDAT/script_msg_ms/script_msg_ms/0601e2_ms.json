@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Reyn look! Reyn look![XENO:n ]\nBig ether crystal![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Whoa! That IS big![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Riki want crystal.[XENO:n ]\nTake home to village![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・How d'ya plan on doing that?/・What you gonna do with it? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Reyn big and strong! Reyn[XENO:n ]\nuse thick head to move it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Oi! Enough of this 'thick head'[XENO:n ]\nbusiness![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Hurry up, Reyn! Riki want it now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I told you, no! It's impossible.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Boooooring![XENO:wait wait=key ][System:PageBreak ]Riki take crystal! Have good plan![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Go on then... What's the plan?/・I bet it's a stupid plan. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Riki glad Reyn ask![XENO:wait wait=key ][System:PageBreak ]Riki sell ether crystal and pay[XENO:n ]\nback money owe to villagers![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]You must've built up a fair bit[XENO:n ]\nof debt to need this thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Riki not proud of self...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Riki check amount yesterday.[XENO:n ]\nSame as 20,000 fish eggs.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]You've lost me. How much?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Lots! So Riki take crystal![XENO:wait wait=key ][System:PageBreak ]Sell whole crystal and become[XENO:n ]\nrich, rich, RICH![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]...Good luck, man.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Riki show mean Reyn![XENO:wait wait=key ][System:PageBreak ]Riki sell crystal for lots of money.[XENO:n ]\nThen Riki pay off debt![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]Knew it. Money's all you ever[XENO:n ]\nthink about.[XENO:wait wait=key ][System:PageBreak ]Well you can count me out![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Please, Reyn! Please please![XENO:n ]\nRiki needs crystal! Now![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]Try asking Dunban instead.[XENO:wait wait=key ][System:PageBreak ]He'll pull this thing free for ya.[XENO:n ]\nHe's good at that stuff.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Really? Dundun help?[XENO:wait wait=key ][System:PageBreak ]He not look strong like[XENO:n ]\nbig, dumb Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Just ask him already! You're givin'[XENO:n ]\nme a headache![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]OK! Riki ask Dundun.[XENO:n ]\nThank you, Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]I really, REALLY hope Dunban[XENO:n ]\ndoesn't kill me for this.[XENO:wait wait=key ][XENO:jaw jaw=off ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki sell it in village and pay off[XENO:n ]\nbig debt to villagers.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Oh yeah, forgot about your debt.[XENO:n ]\nYou'll probably make a fortune.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Riki will be rich, rich, RICH![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Except...you can't sell it like that.[XENO:n ]\nIt's not worth anything raw.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Why not?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:sel sel=・You really are clueless./・You've gotta refine it! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You've gotta put it in[XENO:n ]\nan ether furnace![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Riki's furryness not enough?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]Not furryness, furnace![XENO:n ]\nIt's where you craft gems.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Riki want ether furryness[XENO:n ]\nfor village![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]They ain't cheap.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]How much money?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Umm...let me think here...[XENO:wait wait=key ][System:PageBreak ]If you take that crystal and make[XENO:n ]\nenough gems, you could buy one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Don't get yourself down, Riki.[XENO:wait wait=key ][System:PageBreak ]If you get the other villagers to[XENO:n ]\nchip in, you'll buy one in no time.[XENO:wait wait=key ][System:PageBreak ]I might even help you out![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]The thing about crystals is, you've[XENO:n ]\ngotta put them in an ether furnace.[XENO:wait wait=key ][System:PageBreak ]Turn them into gems. That's how[XENO:n ]\nyou make yourself some money.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]But village not have[XENO:n ]\nether furryness.[XENO:wait wait=key ][System:PageBreak ]Only regular Nopon furryness.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]Oh yeah, that's right. No furnace.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If village get ether furryness,[XENO:n ]\ngood things happen to village?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]Good things'll happen all right![XENO:n ]\nThe whole place'll be rich.[XENO:wait wait=key ][System:PageBreak ]You can make a new Pollen Works[XENO:n ]\nand all the villagers'll be happy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]A new pollen factory?! Riki[XENO:n ]\nwant to eat pollen cakes![XENO:wait wait=key ][System:PageBreak ]Pollen cakes for littlepon and Oka![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]Now that I think... Ain't ether[XENO:n ]\nfurnaces really expensive?[XENO:wait wait=key ][System:PageBreak ]Better not tell him, just in case.[XENO:wait wait=key ][XENO:jaw jaw=off ][XENO:del del=this ]"
+    }
+  ]
+}

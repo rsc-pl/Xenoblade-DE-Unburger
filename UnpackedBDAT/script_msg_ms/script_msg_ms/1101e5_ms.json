@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Whatever's the matter, Carna?[XENO:n ]\nWhy are you standing here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "The stars... They're beautiful,[XENO:n ]\naren't they?[XENO:wait wait=key ][System:PageBreak ]Knowing that they're the same[XENO:n ]\nstars I see back home...[XENO:wait wait=key ][System:PageBreak ]It makes me feel at peace.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Yes. I feel it too...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Melia... You know anything[XENO:n ]\nabout fortune telling?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・It's nothing but mumbo jumbo./・Of course I do! ][XENO:del del=all ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "It's patently false, and I refuse[XENO:n ]\nto believe in such drivel.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I don't know, Melia. There's[XENO:n ]\ndefinitely some truth to it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Yet if I asked you for proof,[XENO:n ]\nwould you have any to give?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Well...maybe not.[XENO:wait wait=key ][System:PageBreak ]But if it was 100% accurate, it[XENO:n ]\nwouldn't be called fortune telling.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "That...almost makes sense...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Trust me, Melia. I know a little[XENO:n ]\nabout this sort of thing![XENO:wait wait=key ][System:PageBreak ]How about we do a reading?[XENO:n ]\nWhat star sign are you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・My star sign is the Rhapsodist./・I will not answer that. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "That's great news![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "It is? Wh-why?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Shulk's is the Pedagogue.[XENO:n ]\nYou guys are a perfect match![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "We are?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "You're such a lucky girl, Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "S-such things do not impress me.[XENO:n ]\nI cannot share your enthusiasm.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "I know you're smiling inside![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "How dare you! But, erm...[XENO:n ]\nYou really think we're a match?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Aha! You're interested after all![XENO:wait wait=key ][System:PageBreak ]It's true. When the stars align,[XENO:n ]\ntwo lovers' destinies are set![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "I feel more confident, but I shall[XENO:n ]\nremain...cautiously optimistic.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Tell me what you intend[XENO:n ]\nto read about me first.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "How compatible you are[XENO:n ]\nwith Shulk, of course![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Why would you care?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "It's more that I thought[XENO:n ]\nyou might care.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I...do not need to know...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "Then this won't interest you at all.[XENO:wait wait=key ][System:PageBreak ]Shulk was born a Pedagogue. If[XENO:n ]\nyou happened to be a Rhapsodist...[XENO:wait wait=key ][System:PageBreak ]Well, you'd be a perfect match![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]But...I am a Rhapsodist![XENO:n ]\nCould it be true?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Melia? You OK?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Oh, er, it's nothing. I was just[XENO:n ]\nthinking about...Riki. That's all![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "It's about telling the future based[XENO:n ]\non one's star sign.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "That's right![XENO:wait wait=key ][System:PageBreak ]I thought only Homs knew about[XENO:n ]\nfortune telling...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "I know nothing of its origins.[XENO:wait wait=key ][System:PageBreak ]But practitioners have existed[XENO:n ]\nfor countless generations.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "Amazing to think that people of old[XENO:n ]\nlooked up at the same sky as us...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Quite amazing, yes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "So, do you believe in[XENO:n ]\nfortune telling?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:sel sel=・No, I do not./・Yes, I do. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Making grand predictions based on[XENO:n ]\nthe movement of the stars?[XENO:wait wait=key ][System:PageBreak ]It's preposterous.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "I don't know. Sometimes it's[XENO:n ]\nsurprisingly accurate.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "But fortune tellers only tell you[XENO:n ]\nwhat you already know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Melia... Your star sign is the[XENO:n ]\nRhapsodist. Am I right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "You are correct. But[XENO:n ]\nhow did you know?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "The power of fortune telling![XENO:wait wait=key ][System:PageBreak ]Basically, you're a typical[XENO:n ]\nRhapsodist.[XENO:wait wait=key ][System:PageBreak ]You're a perfectionist,[XENO:n ]\nand firm in your beliefs.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Do you mean to say I am inflexible[XENO:n ]\nand stubborn? Is that it?![XENO:wait wait=key ][System:PageBreak ]Although, now that you mention[XENO:n ]\nit...you're not exactly wrong.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]It's working![XENO:wait wait=key ][System:PageBreak ]I barely said a thing, but she's[XENO:n ]\nstarting to believe me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Is it unbecoming of me[XENO:n ]\nto dabble in such things?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "No! Not at all, Melia.[XENO:n ]\nAll girls love this stuff![XENO:wait wait=key ][System:PageBreak ]Don't you worry yourself.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Oh, thank goodness. I always[XENO:n ]\nwondered, you know![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "Tell me, Melia. What's your[XENO:n ]\nstar sign?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "The Rhapsodist. How about[XENO:n ]\nyou, Carna?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "My star sign's the Perfumer.[XENO:wait wait=key ][System:PageBreak ]You and me have great[XENO:n ]\ncompatibility, Melia![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "I had guessed as much![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "Haha! Wow, Melia... You're even[XENO:n ]\nbetter at reading people than me![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This ether lamp... It's like the[XENO:n ]\nones in Tephra Cave.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You mean the ones on the route[XENO:n ]\nbetween our two colonies?[XENO:wait wait=key ][System:PageBreak ]Those would have been put there[XENO:n ]\nby people from Colony 6.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "You learn something new[XENO:n ]\nevery day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You see the yellow glow?[XENO:wait wait=key ][System:PageBreak ]That's because the lamp uses[XENO:n ]\nelectric ether crystals.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Didn't know that either.[XENO:wait wait=key ][System:PageBreak ]I guess some days you learn[XENO:n ]\ntwo new things.[XENO:wait wait=key ][System:PageBreak ]I do know that electric-type[XENO:n ]\ncrystals glow the brightest.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Bingo![XENO:wait wait=key ][System:PageBreak ]Once upon a time, replenishing[XENO:n ]\nlamps with fresh ether was my job.[XENO:wait wait=key ][System:PageBreak ]It was my very first job, actually.[XENO:wait wait=key ][System:PageBreak ]I used to follow the route all the[XENO:n ]\nway down into the Ether Mine.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:sel sel=・Sounds like fun!/・Must've been tough. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I used to get lost when I started.[XENO:n ]\nBut I soon got the hang of it.[XENO:wait wait=key ][System:PageBreak ]We used to time each other to see[XENO:n ]\nwho could get it done quickest.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]You mean...you and Gado?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Am I that obvious?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]You start talking about your old[XENO:n ]\nlife and I see tears...[XENO:wait wait=key ][System:PageBreak ]It had to be Gado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Didn't think you were[XENO:n ]\neven paying attention.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]Oi! I always pay attention to you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Shulk said something interesting[XENO:n ]\nto me once.[XENO:wait wait=key ][System:PageBreak ]He thinks you're...insensitive when[XENO:n ]\nit comes to this kind of thing.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]He can talk! The only girl he's[XENO:n ]\never talked to is Fiorung![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Hahaha. I'm almost jealous.[XENO:n ]\nI mean, of your male camaraderie.[XENO:wait wait=key ][System:PageBreak ]I wonder what it would be like.[XENO:n ]\nBeing a guy, doing guy things...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:sel sel=・Like fighting alongside Gado?/・Gado would just be a friend. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I know I can't change the past,[XENO:n ]\nwhatever I do or say.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]But when everyone fled the colony[XENO:n ]\nduring the attack...[XENO:wait wait=key ][System:PageBreak ]I was so...angry![XENO:wait wait=key ][System:PageBreak ]I wanted to be by his side,[XENO:n ]\nand fight to the end with him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]One good thing came out of it all.[XENO:n ]\nYou met us.[XENO:wait wait=key ][System:PageBreak ]Me and Shulk couldn't have got far[XENO:n ]\nwithout you, Carna.[XENO:wait wait=key ][System:PageBreak ]We really needed you.[XENO:wait wait=key ][System:PageBreak ]And those people at the camp.[XENO:n ]\nI saw how they needed you.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Reyn... I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Wait, I've got that all wrong.[XENO:n ]\nThere's no 'needed' about it.[XENO:wait wait=key ][System:PageBreak ]We need you more than ever.[XENO:wait wait=key ][System:PageBreak ]You and your healing abilities are[XENO:n ]\na vital part of our team.[XENO:wait wait=key ][System:PageBreak ]That Heal Bullet of yours has[XENO:n ]\nsaved my bacon more than once.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Thanks. It's nice to feel needed.[XENO:wait wait=key ][System:PageBreak ]And you're right... I have an[XENO:n ]\nimportant role to play.[XENO:wait wait=key ][System:PageBreak ]One I couldn't have fulfilled if[XENO:n ]\nI'd stayed and fought.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Thank you, Reyn.[XENO:wait wait=key ][System:PageBreak ]You have an amazing calming[XENO:n ]\neffect on me, you know that?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]That's funny... I'd say the[XENO:n ]\nsame about you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Just remember that you can't[XENO:n ]\nrely on me forever.[XENO:wait wait=key ][System:PageBreak ]Someday you'll have to learn[XENO:n ]\nhow to fight properly.[XENO:wait wait=key ][System:PageBreak ]You know...without taking so[XENO:n ]\nmany knocks on the head.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Haha! No promises, but I'll[XENO:n ]\ngive it my best shot.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Hehe. Even the most ridiculous[XENO:n ]\nthing is a serious question to you.[XENO:wait wait=key ][System:PageBreak ]It's quite sweet actually. I guess[XENO:n ]\nthat's why I like you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]What? What am I missing here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I meant that if I were a guy,[XENO:n ]\nI might have been able to fight.[XENO:wait wait=key ][System:PageBreak ]I could have stayed with Gado[XENO:n ]\nin Colony 6 until the end.[XENO:wait wait=key ][System:PageBreak ]That's all.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I really didn't want to leave[XENO:n ]\nwithout him.[XENO:wait wait=key ][System:PageBreak ]Not while the Mechon were[XENO:n ]\ndestroying the entire colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "I'm so sorry, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Maybe I should have just kicked[XENO:n ]\nup a fuss like a little girl.[XENO:wait wait=key ][System:PageBreak ]Refused to leave.[XENO:wait wait=key ][System:PageBreak ]He always thought the best of me.[XENO:n ]\nTrusting in me, relying on me.[XENO:wait wait=key ][System:PageBreak ]But I was never as strong as[XENO:n ]\nhe thought.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I'm sure letting you go was[XENO:n ]\njust as hard for him.[XENO:wait wait=key ][System:PageBreak ]But he put his feelings aside[XENO:n ]\nfor your sake.[XENO:wait wait=key ][System:PageBreak ]So you could live on. So you[XENO:n ]\ncould lead the colony.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "I know.[XENO:wait wait=key ][System:PageBreak ]But...I miss him so much.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Cheer up, Carna![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Hey, how about this? From now[XENO:n ]\non I'll work really, really hard...[XENO:wait wait=key ][System:PageBreak ]And then one day I'll be[XENO:n ]\nthe man of your dreams![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Heh. How long's that gonna take?[XENO:wait wait=key ][System:PageBreak ]I can't spend my entire life[XENO:n ]\nwaiting around![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]That's my Carna all right![XENO:wait wait=key ][System:PageBreak ]I like you best when you're giving[XENO:n ]\nme that big old smile of yours.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Looks like you're learning fast![XENO:n ]\nKeep those compliments coming.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][System:PageBreak ]And by the way, Reyn...[XENO:n ]\nThank you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Not really. It wasn't that bad.[XENO:wait wait=key ][System:PageBreak ]I just kept my eyes on the prize.[XENO:wait wait=key ][System:PageBreak ]Odama used to give me a pretty[XENO:n ]\ngood reward whenever I finished.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Oh yeah? What'd he give you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]A small ether crystal shard.[XENO:wait wait=key ][System:PageBreak ]Not big enough to give out[XENO:n ]\nany energy on its own.[XENO:wait wait=key ][System:PageBreak ]But when I had enough, I'd[XENO:n ]\ncombine them to make a cartridge.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]You could do that back then?[XENO:n ]\nWow. That's some talent.[XENO:wait wait=key ][System:PageBreak ]When Shulk asks me to do gem[XENO:n ]\ncrafting, he ends up hating me.[XENO:wait wait=key ][XENO:act act=EVT4 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Colony 6 relies on its ether[XENO:n ]\nmining. We grow up with it.[XENO:wait wait=key ][System:PageBreak ]So using ether and manipulating it[XENO:n ]\nto make things comes naturally.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][System:PageBreak ]Thinking about it brings back[XENO:n ]\nso many memories...[XENO:wait wait=key ][System:PageBreak ]I collected crystal shards of all[XENO:n ]\ndifferent colours.[XENO:wait wait=key ][System:PageBreak ]Then I tried mixing them together.[XENO:wait wait=key ][System:PageBreak ]I thought I might be able to make[XENO:n ]\nan entirely new colour of crystal.[XENO:wait wait=key ][System:PageBreak ]I combined things like...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:sel sel=・Electric, wind and water?/・Wind crystals and glowmoss? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yeah, things like that.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]If you mix yellow and blue[XENO:n ]\npaint, you get green, right?[XENO:wait wait=key ][System:PageBreak ]I figured it had to be the same for[XENO:n ]\nether crystals, so I tried it out.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Did you get it to work?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]I had a go at doing something[XENO:n ]\nlike that once.[XENO:wait wait=key ][System:PageBreak ]Taking bits of different crystals[XENO:n ]\nand mixing them all up.[XENO:wait wait=key ][System:PageBreak ]Then Shulk started shouting at me[XENO:n ]\nfor wasting all our good crystals.[XENO:wait wait=key ][System:PageBreak ]So I just kinda gave up.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I guess it's different in Colony 9.[XENO:wait wait=key ][System:PageBreak ]You don't have a limitless supply[XENO:n ]\nof crystals like we do.[XENO:wait wait=key ][System:PageBreak ]Me, Gado and Juujuu used to[XENO:n ]\nexperiment all the time, but...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT3 ]If the colour is different, forget it.[XENO:n ]\nAll you get is a pile of soot.[XENO:wait wait=key ][XENO:act act=EVT2 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Funny, isn't it?[XENO:wait wait=key ][System:PageBreak ]Only a small difference and[XENO:n ]\nthings don't mix well.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Like men and women...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]Where did that come from? We[XENO:n ]\nwere talking about ether crystals.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "It's this place. I just can't help[XENO:n ]\nthinking about certain things.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][System:PageBreak ]I learnt so much from Gado.[XENO:n ]\nAbout rifles, cartridges, fighting.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]If only I could turn back time...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Don't be so down on yourself.[XENO:wait wait=key ][System:PageBreak ]All that frowning is gonna give[XENO:n ]\nyou wrinkles.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Not the nicest way to put it, but[XENO:n ]\nI can see what you're getting at.[XENO:wait wait=key ][System:PageBreak ]Sorry, Reyn. I guess I'm not[XENO:n ]\nreally acting like myself...[XENO:wait wait=key ][System:PageBreak ]But talking to you like this[XENO:n ]\nmakes me feel calm somehow.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]I don't even know what you're[XENO:n ]\nsupposed to be apologising for.[XENO:wait wait=key ][System:PageBreak ]But whatever it is,[XENO:n ]\nit doesn't matter.[XENO:wait wait=key ][System:PageBreak ]Now, how about we try mixing[XENO:n ]\nup some different colour crystals?[XENO:wait wait=key ][System:PageBreak ]We could be the first people[XENO:n ]\never to make a new colour![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Maybe now's not quite the[XENO:n ]\nright time for that.[XENO:wait wait=key ][System:PageBreak ]But one day I'll teach you all there[XENO:n ]\nis to know about ether crystals.[XENO:wait wait=key ][System:PageBreak ]You have to handle them with[XENO:n ]\ncare, like a woman's heart![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Ouch. I get the feeling this stuff's[XENO:n ]\nnever gonna be my forte...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]What?[XENO:wait wait=key ][System:PageBreak ]What does glowmoss have to[XENO:n ]\ndo with anything?[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I just figured 'cos of the colour.[XENO:wait wait=key ][System:PageBreak ]Glowmoss is green and wind-type[XENO:n ]\nether crystals are green, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Reyn, even if that made the[XENO:n ]\nslightest bit of sense...[XENO:wait wait=key ][System:PageBreak ]I was talking about combining[XENO:n ]\nDIFFERENT colours! Remember?[XENO:wait wait=key ][System:PageBreak ]But...you have got me wondering[XENO:n ]\nwhat would happen.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Then let's give it a go![XENO:wait wait=key ][System:PageBreak ]You and me. Could get interesting![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "Gado used to experiment[XENO:n ]\nwith these things as well.[XENO:wait wait=key ][System:PageBreak ]Him and Odama tried all different[XENO:n ]\nthings when making cartridges.[XENO:act act=EVT_EXT9 ][XENO:wait wait=key ][System:PageBreak ]He used to get so mad when[XENO:n ]\nwhatever he was trying failed.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]He taught me all this. Using[XENO:n ]\nrifles, constructing cartridges.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Oh, sorry about that. Didn't[XENO:n ]\nmean to remind you.[XENO:wait wait=key ][System:PageBreak ]I just thought it might be cool to[XENO:n ]\nhang out and combine crystals.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Oh, stop it, Reyn. You don't[XENO:n ]\nhave to tiptoe around me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]I just don't want to upset you.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Just keep being you, Reyn.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Now, let's find some glowmoss.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]So we're gonna try out[XENO:n ]\nmy idea? Nice![XENO:wait wait=key ][System:PageBreak ]Trust me, we're gonna make[XENO:n ]\nthe best ether crystal ever![XENO:wait wait=key ][System:PageBreak ]Even that old geezer Odama'll[XENO:n ]\nbe impressed![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    }
+  ]
+}

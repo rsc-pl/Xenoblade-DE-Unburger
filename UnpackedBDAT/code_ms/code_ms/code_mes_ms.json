@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 0,
+      "name": "Please insert the Xenoblade Chronicles disc."
+    },
+    {
+      "$id": 2,
+      "style": 0,
+      "name": "The disc could not be read.[XENO:msgent1 ]\nRefer to the Wii Operations Manual for details."
+    },
+    {
+      "$id": 3,
+      "style": 0,
+      "name": "Reading disc..."
+    },
+    {
+      "$id": 4,
+      "style": 0,
+      "name": "Communications with the Wii Remote[XENO:msgent1 ]\nhave been interrupted."
+    },
+    {
+      "$id": 5,
+      "style": 0,
+      "name": "Connect the Nunchuk to the Wii Remote.[XENO:msgent1 ]\nTo change the extension controller to[XENO:msgent1 ]\nthe Classic Controller, reset the game[XENO:msgent1 ]\nand connect the Classic Controller while[XENO:msgent1 ]\non the Title Screen."
+    },
+    {
+      "$id": 6,
+      "style": 0,
+      "name": "Connect the Classic Controller[XENO:msgent1 ]\nto the Wii Remote.[XENO:msgent1 ]\nTo change the extension controller to[XENO:msgent1 ]\nthe Nunchuk, reset the game and connect[XENO:msgent1 ]\nthe Nunchuk while on the Title Screen."
+    },
+    {
+      "$id": 7,
+      "style": 0,
+      "name": "No extension controller is connected to the Wii[XENO:msgent1 ]\nRemote. Connect the Nunchuk or Classic Controller."
+    },
+    {
+      "$id": 8,
+      "style": 0,
+      "name": "The Wii System Memory has been damaged.[XENO:msgent1 ]\nRefer to the Wii Operations Manual for details."
+    },
+    {
+      "$id": 9,
+      "style": 0,
+      "name": "Could not access the Wii System Memory.[XENO:msgent1 ]\nRefer to the Wii Operations Manual for details."
+    },
+    {
+      "$id": 10,
+      "style": 0,
+      "name": "An error occurred while accessing the[XENO:msgent1 ]\nWii System Memory. Refer to the[XENO:msgent1 ]\nWii Operations Manual for details."
+    },
+    {
+      "$id": 11,
+      "style": 0,
+      "name": "The battery charge is running low."
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Double Attack"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Counter-attack"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Protection"
+    },
+    {
+      "$id": 15,
+      "style": 0,
+      "name": "U"
+    },
+    {
+      "$id": 16,
+      "style": 0,
+      "name": "S"
+    },
+    {
+      "$id": 17,
+      "style": 0,
+      "name": "E"
+    },
+    {
+      "$id": 18,
+      "style": 0,
+      "name": "All"
+    },
+    {
+      "$id": 19,
+      "style": 0,
+      "name": "Xenoblade Chronicles"
+    },
+    {
+      "$id": 20,
+      "style": 0,
+      "name": "The beginning of the world"
+    }
+  ]
+}

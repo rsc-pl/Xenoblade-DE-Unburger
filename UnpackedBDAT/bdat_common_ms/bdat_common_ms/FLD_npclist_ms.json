@@ -1,0 +1,3939 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 13,
+      "name": "Shulk"
+    },
+    {
+      "$id": 2,
+      "style": 13,
+      "name": "Reyn"
+    },
+    {
+      "$id": 3,
+      "style": 13,
+      "name": "Fiorung"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "Human Form Fiorung"
+    },
+    {
+      "$id": 5,
+      "style": 13,
+      "name": "Dunban"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Current Dunban"
+    },
+    {
+      "$id": 7,
+      "style": 13,
+      "name": "Carna"
+    },
+    {
+      "$id": 8,
+      "style": 13,
+      "name": "Riki"
+    },
+    {
+      "$id": 9,
+      "style": 13,
+      "name": "Melia"
+    },
+    {
+      "$id": 10,
+      "style": 13,
+      "name": "Fiorung"
+    },
+    {
+      "$id": 11,
+      "style": 17,
+      "name": "Mecha-Fiorung"
+    },
+    {
+      "$id": 12,
+      "style": 13,
+      "name": "Dickson"
+    },
+    {
+      "$id": 13,
+      "style": 17,
+      "name": "Dickson 1 Year Ago"
+    },
+    {
+      "$id": 14,
+      "style": 13,
+      "name": "Mumca"
+    },
+    {
+      "$id": 15,
+      "style": 17,
+      "name": "Mumca 1 Year Ago"
+    },
+    {
+      "$id": 16,
+      "style": 13,
+      "name": "Captain"
+    },
+    {
+      "$id": 17,
+      "style": 13,
+      "name": "Event Screen"
+    },
+    {
+      "$id": 18,
+      "style": 17,
+      "name": "Dummy for effect use"
+    },
+    {
+      "$id": 19,
+      "style": 13,
+      "name": "Reserve 3"
+    },
+    {
+      "$id": 20,
+      "style": 13,
+      "name": "Reserve 4"
+    },
+    {
+      "$id": 21,
+      "style": 13,
+      "name": "Reserve 5"
+    },
+    {
+      "$id": 22,
+      "style": 13,
+      "name": "Mumca"
+    },
+    {
+      "$id": 23,
+      "style": 13,
+      "name": "Mecha-Mumca"
+    },
+    {
+      "$id": 24,
+      "style": 13,
+      "name": "Vanea"
+    },
+    {
+      "$id": 25,
+      "style": 13,
+      "name": "Gado"
+    },
+    {
+      "$id": 26,
+      "style": 17,
+      "name": "Human Form Gado"
+    },
+    {
+      "$id": 27,
+      "style": 13,
+      "name": "Gado"
+    },
+    {
+      "$id": 28,
+      "style": 17,
+      "name": "Mecha-Gado"
+    },
+    {
+      "$id": 29,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 30,
+      "style": 17,
+      "name": "Dirty Zanza"
+    },
+    {
+      "$id": 31,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 32,
+      "style": 17,
+      "name": "Young Dirty Zanza"
+    },
+    {
+      "$id": 33,
+      "style": 13,
+      "name": "Egil"
+    },
+    {
+      "$id": 34,
+      "style": 13,
+      "name": "Meyneth"
+    },
+    {
+      "$id": 35,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 36,
+      "style": 17,
+      "name": "Beautiful Zanza"
+    },
+    {
+      "$id": 37,
+      "style": 13,
+      "name": "Juujuu"
+    },
+    {
+      "$id": 38,
+      "style": 13,
+      "name": "Odama"
+    },
+    {
+      "$id": 39,
+      "style": 13,
+      "name": "Dickson"
+    },
+    {
+      "$id": 40,
+      "style": 17,
+      "name": "Current Dickson"
+    },
+    {
+      "$id": 41,
+      "style": 13,
+      "name": "Dickson"
+    },
+    {
+      "$id": 42,
+      "style": 17,
+      "name": "Dickson Seeking Monado"
+    },
+    {
+      "$id": 43,
+      "style": 13,
+      "name": "Oka"
+    },
+    {
+      "$id": 44,
+      "style": 13,
+      "name": "Donga"
+    },
+    {
+      "$id": 45,
+      "style": 13,
+      "name": "Sorean"
+    },
+    {
+      "$id": 46,
+      "style": 13,
+      "name": "Yumea"
+    },
+    {
+      "$id": 47,
+      "style": 13,
+      "name": "Kallian"
+    },
+    {
+      "$id": 48,
+      "style": 13,
+      "name": "Taruko"
+    },
+    {
+      "$id": 49,
+      "style": 17,
+      "name": "No Mask, No Weapons"
+    },
+    {
+      "$id": 50,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 51,
+      "style": 17,
+      "name": "Inquisitor"
+    },
+    {
+      "$id": 52,
+      "style": 13,
+      "name": "Rouren"
+    },
+    {
+      "$id": 53,
+      "style": 13,
+      "name": "Migol"
+    },
+    {
+      "$id": 54,
+      "style": 13,
+      "name": "Vangarre"
+    },
+    {
+      "$id": 55,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 56,
+      "style": 17,
+      "name": "Delete"
+    },
+    {
+      "$id": 57,
+      "style": 13,
+      "name": "Melia"
+    },
+    {
+      "$id": 58,
+      "style": 17,
+      "name": "Melia and Body Double"
+    },
+    {
+      "$id": 59,
+      "style": 13,
+      "name": "Melia"
+    },
+    {
+      "$id": 60,
+      "style": 17,
+      "name": "Delete"
+    },
+    {
+      "$id": 61,
+      "style": 13,
+      "name": "Alvis"
+    },
+    {
+      "$id": 62,
+      "style": 13,
+      "name": "Linada"
+    },
+    {
+      "$id": 63,
+      "style": 13,
+      "name": "Taruko"
+    },
+    {
+      "$id": 64,
+      "style": 17,
+      "name": "With Mask, No Weapons"
+    },
+    {
+      "$id": 65,
+      "style": 13,
+      "name": "Imperial Guard"
+    },
+    {
+      "$id": 66,
+      "style": 17,
+      "name": "With Weapon"
+    },
+    {
+      "$id": 67,
+      "style": 13,
+      "name": "Manticore Boss"
+    },
+    {
+      "$id": 68,
+      "style": 13,
+      "name": "Manticore Croney"
+    },
+    {
+      "$id": 69,
+      "style": 13,
+      "name": "Makna Telethia"
+    },
+    {
+      "$id": 70,
+      "style": 17,
+      "name": "Battle with Makna"
+    },
+    {
+      "$id": 71,
+      "style": 14,
+      "name": "Colony 6 Large Telethia"
+    },
+    {
+      "$id": 72,
+      "style": 17,
+      "name": "Raids C6 in Chapter 17"
+    },
+    {
+      "$id": 73,
+      "style": 14,
+      "name": "Colony 6 Small Telethia"
+    },
+    {
+      "$id": 74,
+      "style": 17,
+      "name": "Raids C6 in Chapter 17"
+    },
+    {
+      "$id": 75,
+      "style": 13,
+      "name": "Scrap Driver"
+    },
+    {
+      "$id": 76,
+      "style": 13,
+      "name": "Colony Krabble"
+    },
+    {
+      "$id": 77,
+      "style": 13,
+      "name": "Ether Defence Device"
+    },
+    {
+      "$id": 78,
+      "style": 13,
+      "name": "Large Drone - Drill"
+    },
+    {
+      "$id": 79,
+      "style": 13,
+      "name": "Large Beast"
+    },
+    {
+      "$id": 80,
+      "style": 13,
+      "name": "Defence Force Soldier"
+    },
+    {
+      "$id": 81,
+      "style": 17,
+      "name": "Old Tony"
+    },
+    {
+      "$id": 82,
+      "style": 13,
+      "name": "Defence Force Soldier"
+    },
+    {
+      "$id": 83,
+      "style": 17,
+      "name": "Old Bob"
+    },
+    {
+      "$id": 84,
+      "style": 13,
+      "name": "Arachnid Soldier"
+    },
+    {
+      "$id": 85,
+      "style": 13,
+      "name": "Mumca"
+    },
+    {
+      "$id": 86,
+      "style": 17,
+      "name": "First Mechanical Form"
+    },
+    {
+      "$id": 87,
+      "style": 13,
+      "name": "Mumca"
+    },
+    {
+      "$id": 88,
+      "style": 17,
+      "name": "Super Mechanical Form"
+    },
+    {
+      "$id": 89,
+      "style": 13,
+      "name": "Gado"
+    },
+    {
+      "$id": 90,
+      "style": 17,
+      "name": "Gado Machine"
+    },
+    {
+      "$id": 91,
+      "style": 13,
+      "name": "Imperial Guard"
+    },
+    {
+      "$id": 92,
+      "style": 17,
+      "name": "No Weapon"
+    },
+    {
+      "$id": 93,
+      "style": 13,
+      "name": "Masked Demihuman"
+    },
+    {
+      "$id": 94,
+      "style": 13,
+      "name": "Cocoon"
+    },
+    {
+      "$id": 95,
+      "style": 13,
+      "name": "Face Fiorung"
+    },
+    {
+      "$id": 96,
+      "style": 13,
+      "name": "Zord"
+    },
+    {
+      "$id": 97,
+      "style": 13,
+      "name": "Inquisitor (Corpse)"
+    },
+    {
+      "$id": 98,
+      "style": 13,
+      "name": "Prison Island Ei"
+    },
+    {
+      "$id": 99,
+      "style": 13,
+      "name": "New Model Drone A"
+    },
+    {
+      "$id": 100,
+      "style": 13,
+      "name": "New Model Drone B"
+    },
+    {
+      "$id": 101,
+      "style": 13,
+      "name": "Monado Second Form"
+    },
+    {
+      "$id": 102,
+      "style": 13,
+      "name": "Monado Initial Form"
+    },
+    {
+      "$id": 103,
+      "style": 13,
+      "name": "Ether Rifle"
+    },
+    {
+      "$id": 104,
+      "style": 13,
+      "name": "Taruko"
+    },
+    {
+      "$id": 105,
+      "style": 17,
+      "name": "With Weapon and Mask"
+    },
+    {
+      "$id": 106,
+      "style": 13,
+      "name": "Mechanial Tendril"
+    },
+    {
+      "$id": 107,
+      "style": 14,
+      "name": "Face Fiorung's Minion (S)"
+    },
+    {
+      "$id": 108,
+      "style": 14,
+      "name": "Face Fiorung's Minion (L)"
+    },
+    {
+      "$id": 109,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 110,
+      "style": 17,
+      "name": "Blue Adult Male 1"
+    },
+    {
+      "$id": 111,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 112,
+      "style": 17,
+      "name": "Adult Male 2"
+    },
+    {
+      "$id": 113,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 114,
+      "style": 17,
+      "name": "Adult Male 3"
+    },
+    {
+      "$id": 115,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 116,
+      "style": 17,
+      "name": "Adult Female 1"
+    },
+    {
+      "$id": 117,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 118,
+      "style": 17,
+      "name": "Adult Female 2"
+    },
+    {
+      "$id": 119,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 120,
+      "style": 17,
+      "name": "Child 1 Yellow"
+    },
+    {
+      "$id": 121,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 122,
+      "style": 17,
+      "name": "Child 2 Yellow"
+    },
+    {
+      "$id": 123,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 124,
+      "style": 17,
+      "name": "Child 2 Yellow"
+    },
+    {
+      "$id": 125,
+      "style": 13,
+      "name": "Nopon"
+    },
+    {
+      "$id": 126,
+      "style": 17,
+      "name": "Child 4 Pink"
+    },
+    {
+      "$id": 127,
+      "style": 13,
+      "name": "Machina"
+    },
+    {
+      "$id": 128,
+      "style": 13,
+      "name": "High Entia Pod"
+    },
+    {
+      "$id": 129,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 130,
+      "style": 17,
+      "name": "Rouren"
+    },
+    {
+      "$id": 131,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 132,
+      "style": 17,
+      "name": "Alvis"
+    },
+    {
+      "$id": 133,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 134,
+      "style": 17,
+      "name": "Juujuu"
+    },
+    {
+      "$id": 135,
+      "style": 13,
+      "name": "Information Terminal"
+    },
+    {
+      "$id": 136,
+      "style": 13,
+      "name": "Jade Lance Zord"
+    },
+    {
+      "$id": 137,
+      "style": 13,
+      "name": "Havres"
+    },
+    {
+      "$id": 138,
+      "style": 13,
+      "name": "Defence Force Soldier"
+    },
+    {
+      "$id": 139,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 140,
+      "style": 17,
+      "name": "Zanza's First Form"
+    },
+    {
+      "$id": 141,
+      "style": 13,
+      "name": "Zanza"
+    },
+    {
+      "$id": 142,
+      "style": 17,
+      "name": "Zanza's Final Form"
+    },
+    {
+      "$id": 143,
+      "style": 13,
+      "name": "Godo (Blue Nopon)"
+    },
+    {
+      "$id": 144,
+      "style": 13,
+      "name": "Guy with Luggage"
+    },
+    {
+      "$id": 145,
+      "style": 13,
+      "name": "Arachnid Matriarch"
+    },
+    {
+      "$id": 146,
+      "style": 13,
+      "name": "Werner"
+    },
+    {
+      "$id": 147,
+      "style": 17,
+      "name": "Scrap dealer"
+    },
+    {
+      "$id": 148,
+      "style": 13,
+      "name": "Sonia"
+    },
+    {
+      "$id": 149,
+      "style": 17,
+      "name": "Beautiful widow"
+    },
+    {
+      "$id": 150,
+      "style": 13,
+      "name": "Rocco"
+    },
+    {
+      "$id": 151,
+      "style": 17,
+      "name": "Home-loving tearaway"
+    },
+    {
+      "$id": 152,
+      "style": 13,
+      "name": "Riruka"
+    },
+    {
+      "$id": 153,
+      "style": 17,
+      "name": "Misses her dad"
+    },
+    {
+      "$id": 154,
+      "style": 13,
+      "name": "Copham"
+    },
+    {
+      "$id": 155,
+      "style": 17,
+      "name": "Hardcore chef"
+    },
+    {
+      "$id": 156,
+      "style": 13,
+      "name": "Dorothy"
+    },
+    {
+      "$id": 157,
+      "style": 17,
+      "name": "Fine soldier"
+    },
+    {
+      "$id": 158,
+      "style": 13,
+      "name": "Orkhong"
+    },
+    {
+      "$id": 159,
+      "style": 17,
+      "name": "Estranged free thinker"
+    },
+    {
+      "$id": 160,
+      "style": 13,
+      "name": "Cyril"
+    },
+    {
+      "$id": 161,
+      "style": 17,
+      "name": "Sad OAP"
+    },
+    {
+      "$id": 162,
+      "style": 13,
+      "name": "Paola"
+    },
+    {
+      "$id": 163,
+      "style": 17,
+      "name": "Really likes Reyn"
+    },
+    {
+      "$id": 164,
+      "style": 13,
+      "name": "Désirée"
+    },
+    {
+      "$id": 165,
+      "style": 17,
+      "name": "Useless with machines"
+    },
+    {
+      "$id": 166,
+      "style": 13,
+      "name": "Marcia"
+    },
+    {
+      "$id": 167,
+      "style": 17,
+      "name": "Kindly old lady"
+    },
+    {
+      "$id": 168,
+      "style": 13,
+      "name": "Emmy Leater"
+    },
+    {
+      "$id": 169,
+      "style": 17,
+      "name": "Young captain"
+    },
+    {
+      "$id": 170,
+      "style": 13,
+      "name": "Miller"
+    },
+    {
+      "$id": 171,
+      "style": 17,
+      "name": "Skiving soldier"
+    },
+    {
+      "$id": 172,
+      "style": 13,
+      "name": "Luhiol"
+    },
+    {
+      "$id": 173,
+      "style": 17,
+      "name": "Elite captain"
+    },
+    {
+      "$id": 174,
+      "style": 13,
+      "name": "Kantan"
+    },
+    {
+      "$id": 175,
+      "style": 17,
+      "name": "Lieutenant colonel"
+    },
+    {
+      "$id": 176,
+      "style": 13,
+      "name": "Adolf"
+    },
+    {
+      "$id": 177,
+      "style": 17,
+      "name": "New recruit"
+    },
+    {
+      "$id": 178,
+      "style": 13,
+      "name": "Erik"
+    },
+    {
+      "$id": 179,
+      "style": 17,
+      "name": "Two-faced scientist"
+    },
+    {
+      "$id": 180,
+      "style": 13,
+      "name": "Monika"
+    },
+    {
+      "$id": 181,
+      "style": 17,
+      "name": "Soldier in love"
+    },
+    {
+      "$id": 182,
+      "style": 13,
+      "name": "Dean"
+    },
+    {
+      "$id": 183,
+      "style": 17,
+      "name": "Cool-headed scientist"
+    },
+    {
+      "$id": 184,
+      "style": 13,
+      "name": "Minnie"
+    },
+    {
+      "$id": 185,
+      "style": 17,
+      "name": "Spirited soldier"
+    },
+    {
+      "$id": 186,
+      "style": 13,
+      "name": "Arnold"
+    },
+    {
+      "$id": 187,
+      "style": 17,
+      "name": "Lab chief candidate"
+    },
+    {
+      "$id": 188,
+      "style": 13,
+      "name": "Jan"
+    },
+    {
+      "$id": 189,
+      "style": 17,
+      "name": "Retired soldier"
+    },
+    {
+      "$id": 190,
+      "style": 13,
+      "name": "Shura"
+    },
+    {
+      "$id": 191,
+      "style": 17,
+      "name": "Giants researcher"
+    },
+    {
+      "$id": 192,
+      "style": 13,
+      "name": "Nilny"
+    },
+    {
+      "$id": 193,
+      "style": 17,
+      "name": "Lonely Nopon"
+    },
+    {
+      "$id": 194,
+      "style": 13,
+      "name": "Moritz"
+    },
+    {
+      "$id": 195,
+      "style": 17,
+      "name": "Leader of the local kids"
+    },
+    {
+      "$id": 196,
+      "style": 13,
+      "name": "Gref"
+    },
+    {
+      "$id": 197,
+      "style": 17,
+      "name": "All alone in the world"
+    },
+    {
+      "$id": 198,
+      "style": 13,
+      "name": "Joel"
+    },
+    {
+      "$id": 199,
+      "style": 17,
+      "name": "Doting grandpa"
+    },
+    {
+      "$id": 200,
+      "style": 13,
+      "name": "Suzanna"
+    },
+    {
+      "$id": 201,
+      "style": 17,
+      "name": "Study-mad housewife"
+    },
+    {
+      "$id": 202,
+      "style": 13,
+      "name": "Dionysis"
+    },
+    {
+      "$id": 203,
+      "style": 17,
+      "name": "Talkative old man"
+    },
+    {
+      "$id": 204,
+      "style": 13,
+      "name": "Betty"
+    },
+    {
+      "$id": 205,
+      "style": 17,
+      "name": "Kenny's biggest fan"
+    },
+    {
+      "$id": 206,
+      "style": 13,
+      "name": "Françoise"
+    },
+    {
+      "$id": 207,
+      "style": 17,
+      "name": "Flower-loving housewife"
+    },
+    {
+      "$id": 208,
+      "style": 13,
+      "name": "Narine"
+    },
+    {
+      "$id": 209,
+      "style": 17,
+      "name": "Really likes Shulk"
+    },
+    {
+      "$id": 210,
+      "style": 13,
+      "name": "Jackson"
+    },
+    {
+      "$id": 211,
+      "style": 17,
+      "name": "Loves the sky"
+    },
+    {
+      "$id": 212,
+      "style": 13,
+      "name": "Kenny Rohan"
+    },
+    {
+      "$id": 213,
+      "style": 17,
+      "name": "Artistic genius"
+    },
+    {
+      "$id": 214,
+      "style": 13,
+      "name": "Kazlo"
+    },
+    {
+      "$id": 215,
+      "style": 17,
+      "name": "Cares for his brother"
+    },
+    {
+      "$id": 216,
+      "style": 13,
+      "name": "Jiroque"
+    },
+    {
+      "$id": 217,
+      "style": 17,
+      "name": "Cares for his brother"
+    },
+    {
+      "$id": 218,
+      "style": 13,
+      "name": "Lemollion"
+    },
+    {
+      "$id": 219,
+      "style": 17,
+      "name": "Impoverished critic"
+    },
+    {
+      "$id": 220,
+      "style": 13,
+      "name": "Sulwa"
+    },
+    {
+      "$id": 221,
+      "style": 17,
+      "name": "Extravagant spender"
+    },
+    {
+      "$id": 222,
+      "style": 13,
+      "name": "King Squeeze"
+    },
+    {
+      "$id": 223,
+      "style": 17,
+      "name": "Loan shark"
+    },
+    {
+      "$id": 224,
+      "style": 13,
+      "name": "Salt Sesame"
+    },
+    {
+      "$id": 225,
+      "style": 17,
+      "name": "Idealist"
+    },
+    {
+      "$id": 226,
+      "style": 13,
+      "name": "Rosewest"
+    },
+    {
+      "$id": 227,
+      "style": 17,
+      "name": "WANTED: 1 boyfriend"
+    },
+    {
+      "$id": 228,
+      "style": 13,
+      "name": "Pepii"
+    },
+    {
+      "$id": 229,
+      "style": 17,
+      "name": "Fancies himself a loner"
+    },
+    {
+      "$id": 230,
+      "style": 13,
+      "name": "Nic"
+    },
+    {
+      "$id": 231,
+      "style": 17,
+      "name": "Weak-willed soldier"
+    },
+    {
+      "$id": 232,
+      "style": 13,
+      "name": "Pyral"
+    },
+    {
+      "$id": 233,
+      "style": 17,
+      "name": "Individualistic scientist"
+    },
+    {
+      "$id": 234,
+      "style": 13,
+      "name": "Mefimefi"
+    },
+    {
+      "$id": 235,
+      "style": 17,
+      "name": "Healing scientist"
+    },
+    {
+      "$id": 236,
+      "style": 13,
+      "name": "Désirée"
+    },
+    {
+      "$id": 237,
+      "style": 17,
+      "name": "Go-getting sniper"
+    },
+    {
+      "$id": 238,
+      "style": 13,
+      "name": "Désirée"
+    },
+    {
+      "$id": 239,
+      "style": 17,
+      "name": "Hard-working sculptor"
+    },
+    {
+      "$id": 240,
+      "style": 13,
+      "name": "Emmy Leater"
+    },
+    {
+      "$id": 241,
+      "style": 17,
+      "name": "Lieutenant colonel"
+    },
+    {
+      "$id": 242,
+      "style": 13,
+      "name": "Kantan"
+    },
+    {
+      "$id": 243,
+      "style": 17,
+      "name": "Defence Force major"
+    },
+    {
+      "$id": 244,
+      "style": 13,
+      "name": "Gem Man"
+    },
+    {
+      "$id": 245,
+      "style": 13,
+      "name": "Daboll"
+    },
+    {
+      "$id": 246,
+      "style": 17,
+      "name": "Village chief's advisor"
+    },
+    {
+      "$id": 247,
+      "style": 13,
+      "name": "Nikita"
+    },
+    {
+      "$id": 248,
+      "style": 17,
+      "name": "Strong, dependable boy"
+    },
+    {
+      "$id": 249,
+      "style": 13,
+      "name": "Pamu"
+    },
+    {
+      "$id": 250,
+      "style": 17,
+      "name": "Surprisingly mature boy"
+    },
+    {
+      "$id": 251,
+      "style": 13,
+      "name": "Anna"
+    },
+    {
+      "$id": 252,
+      "style": 17,
+      "name": "Attention-loving princess"
+    },
+    {
+      "$id": 253,
+      "style": 13,
+      "name": "Kiroro"
+    },
+    {
+      "$id": 254,
+      "style": 17,
+      "name": "Devoted friend"
+    },
+    {
+      "$id": 255,
+      "style": 13,
+      "name": "Gorman"
+    },
+    {
+      "$id": 256,
+      "style": 17,
+      "name": "Stand-in village elder"
+    },
+    {
+      "$id": 257,
+      "style": 13,
+      "name": "Tatsu"
+    },
+    {
+      "$id": 258,
+      "style": 17,
+      "name": "Self-proclaimed inventor"
+    },
+    {
+      "$id": 259,
+      "style": 13,
+      "name": "Arda"
+    },
+    {
+      "$id": 260,
+      "style": 17,
+      "name": "Despondent old woman"
+    },
+    {
+      "$id": 261,
+      "style": 13,
+      "name": "Ewan"
+    },
+    {
+      "$id": 262,
+      "style": 17,
+      "name": "Unpopular author"
+    },
+    {
+      "$id": 263,
+      "style": 13,
+      "name": "Olga"
+    },
+    {
+      "$id": 264,
+      "style": 17,
+      "name": "Gossipy chemist"
+    },
+    {
+      "$id": 265,
+      "style": 13,
+      "name": "Matryona"
+    },
+    {
+      "$id": 266,
+      "style": 17,
+      "name": "Novice painter"
+    },
+    {
+      "$id": 267,
+      "style": 13,
+      "name": "Kazlo"
+    },
+    {
+      "$id": 268,
+      "style": 17,
+      "name": "Amateur traveller"
+    },
+    {
+      "$id": 269,
+      "style": 13,
+      "name": "Nikita"
+    },
+    {
+      "$id": 270,
+      "style": 17,
+      "name": "Strong, dependable boy"
+    },
+    {
+      "$id": 271,
+      "style": 13,
+      "name": "Pamu"
+    },
+    {
+      "$id": 272,
+      "style": 17,
+      "name": "Surprisingly mature boy"
+    },
+    {
+      "$id": 273,
+      "style": 13,
+      "name": "Anna"
+    },
+    {
+      "$id": 274,
+      "style": 17,
+      "name": "Selfish, lonely girl"
+    },
+    {
+      "$id": 275,
+      "style": 13,
+      "name": "Kiroro"
+    },
+    {
+      "$id": 276,
+      "style": 17,
+      "name": "Optimistic child"
+    },
+    {
+      "$id": 277,
+      "style": 13,
+      "name": "Gorman"
+    },
+    {
+      "$id": 278,
+      "style": 17,
+      "name": "Odama's rival"
+    },
+    {
+      "$id": 279,
+      "style": 13,
+      "name": "Tatsu"
+    },
+    {
+      "$id": 280,
+      "style": 17,
+      "name": "Self-proclaimed inventor"
+    },
+    {
+      "$id": 281,
+      "style": 13,
+      "name": "Arda"
+    },
+    {
+      "$id": 282,
+      "style": 17,
+      "name": "Despondent old woman"
+    },
+    {
+      "$id": 283,
+      "style": 13,
+      "name": "Ewan"
+    },
+    {
+      "$id": 284,
+      "style": 17,
+      "name": "Reborn author"
+    },
+    {
+      "$id": 285,
+      "style": 13,
+      "name": "Olga"
+    },
+    {
+      "$id": 286,
+      "style": 17,
+      "name": "Gossipy chemist"
+    },
+    {
+      "$id": 287,
+      "style": 13,
+      "name": "Matryona"
+    },
+    {
+      "$id": 288,
+      "style": 17,
+      "name": "Affectionate artist"
+    },
+    {
+      "$id": 289,
+      "style": 13,
+      "name": "Werner"
+    },
+    {
+      "$id": 290,
+      "style": 17,
+      "name": "Comeback trader"
+    },
+    {
+      "$id": 291,
+      "style": 13,
+      "name": "Orkhong"
+    },
+    {
+      "$id": 292,
+      "style": 17,
+      "name": "Secretly hopeful pioneer"
+    },
+    {
+      "$id": 293,
+      "style": 13,
+      "name": "Rosewest"
+    },
+    {
+      "$id": 294,
+      "style": 17,
+      "name": "Searching for Mr Right"
+    },
+    {
+      "$id": 295,
+      "style": 13,
+      "name": "Pepii"
+    },
+    {
+      "$id": 296,
+      "style": 17,
+      "name": "New world, new attitude"
+    },
+    {
+      "$id": 297,
+      "style": 13,
+      "name": "Nic"
+    },
+    {
+      "$id": 298,
+      "style": 17,
+      "name": "Tireless bodybuilder"
+    },
+    {
+      "$id": 299,
+      "style": 13,
+      "name": "Pyral"
+    },
+    {
+      "$id": 300,
+      "style": 17,
+      "name": "Knowledgeable scientist"
+    },
+    {
+      "$id": 301,
+      "style": 13,
+      "name": "Mefimefi"
+    },
+    {
+      "$id": 302,
+      "style": 17,
+      "name": "Healing scientist"
+    },
+    {
+      "$id": 303,
+      "style": 13,
+      "name": "Hoko"
+    },
+    {
+      "$id": 304,
+      "style": 17,
+      "name": "Oddball chef"
+    },
+    {
+      "$id": 305,
+      "style": 13,
+      "name": "Nora"
+    },
+    {
+      "$id": 306,
+      "style": 17,
+      "name": "Trainee researcher"
+    },
+    {
+      "$id": 307,
+      "style": 13,
+      "name": "Strojam"
+    },
+    {
+      "$id": 308,
+      "style": 17,
+      "name": "Sickly Miss Sweetness"
+    },
+    {
+      "$id": 309,
+      "style": 13,
+      "name": "Nopo'rikh"
+    },
+    {
+      "$id": 310,
+      "style": 17,
+      "name": "Bettering his lot in life"
+    },
+    {
+      "$id": 311,
+      "style": 13,
+      "name": "Pokapoka"
+    },
+    {
+      "$id": 312,
+      "style": 17,
+      "name": "Critical gourmet"
+    },
+    {
+      "$id": 313,
+      "style": 13,
+      "name": "Gowagowa"
+    },
+    {
+      "$id": 314,
+      "style": 17,
+      "name": "Top-class butler"
+    },
+    {
+      "$id": 315,
+      "style": 13,
+      "name": "Minka"
+    },
+    {
+      "$id": 316,
+      "style": 17,
+      "name": "Nopon maid"
+    },
+    {
+      "$id": 317,
+      "style": 13,
+      "name": "Tatedonas"
+    },
+    {
+      "$id": 318,
+      "style": 17,
+      "name": "Super popular chef"
+    },
+    {
+      "$id": 319,
+      "style": 13,
+      "name": "Don Silver"
+    },
+    {
+      "$id": 320,
+      "style": 17,
+      "name": "Rich, doting father"
+    },
+    {
+      "$id": 321,
+      "style": 13,
+      "name": "Myxilia"
+    },
+    {
+      "$id": 322,
+      "style": 17,
+      "name": "Beacon of harmony"
+    },
+    {
+      "$id": 323,
+      "style": 13,
+      "name": "Yuuri"
+    },
+    {
+      "$id": 324,
+      "style": 17,
+      "name": "High Entia poet"
+    },
+    {
+      "$id": 325,
+      "style": 13,
+      "name": "Jericon"
+    },
+    {
+      "$id": 326,
+      "style": 17,
+      "name": "Love potion brewer"
+    },
+    {
+      "$id": 327,
+      "style": 13,
+      "name": "Zel Silver"
+    },
+    {
+      "$id": 328,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 329,
+      "style": 13,
+      "name": "En Silver"
+    },
+    {
+      "$id": 330,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 331,
+      "style": 13,
+      "name": "Theta Cross"
+    },
+    {
+      "$id": 332,
+      "style": 17,
+      "name": "Jack-of-all-trades"
+    },
+    {
+      "$id": 333,
+      "style": 13,
+      "name": "Naonami"
+    },
+    {
+      "$id": 334,
+      "style": 17,
+      "name": "Nature lover"
+    },
+    {
+      "$id": 335,
+      "style": 13,
+      "name": "Yumea's Maid"
+    },
+    {
+      "$id": 336,
+      "style": 13,
+      "name": "Armu"
+    },
+    {
+      "$id": 337,
+      "style": 13,
+      "name": "Ababa"
+    },
+    {
+      "$id": 338,
+      "style": 17,
+      "name": "Bug-eating soldier"
+    },
+    {
+      "$id": 339,
+      "style": 13,
+      "name": "Kirara"
+    },
+    {
+      "$id": 340,
+      "style": 17,
+      "name": "Loves her grampypon"
+    },
+    {
+      "$id": 341,
+      "style": 13,
+      "name": "Deku"
+    },
+    {
+      "$id": 342,
+      "style": 17,
+      "name": "Bug-loving grampypon"
+    },
+    {
+      "$id": 343,
+      "style": 13,
+      "name": "Alinda"
+    },
+    {
+      "$id": 344,
+      "style": 17,
+      "name": "Madly in love"
+    },
+    {
+      "$id": 345,
+      "style": 13,
+      "name": "Nora"
+    },
+    {
+      "$id": 346,
+      "style": 17,
+      "name": "Thoughtful researcher"
+    },
+    {
+      "$id": 347,
+      "style": 13,
+      "name": "Tati"
+    },
+    {
+      "$id": 348,
+      "style": 17,
+      "name": "Musical chef"
+    },
+    {
+      "$id": 349,
+      "style": 13,
+      "name": "Npa"
+    },
+    {
+      "$id": 350,
+      "style": 17,
+      "name": "In charge of village food"
+    },
+    {
+      "$id": 351,
+      "style": 13,
+      "name": "Yushi"
+    },
+    {
+      "$id": 352,
+      "style": 17,
+      "name": "Frontier Village doctor"
+    },
+    {
+      "$id": 353,
+      "style": 13,
+      "name": "Cully"
+    },
+    {
+      "$id": 354,
+      "style": 17,
+      "name": "Spherical Nopon"
+    },
+    {
+      "$id": 355,
+      "style": 13,
+      "name": "Pique"
+    },
+    {
+      "$id": 356,
+      "style": 17,
+      "name": "Curious scaredy-cat"
+    },
+    {
+      "$id": 357,
+      "style": 13,
+      "name": "Bahn"
+    },
+    {
+      "$id": 358,
+      "style": 17,
+      "name": "Considerate of the village"
+    },
+    {
+      "$id": 359,
+      "style": 13,
+      "name": "Migamiga"
+    },
+    {
+      "$id": 360,
+      "style": 17,
+      "name": "In charge of sacred object"
+    },
+    {
+      "$id": 361,
+      "style": 13,
+      "name": "Rasha"
+    },
+    {
+      "$id": 362,
+      "style": 17,
+      "name": "Worried for her nieceypon"
+    },
+    {
+      "$id": 363,
+      "style": 13,
+      "name": "Fugofugo"
+    },
+    {
+      "$id": 364,
+      "style": 17,
+      "name": "Mushroom fanatic"
+    },
+    {
+      "$id": 365,
+      "style": 13,
+      "name": "Pokapoka"
+    },
+    {
+      "$id": 366,
+      "style": 17,
+      "name": "Frontier Village gourmet"
+    },
+    {
+      "$id": 367,
+      "style": 13,
+      "name": "Dobagas"
+    },
+    {
+      "$id": 368,
+      "style": 17,
+      "name": "Best pollen orb crafter"
+    },
+    {
+      "$id": 369,
+      "style": 13,
+      "name": "Garda"
+    },
+    {
+      "$id": 370,
+      "style": 17,
+      "name": "Fine pollen orb crafter"
+    },
+    {
+      "$id": 371,
+      "style": 13,
+      "name": "Cherri"
+    },
+    {
+      "$id": 372,
+      "style": 17,
+      "name": "Clumsy but avid crafter"
+    },
+    {
+      "$id": 373,
+      "style": 13,
+      "name": "Medi"
+    },
+    {
+      "$id": 374,
+      "style": 17,
+      "name": "Up-and-coming doctor"
+    },
+    {
+      "$id": 375,
+      "style": 13,
+      "name": "Puko"
+    },
+    {
+      "$id": 376,
+      "style": 17,
+      "name": "Medi's exclusive supplier"
+    },
+    {
+      "$id": 377,
+      "style": 13,
+      "name": "Ron"
+    },
+    {
+      "$id": 378,
+      "style": 17,
+      "name": "Sweet treat maker"
+    },
+    {
+      "$id": 379,
+      "style": 13,
+      "name": "Minka"
+    },
+    {
+      "$id": 380,
+      "style": 17,
+      "name": "Nopon maid"
+    },
+    {
+      "$id": 381,
+      "style": 13,
+      "name": "Leku"
+    },
+    {
+      "$id": 382,
+      "style": 17,
+      "name": "Protective big brotherpon"
+    },
+    {
+      "$id": 383,
+      "style": 13,
+      "name": "Kika"
+    },
+    {
+      "$id": 384,
+      "style": 17,
+      "name": "Wants to be a Heropon"
+    },
+    {
+      "$id": 385,
+      "style": 13,
+      "name": "Modamo"
+    },
+    {
+      "$id": 386,
+      "style": 17,
+      "name": "Village warrior trainer"
+    },
+    {
+      "$id": 387,
+      "style": 13,
+      "name": "Pachika"
+    },
+    {
+      "$id": 388,
+      "style": 17,
+      "name": "Head-strong boing-lover"
+    },
+    {
+      "$id": 389,
+      "style": 13,
+      "name": "Tsuzure"
+    },
+    {
+      "$id": 390,
+      "style": 17,
+      "name": "Wearisome mother"
+    },
+    {
+      "$id": 391,
+      "style": 13,
+      "name": "Lupa"
+    },
+    {
+      "$id": 392,
+      "style": 17,
+      "name": "In love with her research"
+    },
+    {
+      "$id": 393,
+      "style": 13,
+      "name": "Gowagowa"
+    },
+    {
+      "$id": 394,
+      "style": 17,
+      "name": "Top-class butler"
+    },
+    {
+      "$id": 395,
+      "style": 13,
+      "name": "Rapan"
+    },
+    {
+      "$id": 396,
+      "style": 17,
+      "name": "Village chief's aide"
+    },
+    {
+      "$id": 397,
+      "style": 13,
+      "name": "Miko"
+    },
+    {
+      "$id": 398,
+      "style": 17,
+      "name": "Village Auditor"
+    },
+    {
+      "$id": 399,
+      "style": 13,
+      "name": "Dabidabi"
+    },
+    {
+      "$id": 400,
+      "style": 17,
+      "name": "Looking for courage"
+    },
+    {
+      "$id": 401,
+      "style": 13,
+      "name": "Pelupelu"
+    },
+    {
+      "$id": 402,
+      "style": 17,
+      "name": "Lazy Nopon"
+    },
+    {
+      "$id": 403,
+      "style": 13,
+      "name": "Pip"
+    },
+    {
+      "$id": 404,
+      "style": 17,
+      "name": "Loves cute things"
+    },
+    {
+      "$id": 405,
+      "style": 13,
+      "name": "Strojam"
+    },
+    {
+      "$id": 406,
+      "style": 17,
+      "name": "Poor Miss Sweetness"
+    },
+    {
+      "$id": 407,
+      "style": 13,
+      "name": "Hoko"
+    },
+    {
+      "$id": 408,
+      "style": 17,
+      "name": "Enthusiastic Nopon chef"
+    },
+    {
+      "$id": 409,
+      "style": 13,
+      "name": "Dabidabi"
+    },
+    {
+      "$id": 410,
+      "style": 17,
+      "name": "Found courage"
+    },
+    {
+      "$id": 411,
+      "style": 13,
+      "name": "Alinda"
+    },
+    {
+      "$id": 412,
+      "style": 17,
+      "name": "Madly in love"
+    },
+    {
+      "$id": 413,
+      "style": 13,
+      "name": "Kiino"
+    },
+    {
+      "$id": 414,
+      "style": 17,
+      "name": "Longs for her father"
+    },
+    {
+      "$id": 415,
+      "style": 13,
+      "name": "Atael"
+    },
+    {
+      "$id": 416,
+      "style": 17,
+      "name": "Misses his sister's smile"
+    },
+    {
+      "$id": 417,
+      "style": 13,
+      "name": "Don Silver"
+    },
+    {
+      "$id": 418,
+      "style": 17,
+      "name": "Worried for his daughters"
+    },
+    {
+      "$id": 419,
+      "style": 13,
+      "name": "Popie"
+    },
+    {
+      "$id": 420,
+      "style": 17,
+      "name": "Worrisome mother"
+    },
+    {
+      "$id": 421,
+      "style": 13,
+      "name": "Balor"
+    },
+    {
+      "$id": 422,
+      "style": 17,
+      "name": "Everyone's little mascot"
+    },
+    {
+      "$id": 423,
+      "style": 13,
+      "name": "Piko"
+    },
+    {
+      "$id": 424,
+      "style": 17,
+      "name": "Wants happiness for all"
+    },
+    {
+      "$id": 425,
+      "style": 13,
+      "name": "Galba"
+    },
+    {
+      "$id": 426,
+      "style": 17,
+      "name": "Self-styled astronomer"
+    },
+    {
+      "$id": 427,
+      "style": 13,
+      "name": "Nero"
+    },
+    {
+      "$id": 428,
+      "style": 17,
+      "name": "Enjoys a drink"
+    },
+    {
+      "$id": 429,
+      "style": 13,
+      "name": "Dabidabi"
+    },
+    {
+      "$id": 430,
+      "style": 17,
+      "name": "Found courage"
+    },
+    {
+      "$id": 431,
+      "style": 13,
+      "name": "Daboll"
+    },
+    {
+      "$id": 432,
+      "style": 17,
+      "name": "Village chief's advisor"
+    },
+    {
+      "$id": 433,
+      "style": 13,
+      "name": "Weapon Shop"
+    },
+    {
+      "$id": 434,
+      "style": 13,
+      "name": "Armour Shop"
+    },
+    {
+      "$id": 435,
+      "style": 13,
+      "name": "Transport Guide"
+    },
+    {
+      "$id": 436,
+      "style": 13,
+      "name": "Laeklit"
+    },
+    {
+      "$id": 437,
+      "style": 13,
+      "name": "Lecrough"
+    },
+    {
+      "$id": 438,
+      "style": 17,
+      "name": "Diligent soldier"
+    },
+    {
+      "$id": 439,
+      "style": 13,
+      "name": "Elior"
+    },
+    {
+      "$id": 440,
+      "style": 17,
+      "name": "Aspiring adventurer"
+    },
+    {
+      "$id": 441,
+      "style": 13,
+      "name": "Natori"
+    },
+    {
+      "$id": 442,
+      "style": 17,
+      "name": "Mad scientist"
+    },
+    {
+      "$id": 443,
+      "style": 13,
+      "name": "Zain"
+    },
+    {
+      "$id": 444,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 445,
+      "style": 13,
+      "name": "Mirallis"
+    },
+    {
+      "$id": 446,
+      "style": 17,
+      "name": "Hates yet admires his dad"
+    },
+    {
+      "$id": 447,
+      "style": 13,
+      "name": "Gangu"
+    },
+    {
+      "$id": 448,
+      "style": 17,
+      "name": "Overzealous soldier"
+    },
+    {
+      "$id": 449,
+      "style": 13,
+      "name": "Melissa"
+    },
+    {
+      "$id": 450,
+      "style": 17,
+      "name": "Kindly mother"
+    },
+    {
+      "$id": 451,
+      "style": 13,
+      "name": "Vivian"
+    },
+    {
+      "$id": 452,
+      "style": 17,
+      "name": "Puts friends first"
+    },
+    {
+      "$id": 453,
+      "style": 13,
+      "name": "Kiino"
+    },
+    {
+      "$id": 454,
+      "style": 17,
+      "name": "Adores anything cute"
+    },
+    {
+      "$id": 455,
+      "style": 13,
+      "name": "Vol'aren"
+    },
+    {
+      "$id": 456,
+      "style": 17,
+      "name": "Treasures his children"
+    },
+    {
+      "$id": 457,
+      "style": 13,
+      "name": "Atael"
+    },
+    {
+      "$id": 458,
+      "style": 17,
+      "name": "Has no sense of direction"
+    },
+    {
+      "$id": 459,
+      "style": 13,
+      "name": "Popie"
+    },
+    {
+      "$id": 460,
+      "style": 17,
+      "name": "Worries about her son"
+    },
+    {
+      "$id": 461,
+      "style": 13,
+      "name": "Piko"
+    },
+    {
+      "$id": 462,
+      "style": 17,
+      "name": "Worried about relatives"
+    },
+    {
+      "$id": 463,
+      "style": 13,
+      "name": "Russ"
+    },
+    {
+      "$id": 464,
+      "style": 17,
+      "name": "Great inventor"
+    },
+    {
+      "$id": 465,
+      "style": 13,
+      "name": "Guarda"
+    },
+    {
+      "$id": 466,
+      "style": 17,
+      "name": "Steadfast imperial guard"
+    },
+    {
+      "$id": 467,
+      "style": 13,
+      "name": "Charles"
+    },
+    {
+      "$id": 468,
+      "style": 17,
+      "name": "Pushes himself too far"
+    },
+    {
+      "$id": 469,
+      "style": 13,
+      "name": "Seagal"
+    },
+    {
+      "$id": 470,
+      "style": 17,
+      "name": "Indecisive man"
+    },
+    {
+      "$id": 471,
+      "style": 13,
+      "name": "Donna"
+    },
+    {
+      "$id": 472,
+      "style": 17,
+      "name": "Patriotic imperial guard"
+    },
+    {
+      "$id": 473,
+      "style": 13,
+      "name": "Coles"
+    },
+    {
+      "$id": 474,
+      "style": 17,
+      "name": "Former imperial guard"
+    },
+    {
+      "$id": 475,
+      "style": 13,
+      "name": "Galba"
+    },
+    {
+      "$id": 476,
+      "style": 17,
+      "name": "Self-styled astronomer"
+    },
+    {
+      "$id": 477,
+      "style": 13,
+      "name": "Milia"
+    },
+    {
+      "$id": 478,
+      "style": 17,
+      "name": "Celebrated stargazer"
+    },
+    {
+      "$id": 479,
+      "style": 13,
+      "name": "Riko"
+    },
+    {
+      "$id": 480,
+      "style": 17,
+      "name": "Pretty lady"
+    },
+    {
+      "$id": 481,
+      "style": 13,
+      "name": "Rosa"
+    },
+    {
+      "$id": 482,
+      "style": 17,
+      "name": "Lives for love"
+    },
+    {
+      "$id": 483,
+      "style": 13,
+      "name": "Tet"
+    },
+    {
+      "$id": 484,
+      "style": 17,
+      "name": "Budding scientist"
+    },
+    {
+      "$id": 485,
+      "style": 13,
+      "name": "Balor"
+    },
+    {
+      "$id": 486,
+      "style": 17,
+      "name": "Something of a mascot"
+    },
+    {
+      "$id": 487,
+      "style": 13,
+      "name": "Kaito"
+    },
+    {
+      "$id": 488,
+      "style": 17,
+      "name": "Resolute imperial guard"
+    },
+    {
+      "$id": 489,
+      "style": 13,
+      "name": "Nero"
+    },
+    {
+      "$id": 490,
+      "style": 17,
+      "name": "Enjoys a drink"
+    },
+    {
+      "$id": 491,
+      "style": 13,
+      "name": "Talia"
+    },
+    {
+      "$id": 492,
+      "style": 17,
+      "name": "Gung-ho researcher"
+    },
+    {
+      "$id": 493,
+      "style": 13,
+      "name": "Louise"
+    },
+    {
+      "$id": 494,
+      "style": 17,
+      "name": "Extremely proud"
+    },
+    {
+      "$id": 495,
+      "style": 13,
+      "name": "Arietta"
+    },
+    {
+      "$id": 496,
+      "style": 17,
+      "name": "Kind old lady"
+    },
+    {
+      "$id": 497,
+      "style": 13,
+      "name": "Tatedonas"
+    },
+    {
+      "$id": 498,
+      "style": 17,
+      "name": "Renowned chef"
+    },
+    {
+      "$id": 499,
+      "style": 13,
+      "name": "Myxilia"
+    },
+    {
+      "$id": 500,
+      "style": 17,
+      "name": "Advocate of equality"
+    },
+    {
+      "$id": 501,
+      "style": 13,
+      "name": "Jericon"
+    },
+    {
+      "$id": 502,
+      "style": 17,
+      "name": "Misfit scientist"
+    },
+    {
+      "$id": 503,
+      "style": 13,
+      "name": "Yuuri"
+    },
+    {
+      "$id": 504,
+      "style": 17,
+      "name": "The people's poet"
+    },
+    {
+      "$id": 505,
+      "style": 13,
+      "name": "Don Silver"
+    },
+    {
+      "$id": 506,
+      "style": 17,
+      "name": "Concerned father"
+    },
+    {
+      "$id": 507,
+      "style": 13,
+      "name": "Zel Silver"
+    },
+    {
+      "$id": 508,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 509,
+      "style": 13,
+      "name": "En Silver"
+    },
+    {
+      "$id": 510,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 511,
+      "style": 13,
+      "name": "Lulu"
+    },
+    {
+      "$id": 512,
+      "style": 17,
+      "name": "Lonely girl"
+    },
+    {
+      "$id": 513,
+      "style": 13,
+      "name": "Krall"
+    },
+    {
+      "$id": 514,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 515,
+      "style": 13,
+      "name": "Bouncer"
+    },
+    {
+      "$id": 516,
+      "style": 13,
+      "name": "Palace Attendant"
+    },
+    {
+      "$id": 517,
+      "style": 13,
+      "name": "Imperial Guard"
+    },
+    {
+      "$id": 518,
+      "style": 13,
+      "name": "Vortec"
+    },
+    {
+      "$id": 519,
+      "style": 17,
+      "name": "Doctor's assistant"
+    },
+    {
+      "$id": 520,
+      "style": 13,
+      "name": "Rillet"
+    },
+    {
+      "$id": 521,
+      "style": 17,
+      "name": "Migol's secretary"
+    },
+    {
+      "$id": 522,
+      "style": 13,
+      "name": "Elena"
+    },
+    {
+      "$id": 523,
+      "style": 17,
+      "name": "Patrols and gathers"
+    },
+    {
+      "$id": 524,
+      "style": 13,
+      "name": "Leanna"
+    },
+    {
+      "$id": 525,
+      "style": 17,
+      "name": "Repairs things"
+    },
+    {
+      "$id": 526,
+      "style": 13,
+      "name": "Veronica"
+    },
+    {
+      "$id": 527,
+      "style": 17,
+      "name": "Concerned for her son"
+    },
+    {
+      "$id": 528,
+      "style": 13,
+      "name": "Jeki"
+    },
+    {
+      "$id": 529,
+      "style": 17,
+      "name": "Friendly crafter"
+    },
+    {
+      "$id": 530,
+      "style": 13,
+      "name": "Euphoria"
+    },
+    {
+      "$id": 531,
+      "style": 17,
+      "name": "Assertive wife"
+    },
+    {
+      "$id": 532,
+      "style": 13,
+      "name": "Kyles"
+    },
+    {
+      "$id": 533,
+      "style": 17,
+      "name": "Unyielding husband"
+    },
+    {
+      "$id": 534,
+      "style": 13,
+      "name": "Minis"
+    },
+    {
+      "$id": 535,
+      "style": 17,
+      "name": "Hates arguments"
+    },
+    {
+      "$id": 536,
+      "style": 13,
+      "name": "Primo"
+    },
+    {
+      "$id": 537,
+      "style": 17,
+      "name": "Draws the water"
+    },
+    {
+      "$id": 538,
+      "style": 13,
+      "name": "Caral"
+    },
+    {
+      "$id": 539,
+      "style": 17,
+      "name": "War survivor"
+    },
+    {
+      "$id": 540,
+      "style": 13,
+      "name": "Natalia"
+    },
+    {
+      "$id": 541,
+      "style": 17,
+      "name": "War survivor"
+    },
+    {
+      "$id": 542,
+      "style": 13,
+      "name": "Orpheus"
+    },
+    {
+      "$id": 543,
+      "style": 17,
+      "name": "Troubled youth"
+    },
+    {
+      "$id": 544,
+      "style": 13,
+      "name": "Ein"
+    },
+    {
+      "$id": 545,
+      "style": 17,
+      "name": "Buries memories"
+    },
+    {
+      "$id": 546,
+      "style": 13,
+      "name": "Rei"
+    },
+    {
+      "$id": 547,
+      "style": 17,
+      "name": "Saves lives at all costs"
+    },
+    {
+      "$id": 548,
+      "style": 13,
+      "name": "Naonami"
+    },
+    {
+      "$id": 549,
+      "style": 17,
+      "name": "Nature lover"
+    },
+    {
+      "$id": 550,
+      "style": 13,
+      "name": "Theta Cross"
+    },
+    {
+      "$id": 551,
+      "style": 17,
+      "name": "Has a dream"
+    },
+    {
+      "$id": 552,
+      "style": 13,
+      "name": "Durand"
+    },
+    {
+      "$id": 553,
+      "style": 17,
+      "name": "Love has free shipping"
+    },
+    {
+      "$id": 554,
+      "style": 13,
+      "name": "Shura"
+    },
+    {
+      "$id": 555,
+      "style": 17,
+      "name": "Giant researcher"
+    },
+    {
+      "$id": 556,
+      "style": 13,
+      "name": "Earnest"
+    },
+    {
+      "$id": 557,
+      "style": 17,
+      "name": "Doesn't let anyone near"
+    },
+    {
+      "$id": 558,
+      "style": 13,
+      "name": "Grelee"
+    },
+    {
+      "$id": 559,
+      "style": 17,
+      "name": "Fears for his daughter"
+    },
+    {
+      "$id": 560,
+      "style": 13,
+      "name": "Baldo"
+    },
+    {
+      "$id": 561,
+      "style": 17,
+      "name": "Things backfire for him"
+    },
+    {
+      "$id": 562,
+      "style": 13,
+      "name": "Bathing Woman"
+    },
+    {
+      "$id": 563,
+      "style": 13,
+      "name": "Tatedonas"
+    },
+    {
+      "$id": 564,
+      "style": 17,
+      "name": "Renowned chef"
+    },
+    {
+      "$id": 565,
+      "style": 13,
+      "name": "Myxilia"
+    },
+    {
+      "$id": 566,
+      "style": 17,
+      "name": "Advocate of equality"
+    },
+    {
+      "$id": 567,
+      "style": 13,
+      "name": "Elior"
+    },
+    {
+      "$id": 568,
+      "style": 17,
+      "name": "Aspiring adventurer"
+    },
+    {
+      "$id": 569,
+      "style": 13,
+      "name": "Durand"
+    },
+    {
+      "$id": 570,
+      "style": 17,
+      "name": "Courier in love"
+    },
+    {
+      "$id": 571,
+      "style": 13,
+      "name": "Daza"
+    },
+    {
+      "$id": 572,
+      "style": 17,
+      "name": "Nopon Merchant director"
+    },
+    {
+      "$id": 573,
+      "style": 13,
+      "name": "Nikita"
+    },
+    {
+      "$id": 574,
+      "style": 17,
+      "name": "Mourns his parents"
+    },
+    {
+      "$id": 575,
+      "style": 13,
+      "name": "Durand"
+    },
+    {
+      "$id": 576,
+      "style": 17,
+      "name": "Demands collateral"
+    },
+    {
+      "$id": 577,
+      "style": 13,
+      "name": "Ewan"
+    },
+    {
+      "$id": 578,
+      "style": 17,
+      "name": "Unpopular author"
+    },
+    {
+      "$id": 579,
+      "style": 13,
+      "name": "Kiroro"
+    },
+    {
+      "$id": 580,
+      "style": 17,
+      "name": "Wants to make up"
+    },
+    {
+      "$id": 581,
+      "style": 13,
+      "name": "Emmy Leater"
+    },
+    {
+      "$id": 582,
+      "style": 17,
+      "name": "Young captain"
+    },
+    {
+      "$id": 583,
+      "style": 13,
+      "name": "Godo"
+    },
+    {
+      "$id": 584,
+      "style": 17,
+      "name": "Veteran Nopon Merchant"
+    },
+    {
+      "$id": 585,
+      "style": 13,
+      "name": "Kacha"
+    },
+    {
+      "$id": 586,
+      "style": 17,
+      "name": "Researching Giant ruins"
+    },
+    {
+      "$id": 587,
+      "style": 13,
+      "name": "Zazadan"
+    },
+    {
+      "$id": 588,
+      "style": 17,
+      "name": "Nopon with layers"
+    },
+    {
+      "$id": 589,
+      "style": 13,
+      "name": "Seagal"
+    },
+    {
+      "$id": 590,
+      "style": 17,
+      "name": "Indecisive man"
+    },
+    {
+      "$id": 591,
+      "style": 13,
+      "name": "Rosa"
+    },
+    {
+      "$id": 592,
+      "style": 17,
+      "name": "Lives for love"
+    },
+    {
+      "$id": 593,
+      "style": 13,
+      "name": "Jericon"
+    },
+    {
+      "$id": 594,
+      "style": 17,
+      "name": "Misfit scientist"
+    },
+    {
+      "$id": 595,
+      "style": 13,
+      "name": "Zel Silver"
+    },
+    {
+      "$id": 596,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 597,
+      "style": 13,
+      "name": "Ewan"
+    },
+    {
+      "$id": 598,
+      "style": 17,
+      "name": "Unpopular author"
+    },
+    {
+      "$id": 599,
+      "style": 13,
+      "name": "Talia"
+    },
+    {
+      "$id": 600,
+      "style": 17,
+      "name": "Gung-ho researcher"
+    },
+    {
+      "$id": 601,
+      "style": 13,
+      "name": "Nopon Sage"
+    },
+    {
+      "$id": 602,
+      "style": 17,
+      "name": "The sage of Makna"
+    },
+    {
+      "$id": 603,
+      "style": 13,
+      "name": "Garda"
+    },
+    {
+      "$id": 604,
+      "style": 17,
+      "name": "Excellent crafter"
+    },
+    {
+      "$id": 605,
+      "style": 13,
+      "name": "Cherri"
+    },
+    {
+      "$id": 606,
+      "style": 17,
+      "name": "Clumsy but avid crafter"
+    },
+    {
+      "$id": 607,
+      "style": 13,
+      "name": "Bahn"
+    },
+    {
+      "$id": 608,
+      "style": 13,
+      "name": "Bahn"
+    },
+    {
+      "$id": 609,
+      "style": 17,
+      "name": "Starting afresh"
+    },
+    {
+      "$id": 610,
+      "style": 13,
+      "name": "Sherren"
+    },
+    {
+      "$id": 611,
+      "style": 17,
+      "name": "Lighthouse Manager"
+    },
+    {
+      "$id": 612,
+      "style": 13,
+      "name": "Jack"
+    },
+    {
+      "$id": 613,
+      "style": 17,
+      "name": "Handyman manager"
+    },
+    {
+      "$id": 614,
+      "style": 13,
+      "name": "Talia"
+    },
+    {
+      "$id": 615,
+      "style": 17,
+      "name": "Gung-ho researcher"
+    },
+    {
+      "$id": 616,
+      "style": 13,
+      "name": "Milia"
+    },
+    {
+      "$id": 617,
+      "style": 17,
+      "name": "Fears for kids' futures"
+    },
+    {
+      "$id": 618,
+      "style": 13,
+      "name": "En Silver"
+    },
+    {
+      "$id": 619,
+      "style": 17,
+      "name": "Naïve sister"
+    },
+    {
+      "$id": 620,
+      "style": 13,
+      "name": "Mirallis"
+    },
+    {
+      "$id": 621,
+      "style": 17,
+      "name": "Hates yet admires his dad"
+    },
+    {
+      "$id": 622,
+      "style": 13,
+      "name": "Vivian"
+    },
+    {
+      "$id": 623,
+      "style": 17,
+      "name": "Loves the good old days"
+    },
+    {
+      "$id": 624,
+      "style": 13,
+      "name": "Tet"
+    },
+    {
+      "$id": 625,
+      "style": 17,
+      "name": "Budding scientist"
+    },
+    {
+      "$id": 626,
+      "style": 13,
+      "name": "Vivian"
+    },
+    {
+      "$id": 627,
+      "style": 17,
+      "name": "A little shy"
+    },
+    {
+      "$id": 628,
+      "style": 13,
+      "name": "Tet"
+    },
+    {
+      "$id": 629,
+      "style": 17,
+      "name": "Budding scientist"
+    },
+    {
+      "$id": 630,
+      "style": 13,
+      "name": "Krall"
+    },
+    {
+      "$id": 631,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 632,
+      "style": 13,
+      "name": "Dakuku"
+    },
+    {
+      "$id": 633,
+      "style": 17,
+      "name": "Research Team leader"
+    },
+    {
+      "$id": 634,
+      "style": 13,
+      "name": "Zain"
+    },
+    {
+      "$id": 635,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 636,
+      "style": 13,
+      "name": "Krall"
+    },
+    {
+      "$id": 637,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 638,
+      "style": 13,
+      "name": "Yuuri"
+    },
+    {
+      "$id": 639,
+      "style": 17,
+      "name": "Poet with writer's block"
+    },
+    {
+      "$id": 640,
+      "style": 13,
+      "name": "Zain"
+    },
+    {
+      "$id": 641,
+      "style": 17,
+      "name": "Half of an adventure duo"
+    },
+    {
+      "$id": 642,
+      "style": 13,
+      "name": "Theo"
+    },
+    {
+      "$id": 643,
+      "style": 17,
+      "name": "Nomadic Homs"
+    },
+    {
+      "$id": 644,
+      "style": 13,
+      "name": "Calbora"
+    },
+    {
+      "$id": 645,
+      "style": 17,
+      "name": "Afraid of heights"
+    },
+    {
+      "$id": 646,
+      "style": 13,
+      "name": "Bozerone"
+    },
+    {
+      "$id": 647,
+      "style": 17,
+      "name": "Survived despite the odds"
+    },
+    {
+      "$id": 648,
+      "style": 13,
+      "name": "Bozerone"
+    },
+    {
+      "$id": 649,
+      "style": 17,
+      "name": "Recon Squad"
+    },
+    {
+      "$id": 650,
+      "style": 13,
+      "name": "Armu"
+    },
+    {
+      "$id": 651,
+      "style": 13,
+      "name": "Smuggler"
+    },
+    {
+      "$id": 652,
+      "style": 17,
+      "name": "Black Market Trader"
+    },
+    {
+      "$id": 653,
+      "style": 13,
+      "name": "Captain"
+    },
+    {
+      "$id": 654,
+      "style": 13,
+      "name": "Worker"
+    },
+    {
+      "$id": 655,
+      "style": 13,
+      "name": "Weapon Shop"
+    },
+    {
+      "$id": 656,
+      "style": 13,
+      "name": "Armour Shop"
+    },
+    {
+      "$id": 657,
+      "style": 13,
+      "name": "Angry Bahn"
+    },
+    {
+      "$id": 658,
+      "style": 13,
+      "name": "Civil Protection Terminal"
+    },
+    {
+      "$id": 659,
+      "style": 13,
+      "name": "Civil Protection Terminal"
+    },
+    {
+      "$id": 660,
+      "style": 13,
+      "name": "Military Status Terminal"
+    },
+    {
+      "$id": 661,
+      "style": 13,
+      "name": "Military Status Terminal"
+    },
+    {
+      "$id": 662,
+      "style": 13,
+      "name": "City Planning Terminal"
+    },
+    {
+      "$id": 663,
+      "style": 13,
+      "name": "Strategic Intel Terminal"
+    },
+    {
+      "$id": 664,
+      "style": 13,
+      "name": "Shop Terminal"
+    },
+    {
+      "$id": 665,
+      "style": 13,
+      "name": "Capital Control Terminal"
+    },
+    {
+      "$id": 666,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 667,
+      "style": 13,
+      "name": "Weapon Shop"
+    },
+    {
+      "$id": 668,
+      "style": 13,
+      "name": "Armour Shop"
+    },
+    {
+      "$id": 669,
+      "style": 13,
+      "name": "Worker"
+    },
+    {
+      "$id": 670,
+      "style": 13,
+      "name": "Colony 6 Residents"
+    },
+    {
+      "$id": 671,
+      "style": 13,
+      "name": "Treasure Chest 1"
+    },
+    {
+      "$id": 672,
+      "style": 13,
+      "name": "Miss Sweetness"
+    },
+    {
+      "$id": 673,
+      "style": 13,
+      "name": "En Silver"
+    },
+    {
+      "$id": 674,
+      "style": 13,
+      "name": "Pepii"
+    },
+    {
+      "$id": 675,
+      "style": 13,
+      "name": "Zel Silver"
+    },
+    {
+      "$id": 676,
+      "style": 13,
+      "name": "Orkhong"
+    },
+    {
+      "$id": 677,
+      "style": 13,
+      "name": "Radam"
+    },
+    {
+      "$id": 678,
+      "style": 13,
+      "name": "Gelgar"
+    },
+    {
+      "$id": 679,
+      "style": 13,
+      "name": "Maxis"
+    },
+    {
+      "$id": 680,
+      "style": 13,
+      "name": "Gatekeeper"
+    },
+    {
+      "$id": 681,
+      "style": 13,
+      "name": "Gran Dell Resident"
+    },
+    {
+      "$id": 682,
+      "style": 13,
+      "name": "High Entia Soldier A"
+    },
+    {
+      "$id": 683,
+      "style": 13,
+      "name": "Homs Bunker"
+    },
+    {
+      "$id": 684,
+      "style": 13,
+      "name": "Homs Heavy Gunner"
+    },
+    {
+      "$id": 685,
+      "style": 13,
+      "name": "Homs Rifleman"
+    },
+    {
+      "$id": 686,
+      "style": 13,
+      "name": "Haemlin"
+    },
+    {
+      "$id": 687,
+      "style": 13,
+      "name": "Laennar"
+    },
+    {
+      "$id": 688,
+      "style": 13,
+      "name": "Fedorto"
+    },
+    {
+      "$id": 689,
+      "style": 13,
+      "name": "Robert"
+    },
+    {
+      "$id": 690,
+      "style": 13,
+      "name": "Hersel"
+    },
+    {
+      "$id": 691,
+      "style": 13,
+      "name": "Treanna"
+    },
+    {
+      "$id": 692,
+      "style": 13,
+      "name": "Gianna"
+    },
+    {
+      "$id": 693,
+      "style": 13,
+      "name": "Gannett"
+    },
+    {
+      "$id": 694,
+      "style": 13,
+      "name": "Companion-at-Arms"
+    },
+    {
+      "$id": 695,
+      "style": 13,
+      "name": "Nestor"
+    },
+    {
+      "$id": 696,
+      "style": 13,
+      "name": "Hermina"
+    },
+    {
+      "$id": 697,
+      "style": 13,
+      "name": "Amleto"
+    },
+    {
+      "$id": 698,
+      "style": 13,
+      "name": "Sele"
+    },
+    {
+      "$id": 699,
+      "style": 13,
+      "name": "Selsetana"
+    },
+    {
+      "$id": 700,
+      "style": 13,
+      "name": "Tasheen"
+    },
+    {
+      "$id": 701,
+      "style": 13,
+      "name": "Margo"
+    },
+    {
+      "$id": 702,
+      "style": 13,
+      "name": "Winia"
+    },
+    {
+      "$id": 703,
+      "style": 13,
+      "name": "Ines"
+    },
+    {
+      "$id": 704,
+      "style": 13,
+      "name": "Bartol"
+    },
+    {
+      "$id": 705,
+      "style": 13,
+      "name": "Angela"
+    },
+    {
+      "$id": 706,
+      "style": 13,
+      "name": "Lott"
+    },
+    {
+      "$id": 707,
+      "style": 13,
+      "name": "Allgran"
+    },
+    {
+      "$id": 708,
+      "style": 13,
+      "name": "Kurt"
+    },
+    {
+      "$id": 709,
+      "style": 13,
+      "name": "Alfreda"
+    },
+    {
+      "$id": 710,
+      "style": 13,
+      "name": "Rudolph"
+    },
+    {
+      "$id": 711,
+      "style": 13,
+      "name": "Arara"
+    },
+    {
+      "$id": 712,
+      "style": 13,
+      "name": "Bahn"
+    },
+    {
+      "$id": 713,
+      "style": 13,
+      "name": "Laban"
+    },
+    {
+      "$id": 714,
+      "style": 13,
+      "name": "Mithril"
+    },
+    {
+      "$id": 715,
+      "style": 13,
+      "name": "Pororo"
+    },
+    {
+      "$id": 716,
+      "style": 13,
+      "name": "Shuushuu"
+    },
+    {
+      "$id": 717,
+      "style": 13,
+      "name": "Melekanze"
+    },
+    {
+      "$id": 718,
+      "style": 13,
+      "name": "Leafa"
+    },
+    {
+      "$id": 719,
+      "style": 13,
+      "name": "Wanawana"
+    },
+    {
+      "$id": 720,
+      "style": 13,
+      "name": "Tsukuku"
+    },
+    {
+      "$id": 721,
+      "style": 13,
+      "name": "Dodora"
+    },
+    {
+      "$id": 722,
+      "style": 13,
+      "name": "Rutoru"
+    },
+    {
+      "$id": 723,
+      "style": 13,
+      "name": "Sakusaku"
+    },
+    {
+      "$id": 724,
+      "style": 13,
+      "name": "Setichi"
+    },
+    {
+      "$id": 725,
+      "style": 13,
+      "name": "Nanana"
+    },
+    {
+      "$id": 726,
+      "style": 13,
+      "name": "Hachocho"
+    },
+    {
+      "$id": 727,
+      "style": 13,
+      "name": "Noino"
+    },
+    {
+      "$id": 728,
+      "style": 13,
+      "name": "Torotoro"
+    },
+    {
+      "$id": 729,
+      "style": 13,
+      "name": "Shiishii"
+    },
+    {
+      "$id": 730,
+      "style": 13,
+      "name": "Unini"
+    },
+    {
+      "$id": 731,
+      "style": 13,
+      "name": "Nopon Archsage"
+    },
+    {
+      "$id": 732,
+      "style": 13,
+      "name": "狼リーダー"
+    },
+    {
+      "$id": 733,
+      "style": 13,
+      "name": "狼取り巻き"
+    },
+    {
+      "$id": 734,
+      "style": 13,
+      "name": "下層プテラ（霧乃獣）"
+    },
+    {
+      "$id": 735,
+      "style": 13,
+      "name": "アルマオス"
+    },
+    {
+      "$id": 736,
+      "style": 13,
+      "name": "アルマメス"
+    },
+    {
+      "$id": 737,
+      "style": 13,
+      "name": "ベビーアルマ"
+    },
+    {
+      "$id": 738,
+      "style": 13,
+      "name": "アルマオス（霧乃獣）"
+    },
+    {
+      "$id": 739,
+      "style": 13,
+      "name": "アルマメス（霧乃獣）"
+    },
+    {
+      "$id": 740,
+      "style": 13,
+      "name": "ベビーアルマ（霧乃獣）"
+    },
+    {
+      "$id": 741,
+      "style": 13,
+      "name": "ポニオ"
+    },
+    {
+      "$id": 742,
+      "style": 13,
+      "name": "ポニオ（霧乃獣）"
+    },
+    {
+      "$id": 743,
+      "style": 13,
+      "name": "トリケラ（霧乃獣）"
+    },
+    {
+      "$id": 744,
+      "style": 13,
+      "name": "上層狼（霧乃獣）"
+    },
+    {
+      "$id": 745,
+      "style": 13,
+      "name": "女王クモ（霧乃獣）"
+    },
+    {
+      "$id": 746,
+      "style": 13,
+      "name": "クモ取り巻き（霧乃獣）"
+    },
+    {
+      "$id": 747,
+      "style": 13,
+      "name": "蝙蝠(霧乃獣)"
+    },
+    {
+      "$id": 748,
+      "style": 13,
+      "name": "ディオス"
+    },
+    {
+      "$id": 749,
+      "style": 13,
+      "name": "エルーカ"
+    },
+    {
+      "$id": 750,
+      "style": 13,
+      "name": "ドラゴン"
+    },
+    {
+      "$id": 751,
+      "style": 13,
+      "name": "バーン入りプテルス"
+    },
+    {
+      "$id": 752,
+      "style": 13,
+      "name": "三つ首テレシア"
+    },
+    {
+      "$id": 753,
+      "style": 13,
+      "name": "焚火"
+    },
+    {
+      "$id": 754,
+      "style": 13,
+      "name": "書割：ソレアン1"
+    },
+    {
+      "$id": 755,
+      "style": 13,
+      "name": "書割：カリアン1"
+    },
+    {
+      "$id": 756,
+      "style": 13,
+      "name": "書割：タルコ1"
+    },
+    {
+      "$id": 757,
+      "style": 13,
+      "name": "書割：ソレアン2"
+    },
+    {
+      "$id": 758,
+      "style": 13,
+      "name": "書割：カリアン2"
+    },
+    {
+      "$id": 759,
+      "style": 13,
+      "name": "書割：カリアン3"
+    },
+    {
+      "$id": 760,
+      "style": 13,
+      "name": "書割：タルコ2"
+    },
+    {
+      "$id": 761,
+      "style": 13,
+      "name": "書割：霧乃王回想"
+    },
+    {
+      "$id": 762,
+      "style": 13,
+      "name": "書割：アルマ1"
+    },
+    {
+      "$id": 763,
+      "style": 13,
+      "name": "書割：アルマ2"
+    },
+    {
+      "$id": 764,
+      "style": 13,
+      "name": "書割：アルマ3"
+    },
+    {
+      "$id": 765,
+      "style": 13,
+      "name": "書割：タルコ3"
+    },
+    {
+      "$id": 766,
+      "style": 13,
+      "name": "書割：メリアと近衛兵1"
+    },
+    {
+      "$id": 767,
+      "style": 13,
+      "name": "書割：メリアと近衛兵2"
+    },
+    {
+      "$id": 768,
+      "style": 13,
+      "name": "書割：メリアと近衛兵3"
+    },
+    {
+      "$id": 769,
+      "style": 13,
+      "name": "テレシア中型"
+    },
+    {
+      "$id": 770,
+      "style": 13,
+      "name": "テレシア鯨型"
+    },
+    {
+      "$id": 771,
+      "style": 13,
+      "name": "Monado EX"
+    },
+    {
+      "$id": 772,
+      "style": 13,
+      "name": "モナドEX　第二形態"
+    },
+    {
+      "$id": 773,
+      "style": 13,
+      "name": "AoCメリア初期武器"
+    },
+    {
+      "$id": 774,
+      "style": 13,
+      "name": "タルコの仮面"
+    },
+    {
+      "$id": 775,
+      "style": 13,
+      "name": "Bama"
+    },
+    {
+      "$id": 776,
+      "style": 13,
+      "name": "???"
+    },
+    {
+      "$id": 777,
+      "style": 13,
+      "name": "巨大プリン+皿"
+    },
+    {
+      "$id": 778,
+      "style": 13,
+      "name": "皿のみ"
+    },
+    {
+      "$id": 779,
+      "style": 13,
+      "name": "宝箱：閉じ"
+    },
+    {
+      "$id": 780,
+      "style": 13,
+      "name": "宝箱：開け"
+    },
+    {
+      "$id": 781,
+      "style": 13,
+      "name": "Baby Armu"
+    },
+    {
+      "$id": 782,
+      "style": 13,
+      "name": "Gran Dell Militia"
+    },
+    {
+      "$id": 783,
+      "style": 13,
+      "name": "Sarja"
+    },
+    {
+      "$id": 784,
+      "style": 13,
+      "name": "Cape Resident"
+    },
+    {
+      "$id": 785,
+      "style": 13,
+      "name": "Gran Dell Resident"
+    }
+  ]
+}

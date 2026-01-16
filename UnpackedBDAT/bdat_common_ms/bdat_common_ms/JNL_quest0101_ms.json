@@ -1,0 +1,424 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Mementos of a Lost Son"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "The Key to a Long Life"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "A Curry Conundrum"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "Biscuits for a Grandson"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "Birthday Shoes"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Education-Minded Suzanna"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "Education-Crazy Suzanna"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "Flattened Flowers"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "Lonely Nilny"
+    },
+    {
+      "$id": 10,
+      "style": 17,
+      "name": "The Broken Watch"
+    },
+    {
+      "$id": 11,
+      "style": 17,
+      "name": "The Old Soldier's Test"
+    },
+    {
+      "$id": 12,
+      "style": 17,
+      "name": "Romantic Notions of a Girl"
+    },
+    {
+      "$id": 13,
+      "style": 17,
+      "name": "Romantic Notions of a Boy"
+    },
+    {
+      "$id": 14,
+      "style": 17,
+      "name": "An Impoverished Critic"
+    },
+    {
+      "$id": 15,
+      "style": 17,
+      "name": "Financial Planning"
+    },
+    {
+      "$id": 16,
+      "style": 17,
+      "name": "Overworked and Underpaid"
+    },
+    {
+      "$id": 17,
+      "style": 17,
+      "name": "Pestering Paola"
+    },
+    {
+      "$id": 18,
+      "style": 17,
+      "name": "Out-of-Luck Copham"
+    },
+    {
+      "$id": 19,
+      "style": 17,
+      "name": "Paola and Narine"
+    },
+    {
+      "$id": 20,
+      "style": 17,
+      "name": "The Plan - Preparation"
+    },
+    {
+      "$id": 21,
+      "style": 17,
+      "name": "The Plan - The Night Before"
+    },
+    {
+      "$id": 22,
+      "style": 17,
+      "name": "The Plan - Execution"
+    },
+    {
+      "$id": 23,
+      "style": 17,
+      "name": "A Young Captain's Request"
+    },
+    {
+      "$id": 24,
+      "style": 17,
+      "name": "A Young Captain's Suffering"
+    },
+    {
+      "$id": 25,
+      "style": 17,
+      "name": "A Young Captain's Rise"
+    },
+    {
+      "$id": 26,
+      "style": 17,
+      "name": "A Young Captain's Challenge"
+    },
+    {
+      "$id": 27,
+      "style": 17,
+      "name": "A Young Captain's Trust"
+    },
+    {
+      "$id": 28,
+      "style": 17,
+      "name": "A Young Captain's Revival"
+    },
+    {
+      "$id": 29,
+      "style": 17,
+      "name": "Pride and Courage"
+    },
+    {
+      "$id": 30,
+      "style": 17,
+      "name": "Friendship Tokens"
+    },
+    {
+      "$id": 31,
+      "style": 17,
+      "name": "A Big Brother's Fight"
+    },
+    {
+      "$id": 32,
+      "style": 17,
+      "name": "A Little Brother's Fight"
+    },
+    {
+      "$id": 33,
+      "style": 17,
+      "name": "A Place to Come Home to"
+    },
+    {
+      "$id": 34,
+      "style": 17,
+      "name": "Thawing Relations"
+    },
+    {
+      "$id": 35,
+      "style": 17,
+      "name": "Rocco's Heartful Request"
+    },
+    {
+      "$id": 36,
+      "style": 17,
+      "name": "Dean's Shady Request"
+    },
+    {
+      "$id": 37,
+      "style": 17,
+      "name": "Riruka's Sincere Request"
+    },
+    {
+      "$id": 38,
+      "style": 17,
+      "name": "Jackson's Awakening"
+    },
+    {
+      "$id": 39,
+      "style": 17,
+      "name": "Jackson the Cook"
+    },
+    {
+      "$id": 40,
+      "style": 17,
+      "name": "Jackson the Poet"
+    },
+    {
+      "$id": 41,
+      "style": 17,
+      "name": "Désirée's Future"
+    },
+    {
+      "$id": 42,
+      "style": 17,
+      "name": "Betty's Gift"
+    },
+    {
+      "$id": 43,
+      "style": 17,
+      "name": "Désirée's Apology"
+    },
+    {
+      "$id": 44,
+      "style": 17,
+      "name": "The Elite Captain's Anguish"
+    },
+    {
+      "$id": 45,
+      "style": 17,
+      "name": "Getting to Know Minnie"
+    },
+    {
+      "$id": 46,
+      "style": 17,
+      "name": "Getting to Know Dorothy"
+    },
+    {
+      "$id": 47,
+      "style": 17,
+      "name": "A Mysterious Light"
+    },
+    {
+      "$id": 48,
+      "style": 17,
+      "name": "Out Like a Light?"
+    },
+    {
+      "$id": 49,
+      "style": 17,
+      "name": "The Lost Pendant"
+    },
+    {
+      "$id": 50,
+      "style": 17,
+      "name": "Monster Quest 1 - Part 1"
+    },
+    {
+      "$id": 51,
+      "style": 17,
+      "name": "Monster Quest 1 - Part 2"
+    },
+    {
+      "$id": 52,
+      "style": 17,
+      "name": "Monster Quest 1 - Part 3"
+    },
+    {
+      "$id": 53,
+      "style": 17,
+      "name": "Monster Quest 2 - Part 1"
+    },
+    {
+      "$id": 54,
+      "style": 17,
+      "name": "Monster Quest 2 - Part 2"
+    },
+    {
+      "$id": 55,
+      "style": 17,
+      "name": "Monster Quest 2 - Part 3"
+    },
+    {
+      "$id": 56,
+      "style": 17,
+      "name": "Monster Quest 3 - Part 1"
+    },
+    {
+      "$id": 57,
+      "style": 17,
+      "name": "Monster Quest 3 - Part 2"
+    },
+    {
+      "$id": 58,
+      "style": 17,
+      "name": "Monster Quest 3 - Part 3"
+    },
+    {
+      "$id": 59,
+      "style": 17,
+      "name": "Monster Quest 3 - Part 4"
+    },
+    {
+      "$id": 60,
+      "style": 17,
+      "name": "Monster Quest 4 - Part 1"
+    },
+    {
+      "$id": 61,
+      "style": 17,
+      "name": "Monster Quest 4 - Part 2"
+    },
+    {
+      "$id": 62,
+      "style": 17,
+      "name": "Monster Quest 4 - Part 3"
+    },
+    {
+      "$id": 63,
+      "style": 17,
+      "name": "Challenge 1"
+    },
+    {
+      "$id": 64,
+      "style": 17,
+      "name": "Challenge 2"
+    },
+    {
+      "$id": 65,
+      "style": 17,
+      "name": "Challenge 3"
+    },
+    {
+      "$id": 66,
+      "style": 17,
+      "name": "Challenge 4"
+    },
+    {
+      "$id": 67,
+      "style": 17,
+      "name": "Material Quest 1"
+    },
+    {
+      "$id": 68,
+      "style": 17,
+      "name": "Material Quest 2"
+    },
+    {
+      "$id": 69,
+      "style": 17,
+      "name": "Material Quest 3"
+    },
+    {
+      "$id": 70,
+      "style": 17,
+      "name": "Material Quest 4"
+    },
+    {
+      "$id": 71,
+      "style": 17,
+      "name": "Collection Quest 1"
+    },
+    {
+      "$id": 72,
+      "style": 17,
+      "name": "Collection Quest 2"
+    },
+    {
+      "$id": 73,
+      "style": 17,
+      "name": "Collection Quest 3"
+    },
+    {
+      "$id": 74,
+      "style": 17,
+      "name": "Collection Quest 4"
+    },
+    {
+      "$id": 75,
+      "style": 17,
+      "name": "Search Quest 1"
+    },
+    {
+      "$id": 76,
+      "style": 17,
+      "name": "Search Quest 2"
+    },
+    {
+      "$id": 77,
+      "style": 17,
+      "name": "Search Quest 3"
+    },
+    {
+      "$id": 78,
+      "style": 17,
+      "name": "Search Quest 4"
+    },
+    {
+      "$id": 79,
+      "style": 17,
+      "name": "A Token of Friendship"
+    },
+    {
+      "$id": 80,
+      "style": 17,
+      "name": "The Gem Man's Invention"
+    },
+    {
+      "$id": 81,
+      "style": 17,
+      "name": "Secret"
+    },
+    {
+      "$id": 82,
+      "style": 17,
+      "name": "Delivering Food"
+    }
+  ]
+}

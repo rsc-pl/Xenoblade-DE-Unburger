@@ -1,0 +1,1029 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 12,
+      "name": "[ML:icon icon=icon3 ]: Change Target"
+    },
+    {
+      "$id": 2,
+      "style": 12,
+      "name": "Cancel Target"
+    },
+    {
+      "$id": 3,
+      "style": 12,
+      "name": "Change Target"
+    },
+    {
+      "$id": 4,
+      "style": 12,
+      "name": "Focus attacks!"
+    },
+    {
+      "$id": 5,
+      "style": 12,
+      "name": "Engage at will!"
+    },
+    {
+      "$id": 6,
+      "style": 12,
+      "name": "Come to me!"
+    },
+    {
+      "$id": 7,
+      "style": 12,
+      "name": "Engage at will!"
+    },
+    {
+      "$id": 8,
+      "style": 12,
+      "name": "Come to me!"
+    },
+    {
+      "$id": 9,
+      "style": 12,
+      "name": "Move Camera"
+    },
+    {
+      "$id": 10,
+      "style": 12,
+      "name": "Zoom -"
+    },
+    {
+      "$id": 11,
+      "style": 12,
+      "name": "Reset"
+    },
+    {
+      "$id": 12,
+      "style": 12,
+      "name": "Zoom +"
+    },
+    {
+      "$id": 13,
+      "style": 12,
+      "name": "Reset"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Target"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Talk"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Shop"
+    },
+    {
+      "$id": 17,
+      "style": 12,
+      "name": "Talk"
+    },
+    {
+      "$id": 18,
+      "style": 12,
+      "name": "Trade"
+    },
+    {
+      "$id": 19,
+      "style": 12,
+      "name": "Examine"
+    },
+    {
+      "$id": 20,
+      "style": 12,
+      "name": "Harvest"
+    },
+    {
+      "$id": 21,
+      "style": 12,
+      "name": "Bonding Talk"
+    },
+    {
+      "$id": 22,
+      "style": 12,
+      "name": "Menu"
+    },
+    {
+      "$id": 23,
+      "style": 12,
+      "name": "Story Memo"
+    },
+    {
+      "$id": 24,
+      "style": 12,
+      "name": "Select Arts"
+    },
+    {
+      "$id": 25,
+      "style": 12,
+      "name": "Select Target"
+    },
+    {
+      "$id": 26,
+      "style": 12,
+      "name": "Select Arts"
+    },
+    {
+      "$id": 27,
+      "style": 12,
+      "name": "Revive"
+    },
+    {
+      "$id": 28,
+      "style": 12,
+      "name": "Help"
+    },
+    {
+      "$id": 29,
+      "style": 12,
+      "name": "Help"
+    },
+    {
+      "$id": 30,
+      "style": 9,
+      "name": "Warn"
+    },
+    {
+      "$id": 31,
+      "style": 9,
+      "name": "Warn"
+    },
+    {
+      "$id": 32,
+      "style": 12,
+      "name": "Encourage"
+    },
+    {
+      "$id": 33,
+      "style": 12,
+      "name": "Encourage"
+    },
+    {
+      "$id": 34,
+      "style": 12,
+      "name": "Check"
+    },
+    {
+      "$id": 35,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 36,
+      "style": 12,
+      "name": "Close"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "End"
+    },
+    {
+      "$id": 38,
+      "style": 12,
+      "name": "Main Menu"
+    },
+    {
+      "$id": 39,
+      "style": 12,
+      "name": "Close"
+    },
+    {
+      "$id": 40,
+      "style": 12,
+      "name": "Begin Without Saving"
+    },
+    {
+      "$id": 41,
+      "style": 12,
+      "name": "Delete and Continue"
+    },
+    {
+      "$id": 42,
+      "style": 12,
+      "name": "Select Character"
+    },
+    {
+      "$id": 43,
+      "style": 12,
+      "name": "Change Equipment"
+    },
+    {
+      "$id": 44,
+      "style": 12,
+      "name": "Character"
+    },
+    {
+      "$id": 45,
+      "style": 12,
+      "name": "Select"
+    },
+    {
+      "$id": 46,
+      "style": 12,
+      "name": "Remove"
+    },
+    {
+      "$id": 47,
+      "style": 12,
+      "name": "Change Character"
+    },
+    {
+      "$id": 48,
+      "style": 12,
+      "name": "View Character"
+    },
+    {
+      "$id": 49,
+      "style": 12,
+      "name": "Details"
+    },
+    {
+      "$id": 50,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 51,
+      "style": 12,
+      "name": "Change Tab"
+    },
+    {
+      "$id": 52,
+      "style": 12,
+      "name": "Level Up"
+    },
+    {
+      "$id": 53,
+      "style": 12,
+      "name": "Set"
+    },
+    {
+      "$id": 54,
+      "style": 12,
+      "name": "Change Character"
+    },
+    {
+      "$id": 55,
+      "style": 12,
+      "name": "Remove"
+    },
+    {
+      "$id": 56,
+      "style": 12,
+      "name": "Change Arts"
+    },
+    {
+      "$id": 57,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "Select"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "Sort Menu"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "Select"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "Change Character"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "Sort Menu"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "Details"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "End"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "Acquire"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "Set"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "Return"
+    },
+    {
+      "$id": 68,
+      "style": 12,
+      "name": "Sort Menu"
+    },
+    {
+      "$id": 69,
+      "style": 12,
+      "name": "View Qualities"
+    },
+    {
+      "$id": 70,
+      "style": 12,
+      "name": "Change"
+    },
+    {
+      "$id": 71,
+      "style": 12,
+      "name": "Details"
+    },
+    {
+      "$id": 72,
+      "style": 12,
+      "name": "Return"
+    },
+    {
+      "$id": 73,
+      "style": 12,
+      "name": "Speed Up"
+    },
+    {
+      "$id": 74,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 75,
+      "style": 12,
+      "name": "Open"
+    },
+    {
+      "$id": 76,
+      "style": 6,
+      "name": "Categories"
+    },
+    {
+      "$id": 77,
+      "style": 12,
+      "name": "List"
+    },
+    {
+      "$id": 78,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 79,
+      "style": 12,
+      "name": "Area Map"
+    },
+    {
+      "$id": 80,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 81,
+      "style": 12,
+      "name": "Move Cursor"
+    },
+    {
+      "$id": 82,
+      "style": 12,
+      "name": "Change Level"
+    },
+    {
+      "$id": 83,
+      "style": 12,
+      "name": "Legend"
+    },
+    {
+      "$id": 84,
+      "style": 12,
+      "name": "Toggle Menu"
+    },
+    {
+      "$id": 85,
+      "style": 12,
+      "name": "Skip Event"
+    },
+    {
+      "$id": 86,
+      "style": 12,
+      "name": "Unpause Event"
+    },
+    {
+      "$id": 87,
+      "style": 12,
+      "name": "Record"
+    },
+    {
+      "$id": 88,
+      "style": 12,
+      "name": "Change Page"
+    },
+    {
+      "$id": 89,
+      "style": 12,
+      "name": "(Delete"
+    },
+    {
+      "$id": 90,
+      "style": 12,
+      "name": "(Delete)"
+    },
+    {
+      "$id": 91,
+      "style": 12,
+      "name": "Toggle Menu"
+    },
+    {
+      "$id": 92,
+      "style": 12,
+      "name": "Zoom Out"
+    },
+    {
+      "$id": 93,
+      "style": 12,
+      "name": "Zoom In"
+    },
+    {
+      "$id": 94,
+      "style": 12,
+      "name": "(Delete)"
+    },
+    {
+      "$id": 95,
+      "style": 12,
+      "name": "Toggle Menu"
+    },
+    {
+      "$id": 96,
+      "style": 12,
+      "name": "Zoom Out"
+    },
+    {
+      "$id": 97,
+      "style": 12,
+      "name": "Party"
+    },
+    {
+      "$id": 98,
+      "style": 12,
+      "name": "Locations"
+    },
+    {
+      "$id": 99,
+      "style": 12,
+      "name": "Change Trait"
+    },
+    {
+      "$id": 100,
+      "style": 12,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 101,
+      "style": 12,
+      "name": "Change Character"
+    },
+    {
+      "$id": 102,
+      "style": 12,
+      "name": "(Delete"
+    },
+    {
+      "$id": 103,
+      "style": 12,
+      "name": "Change Skill"
+    },
+    {
+      "$id": 104,
+      "style": 12,
+      "name": "Skill Tree"
+    },
+    {
+      "$id": 105,
+      "style": 12,
+      "name": "Change Character"
+    },
+    {
+      "$id": 106,
+      "style": 12,
+      "name": "(Delete"
+    },
+    {
+      "$id": 107,
+      "style": 12,
+      "name": "Set Skill"
+    },
+    {
+      "$id": 108,
+      "style": 12,
+      "name": "Remove"
+    },
+    {
+      "$id": 109,
+      "style": 12,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 110,
+      "style": 12,
+      "name": "Skill Tree"
+    },
+    {
+      "$id": 111,
+      "style": 12,
+      "name": "Trials"
+    },
+    {
+      "$id": 112,
+      "style": 12,
+      "name": "Records"
+    },
+    {
+      "$id": 113,
+      "style": 12,
+      "name": "Return"
+    },
+    {
+      "$id": 114,
+      "style": 12,
+      "name": "Save"
+    },
+    {
+      "$id": 115,
+      "style": 12,
+      "name": "Load"
+    },
+    {
+      "$id": 116,
+      "style": 12,
+      "name": "Copy"
+    },
+    {
+      "$id": 117,
+      "style": 12,
+      "name": "Delete"
+    },
+    {
+      "$id": 118,
+      "style": 12,
+      "name": "Copy"
+    },
+    {
+      "$id": 119,
+      "style": 12,
+      "name": "Move Camera"
+    },
+    {
+      "$id": 120,
+      "style": 12,
+      "name": "Slide"
+    },
+    {
+      "$id": 121,
+      "style": 12,
+      "name": "Return"
+    },
+    {
+      "$id": 122,
+      "style": 12,
+      "name": "Toggle Menu"
+    },
+    {
+      "$id": 123,
+      "style": 12,
+      "name": "Rotate"
+    },
+    {
+      "$id": 124,
+      "style": 12,
+      "name": "Zoom In"
+    },
+    {
+      "$id": 125,
+      "style": 12,
+      "name": "Zoom Out"
+    },
+    {
+      "$id": 126,
+      "style": 12,
+      "name": "Reset"
+    },
+    {
+      "$id": 127,
+      "style": 12,
+      "name": "＋"
+    },
+    {
+      "$id": 128,
+      "style": 12,
+      "name": "Zoom"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "Change"
+    },
+    {
+      "$id": 130,
+      "style": 12,
+      "name": "Change"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "＋"
+    },
+    {
+      "$id": 132,
+      "style": 12,
+      "name": "Close"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "Next"
+    },
+    {
+      "$id": 134,
+      "style": 12,
+      "name": "Previous"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "Change"
+    },
+    {
+      "$id": 136,
+      "style": 12,
+      "name": "Reset"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "Apply Changes"
+    },
+    {
+      "$id": 138,
+      "style": 12,
+      "name": "Change"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "Details"
+    },
+    {
+      "$id": 140,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 141,
+      "style": 12,
+      "name": "Forward"
+    },
+    {
+      "$id": 142,
+      "style": 12,
+      "name": "Back"
+    },
+    {
+      "$id": 143,
+      "style": 0,
+      "name": "以下、新規データ"
+    },
+    {
+      "$id": 144,
+      "style": 7,
+      "name": "Quest"
+    },
+    {
+      "$id": 145,
+      "style": 7,
+      "name": "Story"
+    },
+    {
+      "$id": 146,
+      "style": 5,
+      "name": "Close"
+    },
+    {
+      "$id": 147,
+      "style": 7,
+      "name": "Show Route"
+    },
+    {
+      "$id": 148,
+      "style": 7,
+      "name": "Page"
+    },
+    {
+      "$id": 149,
+      "style": 23,
+      "name": "クローズ（長押しでナビゲート操作）"
+    },
+    {
+      "$id": 150,
+      "style": 7,
+      "name": "Change Page"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "Reconstruction Info"
+    },
+    {
+      "$id": 152,
+      "style": 9,
+      "name": "詳細表示切替"
+    },
+    {
+      "$id": 153,
+      "style": 9,
+      "name": "単体表示切替"
+    },
+    {
+      "$id": 154,
+      "style": 12,
+      "name": "Submenu"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "Effects"
+    },
+    {
+      "$id": 156,
+      "style": 12,
+      "name": "Compare"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "Monado Arts"
+    },
+    {
+      "$id": 158,
+      "style": 12,
+      "name": "Regular Arts"
+    },
+    {
+      "$id": 159,
+      "style": 12,
+      "name": "Select Landmark"
+    },
+    {
+      "$id": 160,
+      "style": 12,
+      "name": "Set Marker"
+    },
+    {
+      "$id": 161,
+      "style": 12,
+      "name": "Remove Marker"
+    },
+    {
+      "$id": 162,
+      "style": 12,
+      "name": "Details"
+    },
+    {
+      "$id": 163,
+      "style": 12,
+      "name": "Item Details"
+    },
+    {
+      "$id": 164,
+      "style": 12,
+      "name": "Speed Up"
+    },
+    {
+      "$id": 165,
+      "style": 12,
+      "name": "Receive"
+    },
+    {
+      "$id": 166,
+      "style": 12,
+      "name": "Refuse"
+    },
+    {
+      "$id": 167,
+      "style": 12,
+      "name": "Residents"
+    },
+    {
+      "$id": 168,
+      "style": 12,
+      "name": "Track"
+    },
+    {
+      "$id": 169,
+      "style": 12,
+      "name": "Stop Tracking"
+    },
+    {
+      "$id": 170,
+      "style": 12,
+      "name": "Discard"
+    },
+    {
+      "$id": 171,
+      "style": 12,
+      "name": "Change Level"
+    },
+    {
+      "$id": 172,
+      "style": 12,
+      "name": "Buy"
+    },
+    {
+      "$id": 173,
+      "style": 12,
+      "name": "Sell"
+    },
+    {
+      "$id": 174,
+      "style": 12,
+      "name": "Set as Active"
+    },
+    {
+      "$id": 175,
+      "style": 12,
+      "name": "Set as Favourite"
+    },
+    {
+      "$id": 176,
+      "style": 12,
+      "name": "Remove Favourite"
+    },
+    {
+      "$id": 177,
+      "style": 12,
+      "name": "Arts Settings"
+    },
+    {
+      "$id": 178,
+      "style": 12,
+      "name": "Party Details"
+    },
+    {
+      "$id": 179,
+      "style": 12,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 180,
+      "style": 12,
+      "name": "Battle Commands"
+    },
+    {
+      "$id": 181,
+      "style": 12,
+      "name": "Reconstruction Info"
+    },
+    {
+      "$id": 182,
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 183,
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 184,
+      "style": 12,
+      "name": "Rotate/Zoom"
+    },
+    {
+      "$id": 185,
+      "style": 12,
+      "name": "Select"
+    },
+    {
+      "$id": 186,
+      "style": 12,
+      "name": "Set"
+    },
+    {
+      "$id": 187,
+      "style": 12,
+      "name": "Deactivate"
+    },
+    {
+      "$id": 188,
+      "style": 12,
+      "name": "Bonding Graph: Party"
+    },
+    {
+      "$id": 189,
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 190,
+      "style": 12,
+      "name": "Use all EXP"
+    },
+    {
+      "$id": 191,
+      "style": 12,
+      "name": "Confirm"
+    },
+    {
+      "$id": 192,
+      "style": 12,
+      "name": "Hold to keep selling"
+    },
+    {
+      "$id": 193,
+      "style": 12,
+      "name": "Auto-run"
+    },
+    {
+      "$id": 194,
+      "style": 12,
+      "name": "Slide"
+    },
+    {
+      "$id": 195,
+      "style": 12,
+      "name": "Zoom"
+    },
+    {
+      "$id": 196,
+      "style": 12,
+      "name": "Give Up"
+    },
+    {
+      "$id": 197,
+      "style": 12,
+      "name": "Select Feature"
+    },
+    {
+      "$id": 198,
+      "style": 12,
+      "name": "Claim Cylinders"
+    },
+    {
+      "$id": 199,
+      "style": 12,
+      "name": "Tutorial"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 201,
+      "style": 12,
+      "name": "Toggle Interface"
+    },
+    {
+      "$id": 202,
+      "style": 12,
+      "name": "Play with default gear"
+    },
+    {
+      "$id": 203,
+      "style": 12,
+      "name": "Play"
+    }
+  ]
+}

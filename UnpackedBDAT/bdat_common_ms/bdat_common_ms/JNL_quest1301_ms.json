@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Chilkins and Antols"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "Valak Mountain Research"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "The Freezing Nopon"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "Bad Timing"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "Chilkin Changes"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "The Balance of Power"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "The Missing Partner"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "The Final Giants' Ruins"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "The Giants' Treasures"
+    },
+    {
+      "$id": 10,
+      "style": 17,
+      "name": "Monster Quest 1"
+    },
+    {
+      "$id": 11,
+      "style": 17,
+      "name": "Monster Quest 2"
+    },
+    {
+      "$id": 12,
+      "style": 17,
+      "name": "Monster Quest 3"
+    },
+    {
+      "$id": 13,
+      "style": 17,
+      "name": "Monster Quest 4"
+    },
+    {
+      "$id": 14,
+      "style": 17,
+      "name": "The Magma Rock"
+    }
+  ]
+}

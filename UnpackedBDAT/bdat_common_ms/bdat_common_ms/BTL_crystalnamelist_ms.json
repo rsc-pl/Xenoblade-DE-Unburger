@@ -1,0 +1,494 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 8,
+      "name": "White"
+    },
+    {
+      "$id": 2,
+      "style": 8,
+      "name": "Spider"
+    },
+    {
+      "$id": 3,
+      "style": 10,
+      "name": "Yado"
+    },
+    {
+      "$id": 4,
+      "style": 8,
+      "name": "Tuber"
+    },
+    {
+      "$id": 5,
+      "style": 8,
+      "name": "Bee"
+    },
+    {
+      "$id": 6,
+      "style": 8,
+      "name": "Armu"
+    },
+    {
+      "$id": 7,
+      "style": 8,
+      "name": "Bunni"
+    },
+    {
+      "$id": 8,
+      "style": 8,
+      "name": "Beast"
+    },
+    {
+      "$id": 9,
+      "style": 8,
+      "name": "Mollusc"
+    },
+    {
+      "$id": 10,
+      "style": 8,
+      "name": "Bird"
+    },
+    {
+      "$id": 11,
+      "style": 8,
+      "name": "Bug"
+    },
+    {
+      "$id": 12,
+      "style": 8,
+      "name": "Aquatic"
+    },
+    {
+      "$id": 13,
+      "style": 8,
+      "name": "Magic"
+    },
+    {
+      "$id": 14,
+      "style": 8,
+      "name": "Ancient"
+    },
+    {
+      "$id": 15,
+      "style": 8,
+      "name": "Mystery"
+    },
+    {
+      "$id": 16,
+      "style": 8,
+      "name": "Bunnit"
+    },
+    {
+      "$id": 17,
+      "style": 8,
+      "name": "Bunniv"
+    },
+    {
+      "$id": 18,
+      "style": 8,
+      "name": "Bunnia"
+    },
+    {
+      "$id": 19,
+      "style": 8,
+      "name": "Hox"
+    },
+    {
+      "$id": 20,
+      "style": 8,
+      "name": "Volff"
+    },
+    {
+      "$id": 21,
+      "style": 8,
+      "name": "Feris"
+    },
+    {
+      "$id": 22,
+      "style": 8,
+      "name": "Armu"
+    },
+    {
+      "$id": 23,
+      "style": 8,
+      "name": "Ardun"
+    },
+    {
+      "$id": 24,
+      "style": 8,
+      "name": "Aries"
+    },
+    {
+      "$id": 25,
+      "style": 8,
+      "name": "Ories"
+    },
+    {
+      "$id": 26,
+      "style": 8,
+      "name": "Balgas"
+    },
+    {
+      "$id": 27,
+      "style": 8,
+      "name": "Eks"
+    },
+    {
+      "$id": 28,
+      "style": 8,
+      "name": "Barg"
+    },
+    {
+      "$id": 29,
+      "style": 8,
+      "name": "Ponio"
+    },
+    {
+      "$id": 30,
+      "style": 8,
+      "name": "Obart"
+    },
+    {
+      "$id": 31,
+      "style": 8,
+      "name": "Gogol"
+    },
+    {
+      "$id": 32,
+      "style": 8,
+      "name": "Brog"
+    },
+    {
+      "$id": 33,
+      "style": 8,
+      "name": "Rhana"
+    },
+    {
+      "$id": 34,
+      "style": 8,
+      "name": "Upa"
+    },
+    {
+      "$id": 35,
+      "style": 8,
+      "name": "Lizard"
+    },
+    {
+      "$id": 36,
+      "style": 8,
+      "name": "Deinos"
+    },
+    {
+      "$id": 37,
+      "style": 8,
+      "name": "Sauros"
+    },
+    {
+      "$id": 38,
+      "style": 8,
+      "name": "Dragon"
+    },
+    {
+      "$id": 39,
+      "style": 8,
+      "name": "Pterix"
+    },
+    {
+      "$id": 40,
+      "style": 8,
+      "name": "Ekidno"
+    },
+    {
+      "$id": 41,
+      "style": 8,
+      "name": "Tokilos"
+    },
+    {
+      "$id": 42,
+      "style": 8,
+      "name": "Behemoth"
+    },
+    {
+      "$id": 43,
+      "style": 8,
+      "name": "Mammut"
+    },
+    {
+      "$id": 44,
+      "style": 8,
+      "name": "Flamii"
+    },
+    {
+      "$id": 45,
+      "style": 8,
+      "name": "Ageshu"
+    },
+    {
+      "$id": 46,
+      "style": 8,
+      "name": "Rhogul"
+    },
+    {
+      "$id": 47,
+      "style": 8,
+      "name": "Ansel"
+    },
+    {
+      "$id": 48,
+      "style": 8,
+      "name": "Quadwing"
+    },
+    {
+      "$id": 49,
+      "style": 8,
+      "name": "Egel"
+    },
+    {
+      "$id": 50,
+      "style": 8,
+      "name": "Vang"
+    },
+    {
+      "$id": 51,
+      "style": 8,
+      "name": "Hiln"
+    },
+    {
+      "$id": 52,
+      "style": 8,
+      "name": "Arachno"
+    },
+    {
+      "$id": 53,
+      "style": 8,
+      "name": "Antol"
+    },
+    {
+      "$id": 54,
+      "style": 8,
+      "name": "Queen"
+    },
+    {
+      "$id": 55,
+      "style": 8,
+      "name": "King"
+    },
+    {
+      "$id": 56,
+      "style": 8,
+      "name": "Caterpile"
+    },
+    {
+      "$id": 57,
+      "style": 8,
+      "name": "Eluca"
+    },
+    {
+      "$id": 58,
+      "style": 8,
+      "name": "Skeeter"
+    },
+    {
+      "$id": 59,
+      "style": 8,
+      "name": "Apis"
+    },
+    {
+      "$id": 60,
+      "style": 8,
+      "name": "Flier"
+    },
+    {
+      "$id": 61,
+      "style": 8,
+      "name": "Wisp"
+    },
+    {
+      "$id": 62,
+      "style": 8,
+      "name": "Krabble"
+    },
+    {
+      "$id": 63,
+      "style": 8,
+      "name": "Pagul"
+    },
+    {
+      "$id": 64,
+      "style": 8,
+      "name": "Moramora"
+    },
+    {
+      "$id": 65,
+      "style": 8,
+      "name": "Skyray"
+    },
+    {
+      "$id": 66,
+      "style": 8,
+      "name": "Laia"
+    },
+    {
+      "$id": 67,
+      "style": 8,
+      "name": "Piranhax"
+    },
+    {
+      "$id": 68,
+      "style": 8,
+      "name": "Sardi"
+    },
+    {
+      "$id": 69,
+      "style": 8,
+      "name": "Grady"
+    },
+    {
+      "$id": 70,
+      "style": 8,
+      "name": "Lexos"
+    },
+    {
+      "$id": 71,
+      "style": 8,
+      "name": "Torta"
+    },
+    {
+      "$id": 72,
+      "style": 8,
+      "name": "Tude"
+    },
+    {
+      "$id": 73,
+      "style": 8,
+      "name": "Uranus"
+    },
+    {
+      "$id": 74,
+      "style": 8,
+      "name": "Mercury"
+    },
+    {
+      "$id": 75,
+      "style": 8,
+      "name": "Saturn"
+    },
+    {
+      "$id": 76,
+      "style": 8,
+      "name": "Mars"
+    },
+    {
+      "$id": 77,
+      "style": 8,
+      "name": "Jupiter"
+    },
+    {
+      "$id": 78,
+      "style": 8,
+      "name": "Venus"
+    },
+    {
+      "$id": 79,
+      "style": 8,
+      "name": "Selua"
+    },
+    {
+      "$id": 80,
+      "style": 8,
+      "name": "Selua"
+    },
+    {
+      "$id": 81,
+      "style": 8,
+      "name": "Selua"
+    },
+    {
+      "$id": 82,
+      "style": 8,
+      "name": "Selua"
+    },
+    {
+      "$id": 83,
+      "style": 8,
+      "name": "Telethia"
+    },
+    {
+      "$id": 84,
+      "style": 8,
+      "name": "Telethia"
+    },
+    {
+      "$id": 85,
+      "style": 8,
+      "name": "Telethia"
+    },
+    {
+      "$id": 86,
+      "style": 8,
+      "name": "Telethia"
+    },
+    {
+      "$id": 87,
+      "style": 8,
+      "name": "Telethia"
+    },
+    {
+      "$id": 88,
+      "style": 8,
+      "name": "Igna"
+    },
+    {
+      "$id": 89,
+      "style": 8,
+      "name": "Kromar"
+    },
+    {
+      "$id": 90,
+      "style": 8,
+      "name": "Tirkin"
+    },
+    {
+      "$id": 91,
+      "style": 8,
+      "name": "Hode"
+    },
+    {
+      "$id": 92,
+      "style": 8,
+      "name": "Chilkin"
+    },
+    {
+      "$id": 93,
+      "style": 8,
+      "name": "Orluga"
+    },
+    {
+      "$id": 94,
+      "style": 8,
+      "name": "Slobos"
+    },
+    {
+      "$id": 95,
+      "style": 8,
+      "name": "Cylinder"
+    },
+    {
+      "$id": 96,
+      "style": 8,
+      "name": "Taos"
+    }
+  ]
+}

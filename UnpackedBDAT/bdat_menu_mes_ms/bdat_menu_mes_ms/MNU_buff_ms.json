@@ -1,0 +1,364 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 168,
+      "name": "\\[Slow\\] Debuff[XENO:n ]\nAuto-attack speed and movement[XENO:n ]\nspeed are reduced."
+    },
+    {
+      "$id": 2,
+      "style": 168,
+      "name": "\\[Paralysis\\] Debuff[XENO:n ]\nAuto-attacks may randomly not activate.[XENO:n ]\nDisables double attacks and counter-attacks."
+    },
+    {
+      "$id": 3,
+      "style": 168,
+      "name": "\\[Bind\\] Debuff[XENO:n ]\nMovement is not possible, but targets in[XENO:n ]\nrange can still be attacked."
+    },
+    {
+      "$id": 4,
+      "style": 168,
+      "name": "\\[Lock-On\\] Debuff[XENO:n ]\nFixes the attention of both the target and[XENO:n ]\nthe inflicter on one another."
+    },
+    {
+      "$id": 5,
+      "style": 168,
+      "name": "\\[Sleep\\] Debuff[XENO:n ]\nDisables auto-attacks and Arts.[XENO:n ]\nAll damage taken is critical."
+    },
+    {
+      "$id": 6,
+      "style": 168,
+      "name": "\\[Confuse\\] Debuff[XENO:n ]\nTarget stops fighting, instead running around[XENO:n ]\naimlessly."
+    },
+    {
+      "$id": 7,
+      "style": 168,
+      "name": "\\[Pierce\\] Debuff[XENO:n ]\nPhysical defence and ether defence[XENO:n ]\nare ineffective."
+    },
+    {
+      "$id": 8,
+      "style": 168,
+      "name": "\\[Arts Seal\\] Debuff[XENO:n ]\nTarget cannot use ordinary Arts, though[XENO:n ]\nTalent Arts are still available."
+    },
+    {
+      "$id": 9,
+      "style": 168,
+      "name": "\\[Aura Seal\\] Debuff[XENO:n ]\nPrevents target from activating Aura and[XENO:n ]\nSpike effects."
+    },
+    {
+      "$id": 10,
+      "style": 168,
+      "name": "\\[Break\\] Status[XENO:n ]\nTopple may be inflicted."
+    },
+    {
+      "$id": 11,
+      "style": 168,
+      "name": "\\[Instant Death\\] Debuff[XENO:n ]\nTarget will be Incapacitated if any damage[XENO:n ]\nis taken."
+    },
+    {
+      "$id": 12,
+      "style": 168,
+      "name": "\\[Physical Defence Down\\] Debuff[XENO:n ]\nIncreases physical damage taken."
+    },
+    {
+      "$id": 13,
+      "style": 168,
+      "name": "\\[Ether Defence Down\\] Debuff[XENO:n ]\nIncreases ether damage taken."
+    },
+    {
+      "$id": 14,
+      "style": 168,
+      "name": "\\[Strength Down\\] Debuff[XENO:n ]\nReduces strength.\n"
+    },
+    {
+      "$id": 15,
+      "style": 168,
+      "name": "\\[Agility Down\\] Debuff[XENO:n ]\nReduces agility."
+    },
+    {
+      "$id": 16,
+      "style": 168,
+      "name": "\\[Ether Down\\] Debuff[XENO:n ]\nReduces ether."
+    },
+    {
+      "$id": 17,
+      "style": 168,
+      "name": "\\[HP Down\\] Debuff[XENO:n ]\nReduces Maximum HP."
+    },
+    {
+      "$id": 18,
+      "style": 168,
+      "name": "\\[Bleed\\] Debuff[XENO:n ]\nConstant damage is taken."
+    },
+    {
+      "$id": 19,
+      "style": 168,
+      "name": "\\[Blaze\\] Debuff[XENO:n ]\nConstant damage is taken."
+    },
+    {
+      "$id": 20,
+      "style": 168,
+      "name": "\\[Chill\\] Debuff[XENO:n ]\nConstant damage is taken."
+    },
+    {
+      "$id": 21,
+      "style": 168,
+      "name": "\\[Poison\\] Debuff[XENO:n ]\nConstant damage is taken."
+    },
+    {
+      "$id": 22,
+      "style": 168,
+      "name": "\\[Shield\\] Buff[XENO:n ]\nBlocks enemy Talent Arts of the same level[XENO:n ]\nor lower than the Monado Art 'Shield'."
+    },
+    {
+      "$id": 23,
+      "style": 168,
+      "name": "\\[Enchant\\] Buff[XENO:n ]\nCauses attacks to pierce Mechon armour.[XENO:n ]\nAttacks also inflict increased damage."
+    },
+    {
+      "$id": 24,
+      "style": 168,
+      "name": "\\[Speed\\] Buff[XENO:n ]\nMost physical attacks will be avoided."
+    },
+    {
+      "$id": 25,
+      "style": 168,
+      "name": "\\[Armour\\] Buff[XENO:n ]\nPhysical damage and ether damage taken[XENO:n ]\nwill be greatly reduced."
+    },
+    {
+      "$id": 26,
+      "style": 168,
+      "name": "\\[Haste\\] Buff[XENO:n ]\nTime between auto-attacks is reduced."
+    },
+    {
+      "$id": 27,
+      "style": 168,
+      "name": "\\[Regenerate\\] Buff[XENO:n ]\nContinuously recovers HP."
+    },
+    {
+      "$id": 28,
+      "style": 168,
+      "name": "\\[Damage Heal\\] Buff[XENO:n ]\nRecover HP when taking damage."
+    },
+    {
+      "$id": 29,
+      "style": 168,
+      "name": "\\[Physical Protect\\] Buff[XENO:n ]\nReduces physical damage taken."
+    },
+    {
+      "$id": 30,
+      "style": 168,
+      "name": "\\[Ether Protect\\] Buff[XENO:n ]\nReduces ether damage taken."
+    },
+    {
+      "$id": 31,
+      "style": 168,
+      "name": "\\[Damage Immunity\\] Buff[XENO:n ]\nNullifies a certain amount of damage taken."
+    },
+    {
+      "$id": 32,
+      "style": 168,
+      "name": "\\[Strength Up\\] Buff[XENO:n ]\nIncreases strength."
+    },
+    {
+      "$id": 33,
+      "style": 168,
+      "name": "\\[Agility Up\\] Buff[XENO:n ]\nIncreases agility."
+    },
+    {
+      "$id": 34,
+      "style": 168,
+      "name": "\\[Ether Up\\] Buff[XENO:n ]\nIncreases ether."
+    },
+    {
+      "$id": 35,
+      "style": 168,
+      "name": "\\[Debuff Immunity\\] Buff[XENO:n ]\nPrevents debuffs from being received."
+    },
+    {
+      "$id": 36,
+      "style": 168,
+      "name": "\\[Physical Arts Plus\\] Buff[XENO:n ]\nIncreases damage dealt by Physical Arts."
+    },
+    {
+      "$id": 37,
+      "style": 168,
+      "name": "\\[Reflection\\] Buff[XENO:n ]\nAttacks other than Talent Arts will rebound[XENO:n ]\nonto the enemy."
+    },
+    {
+      "$id": 38,
+      "style": 168,
+      "name": "\\[Awakening\\] Aura[XENO:n ]\nTemporarily increases level.[XENO:n ]\nAll stats are increased."
+    },
+    {
+      "$id": 39,
+      "style": 168,
+      "name": "\\[Crazed\\] Aura[XENO:n ]\nGrants Strength Up buff and Haste buff.[XENO:n ]\nImmune to Topple and Daze."
+    },
+    {
+      "$id": 40,
+      "style": 168,
+      "name": "\\[Aura\\][XENO:n ]\nAn aura that grants various buffs."
+    },
+    {
+      "$id": 41,
+      "style": 168,
+      "name": "\\[Daze\\] Status[XENO:n ]\nAuras are removed and aggro no longer[XENO:n ]\nincreases. Target cannot dodge attacks.[XENO:n ]\nCritical hit damage taken increases."
+    },
+    {
+      "$id": 42,
+      "style": 168,
+      "name": "\\[Topple\\] Status[XENO:n ]\nDaze may be inflicted. Target cannot[XENO:n ]\ndodge attacks. Critical hit damage taken[XENO:n ]\nincreases."
+    },
+    {
+      "$id": 43,
+      "style": 168,
+      "name": "\\[Monado Activated\\] Aura[XENO:n ]\nMonado Arts can be used."
+    },
+    {
+      "$id": 44,
+      "style": 168,
+      "name": "\\[Berserker\\] Aura[XENO:n ]\nAuto-attacks and Mad Taunt become[XENO:n ]\narea attacks. Strength increases, but[XENO:n ]\nphysical damage taken also increases."
+    },
+    {
+      "$id": 45,
+      "style": 168,
+      "name": "\\[Engage\\] Aura[XENO:n ]\nLocks On to a target and[XENO:n ]\nMad Taunt aggro increases."
+    },
+    {
+      "$id": 46,
+      "style": 168,
+      "name": "\\[Last Stand\\] Aura[XENO:n ]\nWhen Incapacitated, HP will automatically be[XENO:n ]\nrecovered and Party Gauge will be filled."
+    },
+    {
+      "$id": 47,
+      "style": 168,
+      "name": "\\[Rage\\] Aura[XENO:n ]\nWhen attacked, will inflict Spike damage on[XENO:n ]\nenemy. Physical damage received is reduced,[XENO:n ]\nbut attack power decreases."
+    },
+    {
+      "$id": 48,
+      "style": 168,
+      "name": "\\[Anchor Chain\\] Aura[XENO:n ]\nWhile buff is effective, enemy aggro will[XENO:n ]\nincrease and character will be immune to[XENO:n ]\nKnock-Back and Blow-Down."
+    },
+    {
+      "$id": 49,
+      "style": 168,
+      "name": "\\[Peerless\\] Aura[XENO:n ]\nEnemy aggro increases when activated.[XENO:n ]\nImproves strength for self and party in range[XENO:n ]\nand heals Confuse for party members in range."
+    },
+    {
+      "$id": 50,
+      "style": 168,
+      "name": "\\[Battle Eye\\] Aura[XENO:n ]\nLocks on to a target. Increases the chance[XENO:n ]\nof a double attack. Talent Gauge increases[XENO:n ]\nwhen attacks are evaded."
+    },
+    {
+      "$id": 51,
+      "style": 168,
+      "name": "\\[Serene Heart\\] Aura[XENO:n ]\nImproves accuracy and evasion.[XENO:n ]\nIf HP is very low, accuracy and evasion[XENO:n ]\nimprove even more."
+    },
+    {
+      "$id": 52,
+      "style": 168,
+      "name": "\\[Jaws of Death\\] Aura[XENO:n ]\nIf Incapacitated, HP will automatically be[XENO:n ]\nrestored and Talent Gauge will be filled.[XENO:n ]\nAlso increases Physical Arts damage."
+    },
+    {
+      "$id": 53,
+      "style": 168,
+      "name": "\\[Heat Haze\\] Aura[XENO:n ]\nReduces aggro.[XENO:n ]\nImproves critical hit rate."
+    },
+    {
+      "$id": 54,
+      "style": 168,
+      "name": "\\[Spirit Breath\\] Aura[XENO:n ]\nHeals debuffs and grants Haste,[XENO:n ]\nreducing time between auto-attacks."
+    },
+    {
+      "$id": 55,
+      "style": 168,
+      "name": "\\[Cool Off\\] Aura[XENO:n ]\nHP recovers over time. Talent Gauge reduces[XENO:n ]\nand rifle cools, but auto-attack and Arts are not[XENO:n ]\navailable during this time."
+    },
+    {
+      "$id": 56,
+      "style": 168,
+      "name": "\\[Drive Boost\\] Aura[XENO:n ]\nReduces the cooldown for all Arts[XENO:n ]\nother than Drive Boost itself."
+    },
+    {
+      "$id": 57,
+      "style": 168,
+      "name": "\\[Covert Stance\\] Aura[XENO:n ]\nReduces aggro. While aura is[XENO:n ]\neffective, aggro will not increase."
+    },
+    {
+      "$id": 58,
+      "style": 168,
+      "name": "\\[Play Dead\\] Aura[XENO:n ]\nRemoves all aggro by playing dead. Once Riki[XENO:n ]\nstops playing dead, HP will be restored and[XENO:n ]\ndamage dealt by Physical Arts will increase."
+    },
+    {
+      "$id": 59,
+      "style": 168,
+      "name": "\\[Hero Time\\] Aura[XENO:n ]\nIncreases a random stat, and protects all party[XENO:n ]\nmembers in range from losing tension.\n"
+    },
+    {
+      "$id": 60,
+      "style": 168,
+      "name": "\\[Riki is Angry\\] Aura[XENO:n ]\nCounters all damage received as a Spike.[XENO:n ]\nCounter damage will be randomly multiplied[XENO:n ]\nby 2, 4 or 8."
+    },
+    {
+      "$id": 61,
+      "style": 168,
+      "name": "\\[Element Burst\\] Aura[XENO:n ]\nDamage dealt when discharging elementals[XENO:n ]\nis doubled."
+    },
+    {
+      "$id": 62,
+      "style": 168,
+      "name": "\\[Power Effect\\] Aura[XENO:n ]\nDoubles the range of any summoned[XENO:n ]\nelementals."
+    },
+    {
+      "$id": 63,
+      "style": 168,
+      "name": "\\[Healing Energy\\] Aura[XENO:n ]\nRemoves any debuffs and HP will be[XENO:n ]\nrecovered for a period of time."
+    },
+    {
+      "$id": 64,
+      "style": 168,
+      "name": "\\[Speed Shift\\] Aura[XENO:n ]\nGrants Haste, reducing the interval between[XENO:n ]\nauto-attacks, and increases chance of a double[XENO:n ]\nattack. However, also increases damage taken."
+    },
+    {
+      "$id": 65,
+      "style": 168,
+      "name": "\\[Lock-On\\] Aura[XENO:n ]\nLocks On to a target and increases[XENO:n ]\ncritical hit rate. Any damage taken[XENO:n ]\nincreases Talent Gauge."
+    },
+    {
+      "$id": 66,
+      "style": 168,
+      "name": "\\[Guard Shift\\] Aura[XENO:n ]\nBoosts block rate for physical attacks to 100%,[XENO:n ]\nbut reduces attack power."
+    },
+    {
+      "$id": 67,
+      "style": 168,
+      "name": "\\[Super Heal\\] Aura[XENO:n ]\nHP is recovered over a certain amount of time."
+    },
+    {
+      "$id": 68,
+      "style": 168,
+      "name": "\\[Soul Read\\] Aura[XENO:n ]\nMost physical attacks are evaded."
+    },
+    {
+      "$id": 69,
+      "style": 168,
+      "name": "\\[Invincible\\] Aura[XENO:n ]\nNo attacks hit the character."
+    },
+    {
+      "$id": 70,
+      "style": 168,
+      "name": "\\[\\][XENO:n ]\n[XENO:n ]\n[XENO:n ]"
+    }
+  ]
+}

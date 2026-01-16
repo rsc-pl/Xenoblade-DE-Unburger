@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "A Defence Force Soldier set off towards the Cylinder[XENO:n ]\nHangar some time ago and hasn't been heard from[XENO:n ]\nsince. Head to the area and locate the soldier."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Speak to the Defence Force soldier[XENO:n ]\nnear the Cylinder Hangar."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "The missing soldier has been accounted for,[XENO:n ]\nalive and well!"
+    },
+    {
+      "$id": 4,
+      "style": 148,
+      "name": "Arachno Silk fetches a high price when sold.[XENO:n ]\nHelp enrich the lives of a Defence Force soldier's[XENO:n ]\nsix-child family by collecting some."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "Collect 3 pieces of [System:Color name=item ]Arachno Silk[/System:Color] from Worker[XENO:n ]\nArachno in Tephra Cave."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Plenty of silk collected! This should help ease[XENO:n ]\nthe soldier's family's hardship."
+    },
+    {
+      "$id": 7,
+      "style": 148,
+      "name": "A Defence Force Soldier wishes to reward your help[XENO:n ]\nso far by giving you something he buried on his way[XENO:n ]\nback from Colony 6. Head there and dig up the item."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Exit Tephra Cave and check the area[XENO:n ]\nimmediately on the left."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "You found the item buried by the soldier."
+    },
+    {
+      "$id": 10,
+      "style": 148,
+      "name": "There are reports of large numbers of monsters in the[XENO:n ]\ndeep recesses of Tephra Cave. Clear them out to[XENO:n ]\nprovide safe passage for the Defence Force Soldiers."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Devoted Arachno[/System:Color] near Vilia Lake[XENO:n ]\nin Tephra Cave."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Resolute Arachno[/System:Color] near Vilia Lake[XENO:n ]\nin Tephra Cave."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Zealous Arachno[/System:Color] near Vilia Lake[XENO:n ]\nin Tephra Cave."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "The area near Vilia Lake is now free of monsters[XENO:n ]\nand will allow safe passage!"
+    },
+    {
+      "$id": 15,
+      "style": 148,
+      "name": "Shura has come to investigate Giants' ruins, but[XENO:n ]\nhasn't made much progress alone. Retrieve a book[XENO:n ]\ncontaining a hint on how to open Bafalgar Tomb."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Find the [System:Color name=item ]Starlight Book[/System:Color] near Vilia Lake in[XENO:n ]\nTephra Cave."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Return to Shura."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "You found the Starlight Book! Opening the[XENO:n ]\nhidden door should now be possible."
+    },
+    {
+      "$id": 19,
+      "style": 148,
+      "name": "According to the Starlight Book, an offering must be[XENO:n ]\nmade in order to open the door. Collect the White[XENO:n ]\nSpider Heart and offer it up at the altar."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Defeat Dazzling Tolosnia near the Heavenly[XENO:n ]\nWindow and collect the [System:Color name=item ]White Spider Heart[/System:Color]."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Offer up the White Spider Heart at the Bafalgar[XENO:n ]\nTomb altar."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Return to Shura."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "Offering up the White Spider Heart opened the[XENO:n ]\ndoor. Time to head inside."
+    },
+    {
+      "$id": 24,
+      "style": 148,
+      "name": "Despite the door now being open, Shura isn't keen on[XENO:n ]\ngoing inside. Head in and take a look around the[XENO:n ]\nPrayer Room in Bafalgar Tomb."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Enter and search the Prayer Room[XENO:n ]\nin Bafalgar Tomb."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Return to Shura."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Collect the [System:Color name=item ]Sacrificial Tablet[/System:Color] from near the Path[XENO:n ]\nof Absolution in Tephra Cave."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Return to Shura."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Nothing special was found inside but more doors[XENO:n ]\ncan now be opened."
+    },
+    {
+      "$id": 30,
+      "style": 148,
+      "name": "The investigation of Bafalgar Tomb is almost over.[XENO:n ]\nWith the hidden door now open, locate a critical hint[XENO:n ]\nfrom the Soothsayer's Crypt."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Find the hint in the Soothsayer's Crypt in Tephra[XENO:n ]\nCave."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Return to Shura."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "You gave the Moonlight Book to Shura. With both[XENO:n ]\nbooks it should be possible to investigate further."
+    },
+    {
+      "$id": 34,
+      "style": 148,
+      "name": "You didn't receive your reward for assisting Shura in[XENO:n ]\nher investigation of Bafalgar Tomb. Make your way to[XENO:n ]\nColony 9 to claim your prize."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "Speak to Shura in the Colony 9 Commercial[XENO:n ]\nDistrict."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "To thank you for your help at Bafalgar Tomb,[XENO:n ]\nShura has presented a family heirloom."
+    },
+    {
+      "$id": 37,
+      "style": 148,
+      "name": "A Defence Force soldier isn't making much progress[XENO:n ]\ncollecting items required to help restore Colony 9.[XENO:n ]\nLend your services and help collect what's needed."
+    },
+    {
+      "$id": 38,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Kneecap Rocks[/System:Color] in Tephra Cave."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Items collected! These should enable the ruined[XENO:n ]\nbuildings to be restored."
+    },
+    {
+      "$id": 40,
+      "style": 148,
+      "name": "A Defence Force soldier isn't making much progress[XENO:n ]\ncollecting items required to help restore Colony 9.[XENO:n ]\nLend your services and help collect what's needed."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Bright Figs[/System:Color] in Tephra Cave."
+    },
+    {
+      "$id": 42,
+      "style": 138,
+      "name": "Items collected! These should help cheer up the[XENO:n ]\ndisheartened children."
+    },
+    {
+      "$id": 43,
+      "style": 148,
+      "name": "A Defence Force soldier isn't making much progress[XENO:n ]\ncollecting items required to help restore Colony 9.[XENO:n ]\nLend your services and help collect what's needed."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Broken Pincers[/System:Color] from Krabbles in[XENO:n ]\nTephra Cave."
+    },
+    {
+      "$id": 45,
+      "style": 138,
+      "name": "Items collected! These should enable the Anti-Air[XENO:n ]\nBatteries to be restored."
+    },
+    {
+      "$id": 46,
+      "style": 148,
+      "name": "A Defence Force soldier isn't making much progress[XENO:n ]\ncollecting an item required to help restore Colony 9.[XENO:n ]\nLend your services and help collect what's needed."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Collect 1 lot of [System:Color name=item ]Brog Smelling Salts[/System:Color] from a Noble[XENO:n ]\nBrog in Tephra Cave."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "Item collected! This should help treat the injured[XENO:n ]\nresidents."
+    }
+  ]
+}
