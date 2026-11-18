@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Dickson must be there as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dikson must be there as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Yes. And Alvis too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yes. And Alviss too.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]How long that take?[XENO:n ]\nRiki get old soon![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]How many years will that take-mo?[XENO:n ]\nRiki will be an old man by then-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki never lose![XENO:n ]\nFor Riki family, Riki win![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki won't lose-mo! For Riki's[XENO:n ]\nfamily too, Riki absolutely won't lose-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 17,

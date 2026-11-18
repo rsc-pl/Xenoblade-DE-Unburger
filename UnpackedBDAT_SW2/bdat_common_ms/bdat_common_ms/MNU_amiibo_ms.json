@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 1,
+      "name": "%"
+    },
+    {
+      "$id": 2,
+      "style": 19,
+      "name": "amiibo Bonus"
+    },
+    {
+      "$id": 3,
+      "style": 19,
+      "name": "Bonus EXP Acquired"
+    },
+    {
+      "$id": 4,
+      "style": 19,
+      "name": "Bonus SP Acquired"
+    },
+    {
+      "$id": 5,
+      "style": 19,
+      "name": "Bonus AP Acquired"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Confirm"
+    },
+    {
+      "$id": 7,
+      "style": 29,
+      "name": "Touch an amiibo to the NFC area."
+    }
+  ]
+}

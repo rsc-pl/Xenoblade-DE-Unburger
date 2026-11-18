@@ -1,0 +1,199 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "The Nopon Sage told you to discover his greatness.[XENO:n ]\nAsk the children of Frontier Village to tell you about it."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "In Frontier Village,[XENO:n ]\ntalk to Pique."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Return to the Nopon Sage."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "In Frontier Village,[XENO:n ]\ntalk to Pachika."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "Return to the Nopon Sage."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "You learned a little about the Nopon Sage's greatness."
+    },
+    {
+      "$id": 7,
+      "style": 148,
+      "name": "You've agreed to face the Nopon Sage's trial.[XENO:n ]\nShow your courage by venturing into a dangerous place."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Near Seahorse Islet in Makna Forest,[XENO:n ]\nobtain the [System:Color name=item ]Proof of Courage[/System:Color]."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "Return to the Nopon Sage."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "You safely passed the first trial.[XENO:n ]\nThe Nopon Sage recognised your courage."
+    },
+    {
+      "$id": 11,
+      "style": 148,
+      "name": "You've agreed to face the Nopon Sage's final trial.[XENO:n ]\nShow your strength on an islet at Great Makna Falls."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Near Great Makna Falls in Makna Forest,[XENO:n ]\ndefeat [System:Color name=item ]Binary-Star Rezno[/System:Color] (daytime only)."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Return to the Nopon Sage."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "You completed the Nopon Sage's final trial.[XENO:n ]\nHe acknowledged you and bestowed a treasure."
+    },
+    {
+      "$id": 15,
+      "style": 148,
+      "name": "The collapsed bridge is causing the Nopon trouble.[XENO:n ]\nIt seems it can be repaired with the right materials.[XENO:n ]\nGather materials to repair the bridge."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Obtain 5 [System:Color name=item ]Fuudi Planks[/System:Color][XENO:n ]\nfrom Fuudi in Makna Forest."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Obtain 3 [System:Color name=item ]Rogul Axe Crests[/System:Color][XENO:n ]\nfrom Mist Roguls in Satorl Marsh."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "Return to the Nopon in charge of bridge repair."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "The bridge is fixed and can be crossed again.[XENO:n ]\nThe Nopon in Frontier Village must be pleased."
+    },
+    {
+      "$id": 20,
+      "style": 148,
+      "name": "Makna Forest is full of ferocious beasts.[XENO:n ]\nDefeat the monsters to make the route safe."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Jungle Claudes[/System:Color][XENO:n ]\nin Makna Forest."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to Frontier Village is a little safer now."
+    },
+    {
+      "$id": 23,
+      "style": 148,
+      "name": "Makna Forest is full of ferocious beasts.[XENO:n ]\nDefeat the monsters that prey on Nopon."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Makna Feris[/System:Color][XENO:n ]\nin Makna Forest."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to Frontier Village is a little safer now."
+    },
+    {
+      "$id": 26,
+      "style": 148,
+      "name": "Makna Forest is full of ferocious beasts.[XENO:n ]\nDefeat the monsters that attack Nopon from the air."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Makna Ansels[/System:Color][XENO:n ]\nin Makna Forest."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to Frontier Village is a little safer now."
+    },
+    {
+      "$id": 29,
+      "style": 148,
+      "name": "Makna Forest is full of ferocious beasts.[XENO:n ]\nDefeat the monsters to make the route safe."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Makna Eks[/System:Color][XENO:n ]\nin Makna Forest."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to Frontier Village is a little safer now."
+    },
+    {
+      "$id": 32,
+      "style": 148,
+      "name": "Someone was bathing at Eks Watering Hole[XENO:n ]\nwhen a monster nearly ate them.[XENO:n ]\nDefeat the monster before anyone else is endangered."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Near Eks Watering Hole in Makna Forest,[XENO:n ]\ndefeat [System:Color name=item ]Shimmering Forte[/System:Color] (heat wave, morning-evening)."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nNow it's safe to bathe."
+    },
+    {
+      "$id": 35,
+      "style": 148,
+      "name": "Saving the girl requires high-purity Water Ether Crystals.[XENO:n ]\nThey may be found near a large waterfall.[XENO:n ]\nFind Water Ether Crystals in Makna Forest."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "Obtain [System:Color name=item ]Water Ether Crystals[/System:Color]."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "You obtained the Water Ether Crystals.[XENO:n ]\nYou should be able to save the girl now."
+    }
+  ]
+}

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Carna! Tell Riki about Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Carna, tell Riki about the Mechon-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "Riki know nothing about history[XENO:n ]\nof Mechon with Hom Hom.[XENO:wait wait=key ][System:PageBreak ]Riki feel stupid![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki doesn't know anything about[XENO:n ]\nthe history between Hom Hom and Mechon-mo.[XENO:wait wait=key ][System:PageBreak ]That's no good-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -38,27 +38,27 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "Carna should hurry up![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ugh... You have a point-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 126,
-      "name": "I'm sorry, Riki. It's just...[XENO:wait wait=key ][System:PageBreak ]For as long as I remember, the[XENO:n ]\nMechon have been the enemy.[XENO:wait wait=key ][System:PageBreak ]But if you asked me why,[XENO:n ]\nI couldn't answer you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm sorry, Riki. It's just...[XENO:wait wait=key ][System:PageBreak ]For as long as I remember, the[XENO:n ]\nMachine God Soldiers have been the enemy.[XENO:wait wait=key ][System:PageBreak ]But if you asked me why,[XENO:n ]\nI couldn't answer you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Yeah! Riki not know too![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Mm-hmm. Riki never thought of that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Riki, what do you think of when[XENO:n ]\nsomeone mentions the Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Riki, what do you think of when[XENO:n ]\nsomeone mentions the Machine God Soldiers?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 126,
-      "name": "Mechon look like sad machines.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What a pitiful machine-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "Riki always think this![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Is that so-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -83,17 +83,17 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Carna has lost many friends.[XENO:n ]\nRiki not sensitive to Carna.[XENO:wait wait=key ][System:PageBreak ]Riki always pon around when[XENO:n ]\nshould talk serious.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Carna has lost[XENO:n ]\nfar too much-mo.[XENO:wait wait=key ][System:PageBreak ]And while all that was happening, Riki[XENO:n ]\nwas just taking it easy-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]No, Riki, it's not that.[XENO:wait wait=key ][System:PageBreak ]It's actually quite nice to find[XENO:n ]\nsomeone who thinks differently.[XENO:wait wait=key ][System:PageBreak ]The Mechon have never attacked[XENO:n ]\nyour home, thank goodness.[XENO:wait wait=key ][System:PageBreak ]So it's natural that you'd have[XENO:n ]\na different perspective.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]No, Riki, it's not that.[XENO:wait wait=key ][System:PageBreak ]It's actually quite nice to find[XENO:n ]\nsomeone who thinks differently.[XENO:wait wait=key ][System:PageBreak ]The Machine God Soldiers have never attacked[XENO:n ]\nyour home, thank goodness.[XENO:wait wait=key ][System:PageBreak ]So it's natural that you'd have[XENO:n ]\na different perspective.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
       "style": 126,
-      "name": "Carna so kind to Riki.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]Riki not know what to say.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ugh... Carna is kind-mo.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]Riki doesn't know how to answer-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Carna not like Riki's words?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Carna, are you angry-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "Riki think Mechon with faces[XENO:n ]\nmost sad looking.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Mechon with faces are even more[XENO:n ]\npitiful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki feel lucky to travel with[XENO:n ]\nCarna and friends. Riki learn lots![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Riki feel scared most of time,[XENO:n ]\nbut see and hear many things.[XENO:wait wait=key ][System:PageBreak ]They make Riki better Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Riki learned so much traveling[XENO:n ]\nwith Carna and the others-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Most of it[XENO:n ]\nwas scary.[XENO:wait wait=key ][System:PageBreak ]Riki will learn more and be a wise Hero-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,17 +138,17 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki glad Carna asked![XENO:wait wait=key ][System:PageBreak ]When Mechon attack colonies,[XENO:n ]\nRiki and villagers know nothing.[XENO:wait wait=key ][System:PageBreak ]Just sit in village pon pon ponning[XENO:n ]\nabout like normal day![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Good question-mo.[XENO:wait wait=key ][System:PageBreak ]Carna and the others[XENO:n ]\nfought the Mechon.[XENO:wait wait=key ][System:PageBreak ]Frontier Village knew nothing and[XENO:n ]\nstayed carefree-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]I guess Makna wasn't really on[XENO:n ]\nthe Mechon's radar.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]I guess Makna wasn't really on[XENO:n ]\nthe Machine God Soldiers' radar.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki never saw a Mechon before.[XENO:n ]\nOnly heard of them in whispers.[XENO:wait wait=key ][System:PageBreak ]On Prison Island was the first time[XENO:n ]\nRiki saw faced one. Riki scared![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Carna was brave though.[XENO:n ]\nRiki embarrassed.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki only knew Mechon from[XENO:n ]\nrumors-mo.[XENO:wait wait=key ][System:PageBreak ]Seeing a Faced Mechon on[XENO:n ]\nPrison Island scared him-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]But Carna and the others were brave-mo. Riki[XENO:n ]\nis the Hero, yet he feels pathetic-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Carna and friends stronger than[XENO:n ]\nRiki. Riki not good enough.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Carna and the others are different[XENO:n ]\nfrom Riki somehow-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -173,17 +173,17 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Really?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Hmm... Is that so-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
       "style": 126,
-      "name": "I know the Nopon and Mechon[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nany less of you in a fight.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I know the Nopon and Machine God Soldiers[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nany less of you in a fight.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Carna and friends think Riki[XENO:n ]\ncrash-pow Mechon OK?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Ugh... Riki doesn't[XENO:n ]\nthink so-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Yay! Riki glad he talk to Carna![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki is glad he talked to Carna-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -208,17 +208,17 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]R-really? Riki not Riki?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Ugh... Is that so-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
       "style": 126,
-      "name": "We know the Nopon and Mechon[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nyou're not up to the challenge.[XENO:wait wait=key ][System:PageBreak ]You're one of us, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We know the Nopon and Machine God Soldiers[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nyou're not up to the challenge.[XENO:wait wait=key ][System:PageBreak ]You're one of us, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Riki sorry, Carna.[XENO:n ]\nRiki feel better now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Sorry, Carna-mo. Riki[XENO:n ]\nfeels a little better now-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki happy he talk to Carna![XENO:n ]\nRiki super happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Riki is glad he talked[XENO:n ]\nto Carna-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "Five Lemon Stones should be[XENO:n ]\nenough.[XENO:wait wait=key ][System:PageBreak ]We have to take them to Zazadan[XENO:n ]\nas quickly as possible.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Five Lemon Stones[XENO:n ]\nshould be plenty, right?[XENO:wait wait=key ][System:PageBreak ]We have to get them to Zazadan-san[XENO:n ]\nquickly or he'll be in trouble.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "She wants us to collect three[XENO:n ]\nWhite Brog Livers?[XENO:wait wait=key ][System:PageBreak ]Can you really eat these things?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We're collecting three[XENO:n ]\nWhite Grog Livers?[XENO:wait wait=key ][System:PageBreak ]Is this really edible?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "That's all three Rhogul Axe[XENO:n ]\nCrests.[XENO:wait wait=key ][System:PageBreak ]Now they should be able to fix[XENO:n ]\nthe bridge.[XENO:wait wait=key ][System:PageBreak ]They can investigate the ruins as[XENO:n ]\nwell. Exciting stuff, all this.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's all three Rogul Axe[XENO:n ]\nCrests.[XENO:wait wait=key ][System:PageBreak ]Now they should be able to fix[XENO:n ]\nthe bridge.[XENO:wait wait=key ][System:PageBreak ]They can investigate the ruins as[XENO:n ]\nwell. Exciting stuff, all this.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
       "style": 126,
-      "name": "Is that Gogol guarding the statue?[XENO:n ]\nI never expected it to be guarded![XENO:wait wait=key ][System:PageBreak ]It appears that I cannot proceed[XENO:n ]\nwith my research.[XENO:wait wait=key ][System:PageBreak ]Sorry, Natori...[XENO:n ]\nSorry, Russ...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Is that Gogol guarding the statue?[XENO:n ]\nI never imagined there'd be a guardian...[XENO:wait wait=key ][System:PageBreak ]That's as far as[XENO:n ]\nour research goes...[XENO:wait wait=key ][System:PageBreak ]Natori-san, Russ-san,[XENO:n ]\nI'm sorry...[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

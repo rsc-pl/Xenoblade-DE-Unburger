@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "Ready to go! Come new friends,[XENO:n ]\nRiki's adventure begins![XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "All right, we're fully prepared now-mo.[XENO:n ]\nCome on, companions, let's go-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Of course Riki know![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Of course-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Melly! Riki hear you hurt Dinobeast![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Melia-chan, you said the great dinosaur was hurt-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,17 +38,17 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT18 ]When Dinobeast hurt, Riki know[XENO:n ]\nit go to place with ether crystals.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT18 ]I hear the injured great[XENO:n ]\ndinosaur rests by ether crystals-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Friends and Riki go to place with[XENO:n ]\ncrystals. Then we find Dinobeast![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]So if we find the ether crystals, the[XENO:n ]\ngreat dinosaur should be there too-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "Chief tell Riki! Chief always right![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Donga told me this, so it can't be wrong-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 9,

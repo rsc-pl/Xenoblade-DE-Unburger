@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "The Great Sage knew with his power that you would come-mo.[XENO:wait wait=key ][System:PageBreak ]He already knows what you want to ask-mo. \"Where is this place, and who are you?\" Right-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:sel sel=・What is this place?/・Who are you? ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "It seems like the Giant God Realm, yet isn't. Familiar, yet unknown. A place tying past to future-mo.[XENO:wait wait=key ][System:PageBreak ]And the Nopon Great Sage is a great Nopon who attained that title by training across all space and time-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Come again sometime-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "The Nopon Great Sage is a great Nopon who trained in every place and time until he became the Great Sage-mo.[XENO:wait wait=key ][System:PageBreak ]Training his disciples is also the Nopon Great Sage's duty-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・What is this place?/・Who are you?/・Pupils...? ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Since you've come here, you're disciples of the Great Sage-mo.[XENO:wait wait=key ][System:PageBreak ]The Great Sage also knows that both reward and punishment are important when raising disciples-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:sel sel=・Tell us about the carrot/・Tell us about the stick ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Since you've come here, you're disciples of the Great Sage-mo.[XENO:wait wait=key ][System:PageBreak ]If you do well on the challenges he gives you, you'll receive rewards-mo.[XENO:wait wait=key ][System:PageBreak ]If the Great Sage hadn't cast aside worldly desire, these are treasures he'd never be able to part with-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "You'll take on challenges set by the Great Sage-mo.[XENO:wait wait=key ][System:PageBreak ]Show him how quickly you can defeat the enemies standing in your way-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・We'll be your pupils/・Let us go home ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:type type=anger ]You're every bit as capable as the Nopon Great Sage expected-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "By the way, if more of your companions want to become disciples, bring them here-mo.[XENO:wait wait=key ][System:PageBreak ]The Great Sage will prepare other challenges and rewards-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I'll prepare other challenges and rewards for later too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "The Great Sage knows that too-mo.[XENO:wait wait=key ][System:PageBreak ]You have another important mission-mo. Approach the light behind you and you'll return to your own world-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "So, what will you do this time-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "I've been waiting-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

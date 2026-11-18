@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Galahad Fortress - the front line base of the Mechon.[XENO:n ]\nThe Mechon that attack Giant God must all come from here.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Galahad Fortress - the front line base of the Machine Soldiers.[XENO:n ]\nThe Machine Soldiers that attack Giant God must all come from here.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "We're about to enter the Mechon stronghold.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We're about to enter the Machine God Soldiers stronghold.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Shulk. Friend should no split up.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk, don't leave Riki out-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]No leave friend behind.[XENO:n ]\nRiki scared but Riki want go too.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Don't leave Riki behind-mo. Riki[XENO:n ]\nis scared, but doesn't want to be left behind-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 9,

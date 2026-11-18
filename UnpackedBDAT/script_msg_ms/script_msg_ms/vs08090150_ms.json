@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki find Melly for Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki will go look for Melia-chan-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,17 +38,17 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "Your Eminence![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Seer-dono![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "What guard want?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What's going on-mo?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]If you're after Alvis, he's gone.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]If you're after Alviss, he's gone.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Shulk and Riki go help! Riki and[XENO:n ]\nfriends help people in trouble![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Shulk, let's go help-mo! We have to help[XENO:n ]\neach other when we're in trouble-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "Soldier man not worry![XENO:n ]\nHeropon Riki is here to save the day![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "No need to worry-mo![XENO:n ]\nLeave this to Hero Riki-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,

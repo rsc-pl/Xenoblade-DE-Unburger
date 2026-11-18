@@ -1,0 +1,1224 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "'Eater' Records"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "'Armour' Records"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Double Blade"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Heal Barrier"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Spear Blade"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Cross Impact"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Speed Shift"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Gravity Zero"
+    },
+    {
+      "$id": 9,
+      "style": 11,
+      "name": "Lock On"
+    },
+    {
+      "$id": 10,
+      "style": 11,
+      "name": "Ether Drain"
+    },
+    {
+      "$id": 11,
+      "style": 11,
+      "name": "Double Wind"
+    },
+    {
+      "$id": 12,
+      "style": 11,
+      "name": "Bug Storm"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Shutdown"
+    },
+    {
+      "$id": 14,
+      "style": 11,
+      "name": "Air Fang"
+    },
+    {
+      "$id": 15,
+      "style": 11,
+      "name": "Power Drain"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Second Gear"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Final Cross"
+    },
+    {
+      "$id": 19,
+      "style": 11,
+      "name": "Double Blade"
+    },
+    {
+      "$id": 20,
+      "style": 11,
+      "name": "Heal Barrier"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Spear Blade"
+    },
+    {
+      "$id": 22,
+      "style": 11,
+      "name": "Cross Impact"
+    },
+    {
+      "$id": 23,
+      "style": 11,
+      "name": "Speed Shift"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Gravity Zero"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Lock On"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Ether Drain"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Double Wind"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Bug Storm"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Shutdown"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Air Fang"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Power Drain"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Second Gear"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Final Cross"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Slit Edge"
+    },
+    {
+      "$id": 36,
+      "style": 11,
+      "name": "Back Slash"
+    },
+    {
+      "$id": 37,
+      "style": 11,
+      "name": "Light Heal"
+    },
+    {
+      "$id": 38,
+      "style": 11,
+      "name": "Shaker Edge"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Air Slash"
+    },
+    {
+      "$id": 40,
+      "style": 11,
+      "name": "Shadow Eye"
+    },
+    {
+      "$id": 41,
+      "style": 11,
+      "name": "Battle Soul"
+    },
+    {
+      "$id": 42,
+      "style": 11,
+      "name": "Stream Edge"
+    },
+    {
+      "$id": 43,
+      "style": 11,
+      "name": "Hammer Beat"
+    },
+    {
+      "$id": 44,
+      "style": 11,
+      "name": "Wild Down"
+    },
+    {
+      "$id": 45,
+      "style": 11,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 46,
+      "style": 11,
+      "name": "War Swing"
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Sword Pile"
+    },
+    {
+      "$id": 48,
+      "style": 11,
+      "name": "Berserker"
+    },
+    {
+      "$id": 49,
+      "style": 11,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 50,
+      "style": 11,
+      "name": "Engage"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Last Stand"
+    },
+    {
+      "$id": 52,
+      "style": 11,
+      "name": "Rage"
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Bullet Charge"
+    },
+    {
+      "$id": 54,
+      "style": 11,
+      "name": "Bone Upper"
+    },
+    {
+      "$id": 55,
+      "style": 11,
+      "name": "Dive Sobat"
+    },
+    {
+      "$id": 56,
+      "style": 11,
+      "name": "Aura Burst"
+    },
+    {
+      "$id": 57,
+      "style": 11,
+      "name": "Anchor Chain"
+    },
+    {
+      "$id": 58,
+      "style": 11,
+      "name": "Lariat"
+    },
+    {
+      "$id": 59,
+      "style": 11,
+      "name": "Gale Slash"
+    },
+    {
+      "$id": 60,
+      "style": 11,
+      "name": "Thunderblade Kick"
+    },
+    {
+      "$id": 61,
+      "style": 11,
+      "name": "Peerless"
+    },
+    {
+      "$id": 62,
+      "style": 11,
+      "name": "Heaven-Earth Sword"
+    },
+    {
+      "$id": 63,
+      "style": 11,
+      "name": "Battle Eye"
+    },
+    {
+      "$id": 64,
+      "style": 11,
+      "name": "Iron Power Bullet"
+    },
+    {
+      "$id": 65,
+      "style": 11,
+      "name": "Serene Heart"
+    },
+    {
+      "$id": 66,
+      "style": 11,
+      "name": "Last-Stand Shadow"
+    },
+    {
+      "$id": 67,
+      "style": 11,
+      "name": "9 Deaths, 1 Kill"
+    },
+    {
+      "$id": 68,
+      "style": 11,
+      "name": "Windblade Spin Kick"
+    },
+    {
+      "$id": 69,
+      "style": 11,
+      "name": "Heat Haze"
+    },
+    {
+      "$id": 70,
+      "style": 11,
+      "name": "Divine Breath"
+    },
+    {
+      "$id": 71,
+      "style": 11,
+      "name": "1000 Blades Soar"
+    },
+    {
+      "$id": 72,
+      "style": 11,
+      "name": "Heavenly Thunder"
+    },
+    {
+      "$id": 73,
+      "style": 11,
+      "name": "Demon-Cutting Blade"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "Sakura Splendor"
+    },
+    {
+      "$id": 75,
+      "style": 11,
+      "name": "Heal Bullet"
+    },
+    {
+      "$id": 76,
+      "style": 11,
+      "name": "Thunder Bullet"
+    },
+    {
+      "$id": 77,
+      "style": 11,
+      "name": "Shield Bullet"
+    },
+    {
+      "$id": 78,
+      "style": 11,
+      "name": "Cure Bullet"
+    },
+    {
+      "$id": 79,
+      "style": 11,
+      "name": "Drive Boost"
+    },
+    {
+      "$id": 80,
+      "style": 11,
+      "name": "Heal Blast"
+    },
+    {
+      "$id": 81,
+      "style": 11,
+      "name": "Heal Round"
+    },
+    {
+      "$id": 82,
+      "style": 11,
+      "name": "Head Snipe"
+    },
+    {
+      "$id": 83,
+      "style": 11,
+      "name": "Metal Blast"
+    },
+    {
+      "$id": 84,
+      "style": 11,
+      "name": "Aura Bullet"
+    },
+    {
+      "$id": 85,
+      "style": 11,
+      "name": "Heat Bullet"
+    },
+    {
+      "$id": 86,
+      "style": 11,
+      "name": "Head Shaker"
+    },
+    {
+      "$id": 87,
+      "style": 11,
+      "name": "Hide Stance"
+    },
+    {
+      "$id": 88,
+      "style": 11,
+      "name": "Heal Counter"
+    },
+    {
+      "$id": 89,
+      "style": 11,
+      "name": "Sleep Bullet"
+    },
+    {
+      "$id": 90,
+      "style": 11,
+      "name": "Cure Round"
+    },
+    {
+      "$id": 91,
+      "style": 11,
+      "name": "Rejoice-mo"
+    },
+    {
+      "$id": 92,
+      "style": 11,
+      "name": "Chomp-Chomp-mo"
+    },
+    {
+      "$id": 93,
+      "style": 11,
+      "name": "Got It-mo"
+    },
+    {
+      "$id": 94,
+      "style": 11,
+      "name": "Over to You-mo"
+    },
+    {
+      "$id": 95,
+      "style": 11,
+      "name": "Poison-Poison-mo"
+    },
+    {
+      "$id": 96,
+      "style": 11,
+      "name": "Courage-mo"
+    },
+    {
+      "$id": 97,
+      "style": 11,
+      "name": "Fall Over-mo"
+    },
+    {
+      "$id": 98,
+      "style": 11,
+      "name": "Calm Down-mo"
+    },
+    {
+      "$id": 99,
+      "style": 11,
+      "name": "Angry-mo"
+    },
+    {
+      "$id": 100,
+      "style": 11,
+      "name": "Spin-Spin-mo"
+    },
+    {
+      "$id": 101,
+      "style": 11,
+      "name": "Do My Best-mo"
+    },
+    {
+      "$id": 102,
+      "style": 11,
+      "name": "Here-mo"
+    },
+    {
+      "$id": 103,
+      "style": 11,
+      "name": "Repent-mo"
+    },
+    {
+      "$id": 104,
+      "style": 11,
+      "name": "Burn-Burn-mo"
+    },
+    {
+      "$id": 105,
+      "style": 11,
+      "name": "Chill-Chill-mo"
+    },
+    {
+      "$id": 106,
+      "style": 11,
+      "name": "I'll Do It-mo"
+    },
+    {
+      "$id": 107,
+      "style": 11,
+      "name": "Summon Bolt"
+    },
+    {
+      "$id": 108,
+      "style": 11,
+      "name": "Summon Flare"
+    },
+    {
+      "$id": 109,
+      "style": 11,
+      "name": "Summon Ice"
+    },
+    {
+      "$id": 110,
+      "style": 11,
+      "name": "Sleep Mind"
+    },
+    {
+      "$id": 111,
+      "style": 11,
+      "name": "Spear Break"
+    },
+    {
+      "$id": 112,
+      "style": 11,
+      "name": "Shadow Stitch"
+    },
+    {
+      "$id": 113,
+      "style": 11,
+      "name": "Summoning Copy"
+    },
+    {
+      "$id": 114,
+      "style": 11,
+      "name": "Reflection"
+    },
+    {
+      "$id": 115,
+      "style": 11,
+      "name": "Summon Wind"
+    },
+    {
+      "$id": 116,
+      "style": 11,
+      "name": "Summon Earth"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "Summon Aqua"
+    },
+    {
+      "$id": 118,
+      "style": 11,
+      "name": "Heal Gift"
+    },
+    {
+      "$id": 119,
+      "style": 11,
+      "name": "Starlight Knee"
+    },
+    {
+      "$id": 120,
+      "style": 11,
+      "name": "Power Effect"
+    },
+    {
+      "$id": 121,
+      "style": 11,
+      "name": "Burst End"
+    },
+    {
+      "$id": 122,
+      "style": 11,
+      "name": "Mind Blast"
+    },
+    {
+      "$id": 123,
+      "style": 11,
+      "name": "Slit Edge"
+    },
+    {
+      "$id": 124,
+      "style": 11,
+      "name": "Back Slash"
+    },
+    {
+      "$id": 125,
+      "style": 11,
+      "name": "Light Heal"
+    },
+    {
+      "$id": 126,
+      "style": 11,
+      "name": "Shaker Edge"
+    },
+    {
+      "$id": 127,
+      "style": 11,
+      "name": "Air Slash"
+    },
+    {
+      "$id": 128,
+      "style": 11,
+      "name": "Shadow Eye"
+    },
+    {
+      "$id": 129,
+      "style": 11,
+      "name": "Battle Soul"
+    },
+    {
+      "$id": 130,
+      "style": 11,
+      "name": "Stream Edge"
+    },
+    {
+      "$id": 131,
+      "style": 11,
+      "name": "Hammer Beat"
+    },
+    {
+      "$id": 132,
+      "style": 11,
+      "name": "Wild Down"
+    },
+    {
+      "$id": 133,
+      "style": 11,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 134,
+      "style": 11,
+      "name": "War Swing"
+    },
+    {
+      "$id": 135,
+      "style": 11,
+      "name": "Sword Pile"
+    },
+    {
+      "$id": 136,
+      "style": 11,
+      "name": "Berserker"
+    },
+    {
+      "$id": 137,
+      "style": 11,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 138,
+      "style": 11,
+      "name": "Engage"
+    },
+    {
+      "$id": 139,
+      "style": 11,
+      "name": "Last Stand"
+    },
+    {
+      "$id": 140,
+      "style": 11,
+      "name": "Rage"
+    },
+    {
+      "$id": 141,
+      "style": 11,
+      "name": "Bullet Charge"
+    },
+    {
+      "$id": 142,
+      "style": 11,
+      "name": "Bone Upper"
+    },
+    {
+      "$id": 143,
+      "style": 11,
+      "name": "Dive Sobat"
+    },
+    {
+      "$id": 144,
+      "style": 11,
+      "name": "Aura Burst"
+    },
+    {
+      "$id": 145,
+      "style": 11,
+      "name": "Anchor Chain"
+    },
+    {
+      "$id": 146,
+      "style": 11,
+      "name": "Lariat"
+    },
+    {
+      "$id": 147,
+      "style": 11,
+      "name": "Gale Slash"
+    },
+    {
+      "$id": 148,
+      "style": 11,
+      "name": "Thunderblade Kick"
+    },
+    {
+      "$id": 149,
+      "style": 11,
+      "name": "Peerless"
+    },
+    {
+      "$id": 150,
+      "style": 11,
+      "name": "Heaven-Earth Sword"
+    },
+    {
+      "$id": 151,
+      "style": 11,
+      "name": "Battle Eye"
+    },
+    {
+      "$id": 152,
+      "style": 11,
+      "name": "Iron Power Bullet"
+    },
+    {
+      "$id": 153,
+      "style": 11,
+      "name": "Serene Heart"
+    },
+    {
+      "$id": 154,
+      "style": 11,
+      "name": "Last-Stand Shadow"
+    },
+    {
+      "$id": 155,
+      "style": 11,
+      "name": "9 Deaths, 1 Kill"
+    },
+    {
+      "$id": 156,
+      "style": 11,
+      "name": "Windblade Spin Kick"
+    },
+    {
+      "$id": 157,
+      "style": 11,
+      "name": "Heat Haze"
+    },
+    {
+      "$id": 158,
+      "style": 11,
+      "name": "Divine Breath"
+    },
+    {
+      "$id": 159,
+      "style": 11,
+      "name": "1000 Blades Soar"
+    },
+    {
+      "$id": 160,
+      "style": 11,
+      "name": "Heavenly Thunder"
+    },
+    {
+      "$id": 161,
+      "style": 11,
+      "name": "Demon-Cutting Blade"
+    },
+    {
+      "$id": 162,
+      "style": 11,
+      "name": "Sakura Splendor"
+    },
+    {
+      "$id": 163,
+      "style": 11,
+      "name": "Heal Bullet"
+    },
+    {
+      "$id": 164,
+      "style": 11,
+      "name": "Thunder Bullet"
+    },
+    {
+      "$id": 165,
+      "style": 11,
+      "name": "Shield Bullet"
+    },
+    {
+      "$id": 166,
+      "style": 11,
+      "name": "Cure Bullet"
+    },
+    {
+      "$id": 167,
+      "style": 11,
+      "name": "Drive Boost"
+    },
+    {
+      "$id": 168,
+      "style": 11,
+      "name": "Heal Blast"
+    },
+    {
+      "$id": 169,
+      "style": 11,
+      "name": "Heal Round"
+    },
+    {
+      "$id": 170,
+      "style": 11,
+      "name": "Head Snipe"
+    },
+    {
+      "$id": 171,
+      "style": 11,
+      "name": "Metal Blast"
+    },
+    {
+      "$id": 172,
+      "style": 11,
+      "name": "Aura Bullet"
+    },
+    {
+      "$id": 173,
+      "style": 11,
+      "name": "Heat Bullet"
+    },
+    {
+      "$id": 174,
+      "style": 11,
+      "name": "Head Shaker"
+    },
+    {
+      "$id": 175,
+      "style": 11,
+      "name": "Hide Stance "
+    },
+    {
+      "$id": 176,
+      "style": 11,
+      "name": "Heal Counter"
+    },
+    {
+      "$id": 177,
+      "style": 11,
+      "name": "Sleep Bullet"
+    },
+    {
+      "$id": 178,
+      "style": 11,
+      "name": "Cure Round"
+    },
+    {
+      "$id": 179,
+      "style": 11,
+      "name": "Rejoice-mo"
+    },
+    {
+      "$id": 180,
+      "style": 11,
+      "name": "Chomp-Chomp-mo"
+    },
+    {
+      "$id": 181,
+      "style": 11,
+      "name": "Got It-mo"
+    },
+    {
+      "$id": 182,
+      "style": 11,
+      "name": "Over to You-mo"
+    },
+    {
+      "$id": 183,
+      "style": 11,
+      "name": "Poison-Poison-mo"
+    },
+    {
+      "$id": 184,
+      "style": 11,
+      "name": "Courage-mo"
+    },
+    {
+      "$id": 185,
+      "style": 11,
+      "name": "Fall Over-mo"
+    },
+    {
+      "$id": 186,
+      "style": 11,
+      "name": "Calm Down-mo"
+    },
+    {
+      "$id": 187,
+      "style": 11,
+      "name": "Angry-mo"
+    },
+    {
+      "$id": 188,
+      "style": 11,
+      "name": "Spin-Spin-mo"
+    },
+    {
+      "$id": 189,
+      "style": 11,
+      "name": "Do My Best-mo"
+    },
+    {
+      "$id": 190,
+      "style": 11,
+      "name": "Here-mo"
+    },
+    {
+      "$id": 191,
+      "style": 11,
+      "name": "Repent-mo"
+    },
+    {
+      "$id": 192,
+      "style": 11,
+      "name": "Burn-Burn-mo"
+    },
+    {
+      "$id": 193,
+      "style": 11,
+      "name": "Chill-Chill-mo"
+    },
+    {
+      "$id": 194,
+      "style": 11,
+      "name": "I'll Do It-mo"
+    },
+    {
+      "$id": 195,
+      "style": 11,
+      "name": "Summon Bolt"
+    },
+    {
+      "$id": 196,
+      "style": 11,
+      "name": "Summon Flare"
+    },
+    {
+      "$id": 197,
+      "style": 11,
+      "name": "Summon Ice"
+    },
+    {
+      "$id": 198,
+      "style": 11,
+      "name": "Sleep Mind"
+    },
+    {
+      "$id": 199,
+      "style": 11,
+      "name": "Spear Break"
+    },
+    {
+      "$id": 200,
+      "style": 11,
+      "name": "Shadow Stitch"
+    },
+    {
+      "$id": 201,
+      "style": 11,
+      "name": "Summoning Copy"
+    },
+    {
+      "$id": 202,
+      "style": 11,
+      "name": "Reflection"
+    },
+    {
+      "$id": 203,
+      "style": 11,
+      "name": "Summon Wind"
+    },
+    {
+      "$id": 204,
+      "style": 11,
+      "name": "Summon Earth"
+    },
+    {
+      "$id": 205,
+      "style": 11,
+      "name": "Summon Aqua"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "Heal Gift"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "Starlight Knee"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "Power Effect"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "Burst End"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "Mind Blast"
+    },
+    {
+      "$id": 211,
+      "style": 11,
+      "name": "Healy Bullet"
+    },
+    {
+      "$id": 212,
+      "style": 11,
+      "name": "Thunder Bullet"
+    },
+    {
+      "$id": 213,
+      "style": 11,
+      "name": "Shield Tight"
+    },
+    {
+      "$id": 214,
+      "style": 11,
+      "name": "Cure Ribbit"
+    },
+    {
+      "$id": 215,
+      "style": 11,
+      "name": "Boo-Boo Boost"
+    },
+    {
+      "$id": 216,
+      "style": 11,
+      "name": "Heal Blast"
+    },
+    {
+      "$id": 217,
+      "style": 11,
+      "name": "Heal Round"
+    },
+    {
+      "$id": 218,
+      "style": 11,
+      "name": "Head Snipe"
+    },
+    {
+      "$id": 219,
+      "style": 11,
+      "name": "Hit Blast"
+    },
+    {
+      "$id": 220,
+      "style": 11,
+      "name": "Aura Bullet"
+    },
+    {
+      "$id": 221,
+      "style": 11,
+      "name": "Heat Bullet"
+    },
+    {
+      "$id": 222,
+      "style": 11,
+      "name": "Head Shaker"
+    },
+    {
+      "$id": 223,
+      "style": 11,
+      "name": "Crawling Stance"
+    },
+    {
+      "$id": 224,
+      "style": 11,
+      "name": "Heal Counter"
+    },
+    {
+      "$id": 225,
+      "style": 11,
+      "name": "Sleep Nero"
+    },
+    {
+      "$id": 226,
+      "style": 11,
+      "name": "Cure Round"
+    },
+    {
+      "$id": 227,
+      "style": 11,
+      "name": "Hammer Beat"
+    },
+    {
+      "$id": 228,
+      "style": 11,
+      "name": "Mild Down"
+    },
+    {
+      "$id": 229,
+      "style": 11,
+      "name": "Guard Do It"
+    },
+    {
+      "$id": 230,
+      "style": 11,
+      "name": "More Swing"
+    },
+    {
+      "$id": 231,
+      "style": 11,
+      "name": "Sword Pile"
+    },
+    {
+      "$id": 232,
+      "style": 11,
+      "name": "Berserker"
+    },
+    {
+      "$id": 233,
+      "style": 11,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 234,
+      "style": 11,
+      "name": "Engage"
+    },
+    {
+      "$id": 235,
+      "style": 11,
+      "name": "Last Stand"
+    },
+    {
+      "$id": 236,
+      "style": 11,
+      "name": "Mo-Rage"
+    },
+    {
+      "$id": 237,
+      "style": 11,
+      "name": "Bread Charge"
+    },
+    {
+      "$id": 238,
+      "style": 11,
+      "name": "Bone Upper"
+    },
+    {
+      "$id": 239,
+      "style": 11,
+      "name": "Dive Sobat"
+    },
+    {
+      "$id": 240,
+      "style": 11,
+      "name": "Aura Toast"
+    },
+    {
+      "$id": 241,
+      "style": 11,
+      "name": "Anchor Chain"
+    },
+    {
+      "$id": 242,
+      "style": 11,
+      "name": "Lariat"
+    }
+  ]
+}

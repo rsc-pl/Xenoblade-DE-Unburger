@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This is the Nopon Grand Prix: Makna Forest[XENO:n ]\nvenue-mo.[XENO:wait wait=key ][System:PageBreak ]The course features the jungle's intricate terrain[XENO:n ]\nand a long, narrow bridge connecting it-mo.[XENO:wait wait=key ][System:PageBreak ]Would you like to take part in the Nopon Grand Prix now-mo?[XENO:n ]\n(You can also participate from the Main Menu)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:sel sel=・Join/・Don't join ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "The Nopon Grand Prix is held almost every day-mo.[XENO:wait wait=key ][System:PageBreak ]If you feel like taking part, come back again-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Sorry-mo.[XENO:n ]\nThe Nopon Grand Prix isn't being held right now-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Please take care of your business first, then come back-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

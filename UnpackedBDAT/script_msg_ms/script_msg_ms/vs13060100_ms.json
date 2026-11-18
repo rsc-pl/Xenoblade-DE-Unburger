@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Dickson, listen.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dikson-san, listen.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]What are you fighting for, Dickson?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]What are you fighting for, Dikson-san?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]I can't forgive the Mechon for what they've done. But after[XENO:n ]\nlistening to Migol, I think there might be another way.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]I can't forgive Machine Soldiers for what they've done. But after[XENO:n ]\nlistening to Migol-san, I think there might be another way.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I have to hand it to her. That Linada's pretty good.[XENO:n ]\nAnd not just with machines. She's also quite familiar[XENO:n ]\nwith organic physiology.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I have to hand it to her. That Linada-san's pretty good.[XENO:n ]\nAnd not just with machines. She's also quite familiar[XENO:n ]\nwith organic physiology.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 125,
-      "name": "I think that shows he has a strong character.[XENO:n ]\nAm I wrong, Dickson?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "I think that shows he has a strong character.[XENO:n ]\nAm I wrong, Dikson?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Dickson, we're going to the Machine God capital.[XENO:n ]\nAbout the allied force...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Dikson-san, we're going to the Machine God capital.[XENO:n ]\nAbout the allied force...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Those Mechon won't get away with anything else.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Those Machine God Soldiers won't get away with anything else.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

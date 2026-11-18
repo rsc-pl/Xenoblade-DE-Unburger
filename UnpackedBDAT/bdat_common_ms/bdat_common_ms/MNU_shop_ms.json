@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 11,
-      "name": "Price:"
+      "name": "Sell:"
     },
     {
       "$id": 6,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 117,
-      "name": "All equipped gems have[XENO:n ]\nbeen removed."
+      "name": "The attached gems[XENO:n ]\nhave been removed."
     },
     {
       "$id": 13,
@@ -88,12 +88,12 @@
     {
       "$id": 16,
       "style": 11,
-      "name": "Yes"
+      "name": "Sell"
     },
     {
       "$id": 17,
       "style": 11,
-      "name": "No"
+      "name": "Quit"
     },
     {
       "$id": 18,
@@ -108,17 +108,17 @@
     {
       "$id": 20,
       "style": 117,
-      "name": "This Arts Manual has already been studied.[XENO:n ]\nAre you sure you want to buy it?"
+      "name": "You already know the Art in this manual.[XENO:n ]\nBuy it?"
     },
     {
       "$id": 21,
       "style": 117,
-      "name": "This Arts Manual hasn't been studied yet.[XENO:n ]\nAre you sure you want to sell it?"
+      "name": "You do not know the Art in this manual.[XENO:n ]\nSell it?"
     },
     {
       "$id": 22,
       "style": 19,
-      "name": "Trade"
+      "name": "Barter"
     },
     {
       "$id": 23,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 19,
-      "name": "Would you like to trade?"
+      "name": "Proceed with barter?"
     },
     {
       "$id": 28,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 115,
-      "name": "You have nothing you can trade."
+      "name": "No items available to barter."
     },
     {
       "$id": 31,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 29,
-      "name": "Choose an item to part with."
+      "name": "Select the item to give."
     },
     {
       "$id": 38,
@@ -213,12 +213,12 @@
     {
       "$id": 41,
       "style": 19,
-      "name": "Trade Items"
+      "name": "Regular Barter Items"
     },
     {
       "$id": 42,
       "style": 117,
-      "name": "This equipment is set as a favourite.\nAre you sure you want to remove and sell it?"
+      "name": "This favourite is currently equipped.\nUnequip and sell it?"
     }
   ]
 }

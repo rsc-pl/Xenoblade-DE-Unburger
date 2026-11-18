@@ -1,0 +1,299 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Bonding Chart: Towns"
+    },
+    {
+      "$id": 2,
+      "style": 19,
+      "name": "Bonding Chart: Party"
+    },
+    {
+      "$id": 3,
+      "style": 7,
+      "name": "Traits"
+    },
+    {
+      "$id": 4,
+      "style": 7,
+      "name": "Time Active"
+    },
+    {
+      "$id": 5,
+      "style": 7,
+      "name": "Sex"
+    },
+    {
+      "$id": 6,
+      "style": 7,
+      "name": "Race"
+    },
+    {
+      "$id": 7,
+      "style": 7,
+      "name": "Age"
+    },
+    {
+      "$id": 8,
+      "style": 7,
+      "name": "Affiliation"
+    },
+    {
+      "$id": 9,
+      "style": 2,
+      "name": "am"
+    },
+    {
+      "$id": 10,
+      "style": 2,
+      "name": "pm"
+    },
+    {
+      "$id": 11,
+      "style": 0,
+      "name": "-"
+    },
+    {
+      "$id": 12,
+      "style": 4,
+      "name": "[ML:undisp ]"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "Male"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "Female"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "Male"
+    },
+    {
+      "$id": 16,
+      "style": 9,
+      "name": "Female"
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Male"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "Female"
+    },
+    {
+      "$id": 19,
+      "style": 9,
+      "name": "Male"
+    },
+    {
+      "$id": 20,
+      "style": 9,
+      "name": "Female"
+    },
+    {
+      "$id": 21,
+      "style": 9,
+      "name": "Unknown"
+    },
+    {
+      "$id": 22,
+      "style": 9,
+      "name": "Homs"
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "High Entia"
+    },
+    {
+      "$id": 24,
+      "style": 9,
+      "name": "Machina"
+    },
+    {
+      "$id": 25,
+      "style": 9,
+      "name": "Nopon"
+    },
+    {
+      "$id": 26,
+      "style": 9,
+      "name": "Unknown"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Colony 9 Area"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Colony 6 Area"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Central Giant God"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Upper Giant God"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Hidden Village"
+    },
+    {
+      "$id": 32,
+      "style": 7,
+      "name": "Profile"
+    },
+    {
+      "$id": 33,
+      "style": 7,
+      "name": "Give gift"
+    },
+    {
+      "$id": 34,
+      "style": 7,
+      "name": "Height"
+    },
+    {
+      "$id": 35,
+      "style": 7,
+      "name": "Likes"
+    },
+    {
+      "$id": 36,
+      "style": 7,
+      "name": "Dislikes"
+    },
+    {
+      "$id": 37,
+      "style": 7,
+      "name": "Usual Spot"
+    },
+    {
+      "$id": 38,
+      "style": 1,
+      "name": "cm"
+    },
+    {
+      "$id": 39,
+      "style": 17,
+      "name": "???"
+    },
+    {
+      "$id": 40,
+      "style": 7,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "style": 7,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "style": 17,
+      "name": "Tinkering with machines"
+    },
+    {
+      "$id": 43,
+      "style": 17,
+      "name": "Vegetables"
+    },
+    {
+      "$id": 44,
+      "style": 17,
+      "name": "Stamin-Nass"
+    },
+    {
+      "$id": 45,
+      "style": 17,
+      "name": "Fruit"
+    },
+    {
+      "$id": 46,
+      "style": 17,
+      "name": "Vegetables"
+    },
+    {
+      "$id": 47,
+      "style": 17,
+      "name": "Delicacies"
+    },
+    {
+      "$id": 48,
+      "style": 17,
+      "name": "Nature"
+    },
+    {
+      "$id": 49,
+      "style": 17,
+      "name": "Sweet things"
+    },
+    {
+      "$id": 50,
+      "style": 17,
+      "name": "Vegetables/Fruit"
+    },
+    {
+      "$id": 51,
+      "style": 17,
+      "name": "Insects"
+    },
+    {
+      "$id": 52,
+      "style": 17,
+      "name": "Insects"
+    },
+    {
+      "$id": 53,
+      "style": 17,
+      "name": "Animals"
+    },
+    {
+      "$id": 54,
+      "style": 17,
+      "name": "Plants and Flowers"
+    },
+    {
+      "$id": 55,
+      "style": 17,
+      "name": "Insects"
+    },
+    {
+      "$id": 56,
+      "style": 17,
+      "name": "Vegetables"
+    },
+    {
+      "$id": 57,
+      "style": 17,
+      "name": "Delicacies"
+    }
+  ]
+}

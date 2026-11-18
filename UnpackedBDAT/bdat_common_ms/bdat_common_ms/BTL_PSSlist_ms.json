@@ -63,17 +63,17 @@
     {
       "$id": 11,
       "style": 12,
-      "name": "Light Equip. Plus"
+      "name": "Light Equip. Boost"
     },
     {
       "$id": 12,
       "style": 12,
-      "name": "Medium Equip. Plus"
+      "name": "Medium Equip. Boost"
     },
     {
       "$id": 13,
       "style": 12,
-      "name": "Heavy Equip. Plus"
+      "name": "Heavy Equip. Boost"
     },
     {
       "$id": 14,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 12,
-      "name": "Tension Low Protect"
+      "name": "Low Tension Mitigation"
     },
     {
       "$id": 30,
@@ -168,12 +168,12 @@
     {
       "$id": 32,
       "style": 12,
-      "name": "Physical Protect"
+      "name": "Physical Barrier"
     },
     {
       "$id": 33,
       "style": 12,
-      "name": "Ether Protect"
+      "name": "Ether Barrier"
     },
     {
       "$id": 34,
@@ -188,32 +188,32 @@
     {
       "$id": 36,
       "style": 12,
-      "name": "Heavy Equip. Plus"
+      "name": "Heavy Equip. Boost"
     },
     {
       "$id": 37,
       "style": 12,
-      "name": "HP Up"
+      "name": "Max HP Up"
     },
     {
       "$id": 38,
       "style": 12,
-      "name": "HP Up"
+      "name": "Max HP Up"
     },
     {
       "$id": 39,
       "style": 12,
-      "name": "Block Rate Up"
+      "name": "Guard Rate Up"
     },
     {
       "$id": 40,
       "style": 12,
-      "name": "Block Rate Up"
+      "name": "Guard Rate Up"
     },
     {
       "$id": 41,
       "style": 12,
-      "name": "Double Atk Rate Up"
+      "name": "Double Attack Rate Up"
     },
     {
       "$id": 42,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 12,
-      "name": "Weapon Dmg. Plus"
+      "name": "Weapon Attack Boost"
     },
     {
       "$id": 46,
@@ -338,22 +338,22 @@
     {
       "$id": 66,
       "style": 12,
-      "name": "Water Arts Plus"
+      "name": "Water Arts Boost"
     },
     {
       "$id": 67,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 68,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 69,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 70,
@@ -363,62 +363,62 @@
     {
       "$id": 71,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 72,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 73,
       "style": 12,
-      "name": "HP Recovery Extra"
+      "name": "Extra HP Recovery"
     },
     {
       "$id": 74,
       "style": 12,
-      "name": "Chain Damage Plus"
+      "name": "Chain Damage Boost"
     },
     {
       "$id": 75,
       "style": 12,
-      "name": "Chain Damage Plus"
+      "name": "Chain Damage Boost"
     },
     {
       "$id": 76,
       "style": 12,
-      "name": "Attack Arts Plus"
+      "name": "Attack Arts Boost"
     },
     {
       "$id": 77,
       "style": 12,
-      "name": "Attack Arts Plus"
+      "name": "Attack Arts Boost"
     },
     {
       "$id": 78,
       "style": 12,
-      "name": "Ether Arts Plus"
+      "name": "Ether Arts Boost"
     },
     {
       "$id": 79,
       "style": 12,
-      "name": "Phys. Damage Down"
+      "name": "Phys. Damage Reduced"
     },
     {
       "$id": 80,
       "style": 12,
-      "name": "Ether Damage Down"
+      "name": "Ether Damage Reduced"
     },
     {
       "$id": 81,
       "style": 12,
-      "name": "Critical Hit Plus"
+      "name": "Critical Enhancement"
     },
     {
       "$id": 82,
       "style": 12,
-      "name": "First Strike Plus"
+      "name": "Opening Hit Boost"
     },
     {
       "$id": 83,
@@ -428,17 +428,17 @@
     {
       "$id": 84,
       "style": 12,
-      "name": "Ether Damage Down"
+      "name": "Ether Damage Reduced"
     },
     {
       "$id": 85,
       "style": 12,
-      "name": "Electric Arts Plus"
+      "name": "Electric Arts Boost"
     },
     {
       "$id": 86,
       "style": 12,
-      "name": "Wind Arts Plus"
+      "name": "Wind Arts Boost"
     },
     {
       "$id": 87,
@@ -448,7 +448,7 @@
     {
       "$id": 88,
       "style": 12,
-      "name": "Effective on Sleep"
+      "name": "Bonus vs. Sleeping"
     },
     {
       "$id": 89,
@@ -463,27 +463,27 @@
     {
       "$id": 91,
       "style": 12,
-      "name": "Spike Attack Plus"
+      "name": "Spike Attack Boost"
     },
     {
       "$id": 92,
       "style": 12,
-      "name": "Cooldown Reduced"
+      "name": "Recast Time Reduced"
     },
     {
       "$id": 93,
       "style": 12,
-      "name": "Cooldown Reduced"
+      "name": "Recast Time Reduced"
     },
     {
       "$id": 94,
       "style": 12,
-      "name": "Cooldown Reduced"
+      "name": "Recast Time Reduced"
     },
     {
       "$id": 95,
       "style": 12,
-      "name": "Cooldown Reduced"
+      "name": "Recast Time Reduced"
     },
     {
       "$id": 96,
@@ -513,7 +513,7 @@
     {
       "$id": 101,
       "style": 12,
-      "name": "Low Tension Immunity"
+      "name": "Tension Down Immunity"
     },
     {
       "$id": 102,
@@ -523,17 +523,17 @@
     {
       "$id": 103,
       "style": 12,
-      "name": "Taunt Arts Plus"
+      "name": "Taunt Arts Boost"
     },
     {
       "$id": 104,
       "style": 12,
-      "name": "Taunt Arts Plus"
+      "name": "Taunt Arts Boost"
     },
     {
       "$id": 105,
       "style": 12,
-      "name": "Party Gauge Maintain"
+      "name": "Party Gauge Retention"
     },
     {
       "$id": 106,
@@ -543,12 +543,12 @@
     {
       "$id": 107,
       "style": 12,
-      "name": "Chain Link Up"
+      "name": "Chain Link Chance Up"
     },
     {
       "$id": 108,
       "style": 12,
-      "name": "Increased Vision Time"
+      "name": "Future Sight Time Up"
     },
     {
       "$id": 109,
@@ -583,12 +583,12 @@
     {
       "$id": 115,
       "style": 12,
-      "name": "Very Low Ten. Cancel"
+      "name": "Very Low Tension Block"
     },
     {
       "$id": 116,
       "style": 12,
-      "name": "Tension Down Protect"
+      "name": "Tension Loss Reduced"
     },
     {
       "$id": 117,
@@ -598,22 +598,22 @@
     {
       "$id": 118,
       "style": 12,
-      "name": "Blow-Down Immunity"
+      "name": "Launch Immunity"
     },
     {
       "$id": 119,
       "style": 12,
-      "name": "Remote Arts Plus"
+      "name": "Ranged Arts Boost"
     },
     {
       "$id": 120,
       "style": 12,
-      "name": "Theft Arts Plus"
+      "name": "Steal Arts Boost"
     },
     {
       "$id": 121,
       "style": 12,
-      "name": "Theft Arts Plus"
+      "name": "Steal Arts Boost"
     },
     {
       "$id": 122,
@@ -623,7 +623,7 @@
     {
       "$id": 123,
       "style": 12,
-      "name": "Strength Down Block"
+      "name": "Strength Down Immunity"
     },
     {
       "$id": 124,
@@ -633,47 +633,47 @@
     {
       "$id": 125,
       "style": 12,
-      "name": "Ether Down Block"
+      "name": "Ether Down Immunity"
     },
     {
       "$id": 126,
       "style": 12,
-      "name": "Back Atk Accuracy Up"
+      "name": "Back Attack Acc. Up"
     },
     {
       "$id": 127,
       "style": 12,
-      "name": "Chill Time Up"
+      "name": "Chill Duration Up"
     },
     {
       "$id": 128,
       "style": 12,
-      "name": "Blaze Time Up"
+      "name": "Blaze Duration Up"
     },
     {
       "$id": 129,
       "style": 12,
-      "name": "Poison Time Up"
+      "name": "Poison Duration Up"
     },
     {
       "$id": 130,
       "style": 12,
-      "name": "Reduced Ether Resist"
+      "name": "Ether Resist Down"
     },
     {
       "$id": 131,
       "style": 12,
-      "name": "Cool Off Reduced"
+      "name": "Cool Time Reduced"
     },
     {
       "$id": 132,
       "style": 12,
-      "name": "Medium Equip. OK"
+      "name": "Medium Equip. Allowed"
     },
     {
       "$id": 133,
       "style": 12,
-      "name": "Heavy Equip. OK"
+      "name": "Heavy Equip. Allowed"
     },
     {
       "$id": 134,
@@ -723,7 +723,7 @@
     {
       "$id": 143,
       "style": 12,
-      "name": "Trading Bonus"
+      "name": "Barter Bonus"
     },
     {
       "$id": 144,
@@ -738,17 +738,17 @@
     {
       "$id": 146,
       "style": 12,
-      "name": "Rare Treasure Bonus"
+      "name": "Rare Chest Bonus"
     },
     {
       "$id": 147,
       "style": 12,
-      "name": "Profit Up"
+      "name": "Sell Price Up"
     },
     {
       "$id": 148,
       "style": 12,
-      "name": "Rare Treasure Bonus"
+      "name": "Rare Chest Bonus"
     },
     {
       "$id": 149,
@@ -788,17 +788,17 @@
     {
       "$id": 156,
       "style": 12,
-      "name": "Back Attack Dmg Up"
+      "name": "Back Attack Dmg Boost"
     },
     {
       "$id": 157,
       "style": 12,
-      "name": "Cooldown Reduced"
+      "name": "Recast Time Reduced"
     },
     {
       "$id": 158,
       "style": 12,
-      "name": "Machine God Equip. OK"
+      "name": "Machine Realm Equip OK"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 119,
+      "name": "To help you defeat this boss, you may\nchoose to receive the following effects:\nFull HP / All Arts recharged\nWould you like to accept these effects?"
+    },
+    {
+      "$id": 2,
+      "style": 119,
+      "name": "To help you defeat this boss, you may\nchoose to receive the following effects:\nFull HP / Max Party Gauge\nWould you like to accept these effects?"
+    },
+    {
+      "$id": 3,
+      "style": 119,
+      "name": "To help you defeat this boss, you may\nchoose to receive the following effects:\nFull HP / Max Talent Gauge\nWould you like to accept these effects?"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "[System:Color name=s2 ]Casual Mode lowers battle difficulty.[/System:Color]\n\nWould you like to enable Casual Mode?\n(You can also change this later in Options.)"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Enable"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Don't enable"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Accept"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Don't accept"
+    }
+  ]
+}

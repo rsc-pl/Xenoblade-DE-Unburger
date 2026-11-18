@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I can see why![XENO:wait wait=key ][System:PageBreak ]Had you ever been here before?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Is this your first visit here,[XENO:wait wait=key ][System:PageBreak ]too, Dunban-san?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,

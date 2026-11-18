@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "style": 124,
+      "name": "There you are!!"
+    },
+    {
+      "$id": 3,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "style": 124,
+      "name": "Shulk!"
+    },
+    {
+      "$id": 5,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "style": 124,
+      "name": "Let's do this!"
+    },
+    {
+      "$id": 7,
+      "style": 124,
+      "name": "Trying to run away?!"
+    },
+    {
+      "$id": 8,
+      "style": 124,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "style": 124,
+      "name": "Wait!"
+    },
+    {
+      "$id": 10,
+      "style": 124,
+      "name": ""
+    }
+  ]
+}

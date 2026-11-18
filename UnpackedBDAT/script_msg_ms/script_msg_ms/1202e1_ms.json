@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・It's Dickson, isn't it?/・You're worried about me. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・It's Dikson-san, isn't it?/・You're worried about me. ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]And I'll be right by your side,[XENO:n ]\nready to fight to the end with you.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]But I don't think you should forget[XENO:n ]\nabout all the good times you had.[XENO:wait wait=key ][System:PageBreak ]With Dickson, I mean. I still[XENO:n ]\nbelieve those are real.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]And I'll be right by your side,[XENO:n ]\nready to fight to the end with you.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]But I don't think you should forget[XENO:n ]\nabout all the good times you had.[XENO:wait wait=key ][System:PageBreak ]With Dikson-san, I mean. I still[XENO:n ]\nbelieve those are real.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT15 ]I know what you're saying, Fiorung.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]But I can't let you do that.[XENO:wait wait=key ][System:PageBreak ]I've been thinking about what[XENO:n ]\nhappened before...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]And I reckon maybe Dickson[XENO:n ]\ndoesn't care about Zanza at all...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT15 ]I know what you're saying, Fiorung.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]But I can't let you do that.[XENO:wait wait=key ][System:PageBreak ]I've been thinking about what[XENO:n ]\nhappened before...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]And I reckon maybe Dikson[XENO:n ]\ndoesn't care about Zanza at all...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]The key is combining Machina[XENO:n ]\nand High Entia technologies.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Migol gave me a book explaining[XENO:n ]\nthe joint research they did.[XENO:wait wait=key ][System:PageBreak ]It was years and years ago, but it[XENO:n ]\ncovered all sorts of fields.[XENO:wait wait=key ][System:PageBreak ]I don't know much about medicine,[XENO:n ]\nbut Carna and Linada do.[XENO:wait wait=key ][System:PageBreak ]I'll get them to help.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]The key is combining Machina[XENO:n ]\nand High Entia technologies.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Migol-san gave me a book explaining[XENO:n ]\nthe joint research they did.[XENO:wait wait=key ][System:PageBreak ]It was years and years ago, but it[XENO:n ]\ncovered all sorts of fields.[XENO:wait wait=key ][System:PageBreak ]I don't know much about medicine,[XENO:n ]\nbut Carna and Linada-san do.[XENO:wait wait=key ][System:PageBreak ]I'll get them to help.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,

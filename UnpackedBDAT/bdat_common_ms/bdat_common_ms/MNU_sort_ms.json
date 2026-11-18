@@ -13,12 +13,12 @@
     {
       "$id": 1,
       "style": 9,
-      "name": "Most Recent"
+      "name": "Obtained"
     },
     {
       "$id": 2,
       "style": 9,
-      "name": "Sale Price"
+      "name": "Sell Price"
     },
     {
       "$id": 3,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 9,
-      "name": "Unique"
+      "name": "Unique Weapons"
     },
     {
       "$id": 6,
@@ -68,12 +68,12 @@
     {
       "$id": 12,
       "style": 9,
-      "name": "Unique"
+      "name": "Unique Armour"
     },
     {
       "$id": 13,
       "style": 9,
-      "name": "Number"
+      "name": "Owned"
     },
     {
       "$id": 14,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 9,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 20,
@@ -118,22 +118,22 @@
     {
       "$id": 22,
       "style": 9,
-      "name": "Weapon Use"
+      "name": "Weapon Only"
     },
     {
       "$id": 23,
       "style": 9,
-      "name": "Armour Use"
+      "name": "Armour Only"
     },
     {
       "$id": 24,
       "style": 9,
-      "name": "All Purpose"
+      "name": "Both"
     },
     {
       "$id": 25,
       "style": 9,
-      "name": "Attributes"
+      "name": "Stats"
     },
     {
       "$id": 26,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 9,
-      "name": "Attributes"
+      "name": "Parameters"
     },
     {
       "$id": 33,

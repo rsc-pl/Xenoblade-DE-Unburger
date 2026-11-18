@@ -38,17 +38,17 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "Miss Melly looking for Taruko?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Are you looking for Talco-chan-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "She go back after healing.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "She went home after she was treated-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "'Cannot put up with this sentimental manure',[XENO:n ]\nwas exact words.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "She said, \"I've had enough trouble[XENO:n ]\nalready,\"-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "Lady Melia, I'm glad we trusted you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Lady Melia-san, I'm glad we trusted you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 125,
-      "name": "Lady Melia, we Companions will form your honour guard.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": " Melia-sama, we Companions will form your honour guard.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "You Companions will join Taruko and guard[XENO:n ]\nGran Dell from Fogbeast incursion.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You Companions will join Talco and guard[XENO:n ]\nGran Dell from Fogbeast incursion.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "The Companions' strength, Gran Dell's[XENO:n ]\nknowledge, Taruko's will...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Companions' strength, Gran Dell's[XENO:n ]\nknowledge, Talco's will...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": "Lady Melia... Take care.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": " Melia-sama... Take care.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 125,
-      "name": "Maxis and his Companions...[XENO:n ]\nThey're counting on us too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Maxis-san and his Companions...[XENO:n ]\nThey're counting on us too.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 55,
@@ -293,7 +293,7 @@
     {
       "$id": 57,
       "style": 125,
-      "name": "Ah, only too gladly,[XENO:n ]\nMiss Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ah, only too gladly,[XENO:n ]\nMiss Melia-san.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

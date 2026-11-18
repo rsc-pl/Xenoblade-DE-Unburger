@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Prison Island Hell Gate"
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "It appears to be deactivated."
+    }
+  ]
+}

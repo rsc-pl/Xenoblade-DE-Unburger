@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]You say the Second Consort's child[XENO:n ]\nsurvived her ordeal?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]You say the Consort of Shadow's child[XENO:n ]\nsurvived her ordeal?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "Forgive me, First Consort.[XENO:wait wait=key ]"
+      "name": "Please forgive me.[XENO:wait wait=key ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "I, Taruko, vow to see your orders fulfilled.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I, Talco, vow to see your orders fulfilled.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,

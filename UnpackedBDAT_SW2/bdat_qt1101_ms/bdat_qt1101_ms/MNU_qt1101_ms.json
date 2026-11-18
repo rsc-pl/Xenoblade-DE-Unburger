@@ -1,0 +1,1114 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "The team investigating the ruins found an old document.[XENO:n ]\nIt'll take time to decipher because of its age.[XENO:n ]\nGather materials to build a deciphering device."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Obtain 6 pieces of [System:Color name=item ]Sturdy Armour[/System:Color][XENO:n ]\nfrom Flavel Andos in Eryth Sea."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Report to Russ."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "The deciphering device is complete.[XENO:n ]\nDeciphering the document should progress now."
+    },
+    {
+      "$id": 5,
+      "style": 148,
+      "name": "The device you made seems not to be accurate enough.[XENO:n ]\nAt this rate, deciphering the document won't progress.[XENO:n ]\nGather materials to improve the device."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Green Diodes[/System:Color][XENO:n ]\nin the High Entia Tomb."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Obtain 3 [System:Color name=item ]Astas Remote Units[/System:Color][XENO:n ]\nfrom Hover Astas in the High Entia Tomb."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Report to Natori."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "You improved the device and deciphered more of the text.[XENO:n ]\nIt seems to concern the High Entia's War God."
+    },
+    {
+      "$id": 10,
+      "style": 148,
+      "name": "You learned Talia was heading to the Satorl ruins alone.[XENO:n ]\nYou warned her of the danger, but she won't change her mind.[XENO:n ]\nYou're worried about her, so follow her!"
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Near Judgment Chamber in Satorl Marsh,[XENO:n ]\ndefeat [System:Color name=item ]Dogmatic Gogol[/System:Color]."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Talk to Talia."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "You changed the future in which Talia would die.[XENO:n ]\nShe and the others seem to seek the true War God statue."
+    },
+    {
+      "$id": 14,
+      "style": 148,
+      "name": "Melissa's son apparently just went to Eryth Sea to train.[XENO:n ]\nIt's dangerous there, so she wants him brought back.[XENO:n ]\nLook for Mirallis."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "Find Mirallis at Eryth Sea."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Report to Melissa."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Perhaps feeling bad for worrying his mother,[XENO:n ]\nhe promised not to be reckless. Now she can rest easy."
+    },
+    {
+      "$id": 18,
+      "style": 148,
+      "name": "Mirallis stopped being reckless and will study under Coles.[XENO:n ]\nBut Coles lacks materials and can't take him on yet.[XENO:n ]\nAsk Coles what teaching materials he needs."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "Talk to Coles."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Obtain 3 portions of [System:Color name=item ]Eluca Bitter Water[/System:Color][XENO:n ]\nfrom Perna Elucas in Eryth Sea."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Talk to Coles."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Report to Mirallis."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "With all the teaching materials safely collected,[XENO:n ]\nMirallis can now study under Coles."
+    },
+    {
+      "$id": 24,
+      "style": 148,
+      "name": "Mirallis says the monster population in Eryth Sea[XENO:n ]\nseems to have grown alarmingly.[XENO:n ]\nHelp the guards protect Achamoth."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Talk to Rokuro."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Buono Nebulae[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Report to Rokuro."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Report to Mirallis."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "You defeated monsters in Eryth Sea to protect the capital.[XENO:n ]\nMirallis looked happy to be praised by Rokuro."
+    },
+    {
+      "$id": 30,
+      "style": 148,
+      "name": "While handling Mirallis' request, you were also asked[XENO:n ]\nby Rokuro to defeat some monsters.[XENO:n ]\nFinish that task before reporting to Rokuro."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Bono Nebulae[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "You defeated the requested monsters,[XENO:n ]\nso none of the guards were killed or injured."
+    },
+    {
+      "$id": 33,
+      "style": 148,
+      "name": "Seagal seems to have fallen for two women,[XENO:n ]\nRosa and Riko.[XENO:n ]\nHe asked you to find out how they feel about him now."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "Talk to Riko."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "Talk to Rosa."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "Report to Seagal."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "You found out how the two women feel about him.[XENO:n ]\nNeither of them dislikes him."
+    },
+    {
+      "$id": 38,
+      "style": 148,
+      "name": "Both women finally confessed their feelings to Seagal,[XENO:n ]\nbut he can't decide which one to choose.[XENO:n ]\nHe asked you to find out their fondest memories."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Talk to Rosa or Riko."
+    },
+    {
+      "$id": 40,
+      "style": 138,
+      "name": "Talk to Rosa."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "Talk to Riko."
+    },
+    {
+      "$id": 42,
+      "style": 138,
+      "name": "Report to Seagal."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "Hearing Riko's fondest memory made Seagal realise[XENO:n ]\nhis true feelings, and he decided to confess to Riko."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "Hearing Rosa's fondest memory made Seagal realise[XENO:n ]\nhis true feelings, and he decided to confess to Rosa."
+    },
+    {
+      "$id": 45,
+      "style": 148,
+      "name": "Seagal has finally decided to confess to Riko.[XENO:n ]\nHe can't go himself because Rosa is nearby.[XENO:n ]\nDeliver his love letter for him."
+    },
+    {
+      "$id": 46,
+      "style": 138,
+      "name": "Talk to Riko."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Report to Seagal."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "When you delivered Seagal's letter, Riko cried,[XENO:n ]\nbut the two of them ended up going out together."
+    },
+    {
+      "$id": 49,
+      "style": 148,
+      "name": "Seagal has decided how to respond to Rosa's confession.[XENO:n ]\nRiko is nearby every day, so he can't go in person.[XENO:n ]\nDeliver his love letter for him."
+    },
+    {
+      "$id": 50,
+      "style": 138,
+      "name": "Talk to Rosa."
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "Report to Seagal."
+    },
+    {
+      "$id": 52,
+      "style": 138,
+      "name": "Rosa seems to have had a lot on her mind,[XENO:n ]\nbut she accepted his feelings and they began dating."
+    },
+    {
+      "$id": 53,
+      "style": 148,
+      "name": "They planned to help a close friend defeat monsters,[XENO:n ]\nbut a monster-slaying assignment came up.[XENO:n ]\nTake care of the assignment for them."
+    },
+    {
+      "$id": 54,
+      "style": 138,
+      "name": "Defeat 6 [System:Color name=item ]Eryth Hiruns[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 55,
+      "style": 138,
+      "name": "Report to Rokuro."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "You completed their monster-slaying assignment.[XENO:n ]\nThey seem to have succeeded too. The best possible outcome."
+    },
+    {
+      "$id": 57,
+      "style": 148,
+      "name": "They need water that won't freeze for their next journey,[XENO:n ]\nbut apparently there are no waterfalls nearby.[XENO:n ]\nVisit waterfalls around the world to collect water for him."
+    },
+    {
+      "$id": 58,
+      "style": 138,
+      "name": "At Kasharpa Falls on Giant God's Leg,[XENO:n ]\nobtain [System:Color name=item ]Kasharpa Water[/System:Color]."
+    },
+    {
+      "$id": 59,
+      "style": 138,
+      "name": "Near the Sororal Statues in Satorl Marsh,[XENO:n ]\nobtain [System:Color name=item ]Sister Statues Water[/System:Color]."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "At Great Makna Falls in Makna Forest,[XENO:n ]\nobtain [System:Color name=item ]Makna Water[/System:Color]."
+    },
+    {
+      "$id": 61,
+      "style": 138,
+      "name": "Report to Zain."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "You collected waterfall water and gave it to Zain.[XENO:n ]\nThey now have drinking water for the next adventure."
+    },
+    {
+      "$id": 63,
+      "style": 148,
+      "name": "He apparently dropped the cream needed in cold regions.[XENO:n ]\nIt should be somewhere near an ether deposit[XENO:n ]\nin Eryth Sea, so go look for it."
+    },
+    {
+      "$id": 64,
+      "style": 138,
+      "name": "Near Anu Shore in Eryth Sea,[XENO:n ]\nobtain the [System:Color name=item ]Chalk Container[/System:Color]."
+    },
+    {
+      "$id": 65,
+      "style": 138,
+      "name": "Report to Krall."
+    },
+    {
+      "$id": 66,
+      "style": 138,
+      "name": "You found the container near Eryth Sea's ether deposit[XENO:n ]\nand delivered it to Krall, Zain's partner."
+    },
+    {
+      "$id": 67,
+      "style": 148,
+      "name": "Defeat Lakebed Orthlus in Colony 9[XENO:n ]\nand obtain Orthlus' Liver.[XENO:n ]\nIt's essential for Zain and his partner's next adventure."
+    },
+    {
+      "$id": 68,
+      "style": 138,
+      "name": "Near Agora Shore in Colony 9,[XENO:n ]\nobtain [System:Color name=item ]Orthlus' Liver[/System:Color]."
+    },
+    {
+      "$id": 69,
+      "style": 138,
+      "name": "Report to Zain."
+    },
+    {
+      "$id": 70,
+      "style": 138,
+      "name": "You gave Zain Orthlus' Liver, to use as preserved food.[XENO:n ]\nThey're ready and will apparently set off soon."
+    },
+    {
+      "$id": 71,
+      "style": 148,
+      "name": "No word from the pair who went to Valak Mountain's ruins.[XENO:n ]\nAn accident might have left them unable to move.[XENO:n ]\nHurry to the mountain, find them and bring them home!"
+    },
+    {
+      "$id": 72,
+      "style": 138,
+      "name": "Find Zain near 3 Great Sages' Summit on[XENO:n ]\nValak Mountain."
+    },
+    {
+      "$id": 73,
+      "style": 138,
+      "name": "Find Krall near 3 Great Sages' Summit on[XENO:n ]\nValak Mountain."
+    },
+    {
+      "$id": 74,
+      "style": 138,
+      "name": "Report to Milia."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "You found the two stranded after a monster attack[XENO:n ]\non the mountain, and brought them home safely."
+    },
+    {
+      "$id": 76,
+      "style": 148,
+      "name": "Arietta's daughter suddenly took a dislike to other races.[XENO:n ]\nArietta wants you to find out why.[XENO:n ]\nTalk to Louise and resolve the problem."
+    },
+    {
+      "$id": 77,
+      "style": 138,
+      "name": "Talk to Louise."
+    },
+    {
+      "$id": 78,
+      "style": 138,
+      "name": "Collect 2 pieces of [System:Color name=item ]Marine Marble[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 79,
+      "style": 138,
+      "name": "Talk to Louise."
+    },
+    {
+      "$id": 80,
+      "style": 138,
+      "name": "Report to Arietta."
+    },
+    {
+      "$id": 81,
+      "style": 138,
+      "name": "You discovered why Louise dislikes other races.[XENO:n ]\nLet's hope her mother can persuade her[XENO:line ]"
+    },
+    {
+      "$id": 82,
+      "style": 148,
+      "name": "Apparently, Louise never used to care about race.[XENO:n ]\nRecover her memories with Vivian[XENO:n ]\nand restore their friendship."
+    },
+    {
+      "$id": 83,
+      "style": 138,
+      "name": "Collect [System:Color name=item ]Morning Dew Ice[/System:Color] at Befalgar Pedestal[XENO:n ]\non Valak Mountain (early morning only)."
+    },
+    {
+      "$id": 84,
+      "style": 138,
+      "name": "Talk to Vivian."
+    },
+    {
+      "$id": 85,
+      "style": 138,
+      "name": "Talk to Louise."
+    },
+    {
+      "$id": 86,
+      "style": 138,
+      "name": "Report to Vivian."
+    },
+    {
+      "$id": 87,
+      "style": 138,
+      "name": "Louise recovered her memories and realised her mistake.[XENO:n ]\nThe two are friends once more."
+    },
+    {
+      "$id": 88,
+      "style": 148,
+      "name": "He wants to learn about stars to become an adventurer.[XENO:n ]\nHe asked you to put in a word with Milia, one of the[XENO:n ]\ncapital's greatest stargazers. Look for her."
+    },
+    {
+      "$id": 89,
+      "style": 138,
+      "name": "Talk to Milia."
+    },
+    {
+      "$id": 90,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Silver Eks Plates[/System:Color][XENO:n ]\nfrom Stella Eks in Eryth Sea."
+    },
+    {
+      "$id": 91,
+      "style": 138,
+      "name": "Talk to Milia."
+    },
+    {
+      "$id": 92,
+      "style": 138,
+      "name": "Report to Ein."
+    },
+    {
+      "$id": 93,
+      "style": 138,
+      "name": "With the telescope she made,[XENO:n ]\nEin has learned a little more about the stars."
+    },
+    {
+      "$id": 94,
+      "style": 148,
+      "name": "To improve the view through the telescope Milia made,[XENO:n ]\nhe's looking for a nimble-fingered Nopon.[XENO:n ]\nFind one and ask for help with his dream."
+    },
+    {
+      "$id": 95,
+      "style": 138,
+      "name": "Talk to Galba."
+    },
+    {
+      "$id": 96,
+      "style": 138,
+      "name": "In the Second Treasury of the High Entia Tomb,[XENO:n ]\nobtain the [System:Color name=item ]Attachment Part[/System:Color]."
+    },
+    {
+      "$id": 97,
+      "style": 138,
+      "name": "Give the Attachment Part to Galba."
+    },
+    {
+      "$id": 98,
+      "style": 138,
+      "name": "Report to Ein."
+    },
+    {
+      "$id": 99,
+      "style": 138,
+      "name": "The telescope is improved and the stars are clearer.[XENO:n ]\nEin should learn more and more about them now."
+    },
+    {
+      "$id": 100,
+      "style": 148,
+      "name": "Take on the extermination assignment for the guard[XENO:n ]\nwho hurt his back training, and ease his friend's worries."
+    },
+    {
+      "$id": 101,
+      "style": 138,
+      "name": "Defeat 6 [System:Color name=item ]Tehito Fuudis[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 102,
+      "style": 138,
+      "name": "Report to Guarda."
+    },
+    {
+      "$id": 103,
+      "style": 138,
+      "name": "You completed the extermination assignment for them.[XENO:n ]\nHis friend promised not to overdo it again. What a relief."
+    },
+    {
+      "$id": 104,
+      "style": 148,
+      "name": "Look for insects for a promising young boy.[XENO:n ]\nThey glow golden for only a few hours after hatching."
+    },
+    {
+      "$id": 105,
+      "style": 138,
+      "name": "Collect 9 [System:Color name=item ]Gold Caterpillars[/System:Color][XENO:n ]\nin Tephra Cave."
+    },
+    {
+      "$id": 106,
+      "style": 138,
+      "name": "Report to Tet."
+    },
+    {
+      "$id": 107,
+      "style": 138,
+      "name": "You delivered the insects he asked for safely.[XENO:n ]\nIt'll be interesting to see his observations."
+    },
+    {
+      "$id": 108,
+      "style": 148,
+      "name": "He wants to enjoy drinking with his friends but has[XENO:n ]\na low tolerance. He asked for food to build it up.[XENO:n ]\nGather ingredients so he can have fun with his friends."
+    },
+    {
+      "$id": 109,
+      "style": 138,
+      "name": "Obtain 2 portions of [System:Color name=item ]Feris Wine Blood[/System:Color][XENO:n ]\nfrom Feris in Makna Forest."
+    },
+    {
+      "$id": 110,
+      "style": 138,
+      "name": "Obtain 5 [System:Color name=item ]Paguur Pot Grills[/System:Color][XENO:n ]\nfrom Cruz Paguurs in Eryth Sea."
+    },
+    {
+      "$id": 111,
+      "style": 138,
+      "name": "Report to Nero."
+    },
+    {
+      "$id": 112,
+      "style": 138,
+      "name": "You gathered what Nero asked for and gave it to him.[XENO:n ]\nHe should be able to handle alcohol and enjoy it now."
+    },
+    {
+      "$id": 113,
+      "style": 148,
+      "name": "He let his two children play,[XENO:n ]\nbut at some point his son disappeared.[XENO:n ]\nHe can't leave here, so look for his son in his place."
+    },
+    {
+      "$id": 114,
+      "style": 138,
+      "name": "Find Atael."
+    },
+    {
+      "$id": 115,
+      "style": 138,
+      "name": "Report to Borario."
+    },
+    {
+      "$id": 116,
+      "style": 138,
+      "name": "You found the missing son.[XENO:n ]\nHe was able to return safely to his father."
+    },
+    {
+      "$id": 117,
+      "style": 148,
+      "name": "He looked away for a moment, and now his daughter is gone.[XENO:n ]\nHe can't leave here,[XENO:n ]\nso go look for his daughter for him."
+    },
+    {
+      "$id": 118,
+      "style": 138,
+      "name": "Find Kiino."
+    },
+    {
+      "$id": 119,
+      "style": 138,
+      "name": "Report to Borario."
+    },
+    {
+      "$id": 120,
+      "style": 138,
+      "name": "You found his daughter safely.[XENO:n ]\nShe'll probably stay with her father from now on."
+    },
+    {
+      "$id": 121,
+      "style": 148,
+      "name": "Her son suddenly stopped wanting to go outside.[XENO:n ]\nShe wants you to somehow get him out of the house.[XENO:n ]\nYou don't know why, so talk to her son first."
+    },
+    {
+      "$id": 122,
+      "style": 138,
+      "name": "Talk to Balor."
+    },
+    {
+      "$id": 123,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Ether Roses[/System:Color][XENO:n ]\nin Satorl Marsh."
+    },
+    {
+      "$id": 124,
+      "style": 138,
+      "name": "Talk to Balor."
+    },
+    {
+      "$id": 125,
+      "style": 138,
+      "name": "Report to Popie."
+    },
+    {
+      "$id": 126,
+      "style": 138,
+      "name": "You couldn't resolve the reason Balor won't go outside.[XENO:n ]\nBut you gave him what he asked for, so he should be fine."
+    },
+    {
+      "$id": 127,
+      "style": 148,
+      "name": "You need a Secret Club Card to enter the club.[XENO:n ]\nThis is your chance, before they know they're exposed.[XENO:n ]\nHurry and find someone who has a card."
+    },
+    {
+      "$id": 128,
+      "style": 138,
+      "name": "Find someone who has a Secret Club Card."
+    },
+    {
+      "$id": 129,
+      "style": 138,
+      "name": "Obtain 3 [System:Color name=item ]Rufus Control Units[/System:Color][XENO:n ]\nfrom Oruga Rufus in the High Entia Tomb."
+    },
+    {
+      "$id": 130,
+      "style": 138,
+      "name": "Give them to Nero."
+    },
+    {
+      "$id": 131,
+      "style": 138,
+      "name": "You obtained a Secret Club Card to enter the club.[XENO:n ]\nHurry back to the Secret Club!"
+    },
+    {
+      "$id": 132,
+      "style": 148,
+      "name": "The transporter stopped, trapping people in Whitewing Palace.[XENO:n ]\nIt's only a matter of time before Telethia find them.[XENO:n ]\nRepair the Ether Furnace Controls to rescue them."
+    },
+    {
+      "$id": 133,
+      "style": 138,
+      "name": "Find someone who can repair the Ether Furnace Controls[XENO:n ]\nand ask how to repair them."
+    },
+    {
+      "$id": 134,
+      "style": 138,
+      "name": "Repair the Ether Furnace Controls[XENO:n ]\nto restore the transporter."
+    },
+    {
+      "$id": 135,
+      "style": 138,
+      "name": "Talk to Vivian in Whitewing Palace."
+    },
+    {
+      "$id": 136,
+      "style": 138,
+      "name": "The transporter is working again,[XENO:n ]\nand you rescued the people who were trapped."
+    },
+    {
+      "$id": 137,
+      "style": 148,
+      "name": "Help with research into monster ecology."
+    },
+    {
+      "$id": 138,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Cruz Paguurs[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 139,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou fought the enemies and reported their ecology."
+    },
+    {
+      "$id": 140,
+      "style": 148,
+      "name": "Help with research into monster ecology."
+    },
+    {
+      "$id": 141,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Eryth Ansels[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 142,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou fought the enemies and reported their ecology."
+    },
+    {
+      "$id": 143,
+      "style": 148,
+      "name": "Help with research into monster ecology."
+    },
+    {
+      "$id": 144,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Ciconia Ekidnos[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 145,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou fought the enemies and reported their ecology."
+    },
+    {
+      "$id": 146,
+      "style": 148,
+      "name": "His family apparently saw many monsters outside.[XENO:n ]\nIt'll take time to dispatch the guards,[XENO:n ]\nso he wants you to go in their place."
+    },
+    {
+      "$id": 147,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Chloro Laias[/System:Color]\n[XENO:n ]in Eryth Sea."
+    },
+    {
+      "$id": 148,
+      "style": 138,
+      "name": "You completed the Achamoth guard's request.[XENO:n ]\nYou defeated the monsters that his family saw."
+    },
+    {
+      "$id": 149,
+      "style": 148,
+      "name": "Monsters have now appeared in another place.[XENO:n ]\nIt'll take time to dispatch the guards,[XENO:n ]\nso he wants you to go in their place."
+    },
+    {
+      "$id": 150,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Stella Eks[/System:Color]\n[XENO:n ]in Eryth Sea."
+    },
+    {
+      "$id": 151,
+      "style": 138,
+      "name": "You completed the Achamoth guard's request and[XENO:n ]\ndefeated the monsters he asked you to."
+    },
+    {
+      "$id": 152,
+      "style": 148,
+      "name": "Monsters have been breeding at an alarming rate.[XENO:n ]\nIt'll take time to dispatch the guards,[XENO:n ]\nso he wants you to go in their place."
+    },
+    {
+      "$id": 153,
+      "style": 138,
+      "name": "Defeat 1 [System:Color name=item ]Racti Lexos[/System:Color]\n[XENO:n ]in Eryth Sea."
+    },
+    {
+      "$id": 154,
+      "style": 138,
+      "name": "You fulfilled an Achamoth guard's request.[XENO:n ]\nYou defeated the rapidly multiplying monsters."
+    },
+    {
+      "$id": 155,
+      "style": 148,
+      "name": "You've been asked to defeat monsters[XENO:n ]\nto keep Imperial Capital Achamoth safe.\n"
+    },
+    {
+      "$id": 156,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Unine Fuudis[/System:Color]\n[XENO:n ]in Eryth Sea."
+    },
+    {
+      "$id": 157,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThere's less chance of danger reaching Achamoth now."
+    },
+    {
+      "$id": 158,
+      "style": 148,
+      "name": "You've been asked to defeat monsters[XENO:n ]\nto keep Imperial Capital Achamoth safe.\n"
+    },
+    {
+      "$id": 159,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Tocos Orugas[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 160,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThere's less chance of danger reaching Achamoth now."
+    },
+    {
+      "$id": 161,
+      "style": 148,
+      "name": "You've been asked to defeat monsters[XENO:n ]\nto keep Imperial Capital Achamoth safe.\n"
+    },
+    {
+      "$id": 162,
+      "style": 138,
+      "name": "Defeat 1 [System:Color name=item ]Pelargos Ekidno[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 163,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThere's less chance of danger reaching Achamoth now."
+    },
+    {
+      "$id": 164,
+      "style": 148,
+      "name": "The minister assigned a task through a guard.[XENO:n ]\nDefeat the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 165,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Somati Spicals[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 166,
+      "style": 138,
+      "name": "You fulfilled an Achamoth guard's request.[XENO:n ]\nYou defeated the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 167,
+      "style": 148,
+      "name": "The minister assigned a task through a guard.[XENO:n ]\nEliminate the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 168,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Tussock Spicals[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 169,
+      "style": 138,
+      "name": "You fulfilled an Achamoth guard's request.[XENO:n ]\nYou defeated the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 170,
+      "style": 148,
+      "name": "The minister assigned a task through a guard.[XENO:n ]\nDefeat the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 171,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Otol Spicals[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 172,
+      "style": 138,
+      "name": "You fulfilled an Achamoth guard's request.[XENO:n ]\nYou defeated the monsters on Soltnar Seal Island."
+    },
+    {
+      "$id": 173,
+      "style": 148,
+      "name": "Complete the monster-slaying assignment for her boyfriend."
+    },
+    {
+      "$id": 174,
+      "style": 138,
+      "name": "Near Secluded Island in Eryth Sea,[XENO:n ]\ndefeat [System:Color name=item ]Proper Bandaz[/System:Color] (night, during shooting stars only)."
+    },
+    {
+      "$id": 175,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou completed the assignment for her boyfriend."
+    },
+    {
+      "$id": 176,
+      "style": 148,
+      "name": "A resident was attacked by an unfamiliar monster.[XENO:n ]\nIt's dangerous to leave it alive, so go defeat it."
+    },
+    {
+      "$id": 177,
+      "style": 138,
+      "name": "On Hovering Reef 10 in Eryth Sea,[XENO:n ]\ndefeat [System:Color name=item ]Tempestuous Edegia[/System:Color] (night only)."
+    },
+    {
+      "$id": 178,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou defeated the monster and secured the area."
+    },
+    {
+      "$id": 179,
+      "style": 148,
+      "name": "His senior saddled him with an impossible assignment.[XENO:n ]\nComplete the monster-slaying assignment for the poor man."
+    },
+    {
+      "$id": 180,
+      "style": 138,
+      "name": "On Hovering Reef 7 in Eryth Sea,[XENO:n ]\ndefeat [System:Color name=item ]Peeling Kircheis[/System:Color]."
+    },
+    {
+      "$id": 181,
+      "style": 138,
+      "name": "You completed the Achamoth guard's request[XENO:n ]\nand completed the quest for him."
+    },
+    {
+      "$id": 182,
+      "style": 148,
+      "name": "A monster appeared before a resident out on a walk.[XENO:n ]\nIt'll endanger others too, so go defeat it."
+    },
+    {
+      "$id": 183,
+      "style": 138,
+      "name": "Near Anu Shore in Eryth Sea,[XENO:n ]\ndefeat [System:Color name=item ]Lightspeed Sonid[/System:Color]."
+    },
+    {
+      "$id": 184,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou defeated the requested monster and removed the danger."
+    },
+    {
+      "$id": 185,
+      "style": 148,
+      "name": "He wants to thank a colleague who helped him after[XENO:n ]\na mistake at work, but lacks the materials for a gift.[XENO:n ]\nGather the materials for him."
+    },
+    {
+      "$id": 186,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Glossy Grady Fans[/System:Color][XENO:n ]\nfrom Luna Gradys in Eryth Sea."
+    },
+    {
+      "$id": 187,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThe materials were gathered and the gift delivered."
+    },
+    {
+      "$id": 188,
+      "style": 148,
+      "name": "She tried making a dance costume but ran out of materials.[XENO:n ]\nGather the materials to complete the wild outfit."
+    },
+    {
+      "$id": 189,
+      "style": 138,
+      "name": "Obtain 5 [System:Color name=item ]Oruga Grass Skirts[/System:Color][XENO:n ]\nfrom Orugas in Makna Forest."
+    },
+    {
+      "$id": 190,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThe wild dance costume is complete."
+    },
+    {
+      "$id": 191,
+      "style": 148,
+      "name": "He wants to give his child a doll as he has little time[XENO:n ]\nfor them due to work, but lacks cloth for its clothes.[XENO:n ]\nGather the materials for his child."
+    },
+    {
+      "$id": 192,
+      "style": 138,
+      "name": "Obtain 3 pairs of [System:Color name=item ]Oruga Demon Pants[/System:Color][XENO:n ]\nfrom Orugas in Eryth Sea."
+    },
+    {
+      "$id": 193,
+      "style": 138,
+      "name": "You fulfilled an Achamoth guard's request.[XENO:n ]\nThe doll's clothes for his child are complete."
+    },
+    {
+      "$id": 194,
+      "style": 148,
+      "name": "He lacks materials for an instrument to play love songs.[XENO:n ]\nGather the materials for him."
+    },
+    {
+      "$id": 195,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Lexos Rainbow Beards[/System:Color][XENO:n ]\nfrom Racti Lexos in Eryth Sea."
+    },
+    {
+      "$id": 196,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nHis handmade instrument is complete."
+    },
+    {
+      "$id": 197,
+      "style": 148,
+      "name": "Apparently fibre-rich food can ease bloating.[XENO:n ]\nShe's having trouble moving, so gather the collectible[XENO:n ]\nitems in her place."
+    },
+    {
+      "$id": 198,
+      "style": 138,
+      "name": "Collect 3 portions of [System:Color name=item ]Gold Burdock[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 199,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nHer stomach seems to feel better now."
+    },
+    {
+      "$id": 200,
+      "style": 148,
+      "name": "His favourite body pillow seems to have broken.[XENO:n ]\nGather the collectible items for him."
+    },
+    {
+      "$id": 201,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]White Tails[/System:Color][XENO:n ]\nin Eryth Sea."
+    },
+    {
+      "$id": 202,
+      "style": 138,
+      "name": "You completed the Achamoth resident's request[XENO:n ]\nand collected all the items he asked for."
+    },
+    {
+      "$id": 203,
+      "style": 148,
+      "name": "She wants to cheer up her friend's mother, who seems down.[XENO:n ]\nGather the collectible items to support her kindness."
+    },
+    {
+      "$id": 204,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]Stardrops[/System:Color][XENO:n ]\nin Imperial Capital Achamoth."
+    },
+    {
+      "$id": 205,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nTouched by her kindness, the woman seems a bit happier."
+    },
+    {
+      "$id": 206,
+      "style": 148,
+      "name": "Materials for maintaining flying machines are running low.[XENO:n ]\nSoon it won't be possible to maintain them properly.[XENO:n ]\nGather the collectible items for him."
+    },
+    {
+      "$id": 207,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Spiral Lamps[/System:Color][XENO:n ]\nin the High Entia Tomb."
+    },
+    {
+      "$id": 208,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nThe flying machines have been properly serviced."
+    },
+    {
+      "$id": 209,
+      "style": 148,
+      "name": "He lost a keepsake from his mother while out walking.[XENO:n ]\nHe has no idea where he dropped it.[XENO:n ]\nIt's dear to him, so look for it."
+    },
+    {
+      "$id": 210,
+      "style": 138,
+      "name": "On 2F of Imperial Capital Achamoth,[XENO:n ]\nobtain [System:Color name=item ]Mother's Necklace[/System:Color]."
+    },
+    {
+      "$id": 211,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou returned the keepsake from his mother that he lost."
+    },
+    {
+      "$id": 212,
+      "style": 148,
+      "name": "A resident has lost the ring he planned to give to[XENO:n ]\nhis girlfriend. Find the very precious item for him."
+    },
+    {
+      "$id": 213,
+      "style": 138,
+      "name": "Inside the palace in Imperial Capital Achamoth,[XENO:n ]\nobtain the [System:Color name=item ]Silver Ring[/System:Color]."
+    },
+    {
+      "$id": 214,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou delivered the ring meant for his girlfriend."
+    },
+    {
+      "$id": 215,
+      "style": 148,
+      "name": "He lost a memento he received after befriending[XENO:n ]\na travelling merchant.[XENO:n ]\nIt's important to him, so find it."
+    },
+    {
+      "$id": 216,
+      "style": 138,
+      "name": "On 1F of Imperial Capital Achamoth,[XENO:n ]\nobtain the [System:Color name=item ]Merchant Memento[/System:Color]."
+    },
+    {
+      "$id": 217,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou returned his memento safely."
+    },
+    {
+      "$id": 218,
+      "style": 148,
+      "name": "The dear amulet this child got when moving is missing.[XENO:n ]\nIt's irreplaceable, so they really want to find it.[XENO:n ]\nLook for it for them."
+    },
+    {
+      "$id": 219,
+      "style": 138,
+      "name": "On 1F of Imperial Capital Achamoth,[XENO:n ]\nobtain the [System:Color name=item ]Health Amulet[/System:Color]."
+    },
+    {
+      "$id": 220,
+      "style": 138,
+      "name": "You fulfilled an Achamoth resident's request.[XENO:n ]\nYou found and returned the fallen amulet."
+    }
+  ]
+}

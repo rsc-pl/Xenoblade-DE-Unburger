@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "We've collected the five Green[XENO:n ]\nDiodes.[XENO:wait wait=key ][System:PageBreak ]Let's get them to Natori-san for the[XENO:n ]\ndeciphering machine.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "That's the three Rufus Control[XENO:n ]\nUnits we need.[XENO:wait wait=key ][System:PageBreak ]We can trade these for the[XENO:n ]\nSecret Club Card.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

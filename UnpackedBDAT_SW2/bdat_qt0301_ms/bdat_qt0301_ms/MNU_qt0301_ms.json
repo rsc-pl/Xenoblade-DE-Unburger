@@ -1,0 +1,774 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Having escaped with their lives, they're low on medicine.[XENO:n ]\nWithout it, Gorman will suffer.[XENO:n ]\nGather the ingredients for Gorman."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Obtain 5 lots of [System:Color name=item ]Glowing Lampus Fluid[/System:Color][XENO:n ]\nfrom Lampus on the Giant God's Leg."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Report to Olga."
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "You delivered ingredients for the insomnia medicine,[XENO:n ]\nso Gorman won't have to suffer from insomnia."
+    },
+    {
+      "$id": 5,
+      "style": 148,
+      "name": "Tatsu's grandson broke his friend's treasured toy.[XENO:n ]\nRepairing it requires Sticky Spide Thread.[XENO:n ]\nGather the materials to fix the toy."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Obtain 3 lengths of [System:Color name=item ]Sticky Spide Thread[/System:Color][XENO:n ]\nfrom Spides on the Giant God's Leg."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Report to Tatsu."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Give the toy to Kiroro."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "Report to Tatsu."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "You repaired the broken toy[XENO:n ]\nand mended their friendship as well."
+    },
+    {
+      "$id": 11,
+      "style": 148,
+      "name": "Pamu lost his parents and has been downhearted.[XENO:n ]\nMatryona wants to make a picture book to cheer him up[XENO:n ]\nbut can't write the story. Speak to the novelist Ewan."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Speak to Ewan."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Obtain 3 [System:Color name=item ]Ponio Black Manes[/System:Color][XENO:n ]\nfrom Field Ponios on the Giant God's Leg."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "Speak to Ewan."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "Report to Matryona."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "Ewan gained some hope and began writing the story.[XENO:n ]\nWork on the picture book is finally underway."
+    },
+    {
+      "$id": 17,
+      "style": 148,
+      "name": "Matryona inspired Ewan to begin writing.[XENO:n ]\nHis story needs paint made from Sharp Cranberries.[XENO:n ]\nGather some without fail.[XENO:n ]"
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "Collect 4 [System:Color name=item ]Sharp Cranberries[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "Report to Ewan."
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Give the paints to Matryona."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Report to Ewan."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Ewan's resolve was apparent,[XENO:n ]\nand his relationship with Matryona improved."
+    },
+    {
+      "$id": 23,
+      "style": 148,
+      "name": "You saw a future in which Pamu drowns.[XENO:n ]\nIt will happen if you give him the book as it is.[XENO:n ]\nChange that unwanted future and save his life!"
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Near Raguel Lake on the Giant God's Leg,[XENO:n ]\nobtain the [System:Color name=item ]Lake Drop[/System:Color]."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Report to Matryona."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Give the picture book to Pamu."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "You gave Pamu a picture book with a few changes.[XENO:n ]\nHe will no longer drown."
+    },
+    {
+      "$id": 28,
+      "style": 148,
+      "name": "You saw a future in which Pamu drowns.[XENO:n ]\nIt seems to happen because he goes to the river alone.[XENO:n ]\nKeep him from going alone and save his life!"
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Near the Tranquil Grotto on the Giant God's Leg,[XENO:n ]\nobtain the [System:Color name=item ]Medicinal Herb[/System:Color]."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "Speak to Arda."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Report to Matryona."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Give the picture book to Pamu."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "You gave Arda medicine for back pain,[XENO:n ]\nso Pamu won't go near the river alone anymore."
+    },
+    {
+      "$id": 34,
+      "style": 148,
+      "name": "Beastmen stole the laundry while it was drying outside.[XENO:n ]\nThe residents will run short of clothes at this rate.[XENO:n ]\nRetrieve their clothes from the beastmen."
+    },
+    {
+      "$id": 35,
+      "style": 138,
+      "name": "At Tirkin Headquarters on the Giant God's Leg,[XENO:n ]\nobtain [System:Color name=item ]Everyone's Clothes[/System:Color]."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "Report to Gorman."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "You recovered the clothes from the beastmen[XENO:n ]\nwho stole them while they were drying."
+    },
+    {
+      "$id": 38,
+      "style": 148,
+      "name": "The residents can no longer catch fish, a staple food.[XENO:n ]\nA monster that settled in Raguel Lake seems responsible.[XENO:n ]\nDefeat it to help feed the residents."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Near Raguel Lake on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Voracious Grog[/System:Color]."
+    },
+    {
+      "$id": 40,
+      "style": 138,
+      "name": "Report to Tatsu."
+    },
+    {
+      "$id": 41,
+      "style": 138,
+      "name": "You eliminated the gluttonous monster in Raguel Lake[XENO:n ]\nand averted a food crisis."
+    },
+    {
+      "$id": 42,
+      "style": 148,
+      "name": "Man-eating wolves are closing in on a woman bathing.[XENO:n ]\nRescue her before she's attacked."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "Defeat 4 [System:Color name=item ]Ferocious Volff[/System:Color][XENO:n ]\nat the waterfall in Gaur Plain."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "Speak to the woman."
+    },
+    {
+      "$id": 45,
+      "style": 138,
+      "name": "You rescued the woman who had come to bathe alone.[XENO:n ]\nShe probably won't come here alone again."
+    },
+    {
+      "$id": 46,
+      "style": 148,
+      "name": "There are supposedly inexhaustible crystals near camp.[XENO:n ]\nLeave camp and head right to a small cave.[XENO:n ]\nThat's where they are supposed to be[XENO:line ][XENO:n ]"
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Search the area around the ether deposit."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "Report to Earnest."
+    },
+    {
+      "$id": 49,
+      "style": 138,
+      "name": "You went where you were told but found ordinary crystals.[XENO:n ]\nIt seems Earnest tricked you."
+    },
+    {
+      "$id": 50,
+      "style": 148,
+      "name": "In a cave facing Raguel Lake southeast of the bridge,[XENO:n ]\nthere are supposedly some crystals[XENO:line ][XENO:n ]\nIs he telling the truth this time?"
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "Search the area around the ether deposit."
+    },
+    {
+      "$id": 52,
+      "style": 138,
+      "name": "Report to Earnest."
+    },
+    {
+      "$id": 53,
+      "style": 138,
+      "name": "You trusted him once more, but it was another lie.[XENO:n ]\nEarnest has tricked you twice now."
+    },
+    {
+      "$id": 54,
+      "style": 148,
+      "name": "Earnest seems to have a reason for all his lies.[XENO:n ]\nHis friend's grave is on a cliff north of Kasharpa Falls.[XENO:n ]\nLay the flowers he gave you on the grave."
+    },
+    {
+      "$id": 55,
+      "style": 138,
+      "name": "Place the flowers on the grave."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "North of Kasharpa Falls on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Arrogant Tirkin[/System:Color]."
+    },
+    {
+      "$id": 57,
+      "style": 138,
+      "name": "Report to Earnest."
+    },
+    {
+      "$id": 58,
+      "style": 138,
+      "name": "You dispelled the dark clouds over Earnest's heart.[XENO:n ]\nHe probably won't lie again."
+    },
+    {
+      "$id": 59,
+      "style": 148,
+      "name": "Grelee and the others were looking for dinner ingredients[XENO:n ]\nwhen their companion Baldo got separated from them.[XENO:n ]\nFind Baldo, who has a terrible sense of direction."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "Near Raguel Lake on the Giant God's Leg,[XENO:n ]\nfind Baldo."
+    },
+    {
+      "$id": 61,
+      "style": 138,
+      "name": "Report to Grelee."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "You found Baldo after he got separated.[XENO:n ]\nHe'll be more careful not to stray from now on."
+    },
+    {
+      "$id": 63,
+      "style": 148,
+      "name": "Baldo wants to thank someone.[XENO:n ]\nA secret Nopon recipe for a gift needs two ingredients.[XENO:n ]\nGather them for him."
+    },
+    {
+      "$id": 64,
+      "style": 138,
+      "name": "Near Zax Guidepost on the Giant God's Leg,[XENO:n ]\nobtain a [System:Color name=item ]Tokilos' Egg[/System:Color]."
+    },
+    {
+      "$id": 65,
+      "style": 138,
+      "name": "Near Windy Cave on the Giant God's Leg,[XENO:n ]\nobtain a [System:Color name=item ]Pandora Mushroom[/System:Color]."
+    },
+    {
+      "$id": 66,
+      "style": 138,
+      "name": "Report to Baldo."
+    },
+    {
+      "$id": 67,
+      "style": 138,
+      "name": "It was your group that Baldo wanted to thank.[XENO:n ]\nYou accepted his gift for now."
+    },
+    {
+      "$id": 68,
+      "style": 148,
+      "name": "Baldo decided to offer thanks on his own this time.[XENO:n ]\nHe went off alone to find flowers and hasn't returned.[XENO:n ]\nFind the lost Baldo once again."
+    },
+    {
+      "$id": 69,
+      "style": 138,
+      "name": "Near the top of Crevasse Waterfall on the Giant God's Leg,[XENO:n ]\nfind Baldo."
+    },
+    {
+      "$id": 70,
+      "style": 138,
+      "name": "Go above the large waterfall on the Giant God's Leg[XENO:n ]\nand obtain [System:Color name=item ]Ether Wisdom[/System:Color]."
+    },
+    {
+      "$id": 71,
+      "style": 138,
+      "name": "Report to Baldo."
+    },
+    {
+      "$id": 72,
+      "style": 138,
+      "name": "Baldo seems to have blundered yet again.[XENO:n ]\nHe promised not to push himself alone anymore."
+    },
+    {
+      "$id": 73,
+      "style": 148,
+      "name": "The kind Mythical Empress is enraged by her child's death.[XENO:n ]\nShe has run amok and is damaging the surrounding area.[XENO:n ]\nGo to her nest and defeat her, however painful it is."
+    },
+    {
+      "$id": 74,
+      "style": 138,
+      "name": "Near Zax Guidepost on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Mythical Empress[/System:Color]."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "Report to Grelee."
+    },
+    {
+      "$id": 76,
+      "style": 138,
+      "name": "You defeated the kindhearted Mythical Empress.[XENO:n ]\nThe legend has finally come to an end."
+    },
+    {
+      "$id": 77,
+      "style": 148,
+      "name": "Collect a single blossoming flower for Durand from[XENO:n ]\nthe Tephra Cave ruins."
+    },
+    {
+      "$id": 78,
+      "style": 138,
+      "name": "Near Bafalgar Tomb in Tephra Cave,[XENO:n ]\nobtain the [System:Color name=item ]Ancient Lily[/System:Color]."
+    },
+    {
+      "$id": 79,
+      "style": 138,
+      "name": "Report to Durand."
+    },
+    {
+      "$id": 80,
+      "style": 138,
+      "name": "The Ancient Lily has been delivered to Durand,[XENO:n ]\nbut who will be the final recipient?"
+    },
+    {
+      "$id": 81,
+      "style": 148,
+      "name": "Durand can't deliver the Ancient Lily.[XENO:n ]\nTwo gigantic beasts are rampaging in Tephra Cave.[XENO:n ]\nDefeat them for him."
+    },
+    {
+      "$id": 82,
+      "style": 138,
+      "name": "In the Queen Spider's Den in Tephra Cave,[XENO:n ]\ndefeat the [System:Color name=item ]Void Zanden[/System:Color]."
+    },
+    {
+      "$id": 83,
+      "style": 138,
+      "name": "In the Queen Spider's Den in Tephra Cave,[XENO:n ]\ndefeat the [System:Color name=item ]Firework Geldesia[/System:Color]."
+    },
+    {
+      "$id": 84,
+      "style": 138,
+      "name": "Report to Durand."
+    },
+    {
+      "$id": 85,
+      "style": 138,
+      "name": "You eliminated the giant beasts in Tephra Cave[XENO:n ]\nand made the road to Colony 9 safe."
+    },
+    {
+      "$id": 86,
+      "style": 148,
+      "name": "Some High Entia reportedly fled to Satorl Marsh.[XENO:n ]\nThey may be facing a food shortage.[XENO:n ]\nDeliver food to those who took refuge in Satorl."
+    },
+    {
+      "$id": 87,
+      "style": 138,
+      "name": "In Satorl Marsh,[XENO:n ]\ndeliver the supplies to Seagal."
+    },
+    {
+      "$id": 88,
+      "style": 138,
+      "name": "Supplies from camp reached the Satorl refugees.[XENO:n ]\nThat should make life in Satorl a little easier."
+    },
+    {
+      "$id": 89,
+      "style": 148,
+      "name": "A monster keeps coming too close to people.[XENO:n ]\nDefeat the monster.\n"
+    },
+    {
+      "$id": 90,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Leg Arduns[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 91,
+      "style": 138,
+      "name": "You fulfilled the Homs traveller's request.[XENO:n ]\nMaybe the monsters were just friendly."
+    },
+    {
+      "$id": 92,
+      "style": 148,
+      "name": "The vast Gaur Plain is home to many creatures.[XENO:n ]\nSome mischievous monsters are causing trouble.[XENO:n ]\nDefeat the monsters.\n"
+    },
+    {
+      "$id": 93,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Maker Bunnits[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 94,
+      "style": 138,
+      "name": "You fulfilled the Homs traveller's request.[XENO:n ]\nPerhaps there will be a little less mischief now."
+    },
+    {
+      "$id": 95,
+      "style": 148,
+      "name": "Fast, fierce monsters roam Gaur Plain.[XENO:n ]\nDefeat them to make the route safe."
+    },
+    {
+      "$id": 96,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Field Ponios[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 97,
+      "style": 138,
+      "name": "You fulfilled the Homs traveller's request.[XENO:n ]\nTravellers can now pass safely."
+    },
+    {
+      "$id": 98,
+      "style": 148,
+      "name": "Howling can be heard while camping out.[XENO:n ]\nWorried travellers can't rest properly.[XENO:n ]\nDefeat the monsters responsible for the howling."
+    },
+    {
+      "$id": 99,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Leg Volff[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 100,
+      "style": 138,
+      "name": "You fulfilled the Homs traveller's request.[XENO:n ]\nThey no longer have to tremble with fear while camping."
+    },
+    {
+      "$id": 101,
+      "style": 148,
+      "name": "Someone went to see fireflies and found many monsters.[XENO:n ]\nThey've asked you to defeat them before anyone gets hurt.[XENO:n ]\nDefeat the monsters."
+    },
+    {
+      "$id": 102,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Basin Antols[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 103,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThe elderly man can go see the fireflies now."
+    },
+    {
+      "$id": 104,
+      "style": 148,
+      "name": "Someone wants to look for survivors, but can't[XENO:n ]\nbecause of the Machine God Soldiers.[XENO:n ]\nDefeat the Machine God Soldiers so they can search."
+    },
+    {
+      "$id": 105,
+      "style": 138,
+      "name": "Defeat 5 [System:Color name=item ]Machine God Soldiers M64[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 106,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThey can now go looking for survivors."
+    },
+    {
+      "$id": 107,
+      "style": 148,
+      "name": "No one knows if there are any survivors, but Tirkins[XENO:n ]\nhave grown too numerous lately and could harm them.[XENO:n ]\nYou've been asked to reduce their numbers."
+    },
+    {
+      "$id": 108,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Brave Tirkins[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 109,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nIf there are survivors, they'll be a little safer now."
+    },
+    {
+      "$id": 110,
+      "style": 148,
+      "name": "You've been asked to eliminate a threat[XENO:n ]\nbefore it endangers the people at camp.[XENO:n ]\nDefeat the monster."
+    },
+    {
+      "$id": 111,
+      "style": 138,
+      "name": "At Raguel Lake on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]White Eduardo[/System:Color] (thunderstorms only)."
+    },
+    {
+      "$id": 112,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThe threat was eliminated before it reached the camp."
+    },
+    {
+      "$id": 113,
+      "style": 148,
+      "name": "A monster is rampaging between Viliera Hill[XENO:n ]\nand Sky Stage on the Giant God's Leg.[XENO:n ]\nDefeat it so someone can attend to an important matter."
+    },
+    {
+      "$id": 114,
+      "style": 138,
+      "name": "Near Sky Stage on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Rampaging Andante[/System:Color]."
+    },
+    {
+      "$id": 115,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nYou eliminated the dangerous rampaging monster."
+    },
+    {
+      "$id": 116,
+      "style": 148,
+      "name": "A group went looking for food and found a monster.[XENO:n ]\nIt's a favourite spot, so they want it back.[XENO:n ]\nDefeat the monster."
+    },
+    {
+      "$id": 117,
+      "style": 138,
+      "name": "In the Upper Level of the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Trainer Hamelin[/System:Color] north of Spiral Valley."
+    },
+    {
+      "$id": 118,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThe child's favourite spot is free of monsters now."
+    },
+    {
+      "$id": 119,
+      "style": 148,
+      "name": "An unusually large beastman was among the others.[XENO:n ]\nThey've asked you to defeat it before it attacks camp.[XENO:n ]\nDefeat the monster."
+    },
+    {
+      "$id": 120,
+      "style": 138,
+      "name": "At Tirkin Headquarters on the Giant God's Leg,[XENO:n ]\ndefeat the [System:Color name=item ]Vagrant Alfead[/System:Color]."
+    },
+    {
+      "$id": 121,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nDefeating the monster has put their minds at ease."
+    },
+    {
+      "$id": 122,
+      "style": 148,
+      "name": "Someone wants to serve the people at camp a hearty meal.[XENO:n ]\nGather the ingredients for them."
+    },
+    {
+      "$id": 123,
+      "style": 138,
+      "name": "Obtain 2 portions of [System:Color name=item ]Grog Thigh Meat[/System:Color][XENO:n ]\nfrom Grogs on the Giant God's Leg."
+    },
+    {
+      "$id": 124,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Fertile Flamii Eggs[/System:Color][XENO:n ]\nfrom Flamii on the Giant God's Leg."
+    },
+    {
+      "$id": 125,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThe people at camp should have a little more energy now."
+    },
+    {
+      "$id": 126,
+      "style": 148,
+      "name": "They fled with only the clothes on their backs.[XENO:n ]\nGather materials for making more clothes."
+    },
+    {
+      "$id": 127,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Tirkin Crests[/System:Color][XENO:n ]\nfrom spear-wielding Tirkins on the Giant God's Leg."
+    },
+    {
+      "$id": 128,
+      "style": 138,
+      "name": "Obtain 2 [System:Color name=item ]Tirkin Tail Feathers[/System:Color][XENO:n ]\nfrom bow-wielding Tirkins on the Giant God's Leg."
+    },
+    {
+      "$id": 129,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nThey should be able to make clothes now."
+    },
+    {
+      "$id": 130,
+      "style": 148,
+      "name": "To bring the people at camp a little happiness,[XENO:n ]\ngather a Lucky Bunnit Sapling."
+    },
+    {
+      "$id": 131,
+      "style": 138,
+      "name": "Obtain a [System:Color name=item ]Lucky Bunnit Sapling[/System:Color][XENO:n ]\nfrom Slugger Bunnits on the Giant God's Leg."
+    },
+    {
+      "$id": 132,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nHopefully the sapling will bring them some happiness."
+    },
+    {
+      "$id": 133,
+      "style": 148,
+      "name": "Someone wants charms for those living in hardship.[XENO:n ]\nObtain the materials a Nopon told them about."
+    },
+    {
+      "$id": 134,
+      "style": 138,
+      "name": "Obtain 3 [System:Color name=item ]Vamp Wisdom Teeth[/System:Color][XENO:n ]\nfrom Vamps on the Giant God's Leg."
+    },
+    {
+      "$id": 135,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nMaking the charms should give them peace of mind."
+    },
+    {
+      "$id": 136,
+      "style": 148,
+      "name": "The camp food is poorly seasoned.[XENO:n ]\nBetter seasoning would make meals enjoyable.[XENO:n ]\nGather the collectables."
+    },
+    {
+      "$id": 137,
+      "style": 138,
+      "name": "Collect 2 [System:Color name=item ]Clear Almonds[/System:Color][XENO:n ]\nin Tephra Cave."
+    },
+    {
+      "$id": 138,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nMealtimes should be enjoyable from now on."
+    },
+    {
+      "$id": 139,
+      "style": 148,
+      "name": "Someone wants a plaything for their dispirited sister,[XENO:n ]\nan insect. Gather the collectables."
+    },
+    {
+      "$id": 140,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Moth Crawlers[/System:Color][XENO:n ]\non the Giant God's Leg."
+    },
+    {
+      "$id": 141,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nHaving something to play with should cheer her up."
+    },
+    {
+      "$id": 142,
+      "style": 148,
+      "name": "A woman dropped her boyfriend's memento while fleeing[XENO:n ]\nfrom near the bridge. Find it, as she can't go herself."
+    },
+    {
+      "$id": 143,
+      "style": 138,
+      "name": "Near Raguel Bridge on the Giant God's Leg,[XENO:n ]\nobtain the [System:Color name=item ]One-Wing Bird Necklace[/System:Color]."
+    },
+    {
+      "$id": 144,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nYou returned her boyfriend's memento."
+    },
+    {
+      "$id": 145,
+      "style": 148,
+      "name": "The wind blew away a keepsake of time with friends.[XENO:n ]\nIts owner is too frail to search, so find it for them."
+    },
+    {
+      "$id": 146,
+      "style": 138,
+      "name": "Near Gaur Plain on the Giant God's Leg,[XENO:n ]\nobtain the [System:Color name=item ]Group Message Fragment[/System:Color]."
+    },
+    {
+      "$id": 147,
+      "style": 138,
+      "name": "You fulfilled the camp resident's request.[XENO:n ]\nYou safely returned the keepsake of their friends."
+    },
+    {
+      "$id": 148,
+      "style": 148,
+      "name": "Please gather the materials needed to finish the invention-mo[XENO:n ]\n[System:Color name=item ](To progress this quest,\nShulk, Rein and Carna must be in the party.)[/System:Color]"
+    },
+    {
+      "$id": 149,
+      "style": 138,
+      "name": "Examine the [System:Color name=item ]Ether Cylinder[/System:Color] at Colony 9's Cylinder Warehouse[XENO:n ]\n(Required members: Shulk, Rein, Carna)\n"
+    },
+    {
+      "$id": 150,
+      "style": 138,
+      "name": "Defeat 1 [System:Color name=item ]Ancient Defense Mechanism[/System:Color] at Colony 9's Cylinder Warehouse[XENO:n ]\n(Required members: Shulk, Rein, Carna)"
+    },
+    {
+      "$id": 151,
+      "style": 138,
+      "name": "Report to the Nopon Engineer[XENO:n ]\n(Required members: Shulk, Rein, Carna)\n"
+    },
+    {
+      "$id": 152,
+      "style": 138,
+      "name": "The Nopon Engineer's request has been completed[XENO:n ]\nAs thanks, and for testing, you were entrusted with the [System:Color name=item ]Ether Jet[/System:Color]"
+    }
+  ]
+}

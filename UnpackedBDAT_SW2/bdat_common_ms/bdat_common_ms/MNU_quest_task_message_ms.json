@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 138,
+      "name": "Find the [System:Color name=item ]Nopon Claymore[/System:Color]."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Find the [System:Color name=item ]Carbo Shield[/System:Color]."
+    },
+    {
+      "$id": 3,
+      "style": 148,
+      "name": "At the Poison Swamp in Satorl Marsh,[XENO:n ]\nobtain [System:Color name=item ]Smelly Perfume[/System:Color]."
+    },
+    {
+      "$id": 4,
+      "style": 148,
+      "name": "Tell on them to Myxilia."
+    }
+  ]
+}

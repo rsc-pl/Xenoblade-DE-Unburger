@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Our decision to ignore the Mechon assault[XENO:n ]\non your homeland was wrong.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Our decision to ignore the Machine God Soldiers assault[XENO:n ]\non your homeland was wrong.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Brother...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Aniue...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Tell me your thoughts, Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Tell me your thoughts, Shulk-dono.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,12 +93,12 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Does Shulk not wish[XENO:n ]\nto aid us in our mission?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Does Shulk-dono not wish[XENO:n ]\nto aid us in our mission?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]I do not believe that to be true.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Aniue, I do not believe that to be true.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,

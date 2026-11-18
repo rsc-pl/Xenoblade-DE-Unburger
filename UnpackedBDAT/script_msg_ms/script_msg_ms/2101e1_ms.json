@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I know a little about this, y'know?[XENO:wait wait=key ][System:PageBreak ]Linada gave me a great book on[XENO:n ]\nMachina anatomical circuitry.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I know a little about this, y'know?[XENO:wait wait=key ][System:PageBreak ]Linada-san gave me a great book on[XENO:n ]\nMachina anatomical circuitry.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,12 +73,12 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]The truth is, I figured something[XENO:n ]\nout recently.[XENO:wait wait=key ][System:PageBreak ]It was Meyneth who kept your[XENO:n ]\ncardio-pulmonary functions going.[XENO:wait wait=key ][System:PageBreak ]Am I right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]The truth is, I figured something[XENO:n ]\nout recently.[XENO:wait wait=key ][System:PageBreak ]It was Maynus who kept your[XENO:n ]\ncardio-pulmonary functions going.[XENO:wait wait=key ][System:PageBreak ]Am I right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:sel sel=・Yes. Meyneth gave me strength./・No, I'm fine without her. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Yes. Maynus gave me strength./・No, I'm fine without her. ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I didn't mention before, but Linada[XENO:n ]\nis teaching me Machina anatomy.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I didn't mention before, but Linada-san[XENO:n ]\nis teaching me Machina anatomy.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I know that without Meyneth's[XENO:n ]\nMonado, your energy is depleted.[XENO:wait wait=key ][System:PageBreak ]You only have a small[XENO:n ]\nreserve left now.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I know that without Maynus's[XENO:n ]\nMonado, your energy is depleted.[XENO:wait wait=key ][System:PageBreak ]You only have a small[XENO:n ]\nreserve left now.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]How can you be so laid back[XENO:n ]\nabout this?![XENO:wait wait=key ][System:PageBreak ]You should be back in Linada's[XENO:n ]\ninfirmary, not here, doing this![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]How can you be so laid back[XENO:n ]\nabout this?![XENO:wait wait=key ][System:PageBreak ]You should be back in Linada-san's[XENO:n ]\ninfirmary, not here, doing this![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 41,

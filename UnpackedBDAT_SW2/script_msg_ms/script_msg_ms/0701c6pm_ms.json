@@ -1,0 +1,799 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Today's clinic was quiet.[XENO:wait wait=key ][System:PageBreak ]Well, I suppose a quiet doctor[XENO:n ]\nis a good thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "If the fighting with the Machine God Soldiers[XENO:n ]\nintensifies, I'll be busier than ever.[XENO:wait wait=key ][System:PageBreak ]Nopon are all brave, but I don't want[XENO:n ]\nthem doing anything reckless.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Every day I look around for[XENO:n ]\ngood bargains.[XENO:wait wait=key ][System:PageBreak ]If you find any rare items,[XENO:n ]\nbe sure to let me know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "I rely on a trusted supplier to get[XENO:n ]\nme all my medicines.[XENO:wait wait=key ][System:PageBreak ]I'm the only one here who knows[XENO:n ]\nhow to use High Entia medicine.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "You can trust me to take care of[XENO:n ]\nany illness or injury.[XENO:wait wait=key ][System:PageBreak ]There aren't many Nopon who[XENO:n ]\nhave studied High Entia medicine.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "There is another Nopon doctor.[XENO:n ]\nHis methods are way out of date.[XENO:wait wait=key ][System:PageBreak ]I hate to condemn him completely,[XENO:n ]\nbut you can't trust folk remedies.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I get all my supplies from Puko.[XENO:n ]\nI can really rely on him.[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][System:PageBreak ]He gets me High Entia medicine.[XENO:wait wait=key ][System:PageBreak ]I'm the only one here who knows[XENO:n ]\nhow to use it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "My methods are completely[XENO:n ]\ndifferent to those of Dr Yushi.[XENO:trust trust= p:3:a:189:2 ][XENO:wait wait=key ][System:PageBreak ]His 'medicine' is just charms and[XENO:n ]\nspells if you ask me.[XENO:wait wait=key ][System:PageBreak ]Nothing but a placebo effect there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "I invented a new dental treatment.[XENO:n ]\nIt has become very well known.[XENO:wait wait=key ][System:PageBreak ]I used to be poor at dental work.[XENO:wait wait=key ][System:PageBreak ]In the last few days I've really[XENO:n ]\nbeen able to develop my skills.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "I have a feeling a new era of treatment[XENO:n ]\nis coming to Frontier Village.[XENO:wait wait=key ][System:PageBreak ]I might ask[XENO:n ]\nfor your help again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "I like to hunt for bargains every[XENO:n ]\nday at the shops.[XENO:wait wait=key ][System:PageBreak ]Not medical supplies, mind you.[XENO:wait wait=key ][System:PageBreak ]You can only get Frontier Village[XENO:n ]\nproducts here.[XENO:wait wait=key ][System:PageBreak ]None of them can be used in my[XENO:n ]\nadvanced medical treatments.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "The High Entia have the most[XENO:n ]\nadvanced medical technology.[XENO:wait wait=key ][System:PageBreak ]They also have advanced[XENO:n ]\nknowledge of ether.[XENO:wait wait=key ][System:PageBreak ]I still have an awful lot to learn[XENO:n ]\nfrom them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Every day I browse in the shops.[XENO:n ]\nNot for medical supplies though.[XENO:wait wait=key ][System:PageBreak ]I only get those through Puko.[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Puko gets me High Entia medicine.[XENO:n ]\nIt's the most advanced.[XENO:wait wait=key ][System:PageBreak ]Did you know there are Nopon in[XENO:n ]\nthe High Entia city?[XENO:wait wait=key ][System:PageBreak ]And as for Homs...[XENO:wait wait=key ][System:PageBreak ]Er, nothing![XENO:n ]\nI shouldn't really say...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Yushi's using fillings made from[XENO:n ]\nmonster fangs![XENO:wait wait=key ][System:PageBreak ]Can you believe it?![XENO:n ]\nThat's not medicine![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "It seems that all Yushi's regular[XENO:n ]\npatients really trust him.[XENO:wait wait=key ][System:PageBreak ]Giant God is a big place, so people[XENO:n ]\nneed to be open to new ideas.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "The charm Yushi performed[XENO:wait wait=key ][System:PageBreak ]involves going to offer[XENO:n ]\nflowers to the part[XENO:wait wait=key ][System:PageBreak ]of the Giant God[XENO:wait wait=key ][System:PageBreak ]corresponding to the injured[XENO:n ]\npart of your body...[XENO:wait wait=key ][System:PageBreak ]The trick is that it strengthens[XENO:n ]\nyour body and makes you healthier.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "Among Nopon superstitions, it may[XENO:n ]\nbe one of the more practical ones.[XENO:wait wait=key ][System:PageBreak ]But you could overdo it and hurt yourself[XENO:n ]\nmore, so I can't really recommend it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Every day I browse in the shops.[XENO:n ]\nNot for medical supplies though.[XENO:wait wait=key ][System:PageBreak ]I only get those through Puko.[XENO:trust trust= p:3:a:188:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Puko gets me High Entia medicine.[XENO:n ]\nIt's the most advanced.[XENO:wait wait=key ][System:PageBreak ]Did you know there are Nopon in[XENO:n ]\nthe High Entia city?[XENO:wait wait=key ][System:PageBreak ]And as for Homs...[XENO:wait wait=key ][System:PageBreak ]Er, nothing![XENO:n ]\nI shouldn't really say...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "The medicine I currently prescribe[XENO:n ]\nworks absolute wonders.[XENO:wait wait=key ][System:PageBreak ]There's no comparison between it[XENO:n ]\nand the old stuff.[XENO:wait wait=key ][System:PageBreak ]But once you lose your reputation,[XENO:n ]\nit's very hard to get it back...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "Yushi told me I was getting exactly[XENO:n ]\nwhat I deserved.[XENO:wait wait=key ][System:PageBreak ]That it was because I was relying[XENO:n ]\ntoo much upon new technology.[XENO:wait wait=key ][System:PageBreak ]He said High Entia medicine[XENO:n ]\nshould only be for High Entia.[XENO:wait wait=key ][System:PageBreak ]And that Nopon medicine should[XENO:n ]\nbe for Nopon.[XENO:wait wait=key ][System:PageBreak ]He said I should use my own skill,[XENO:n ]\nand not rely on outside help.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Grind this fruit up and it makes medicine[XENO:n ]\nfor the stomach, and that leaf reduces fevers...[XENO:wait wait=key ][System:PageBreak ]I'm a doctor, after all. I know about[XENO:n ]\ntraditional Nopon medicinal herbs.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "I feel bad for Puko,[XENO:wait wait=key ][System:PageBreak ]who procures all sorts of things for me,[XENO:n ]\nbut I think I'll try getting back to the basics.[XENO:wait wait=key ][System:PageBreak ]We might be able to extract medicinal[XENO:n ]\ningredients from unexpected things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Ron is off to get something[XENO:n ]\nneeded to make sweets-mo.[XENO:wait wait=key ][System:PageBreak ]Now, what could it be?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "The answer is pollen orbs-mo![XENO:wait wait=key ][System:PageBreak ]I use them[XENO:n ]\nfor baking-mo.[XENO:wait wait=key ][System:PageBreak ]They bake things slowly[XENO:n ]\nto a golden brown, unlike fire-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I'm helping myself[XENO:n ]\nto pollen orbs,[XENO:wait wait=key ][System:PageBreak ]but I'm not stealing-mo.[XENO:wait wait=key ][System:PageBreak ]Nopon living in the village can[XENO:n ]\ntake as many as they like-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "Pollen orbs are incredibly useful-mo. While[XENO:wait wait=key ][System:PageBreak ]they're still round, they aren't scorching[XENO:n ]\nhot, so you can hold them safely-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "I have a friend who tastes[XENO:n ]\nthe sweets Ron makes-mo.[XENO:wait wait=key ][System:PageBreak ]She's very particular[XENO:n ]\nabout taste,[XENO:wait wait=key ][System:PageBreak ]so her opinions are[XENO:n ]\nalways helpful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Whenever I have my friend taste something,[XENO:n ]\nshe gives me a pretty flower-mo.[XENO:wait wait=key ][System:PageBreak ]Oh, maybe I'll try using[XENO:n ]\nthe flowers in sweets next time-mo? [XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Modanii-san praises[XENO:n ]\nRon's sweets-mo.[XENO:trust trust= p:3:a:154:3 ][XENO:wait wait=key ][System:PageBreak ]They're apparently[XENO:n ]\nperfect after exercise-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "I recommend sweets after[XENO:n ]\na fight to you Hom Homs too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Pollen orbs[XENO:n ]\nare amazing-mo.[XENO:wait wait=key ][System:PageBreak ]They shine brightly as lamps,[XENO:n ]\ncook rice nice and fluffy,[XENO:wait wait=key ][System:PageBreak ]and with a little processing[XENO:n ]\nyou can even eat them-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "When I say eat them, don't[XENO:n ]\nbite into them as they are-mo.[XENO:wait wait=key ][System:PageBreak ]Ron doesn't know how[XENO:n ]\nto prepare them-mo.[XENO:wait wait=key ][System:PageBreak ]Even the craftsmen at the Pollen[XENO:n ]\nWorks won't tell me-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I have my friend Pip taste[XENO:n ]\nthe sweets Ron makes-mo.[XENO:trust trust= p:3:a:159:3 ][XENO:wait wait=key ][System:PageBreak ]She's very particular about flavour,[XENO:n ]\nso I work hard making them-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "But lately, Pip seems to be[XENO:n ]\neating fewer sweets-mo.[XENO:wait wait=key ][System:PageBreak ]Maybe she's on[XENO:n ]\na diet-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Modanii-san is amazing at spotting[XENO:n ]\npotential Heroes-mo.[XENO:wait wait=key ][System:PageBreak ]Nopon trained by Modanii-san become[XENO:n ]\nHeroes-mo. Riki is a perfect example-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "I hear Reku's bride is Pip-mo!?[XENO:wait wait=key ][System:PageBreak ]It takes courage[XENO:n ]\nto marry Pip-mo.[XENO:trust trust= p:3:a:150:4 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "I thought Pip wasn't eating[XENO:n ]\nthe sweets because she was dieting-mo.[XENO:wait wait=key ][System:PageBreak ]Ah! Or maybe she was[XENO:n ]\ngiving them to Reku...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "I hear Reku found a wife-mo.[XENO:n ]\nHe was smiling so happily-mo.[XENO:wait wait=key ][System:PageBreak ]I'll make a huge[XENO:n ]\ncake to celebrate-mo![XENO:trust trust= p:3:a:150:4 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Pip said she'd bring flowers too-mo.[XENO:wait wait=key ][System:PageBreak ]Ever since the Hom Homs arrived, the[XENO:n ]\nvillage has been full of happiness-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:qst_start ]Hey, hey, do you know[XENO:wait wait=key ][System:PageBreak ]something called a mixer-mo?[XENO:wait wait=key ][System:PageBreak ]I hear it's a handy Hom Hom invention.[XENO:n ]\nI wonder if someone could make me one...[XENO:wait wait=key ][System:PageBreak ]I want to talk to a Hom Hom[XENO:n ]\nwho knows about machinery-mo![XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:qst_start ]Hey, hey, do you know[XENO:wait wait=key ][System:PageBreak ]something called a mixer-mo?[XENO:wait wait=key ][System:PageBreak ]I hear it's a handy Hom Hom invention.[XENO:n ]\nI wonder if someone could make me one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "It's hard making sweets[XENO:n ]\nmy friend asks for,[XENO:wait wait=key ][System:PageBreak ]so I want to make it[XENO:n ]\neasier-mo. With a mixer,[XENO:wait wait=key ][System:PageBreak ]I could mix the ingredients[XENO:n ]\nin no time-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "A mixer?[XENO:wait wait=key ][System:PageBreak ]If we could get the right parts,[XENO:n ]\nwe could easily make one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "Really!?[XENO:wait wait=key ][System:PageBreak ]Y-y-yay! Y-y-yay! I'd love[XENO:n ]\nyou to make one for me-mo![XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:qst qst=357 ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:qst qst=358 ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "You're going to make Ron's dream[XENO:n ]\ncome true? Hom Homs are amazing-mo![XENO:wait wait=key ][System:PageBreak ]I'll get ready to make[XENO:n ]\nsweets and wait for you-mo. [XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "We need two Generic Shafts and[XENO:n ]\ntwo Generic Blades.[XENO:wait wait=key ][System:PageBreak ]Then we can head back to the Colony[XENO:n ]\n9 lab and make the mixer.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Huh? You said it looked[XENO:n ]\neasy to make...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "A mixer will make[XENO:n ]\nkneading a breeze-mo![XENO:wait wait=key ][System:PageBreak ]I'm so excited to find out how handy[XENO:n ]\nit is that I can't sit still-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Ooh! The mixer's here-mo![XENO:wait wait=key ][System:PageBreak ]Do I press this button-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "Whirrr, whirrr![XENO:n ]\nAmazing, amazing![XENO:wait wait=key ][System:PageBreak ]It makes kneading[XENO:n ]\nand mixing so easy-mo![XENO:wait wait=key ][System:PageBreak ]I'll get straight to making[XENO:n ]\nthe sweets my friend Pip asked for-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "I always ask Pip[XENO:n ]\nto taste Ron's sweets-mo.[XENO:trust trust= p:3:c ][XENO:wait wait=key ][System:PageBreak ]Today, I'll get her to say[XENO:n ]\nthey're perfect-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:qst_start ]There is one area of medicine in[XENO:n ]\nwhich I do not excel.[XENO:wait wait=key ][System:PageBreak ]Do you know what it is?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "It is dental treatment.[XENO:wait wait=key ][System:PageBreak ]And it seems that my rival Yushi is[XENO:n ]\nalso doing studies in that field.[XENO:wait wait=key ][System:PageBreak ]I want to be first to perfect my[XENO:n ]\ndental treatment methods![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "Argh![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "What's wrong?[XENO:wait wait=key ][System:PageBreak ]Do you have a[XENO:n ]\ncavity too?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "I was going to the[XENO:n ]\ndentist,[XENO:wait wait=key ][System:PageBreak ]and then I ended up with this body...[XENO:wait wait=key ][System:PageBreak ]Ah! My cavity is gone![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "I can see you're not quite[XENO:n ]\na Hom Hom...[XENO:wait wait=key ][System:PageBreak ]Do you mind if I examine you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "No need! No need![XENO:wait wait=key ][System:PageBreak ]There is nothing wrong with me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "[XENO:qst qst=364 ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "I want to make dental[XENO:n ]\ntreatment more efficient.[XENO:trust trust= p:3:a:189:2 ][XENO:wait wait=key ][System:PageBreak ]I'd like you to bring me[XENO:n ]\ntwo Ories Adamant Horns.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "I cannot let Yushi beat me to it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "Don't worry about it.[XENO:n ]\nI was a fool to even ask you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "I hope you don't intend to go[XENO:n ]\nhelping Yushi?[XENO:wait wait=key ][System:PageBreak ]If you don't bring me what I need[XENO:n ]\nthen I might start to doubt you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "There's a reason I'm not so good[XENO:n ]\nwith dental treatment.[XENO:wait wait=key ][System:PageBreak ]I visited a dentist once when I was[XENO:n ]\nin a Homs colony.[XENO:wait wait=key ][System:PageBreak ]It all looked so painful, I felt there[XENO:n ]\nwas no way I could ever do it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "An Ories Adamant Horn![XENO:wait wait=key ][System:PageBreak ]Hmm, hmm... All right![XENO:wait wait=key ][System:PageBreak ]I think I can make[XENO:n ]\na dental treatment device![XENO:wait wait=key ][System:PageBreak ]I'll do it right now.[XENO:n ]\nWould you watch?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "Finished![XENO:wait wait=key ][System:PageBreak ]Now I can finally show that Yushi[XENO:n ]\nwho's boss.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "Now I just need to test it out on[XENO:n ]\nsomeone with bad teeth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "You all look pretty beaten up![XENO:wait wait=key ][System:PageBreak ]Would you like me to give any of[XENO:n ]\nyou a check-up?[XENO:wait wait=key ][System:PageBreak ]What?! You want me to[XENO:n ]\ncure Yushi's leg?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "So he's in agony with his leg?[XENO:n ]\nHmm...[XENO:wait wait=key ][System:PageBreak ]No wonder he hasn't been up[XENO:n ]\nannoying me recently.[XENO:wait wait=key ][System:PageBreak ]OK then. There's no point in me[XENO:n ]\nhitting a man while he's down.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "But if he knew I'd treated him,[XENO:n ]\nhis pride would be hurt.[XENO:wait wait=key ][System:PageBreak ]So let's perform[XENO:n ]\na little charm.[XENO:wait wait=key ][System:PageBreak ]According to an old[XENO:n ]\nNopon tradition,[XENO:wait wait=key ][System:PageBreak ]offering flowers[XENO:n ]\nto the part of Giant God[XENO:wait wait=key ][System:PageBreak ]corresponding to the part[XENO:n ]\nthat hurts will heal it.[XENO:wait wait=key ][System:PageBreak ]In Yushi's case,[XENO:n ]\nit's his leg.[XENO:wait wait=key ][System:PageBreak ]Go to Giant God's Leg[XENO:n ]\nand make the offering.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "Why don't you ask[XENO:wait wait=key ][System:PageBreak ]Yushi about his[XENO:n ]\ncondition first?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "[XENO:qst_start ]Dear, oh dear.[XENO:n ]\nI don't get... I just don't get it...[XENO:wait wait=key ][System:PageBreak ]Recently, I get nothing but[XENO:n ]\ncomplaints from my patients.[XENO:wait wait=key ][System:PageBreak ]What ever am I doing wrong?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "Oh no![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "What's the matter?[XENO:n ]\nHmm? My medicine?[XENO:wait wait=key ][System:PageBreak ]I ask Puko to go to the trouble[XENO:n ]\nof procuring it from the High Entia.[XENO:wait wait=key ][System:PageBreak ]It's been proven safe[XENO:n ]\nfor Nopon to use, but...[XENO:wait wait=key ][System:PageBreak ]Perhaps the Machine God Soldier problem[XENO:n ]\nhas adversely affected its quality?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "If I ask him directly, then it could[XENO:n ]\naffect our trusting relationship.[XENO:wait wait=key ][System:PageBreak ]Can you ask him for me?[XENO:wait wait=key ][System:PageBreak ]Just act casually if you do. I can't[XENO:n ]\nlet him think I distrust him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "[XENO:qst qst=379 ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "I cannot allow Nopon health to be[XENO:n ]\naffected like this.[XENO:wait wait=key ][System:PageBreak ]Please find out what's going on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "Well? Any developments?[XENO:wait wait=key ][System:PageBreak ]I just had another complaint from[XENO:n ]\na patient about a poor treatment![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "You brought me the medicine[XENO:n ]\nI ordered from Puko![XENO:wait wait=key ][System:PageBreak ]Hmm... It seems different to the[XENO:n ]\nmedicine he gave me recently...[XENO:wait wait=key ][System:PageBreak ]Maybe it's a new formula[XENO:n ]\nor something.[XENO:wait wait=key ][System:PageBreak ]Anyway, thanks for looking into it[XENO:n ]\nfor me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "I must go thank Puko for his[XENO:n ]\ncontinued efforts.[XENO:trust trust= p:3:d:188:5 ][XENO:wait wait=key ][System:PageBreak ]I'll be ordering from him again[XENO:n ]\nsoon, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "Even though it's bright in the village[XENO:n ]\nat night, most of us are asleep-mo.[XENO:wait wait=key ][System:PageBreak ]Keeping in rhythm with the sun[XENO:n ]\nis good for your health-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "I'm happiest sleeping soundly during the[XENO:n ]\nday while everyone else is awake-mo.[XENO:wait wait=key ][System:PageBreak ]I'm nocturnal-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "Plants and creatures[XENO:n ]\nin Makna all grow huge-ja-mo.[XENO:wait wait=key ][System:PageBreak ]We little Nopon started building walkways[XENO:n ]\nso we wouldn't get stepped on-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "Did you cross them on your way[XENO:n ]\nhere from Makna-mo?[XENO:wait wait=key ][System:PageBreak ]It was hard work building them-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "Round and round~ Round[XENO:n ]\nand round and round~ Ooh,[XENO:wait wait=key ][System:PageBreak ]I'm getting dizzy-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "We're inside a tree, but as you can see,[XENO:n ]\nthe ventilation is excellent-mo.[XENO:wait wait=key ][System:PageBreak ]It's only troublesome during storms-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "Have you used the walkways in Makna-mo?[XENO:wait wait=key ][System:PageBreak ]You can travel without being attacked by[XENO:n ]\nmonsters like Laeklit-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "Things were hard for us Nopon before[XENO:n ]\nwe built those walkways-ja-mo.[XENO:wait wait=key ][System:PageBreak ]But they've helped us get along[XENO:n ]\nwith Laeklits and Pterixes-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "Everyone's rushing about[XENO:n ]\nnight and day making noise-mo.[XENO:wait wait=key ][System:PageBreak ]Will I still be able to enjoy[XENO:n ]\nmy peaceful daytime naps-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "I want quiet daytime sleep again soon-mo.[XENO:wait wait=key ][System:PageBreak ]Hero Riki, work hard and bring peace-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "The wind blowing through[XENO:n ]\nthe village is different now-ja-mo.[XENO:wait wait=key ][System:PageBreak ]I've lived a long time, but I've[XENO:n ]\nnever felt wind like this-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "The breeze against my cheeks[XENO:n ]\nfeels strangely tingly-ja-mo.[XENO:wait wait=key ][System:PageBreak ]It's like being near a flow of ether-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "We store the pollen orbs[XENO:n ]\nmade upstairs here-mo.[XENO:wait wait=key ][System:PageBreak ]But they're carried away so[XENO:n ]\nquickly that they run out-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "They're pretty in all those colours, aren't they-mo?[XENO:wait wait=key ][System:PageBreak ]Each colour has different uses-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "The other day, I fell asleep without[XENO:n ]\nnoticing while fighting a monster-mo.[XENO:wait wait=key ][System:PageBreak ]Makna is full of monsters like[XENO:n ]\nthat-mo. Well-mo? Scary-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "Ether attacks work well against Makna[XENO:n ]\nmonsters-mo.[XENO:wait wait=key ][System:PageBreak ]The Bird People told us so-mo.[XENO:wait wait=key ][System:PageBreak ]But there aren't many Nopon who can use[XENO:n ]\nether-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "The Pollen Works never stop running, so we're[XENO:n ]\nalways working in the storehouse too-mo.[XENO:wait wait=key ][System:PageBreak ]Ahh, let me take a little break-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "Pollen orb production fell after the[XENO:n ]\nDinobeasts came to Makna-mo.[XENO:wait wait=key ][System:PageBreak ]It's still just as[XENO:n ]\nbusy, though-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "We're using freshly made pollen orbs[XENO:n ]\nas torches-mo.[XENO:wait wait=key ][System:PageBreak ]Fresh ones really are different-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "I have to put pollen orbs in every[XENO:n ]\ntorch in the village-mo.[XENO:wait wait=key ][System:PageBreak ]All the climbing made[XENO:n ]\nmy legs thicker-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "Now the Dinobeasts are gone, we're[XENO:n ]\nhard at work making pollen orbs-mo.[XENO:wait wait=key ][System:PageBreak ]Ahh, I worked a bit too[XENO:n ]\nhard and wore myself out,[XENO:wait wait=key ][System:PageBreak ]so I'm taking a break-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "It's rare for carefree Nopon[XENO:n ]\nto work without sleeping-mo.[XENO:wait wait=key ][System:PageBreak ]That's how important pollen orbs are[XENO:n ]\nto the village-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "If you have the Monado, Machine God Soldiers[XENO:n ]\naren't scary-mo? What should Nopon without[XENO:wait wait=key ][System:PageBreak ]a Monado do-mo? The Nopon Merchant[XENO:n ]\nCompany says Machina make good weapons-mo.[XENO:wait wait=key ][System:PageBreak ]Where are the Machina-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "Nopon warriors are setting[XENO:n ]\nout-mo.[XENO:wait wait=key ][System:PageBreak ]Not just the Hero-mo.[XENO:wait wait=key ][System:PageBreak ]It's time for everyone to fight-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "Looks like everyone's[XENO:wait wait=key ][System:PageBreak ]getting ready[XENO:n ]\nto fight or flee-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "But my job is to look after[XENO:n ]\nthese torch flames-mo.[XENO:wait wait=key ][System:PageBreak ]If I leave the village, everyone[XENO:n ]\nwill come home to darkness-mo.[XENO:wait wait=key ][System:PageBreak ]I certainly don't want that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "One pollen colour is missing-mo?[XENO:wait wait=key ][System:PageBreak ]That colour is hard to handle, so you[XENO:n ]\ncan't just leave it lying around-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "If you accidentally mix it with pollen orbs[XENO:n ]\nof another colour or some other substance... BOOM-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "Have you looked up-mo?[XENO:wait wait=key ][System:PageBreak ]The sea in the sky above here[XENO:n ]\nis Eryth Sea-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "It's strange that it's a sea[XENO:n ]\nbut the water doesn't fall-mo.[XENO:wait wait=key ][System:PageBreak ]The lake at the top[XENO:wait wait=key ][System:PageBreak ]of the village has[XENO:n ]\nthe same kind of water-mo.[XENO:wait wait=key ][System:PageBreak ]Hmm, the village is full[XENO:n ]\nof mysteries too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "Why do we call the Bird People[XENO:n ]\n'Bird People'?[XENO:wait wait=key ][System:PageBreak ]Come to think of it, I've never even[XENO:n ]\nwondered-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "We Nopon name things by appearance[XENO:n ]\nfirst-mo.[XENO:wait wait=key ][System:PageBreak ]Then what about[XENO:n ]\nHom Homs?[XENO:wait wait=key ][System:PageBreak ]Because you hom-hom-mo?[XENO:n ]\nI don't know-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "It's very rare for Hom Homs[XENO:n ]\nto visit this village-mo.[XENO:wait wait=key ][System:PageBreak ]I've never seen a real live Hom Hom before-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "I've travelled outside with the[XENO:n ]\nNopon Merchant Company,[XENO:wait wait=key ][System:PageBreak ]but only around the upper body, so there[XENO:n ]\nweren't any Hom Homs-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "Are you going to sparkle-splash from[XENO:n ]\nthe lake at the top into Eryth Sea-mo?[XENO:wait wait=key ][System:PageBreak ]Be careful not to lose focus[XENO:n ]\non the way-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "If you don't reach the bottom of Eryth Sea,[XENO:n ]\nyou'll fall headfirst into Makna.[XENO:wait wait=key ][System:PageBreak ]If you don't make it[XENO:n ]\nto the surface, you'll drown-mo.[XENO:wait wait=key ][System:PageBreak ]Momentum is important-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "From what the Nopon Merchant Company tells us,[XENO:n ]\nthis village seems very peaceful-mo.[XENO:wait wait=key ][System:PageBreak ]The towns of the Hom Homs and Bird[XENO:n ]\nPeople are in danger, they say.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "Everyone should move here-mo.[XENO:wait wait=key ][System:PageBreak ]Ah, but then the inside of the[XENO:n ]\ntree would be packed tight-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "I watched Eryth Sea every night from here,[XENO:n ]\nso I knew when the Giant God began to move-mo.[XENO:wait wait=key ][System:PageBreak ]The sky rippled,[XENO:n ]\nand it was really scary-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "What's going to happen now-mo?[XENO:wait wait=key ][System:PageBreak ]I'm worried Eryth Sea will overflow[XENO:n ]\nand flood the village-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "I'm keeping an eye on him to make sure he[XENO:n ]\ndoesn't slack off turning the winch-mo.[XENO:wait wait=key ][System:PageBreak ]We can't make Pollen Orbs[XENO:n ]\nunless he works hard-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "Did you know-mo? That[XENO:n ]\nHero used to turn this winch too-mo.[XENO:wait wait=key ][System:PageBreak ]As expected of a Hero-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "Have you been[XENO:n ]\nimproving your Arts-mo?[XENO:wait wait=key ][System:PageBreak ]It's important when fighting strong enemies-mo.[XENO:wait wait=key ][System:PageBreak ]If you see the manuals in a shop,[XENO:n ]\nbuy them while you remember-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "Should I wear heavy[XENO:n ]\nequipment to take hits,[XENO:wait wait=key ][System:PageBreak ]light equipment to dodge[XENO:n ]\nnimbly,[XENO:wait wait=key ][System:PageBreak ]or medium equipment for[XENO:n ]\na safe balance?[XENO:wait wait=key ][System:PageBreak ]The worries never end-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "Past the Time Mushroom, there[XENO:n ]\nare no railings.[XENO:wait wait=key ][System:PageBreak ]So be careful-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "We Nopon are fine if we fall, but it's very[XENO:n ]\ndangerous for you Hom Homs-ja-mo. If you're[XENO:wait wait=key ][System:PageBreak ]prepared to risk it, I won't stop you-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "All the pollen orbs that come[XENO:n ]\nout here are yellow-ja-mo.[XENO:wait wait=key ][System:PageBreak ]They're coloured[XENO:n ]\ndown below-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "How it's done is a secret known[XENO:n ]\nonly to the pollen craftsmen-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "Where did your Bird People friends go-mo?[XENO:wait wait=key ][System:PageBreak ]So many came that I thought[XENO:n ]\nthey were tourists-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "Trying to defeat a[XENO:n ]\nDinobeast is reckless-mo.[XENO:wait wait=key ][System:PageBreak ]Even a thousand Nopon[XENO:n ]\ncouldn't beat one-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "Hah, hah![XENO:n ]\nKeep it turning-mo![XENO:wait wait=key ][System:PageBreak ]I'll show you how strong my legs are-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "But... huff,[XENO:n ]\nhuff...[XENO:wait wait=key ][System:PageBreak ]Sometimes I wish someone[XENO:n ]\nwould take over-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "It's a shame about your Bird People[XENO:wait wait=key ][System:PageBreak ]friends-mo. I'll never forget those fluffy[XENO:n ]\nwings-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "But why did the Bird People[XENO:n ]\nfollow the Dinobeast here-mo?[XENO:wait wait=key ][System:PageBreak ]Did it do something bad, I wonder?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "Hey, Dad! Show[XENO:n ]\nme that trick-mo~.[XENO:wait wait=key ][System:PageBreak ]You know, the one where you steal[XENO:n ]\nanything-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "Oh, maybe I shouldn't say too much-mo?[XENO:wait wait=key ][System:PageBreak ]It makes Dad sound like a regular thief-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "Everyone has their own personality-mo.[XENO:n ]\nNopon do too-mo.[XENO:wait wait=key ][System:PageBreak ]Just changing personality[XENO:wait wait=key ][System:PageBreak ]can help you beat someone[XENO:n ]\nyou couldn't before.[XENO:wait wait=key ][System:PageBreak ]If there's an enemy you can't[XENO:n ]\ndefeat, it's worth trying-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "You should plan which skills to learn-mo.[XENO:wait wait=key ][System:PageBreak ]All the more so if you want[XENO:n ]\nto learn your companions' skills-mo.[XENO:wait wait=key ][System:PageBreak ]And of course, don't forget[XENO:n ]\nto deepen your bonds with them-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "Where on earth has the chief gone-ja-mo?[XENO:wait wait=key ][System:PageBreak ]Prophecies from just the young[XENO:n ]\nones make me uneasy-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "They may just be hunches, but the chief's[XENO:n ]\nprophecies are always accurate-mo.[XENO:wait wait=key ][System:PageBreak ]I feel terribly uneasy without them-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "Wondering why only yellow[XENO:n ]\npollen orbs come out-mo?[XENO:wait wait=key ][System:PageBreak ]Yellow ones are the most[XENO:n ]\nbasic pollen orbs-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "The craftsmen make red[XENO:n ]\nand green ones down below-ja-mo.[XENO:wait wait=key ][System:PageBreak ]How they do it is top secret-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "Maybe all that shaking the other day[XENO:n ]\nknocked the winch axle out of alignment-mo.[XENO:wait wait=key ][System:PageBreak ]I'll have to repair it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "We gather repair materials[XENO:n ]\nfrom all over-mo.[XENO:wait wait=key ][System:PageBreak ]If we order from the Nopon Merchant Company,[XENO:n ]\nthey deliver them right away-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "I want to see Dad make those[XENO:n ]\nflowers bloom again-mo.[XENO:wait wait=key ][System:PageBreak ]They make everyone happy-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "I heard Dad made Mum fall[XENO:n ]\nfor him with those flowers-mo.[XENO:wait wait=key ][System:PageBreak ]Where did she fall-mo?[XENO:n ]\nThat's dangerous-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "One hundred and fifty-six...[XENO:n ]\nOne hundred and fifty-seven...[XENO:wait wait=key ][System:PageBreak ]I can't sleep at all,[XENO:n ]\nso I'm counting the sparkles-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "Oh, no good-mo![XENO:wait wait=key ][System:PageBreak ]Talking made me lose count-mo![XENO:wait wait=key ][System:PageBreak ]My eyes are getting tired too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "I love baked potatoes, but I'm[XENO:n ]\nafraid of burning myself-mo.[XENO:wait wait=key ][System:PageBreak ]Maybe those Cool[XENO:n ]\nPotatoes you find[XENO:wait wait=key ][System:PageBreak ]where Hom Homs live[XENO:n ]\nwon't burn me-mo?[XENO:wait wait=key ][System:PageBreak ]I'd love to try one-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "[XENO:qst qst=451 ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "I'll gather dry leaves[XENO:n ]\nwhile I wait-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "Just once, I want to try[XENO:n ]\nroasting a Cool Potato-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ] "
+    }
+  ]
+}

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 126,
-      "name": "I'm all ears![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Tell us more about it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "I'm here to listen.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Tell us a little more about it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
       "style": 126,
-      "name": "Tell Heropon Riki! Tell, tell, tell![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You should tell the Hero all about it-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -48,12 +48,12 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "Sorry. I'm a little busy right now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm sorry, but now isn't a good time[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "Sorry. I've got a lotta stuff on at[XENO:n ]\nthe moment.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sorry, not right now.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,22 +73,22 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "Sorry sorry. Riki busy now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sorry-mo. I can't right now-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 126,
-      "name": "Sorry but I have other matters that[XENO:n ]\nI must attend to now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm sorry. We have something we must do.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
       "style": 126,
-      "name": "No problem. Leave it to me![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Don't worry, we'll finish it soon.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
       "style": 126,
-      "name": "No sweat! We'll be done before ya[XENO:n ]\nknow it![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sure, we'll get it done in no time.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -98,27 +98,27 @@
     {
       "$id": 18,
       "style": 126,
-      "name": "Not a problem. Consider it done.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Leave it to me. I'll finish it quickly.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
       "style": 126,
-      "name": "You can count on us.[XENO:n ]\nWe'll get it done![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "All right. I'll see it through.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
       "style": 126,
-      "name": "Easy-peasy![XENO:n ]\nHeropon take care of it![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Easy-mo! Riki is the Hero-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
       "style": 126,
-      "name": "Rest assured that your issue[XENO:n ]\nwill be attended to with haste![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Understood. You can count on me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
       "style": 126,
-      "name": "I'm glad everything worked out.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm glad.[XENO:wait wait=key ][System:PageBreak ]That settles it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,32 +128,32 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "Oh what a relief![XENO:n ]\nAnother problem solved.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, thank goodness.[XENO:wait wait=key ][System:PageBreak ]That's a relief.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
       "style": 126,
-      "name": "Don't worry about it.[XENO:n ]\nIt was nothing.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Think nothing of it. It was no trouble.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
       "style": 126,
-      "name": "Good, it was our pleasure![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm glad.[XENO:n ]\nAs long as I could help, that's enough.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "Yay yay! Happy![XENO:wait wait=key ][System:PageBreak ]Riki really happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's good-mo~![XENO:wait wait=key ][System:PageBreak ]That's really good-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
       "style": 126,
-      "name": "I hope I was of some help.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I wonder if I was of any help.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 126,
-      "name": "Sounds like you've got a problem.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It looks like something's wrong[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -168,22 +168,22 @@
     {
       "$id": 32,
       "style": 126,
-      "name": "Hmm?[XENO:wait wait=key ][System:PageBreak ]You seem troubled.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hm?[XENO:wait wait=key ][System:PageBreak ]I can see the anguish on your face.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
       "style": 126,
-      "name": "You look troubled. Is something[XENO:n ]\nworrying you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Something's not right[XENO:line ][XENO:n ]\nIs something troubling you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:type type=anger ]Ooh! Sound like something wrong![XENO:wait wait=key ][System:PageBreak ]Tell Riki, tell Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]What-mo!?[XENO:wait wait=key ][System:PageBreak ]Something's wrong-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:type type=think ]I assume from their expression[XENO:n ]\nthat this matter bothers them.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ]That face[XENO:line ][XENO:n ]\nSomething is deeply troubling them[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "That's a bit of a pain.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's rough.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -208,77 +208,77 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "How worrying.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line ]That's awful.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
       "style": 126,
-      "name": "Waah! This is crisis...yes?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's a terrible predicament-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
       "style": 126,
-      "name": "Hmm...a problem.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What a predicament.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
       "style": 126,
-      "name": "Heropon Kino will hear friend out![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Try talking to Hero Kino-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,
       "style": 126,
-      "name": "Kino is busy Nopon. Will catch friend later.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Kino is busy-mo. Come back later-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,
       "style": 126,
-      "name": "This sound like job for Heropon Kino![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Leave it to Hero Kino-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 46,
       "style": 126,
-      "name": "Another Heropon day,\nanother Heropon victory![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We did it-mo! It's thanks to Hero Kino-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
       "style": 126,
-      "name": "Meh? What is problem?\nRumbly tum-tum?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Mo? What's wrong-mo?\nAre you hungry-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
       "style": 126,
-      "name": "Meh-meh!\nKino cannot believe ears of Kino![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Mo-mo! That's awful-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,
       "style": 126,
-      "name": "Could friend give teensy bit\nmore explain?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Please tell us a little more-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
       "style": 126,
-      "name": "Sorries. Nene and friends have to be\ndoing other, more important thing.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sorry-mo. Nene and the others\nhave something else to do right now[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 51,
       "style": 126,
-      "name": "Nene is decidedly girl for job![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Leave it to Nene-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 52,
       "style": 126,
-      "name": "Nene hope it was helpful helpings![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Was Nene helpful-mo~?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,
       "style": 126,
-      "name": "Meh? What is cause of worryings?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Mo? Did something happen-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
       "style": 126,
-      "name": "Nene is in state of surprise![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's terrible-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

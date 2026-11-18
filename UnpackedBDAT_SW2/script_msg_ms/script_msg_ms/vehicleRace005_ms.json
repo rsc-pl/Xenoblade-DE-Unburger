@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This is the Nopon Grand Prix: Colony 9[XENO:n ]\nvenue-mo.[XENO:wait wait=key ][System:PageBreak ]This advanced course demands expert cornering[XENO:n ]\nthrough Colony 9's intricate streets-mo.[XENO:wait wait=key ][System:PageBreak ]Now, are you ready to take on the challenge-mo?[XENO:n ]\n(You can also participate from the Main Menu)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:sel sel=・Ready/・Not ready ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Then make sure you're prepared and ready,[XENO:n ]\nand come back again-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Could it be that you came to take part[XENO:n ]\nin the Nopon Grand Prix held here-mo?[XENO:wait wait=key ][System:PageBreak ]Sorry-mo.[XENO:n ]\nThe venue is under maintenance right now-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Until maintenance is finished,[XENO:n ]\nyou should take care of your other business first-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

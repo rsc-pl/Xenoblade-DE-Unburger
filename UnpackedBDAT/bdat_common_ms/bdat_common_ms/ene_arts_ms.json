@@ -28,12 +28,12 @@
     {
       "$id": 4,
       "style": 13,
-      "name": "Energy Flash"
+      "name": "Energy Bolt"
     },
     {
       "$id": 5,
       "style": 13,
-      "name": "Dead Slash"
+      "name": "Dead Smash"
     },
     {
       "$id": 6,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 13,
-      "name": "Skull Crack"
+      "name": "Brain Break"
     },
     {
       "$id": 8,
       "style": 13,
-      "name": "Thunder Flash"
+      "name": "Thunder Bolt"
     },
     {
       "$id": 9,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 13,
-      "name": "Area Lock-On"
+      "name": "Lock On Area"
     },
     {
       "$id": 34,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 13,
-      "name": "Feel Bash"
+      "name": "Fool Bash"
     },
     {
       "$id": 46,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 13,
-      "name": "Deadly Chainsaw"
+      "name": "Dead Chainsaw"
     },
     {
       "$id": 48,
@@ -263,7 +263,7 @@
     {
       "$id": 51,
       "style": 13,
-      "name": "Lower Chainsaw"
+      "name": "Down Chainsaw"
     },
     {
       "$id": 52,
@@ -318,7 +318,7 @@
     {
       "$id": 62,
       "style": 13,
-      "name": "Tentacles"
+      "name": "Tentacle Toss"
     },
     {
       "$id": 63,
@@ -328,7 +328,7 @@
     {
       "$id": 64,
       "style": 13,
-      "name": "Lower Laser"
+      "name": "Downward Laser"
     },
     {
       "$id": 65,
@@ -363,7 +363,7 @@
     {
       "$id": 71,
       "style": 13,
-      "name": "Spinning Slice"
+      "name": "Rolling Cut"
     },
     {
       "$id": 72,
@@ -378,12 +378,12 @@
     {
       "$id": 74,
       "style": 13,
-      "name": "Lock-On"
+      "name": "Lock On"
     },
     {
       "$id": 75,
       "style": 13,
-      "name": "Auto Repair"
+      "name": "Self Repair"
     },
     {
       "$id": 76,
@@ -403,7 +403,7 @@
     {
       "$id": 79,
       "style": 13,
-      "name": "Delayal"
+      "name": "Delay R"
     },
     {
       "$id": 80,
@@ -443,7 +443,7 @@
     {
       "$id": 87,
       "style": 13,
-      "name": "Hush Chop V"
+      "name": "Hash Chop V"
     },
     {
       "$id": 88,
@@ -463,7 +463,7 @@
     {
       "$id": 91,
       "style": 13,
-      "name": "Activity: Strong"
+      "name": "Active Zone: Hard"
     },
     {
       "$id": 92,
@@ -478,12 +478,12 @@
     {
       "$id": 94,
       "style": 13,
-      "name": "Activity: Weak"
+      "name": "Active Zone: Soft"
     },
     {
       "$id": 95,
       "style": 13,
-      "name": "Mega Flame Throw"
+      "name": "EX Flame Throw"
     },
     {
       "$id": 96,
@@ -558,7 +558,7 @@
     {
       "$id": 110,
       "style": 13,
-      "name": "Rapid Lasers"
+      "name": "Rapid Laser"
     },
     {
       "$id": 111,
@@ -583,7 +583,7 @@
     {
       "$id": 115,
       "style": 13,
-      "name": "Bazooka V"
+      "name": "Shoulder Bazooka V"
     },
     {
       "$id": 116,
@@ -603,7 +603,7 @@
     {
       "$id": 119,
       "style": 13,
-      "name": "Bunnit Bat"
+      "name": "Bunnit Sobat"
     },
     {
       "$id": 120,
@@ -653,7 +653,7 @@
     {
       "$id": 129,
       "style": 13,
-      "name": "Swing Upper"
+      "name": "Upper Swing"
     },
     {
       "$id": 130,
@@ -668,7 +668,7 @@
     {
       "$id": 132,
       "style": 13,
-      "name": "Bunnit Combo IX"
+      "name": "Bunnit High Combo IX"
     },
     {
       "$id": 133,
@@ -678,7 +678,7 @@
     {
       "$id": 134,
       "style": 13,
-      "name": "Knock Back"
+      "name": "Launch"
     },
     {
       "$id": 135,
@@ -693,7 +693,7 @@
     {
       "$id": 137,
       "style": 13,
-      "name": "Super Knock Back I"
+      "name": "Super Launch I"
     },
     {
       "$id": 138,
@@ -703,32 +703,32 @@
     {
       "$id": 139,
       "style": 13,
-      "name": "Lone Warrior"
+      "name": "Lone Struggle"
     },
     {
       "$id": 140,
       "style": 13,
-      "name": "Ardent Howl"
+      "name": "Agility Howl"
     },
     {
       "$id": 141,
       "style": 13,
-      "name": "Freeze Intimidate"
+      "name": "Fearsome Threat"
     },
     {
       "$id": 142,
       "style": 13,
-      "name": "Savage"
+      "name": "Latching Bite"
     },
     {
       "$id": 143,
       "style": 13,
-      "name": "Terrible Howl"
+      "name": "Bloodstained Howl"
     },
     {
       "$id": 144,
       "style": 13,
-      "name": "Battle Howl"
+      "name": "All-Out Attack Howl"
     },
     {
       "$id": 145,
@@ -738,7 +738,7 @@
     {
       "$id": 146,
       "style": 13,
-      "name": "Shudder Intimidate"
+      "name": "Spine-Chilling Threat"
     },
     {
       "$id": 147,
@@ -753,7 +753,7 @@
     {
       "$id": 149,
       "style": 13,
-      "name": "Iron Howl"
+      "name": "Hardening Howl"
     },
     {
       "$id": 150,
@@ -763,7 +763,7 @@
     {
       "$id": 151,
       "style": 13,
-      "name": "Savage"
+      "name": "Latching Bite"
     },
     {
       "$id": 152,
@@ -823,7 +823,7 @@
     {
       "$id": 163,
       "style": 13,
-      "name": "Fatal Lunge"
+      "name": "Fatal Gore"
     },
     {
       "$id": 164,
@@ -868,7 +868,7 @@
     {
       "$id": 172,
       "style": 13,
-      "name": "Full Power Butt"
+      "name": "Full-Power Headbutt"
     },
     {
       "$id": 173,
@@ -883,7 +883,7 @@
     {
       "$id": 175,
       "style": 13,
-      "name": "Butt"
+      "name": "Headbutt"
     },
     {
       "$id": 176,
@@ -893,7 +893,7 @@
     {
       "$id": 177,
       "style": 13,
-      "name": "Ultra Butt"
+      "name": "Ultra Headbutt"
     },
     {
       "$id": 178,
@@ -908,17 +908,17 @@
     {
       "$id": 180,
       "style": 13,
-      "name": "Bloody Head Charge"
+      "name": "Bleeding Headbutt"
     },
     {
       "$id": 181,
       "style": 13,
-      "name": "Swing Cut"
+      "name": "Tsubame Gaeshi"
     },
     {
       "$id": 182,
       "style": 13,
-      "name": "Adrenaline"
+      "name": "Bloodflow Boost"
     },
     {
       "$id": 183,
@@ -933,7 +933,7 @@
     {
       "$id": 185,
       "style": 13,
-      "name": "Head Butt"
+      "name": "Headbutt"
     },
     {
       "$id": 186,
@@ -953,22 +953,22 @@
     {
       "$id": 189,
       "style": 13,
-      "name": "Behemoth Rampage"
+      "name": "Beast-King Rampage"
     },
     {
       "$id": 190,
       "style": 13,
-      "name": "Onslaught One VIII"
+      "name": "Combo One VIII"
     },
     {
       "$id": 191,
       "style": 13,
-      "name": "Onslaught Two"
+      "name": "Combo Two"
     },
     {
       "$id": 192,
       "style": 13,
-      "name": "Thunderous Roar"
+      "name": "Thunderous Sound"
     },
     {
       "$id": 193,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 13,
-      "name": "Gorge"
+      "name": "Gluttony"
     },
     {
       "$id": 199,
@@ -1013,12 +1013,12 @@
     {
       "$id": 201,
       "style": 13,
-      "name": "Knock-Down Spin"
+      "name": "Knocking Spin"
     },
     {
       "$id": 202,
       "style": 13,
-      "name": "Angler Fish Hit"
+      "name": "Lantern Hit"
     },
     {
       "$id": 203,
@@ -1028,7 +1028,7 @@
     {
       "$id": 204,
       "style": 13,
-      "name": "Sleepy Bubble"
+      "name": "Sleep Bubble"
     },
     {
       "$id": 205,
@@ -1048,7 +1048,7 @@
     {
       "$id": 208,
       "style": 13,
-      "name": "Knock-Down Spin"
+      "name": "Knocking Spin"
     },
     {
       "$id": 209,
@@ -1068,27 +1068,27 @@
     {
       "$id": 212,
       "style": 13,
-      "name": "Drop Kick"
+      "name": "Back Kick"
     },
     {
       "$id": 213,
       "style": 13,
-      "name": "Electro Breath"
+      "name": "Thunder Breath"
     },
     {
       "$id": 214,
       "style": 13,
-      "name": "Electro Shot II"
+      "name": "Thunder Head Shot II"
     },
     {
       "$id": 215,
       "style": 13,
-      "name": "Blazing Breath"
+      "name": "Flame Breath"
     },
     {
       "$id": 216,
       "style": 13,
-      "name": "Flame Shot II"
+      "name": "Flame Head Shot II"
     },
     {
       "$id": 217,
@@ -1098,7 +1098,7 @@
     {
       "$id": 218,
       "style": 13,
-      "name": "Dark Cannon IX"
+      "name": "Dark Bombardment IX"
     },
     {
       "$id": 219,
@@ -1123,17 +1123,17 @@
     {
       "$id": 223,
       "style": 13,
-      "name": "Burning Justice"
+      "name": "Hellfire Insect Killer"
     },
     {
       "$id": 224,
       "style": 13,
-      "name": "Air Crush X"
+      "name": "Sky Body Slam X"
     },
     {
       "$id": 225,
       "style": 13,
-      "name": "Fatal Crunch"
+      "name": "One-Hit Bite"
     },
     {
       "$id": 226,
@@ -1143,7 +1143,7 @@
     {
       "$id": 227,
       "style": 13,
-      "name": "Blazing Flare"
+      "name": "Flamethrower"
     },
     {
       "$id": 228,
@@ -1173,17 +1173,17 @@
     {
       "$id": 233,
       "style": 13,
-      "name": "Fury Horn"
+      "name": "Frenzy Horn"
     },
     {
       "$id": 234,
       "style": 13,
-      "name": "Paralyse Gasp II"
+      "name": "Paralysis Breath II"
     },
     {
       "$id": 235,
       "style": 13,
-      "name": "Ultra Paralyse Blast III"
+      "name": "Big Paralysis Breath III"
     },
     {
       "$id": 236,
@@ -1203,7 +1203,7 @@
     {
       "$id": 239,
       "style": 13,
-      "name": "Winged Fury"
+      "name": "Bird Frenzy"
     },
     {
       "$id": 240,
@@ -1213,17 +1213,17 @@
     {
       "$id": 241,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Allies"
     },
     {
       "$id": 242,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Allies"
     },
     {
       "$id": 243,
       "style": 13,
-      "name": "Turul's Awakening"
+      "name": "Bird King's Awakening"
     },
     {
       "$id": 244,
@@ -1238,7 +1238,7 @@
     {
       "$id": 246,
       "style": 13,
-      "name": "Weakening Howl"
+      "name": "Weakening Roar"
     },
     {
       "$id": 247,
@@ -1253,17 +1253,17 @@
     {
       "$id": 249,
       "style": 13,
-      "name": "Vicious Combo"
+      "name": "Fierce Multi-Stab"
     },
     {
       "$id": 250,
       "style": 13,
-      "name": "Howling Grudge"
+      "name": "Grudge Roar"
     },
     {
       "$id": 251,
       "style": 13,
-      "name": "Antimatter Blast VI"
+      "name": "Antimatter Shot VI"
     },
     {
       "$id": 252,
@@ -1283,22 +1283,22 @@
     {
       "$id": 255,
       "style": 13,
-      "name": "Binding Screech"
+      "name": "Shock Voice"
     },
     {
       "$id": 256,
       "style": 13,
-      "name": "Razor Water"
+      "name": "Shave Water"
     },
     {
       "$id": 257,
       "style": 13,
-      "name": "Insane Screech"
+      "name": "Great Shock Voice"
     },
     {
       "$id": 258,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 259,
@@ -1318,7 +1318,7 @@
     {
       "$id": 262,
       "style": 13,
-      "name": "Gale"
+      "name": "Wingbeat"
     },
     {
       "$id": 263,
@@ -1338,7 +1338,7 @@
     {
       "$id": 266,
       "style": 13,
-      "name": "Winged Fury"
+      "name": "Bird Frenzy"
     },
     {
       "$id": 267,
@@ -1348,12 +1348,12 @@
     {
       "$id": 268,
       "style": 13,
-      "name": "Wing Smite"
+      "name": "Great Wingbeat"
     },
     {
       "$id": 269,
       "style": 13,
-      "name": "Winged Cure"
+      "name": "Bird Healing"
     },
     {
       "$id": 270,
@@ -1368,7 +1368,7 @@
     {
       "$id": 272,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 273,
@@ -1378,12 +1378,12 @@
     {
       "$id": 274,
       "style": 13,
-      "name": "Winged Cure"
+      "name": "Bird Healing"
     },
     {
       "$id": 275,
       "style": 13,
-      "name": "Scratch"
+      "name": "Claw Scratch"
     },
     {
       "$id": 276,
@@ -1408,12 +1408,12 @@
     {
       "$id": 280,
       "style": 13,
-      "name": "Power Mode"
+      "name": "Powered Mode"
     },
     {
       "$id": 281,
       "style": 13,
-      "name": "Winged Fury"
+      "name": "Bird Frenzy"
     },
     {
       "$id": 282,
@@ -1423,12 +1423,12 @@
     {
       "$id": 283,
       "style": 13,
-      "name": "High Frequency"
+      "name": "High-Frequency Noise"
     },
     {
       "$id": 284,
       "style": 13,
-      "name": "Double Peck"
+      "name": "Double Click"
     },
     {
       "$id": 285,
@@ -1448,7 +1448,7 @@
     {
       "$id": 288,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 289,
@@ -1458,12 +1458,12 @@
     {
       "$id": 290,
       "style": 13,
-      "name": "Double Check"
+      "name": "Double Nudge"
     },
     {
       "$id": 291,
       "style": 13,
-      "name": "Howling Mockery"
+      "name": "Taunting Cry"
     },
     {
       "$id": 292,
@@ -1483,7 +1483,7 @@
     {
       "$id": 295,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 296,
@@ -1493,27 +1493,27 @@
     {
       "$id": 297,
       "style": 13,
-      "name": "Ankle Bite"
+      "name": "Leg Bite"
     },
     {
       "$id": 298,
       "style": 13,
-      "name": "Slow-Footed Net"
+      "name": "Slow Net"
     },
     {
       "$id": 299,
       "style": 13,
-      "name": "Pheromone Enhance"
+      "name": "Enhancing Pheromone"
     },
     {
       "$id": 300,
       "style": 13,
-      "name": "Slow-Footed Net"
+      "name": "Slow Net"
     },
     {
       "$id": 301,
       "style": 13,
-      "name": "Active Pheromones"
+      "name": "Activating Pheromone"
     },
     {
       "$id": 302,
@@ -1533,7 +1533,7 @@
     {
       "$id": 305,
       "style": 13,
-      "name": "Violent Pheromones"
+      "name": "Assault Pheromone"
     },
     {
       "$id": 306,
@@ -1573,12 +1573,12 @@
     {
       "$id": 313,
       "style": 13,
-      "name": "Metabolism"
+      "name": "Self Enhancement"
     },
     {
       "$id": 314,
       "style": 13,
-      "name": "Acid Bath"
+      "name": "Great Dissolving Fluid"
     },
     {
       "$id": 315,
@@ -1593,37 +1593,37 @@
     {
       "$id": 317,
       "style": 13,
-      "name": "Caterpile Crush"
+      "name": "Capil Headbutt"
     },
     {
       "$id": 318,
       "style": 13,
-      "name": "Toxin Shower"
+      "name": "Poison Fluid Shower"
     },
     {
       "$id": 319,
       "style": 13,
-      "name": "Caterpile Attack"
+      "name": "Capil Attack"
     },
     {
       "$id": 320,
       "style": 13,
-      "name": "Virus Shower"
+      "name": "Deadly Poison Shower"
     },
     {
       "$id": 321,
       "style": 13,
-      "name": "Caterpile Trample"
+      "name": "Great Capil Headbutt"
     },
     {
       "$id": 322,
       "style": 13,
-      "name": "Head Banger"
+      "name": "Head Bunker"
     },
     {
       "$id": 323,
       "style": 13,
-      "name": "Rolling Attack"
+      "name": "Spin Attack"
     },
     {
       "$id": 324,
@@ -1638,7 +1638,7 @@
     {
       "$id": 326,
       "style": 13,
-      "name": "Life Absorb"
+      "name": "Life Drain"
     },
     {
       "$id": 327,
@@ -1653,7 +1653,7 @@
     {
       "$id": 329,
       "style": 13,
-      "name": "Ultra Life Absorb"
+      "name": "Ultra Life Drain"
     },
     {
       "$id": 330,
@@ -1663,7 +1663,7 @@
     {
       "$id": 331,
       "style": 13,
-      "name": "Vitality Absorb"
+      "name": "Vitality Drain"
     },
     {
       "$id": 332,
@@ -1678,17 +1678,17 @@
     {
       "$id": 334,
       "style": 13,
-      "name": "Ultra Vitality Absorb"
+      "name": "Ultra Vitality Drain"
     },
     {
       "$id": 335,
       "style": 13,
-      "name": "Super Numbing Scales"
+      "name": "Strong Numbing Scales"
     },
     {
       "$id": 336,
       "style": 13,
-      "name": "HP Siphon"
+      "name": "Ether Shock"
     },
     {
       "$id": 337,
@@ -1703,12 +1703,12 @@
     {
       "$id": 339,
       "style": 13,
-      "name": "Vitality Absorb"
+      "name": "Vitality Drain"
     },
     {
       "$id": 340,
       "style": 13,
-      "name": "Ether Fascination"
+      "name": "Alluring Ether Light"
     },
     {
       "$id": 341,
@@ -1718,7 +1718,7 @@
     {
       "$id": 342,
       "style": 13,
-      "name": "Ether Explosion III"
+      "name": "Big Ether Explosion III"
     },
     {
       "$id": 343,
@@ -1743,7 +1743,7 @@
     {
       "$id": 347,
       "style": 13,
-      "name": "Krabble Bash"
+      "name": "Cribe Bash"
     },
     {
       "$id": 348,
@@ -1763,7 +1763,7 @@
     {
       "$id": 351,
       "style": 13,
-      "name": "Sleepy Bubble"
+      "name": "Sleep Bubble"
     },
     {
       "$id": 352,
@@ -1788,17 +1788,17 @@
     {
       "$id": 356,
       "style": 13,
-      "name": "Electro Rush"
+      "name": "Electric Charge"
     },
     {
       "$id": 357,
       "style": 13,
-      "name": "Tripping Rush"
+      "name": "Leg-Sweep Charge"
     },
     {
       "$id": 358,
       "style": 13,
-      "name": "Tail Smash"
+      "name": "Tail Hit"
     },
     {
       "$id": 359,
@@ -1808,17 +1808,17 @@
     {
       "$id": 360,
       "style": 13,
-      "name": "Icy Shower"
+      "name": "Ice Shower"
     },
     {
       "$id": 361,
       "style": 13,
-      "name": "Tripping Rush"
+      "name": "Leg-Sweep Charge"
     },
     {
       "$id": 362,
       "style": 13,
-      "name": "Tail Smash"
+      "name": "Tail Hit"
     },
     {
       "$id": 363,
@@ -1828,7 +1828,7 @@
     {
       "$id": 364,
       "style": 13,
-      "name": "Murmur of Darkness"
+      "name": "Eternal Dark Breath"
     },
     {
       "$id": 365,
@@ -1848,12 +1848,12 @@
     {
       "$id": 368,
       "style": 13,
-      "name": "Water Cannon"
+      "name": "Water Gun"
     },
     {
       "$id": 369,
       "style": 13,
-      "name": "Sumo Slap"
+      "name": "Fin Slap"
     },
     {
       "$id": 370,
@@ -1868,12 +1868,12 @@
     {
       "$id": 372,
       "style": 13,
-      "name": "Big Water Cannon"
+      "name": "Big Water Gun"
     },
     {
       "$id": 373,
       "style": 13,
-      "name": "Ultra Slap"
+      "name": "Ultra Fin Slap"
     },
     {
       "$id": 374,
@@ -1908,7 +1908,7 @@
     {
       "$id": 380,
       "style": 13,
-      "name": "Vortex"
+      "name": "Conjure Tornado"
     },
     {
       "$id": 381,
@@ -1928,7 +1928,7 @@
     {
       "$id": 384,
       "style": 13,
-      "name": "Boiling Wave"
+      "name": "Fire Wave"
     },
     {
       "$id": 385,
@@ -1938,17 +1938,17 @@
     {
       "$id": 386,
       "style": 13,
-      "name": "Strike"
+      "name": "Slap"
     },
     {
       "$id": 387,
       "style": 13,
-      "name": "Savage III"
+      "name": "Latching Bite III"
     },
     {
       "$id": 388,
       "style": 13,
-      "name": "Tremors"
+      "name": "Ground Shake"
     },
     {
       "$id": 389,
@@ -1963,17 +1963,17 @@
     {
       "$id": 391,
       "style": 13,
-      "name": "3 Tonne Crush"
+      "name": "3.75-Tonne Crush"
     },
     {
       "$id": 392,
       "style": 13,
-      "name": "Elemental Bullet"
+      "name": "Element Bullet"
     },
     {
       "$id": 393,
       "style": 13,
-      "name": "Elemental Cannon"
+      "name": "Element Cannon"
     },
     {
       "$id": 394,
@@ -2008,12 +2008,12 @@
     {
       "$id": 400,
       "style": 13,
-      "name": "Elemental Bullet"
+      "name": "Element Bullet"
     },
     {
       "$id": 401,
       "style": 13,
-      "name": "Elemental Cannon"
+      "name": "Element Cannon"
     },
     {
       "$id": 402,
@@ -2063,7 +2063,7 @@
     {
       "$id": 411,
       "style": 13,
-      "name": "Raid"
+      "name": "Slashing Rush"
     },
     {
       "$id": 412,
@@ -2098,7 +2098,7 @@
     {
       "$id": 418,
       "style": 13,
-      "name": "Reaper"
+      "name": "Great Reap"
     },
     {
       "$id": 419,
@@ -2118,7 +2118,7 @@
     {
       "$id": 422,
       "style": 13,
-      "name": "Full Ether"
+      "name": "Fool Ether"
     },
     {
       "$id": 423,
@@ -2128,7 +2128,7 @@
     {
       "$id": 424,
       "style": 13,
-      "name": "Raid"
+      "name": "Slashing Rush"
     },
     {
       "$id": 425,
@@ -2138,7 +2138,7 @@
     {
       "$id": 426,
       "style": 13,
-      "name": "Swift Stance"
+      "name": "Swift Attack Stance"
     },
     {
       "$id": 427,
@@ -2153,17 +2153,17 @@
     {
       "$id": 429,
       "style": 13,
-      "name": "Decapitator"
+      "name": "Decapitation"
     },
     {
       "$id": 430,
       "style": 13,
-      "name": "Foot Trap"
+      "name": "Leg Bind"
     },
     {
       "$id": 431,
       "style": 13,
-      "name": "Crazy Dance III"
+      "name": "Wild Dance III"
     },
     {
       "$id": 432,
@@ -2173,7 +2173,7 @@
     {
       "$id": 433,
       "style": 13,
-      "name": "Reaper"
+      "name": "Great Reap"
     },
     {
       "$id": 434,
@@ -2183,12 +2183,12 @@
     {
       "$id": 435,
       "style": 13,
-      "name": "Hypnotic Light"
+      "name": "Sleep Light"
     },
     {
       "$id": 436,
       "style": 13,
-      "name": "Crazier Dance VIII"
+      "name": "Great Wild Dance VIII"
     },
     {
       "$id": 437,
@@ -2198,12 +2198,12 @@
     {
       "$id": 438,
       "style": 13,
-      "name": "Down Swipe"
+      "name": "Vertical Swing"
     },
     {
       "$id": 439,
       "style": 13,
-      "name": "Motivation"
+      "name": "Motivation Up"
     },
     {
       "$id": 440,
@@ -2213,12 +2213,12 @@
     {
       "$id": 441,
       "style": 13,
-      "name": "Big Down Swipe"
+      "name": "Big Vertical Swing"
     },
     {
       "$id": 442,
       "style": 13,
-      "name": "Ultra Motivation"
+      "name": "Ultra Motivation Up"
     },
     {
       "$id": 443,
@@ -2228,7 +2228,7 @@
     {
       "$id": 444,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 445,
@@ -2248,17 +2248,17 @@
     {
       "$id": 448,
       "style": 13,
-      "name": "Sniping Arrow"
+      "name": "Snipe Arrow"
     },
     {
       "$id": 449,
       "style": 13,
-      "name": "Blood Shot Arrow I"
+      "name": "Bloodshot Arrow I"
     },
     {
       "$id": 450,
       "style": 13,
-      "name": "Reaper"
+      "name": "Reaping"
     },
     {
       "$id": 451,
@@ -2283,12 +2283,12 @@
     {
       "$id": 455,
       "style": 13,
-      "name": "Iron Spell"
+      "name": "Hardening Magic"
     },
     {
       "$id": 456,
       "style": 13,
-      "name": "Rampage Orders"
+      "name": "Rampage Order"
     },
     {
       "$id": 457,
@@ -2313,7 +2313,7 @@
     {
       "$id": 461,
       "style": 13,
-      "name": "Super Ether Arrow III"
+      "name": "Great Ether Arrow III"
     },
     {
       "$id": 462,
@@ -2323,12 +2323,12 @@
     {
       "$id": 463,
       "style": 13,
-      "name": "Hypnotism"
+      "name": "Hypnosis"
     },
     {
       "$id": 464,
       "style": 13,
-      "name": "Confine"
+      "name": "Immobilize"
     },
     {
       "$id": 465,
@@ -2343,7 +2343,7 @@
     {
       "$id": 467,
       "style": 13,
-      "name": "Hurricane Bugle"
+      "name": "Gale Bugle"
     },
     {
       "$id": 468,
@@ -2363,12 +2363,12 @@
     {
       "$id": 471,
       "style": 13,
-      "name": "Raging Spin"
+      "name": "Flame Spin"
     },
     {
       "$id": 472,
       "style": 13,
-      "name": "Wild Discharge II"
+      "name": "Misfire II"
     },
     {
       "$id": 473,
@@ -2393,7 +2393,7 @@
     {
       "$id": 477,
       "style": 13,
-      "name": "Reaping Laser"
+      "name": "Sweeping Laser"
     },
     {
       "$id": 478,
@@ -2418,22 +2418,22 @@
     {
       "$id": 482,
       "style": 13,
-      "name": "Thrust"
+      "name": "Tsuppari"
     },
     {
       "$id": 483,
       "style": 13,
-      "name": "Strengthening Will"
+      "name": "Strengthening Ki"
     },
     {
       "$id": 484,
       "style": 13,
-      "name": "Flaying Beam"
+      "name": "Destruction Beam"
     },
     {
       "$id": 485,
       "style": 13,
-      "name": "Mountain Impact IV"
+      "name": "Great Mountain Strike IV"
     },
     {
       "$id": 486,
@@ -2448,7 +2448,7 @@
     {
       "$id": 488,
       "style": 13,
-      "name": "Iron Will"
+      "name": "Hardening Ki"
     },
     {
       "$id": 489,
@@ -2458,7 +2458,7 @@
     {
       "$id": 490,
       "style": 13,
-      "name": "Super Aura"
+      "name": "Ultra Recovery Aura"
     },
     {
       "$id": 491,
@@ -2468,12 +2468,12 @@
     {
       "$id": 492,
       "style": 13,
-      "name": "Channel V"
+      "name": "Collider V"
     },
     {
       "$id": 493,
       "style": 13,
-      "name": "Talent Absorb"
+      "name": "TP Drain"
     },
     {
       "$id": 494,
@@ -2483,22 +2483,22 @@
     {
       "$id": 495,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 496,
       "style": 13,
-      "name": "Obliterate"
+      "name": "Sweep"
     },
     {
       "$id": 497,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 498,
       "style": 13,
-      "name": "Ether Particles"
+      "name": "Ether Particle Cannon"
     },
     {
       "$id": 499,
@@ -2523,7 +2523,7 @@
     {
       "$id": 503,
       "style": 13,
-      "name": "Ether Scatter"
+      "name": "Scatter Ether Cannon"
     },
     {
       "$id": 504,
@@ -2543,17 +2543,17 @@
     {
       "$id": 507,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 508,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 509,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 510,
@@ -2568,7 +2568,7 @@
     {
       "$id": 512,
       "style": 13,
-      "name": "Attention Seek"
+      "name": "Lock On Me"
     },
     {
       "$id": 513,
@@ -2583,7 +2583,7 @@
     {
       "$id": 515,
       "style": 13,
-      "name": "Life Absorb"
+      "name": "Life Drain"
     },
     {
       "$id": 516,
@@ -2603,17 +2603,17 @@
     {
       "$id": 519,
       "style": 13,
-      "name": "Vile Fungus"
+      "name": "Harmful Bacteria"
     },
     {
       "$id": 520,
       "style": 13,
-      "name": "Slash"
+      "name": "Sweep"
     },
     {
       "$id": 521,
       "style": 13,
-      "name": "Nutrient Absorb V"
+      "name": "Nutrient Drain V"
     },
     {
       "$id": 522,
@@ -2623,12 +2623,12 @@
     {
       "$id": 523,
       "style": 13,
-      "name": "Immunise"
+      "name": "Immunity Cannon"
     },
     {
       "$id": 524,
       "style": 13,
-      "name": "Total Immunise V"
+      "name": "Large Immunity Cannon V"
     },
     {
       "$id": 525,
@@ -2638,7 +2638,7 @@
     {
       "$id": 526,
       "style": 13,
-      "name": "Cell Activity"
+      "name": "Cell Activation"
     },
     {
       "$id": 527,
@@ -2678,7 +2678,7 @@
     {
       "$id": 534,
       "style": 13,
-      "name": "Obliterate"
+      "name": "Sweep"
     },
     {
       "$id": 535,
@@ -2688,7 +2688,7 @@
     {
       "$id": 536,
       "style": 13,
-      "name": "Dead Slash"
+      "name": "Dead Smash"
     },
     {
       "$id": 537,
@@ -2718,7 +2718,7 @@
     {
       "$id": 542,
       "style": 13,
-      "name": "Deadly Chainsaw"
+      "name": "Dead Chainsaw"
     },
     {
       "$id": 543,
@@ -2728,7 +2728,7 @@
     {
       "$id": 544,
       "style": 13,
-      "name": "Krabble Bash"
+      "name": "Cribe Bash"
     },
     {
       "$id": 545,
@@ -2823,12 +2823,12 @@
     {
       "$id": 563,
       "style": 13,
-      "name": "Last Resort"
+      "name": "Suicide"
     },
     {
       "$id": 564,
       "style": 13,
-      "name": "Last Resort"
+      "name": "Suicide"
     },
     {
       "$id": 565,
@@ -2843,7 +2843,7 @@
     {
       "$id": 567,
       "style": 13,
-      "name": "Last Resort"
+      "name": "Suicide"
     },
     {
       "$id": 568,
@@ -2863,12 +2863,12 @@
     {
       "$id": 571,
       "style": 13,
-      "name": "Ankle Bite"
+      "name": "Leg Bite"
     },
     {
       "$id": 572,
       "style": 13,
-      "name": "Slow-Footed Net"
+      "name": "Slow Net"
     },
     {
       "$id": 573,
@@ -2883,7 +2883,7 @@
     {
       "$id": 575,
       "style": 13,
-      "name": "Arachno Crush I"
+      "name": "Spide Crush I"
     },
     {
       "$id": 576,
@@ -2898,17 +2898,17 @@
     {
       "$id": 578,
       "style": 13,
-      "name": "Arachno Crush I"
+      "name": "Spide Crush I"
     },
     {
       "$id": 579,
       "style": 13,
-      "name": "Arachno Crush I"
+      "name": "Spide Crush I"
     },
     {
       "$id": 580,
       "style": 13,
-      "name": "Lay Tribute"
+      "name": "Tribute to the Queen"
     },
     {
       "$id": 581,
@@ -2918,17 +2918,17 @@
     {
       "$id": 582,
       "style": 13,
-      "name": "Ankle Bite"
+      "name": "Leg Bite"
     },
     {
       "$id": 583,
       "style": 13,
-      "name": "Slow-Footed Net"
+      "name": "Slow Net"
     },
     {
       "$id": 584,
       "style": 13,
-      "name": "Pheromone Enhance"
+      "name": "Enhancing Pheromone"
     },
     {
       "$id": 585,
@@ -2938,12 +2938,12 @@
     {
       "$id": 586,
       "style": 13,
-      "name": "Ankle Bite"
+      "name": "Leg Bite"
     },
     {
       "$id": 587,
       "style": 13,
-      "name": "Slow-Footed Net"
+      "name": "Slow Net"
     },
     {
       "$id": 588,
@@ -2978,7 +2978,7 @@
     {
       "$id": 594,
       "style": 13,
-      "name": "Fatal Lunge"
+      "name": "Fatal Gore"
     },
     {
       "$id": 595,
@@ -2993,7 +2993,7 @@
     {
       "$id": 597,
       "style": 13,
-      "name": "Tentacles"
+      "name": "Tentacle Toss"
     },
     {
       "$id": 598,
@@ -3003,7 +3003,7 @@
     {
       "$id": 599,
       "style": 13,
-      "name": "Generator Power"
+      "name": "Generate Power"
     },
     {
       "$id": 600,
@@ -3043,7 +3043,7 @@
     {
       "$id": 607,
       "style": 13,
-      "name": "Zord Impact"
+      "name": "Zord Tackle"
     },
     {
       "$id": 608,
@@ -3053,7 +3053,7 @@
     {
       "$id": 609,
       "style": 13,
-      "name": "Bazooka III"
+      "name": "Shoulder Bazooka III"
     },
     {
       "$id": 610,
@@ -3113,12 +3113,12 @@
     {
       "$id": 621,
       "style": 13,
-      "name": "Energy Flash"
+      "name": "Energy Bolt"
     },
     {
       "$id": 622,
       "style": 13,
-      "name": "Dead Slash"
+      "name": "Dead Smash"
     },
     {
       "$id": 623,
@@ -3128,7 +3128,7 @@
     {
       "$id": 624,
       "style": 13,
-      "name": "Zord Impact"
+      "name": "Zord Tackle"
     },
     {
       "$id": 625,
@@ -3138,7 +3138,7 @@
     {
       "$id": 626,
       "style": 13,
-      "name": "Bazooka II"
+      "name": "Shoulder Bazooka II"
     },
     {
       "$id": 627,
@@ -3148,12 +3148,12 @@
     {
       "$id": 628,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Subordinates"
     },
     {
       "$id": 629,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Subordinates"
     },
     {
       "$id": 630,
@@ -3163,7 +3163,7 @@
     {
       "$id": 631,
       "style": 13,
-      "name": "Zord Impact"
+      "name": "Zord Tackle"
     },
     {
       "$id": 632,
@@ -3173,7 +3173,7 @@
     {
       "$id": 633,
       "style": 13,
-      "name": "Bazooka II"
+      "name": "Shoulder Bazooka II"
     },
     {
       "$id": 634,
@@ -3198,12 +3198,12 @@
     {
       "$id": 638,
       "style": 13,
-      "name": "Energy Flash"
+      "name": "Energy Bolt"
     },
     {
       "$id": 639,
       "style": 13,
-      "name": "Dead Slash"
+      "name": "Dead Smash"
     },
     {
       "$id": 640,
@@ -3223,7 +3223,7 @@
     {
       "$id": 643,
       "style": 13,
-      "name": "Tough Armour"
+      "name": "Tofu Armour"
     },
     {
       "$id": 644,
@@ -3248,12 +3248,12 @@
     {
       "$id": 648,
       "style": 13,
-      "name": "Wing Smite"
+      "name": "Great Wingbeat"
     },
     {
       "$id": 649,
       "style": 13,
-      "name": "Winged Awakening"
+      "name": "Bird Awakening"
     },
     {
       "$id": 650,
@@ -3268,12 +3268,12 @@
     {
       "$id": 652,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Allies"
     },
     {
       "$id": 653,
       "style": 13,
-      "name": "Call Minions"
+      "name": "Call Allies"
     },
     {
       "$id": 654,
@@ -3298,7 +3298,7 @@
     {
       "$id": 658,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 659,
@@ -3308,12 +3308,12 @@
     {
       "$id": 660,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 661,
       "style": 13,
-      "name": "Ether Scatter"
+      "name": "Scatter Ether Cannon"
     },
     {
       "$id": 662,
@@ -3333,7 +3333,7 @@
     {
       "$id": 665,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 666,
@@ -3348,7 +3348,7 @@
     {
       "$id": 668,
       "style": 13,
-      "name": "Super Aura"
+      "name": "Ultra Recovery Aura"
     },
     {
       "$id": 669,
@@ -3358,12 +3358,12 @@
     {
       "$id": 670,
       "style": 13,
-      "name": "Channel I"
+      "name": "Collider I"
     },
     {
       "$id": 671,
       "style": 13,
-      "name": "Talent Absorb"
+      "name": "TP Drain"
     },
     {
       "$id": 672,
@@ -3373,12 +3373,12 @@
     {
       "$id": 673,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 674,
       "style": 13,
-      "name": "Sleep Spin"
+      "name": "Sleep Roll"
     },
     {
       "$id": 675,
@@ -3393,7 +3393,7 @@
     {
       "$id": 677,
       "style": 13,
-      "name": "Decapitator"
+      "name": "Decapitation"
     },
     {
       "$id": 678,
@@ -3408,7 +3408,7 @@
     {
       "$id": 680,
       "style": 13,
-      "name": "Hypnotic Light"
+      "name": "Sleep Light"
     },
     {
       "$id": 681,
@@ -3433,7 +3433,7 @@
     {
       "$id": 685,
       "style": 13,
-      "name": "Grand Shock"
+      "name": "Grande Shock"
     },
     {
       "$id": 686,
@@ -3468,7 +3468,7 @@
     {
       "$id": 692,
       "style": 13,
-      "name": "Reparation"
+      "name": "Liberation"
     },
     {
       "$id": 693,
@@ -3478,7 +3478,7 @@
     {
       "$id": 694,
       "style": 13,
-      "name": "Energy Drain"
+      "name": "Drain Energy"
     },
     {
       "$id": 695,
@@ -3488,12 +3488,12 @@
     {
       "$id": 696,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 697,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 698,
@@ -3508,7 +3508,7 @@
     {
       "$id": 700,
       "style": 13,
-      "name": "Attention Seek"
+      "name": "Lock On Me"
     },
     {
       "$id": 701,
@@ -3523,7 +3523,7 @@
     {
       "$id": 703,
       "style": 13,
-      "name": "Last Resort"
+      "name": "Suicide"
     },
     {
       "$id": 704,
@@ -3548,7 +3548,7 @@
     {
       "$id": 708,
       "style": 13,
-      "name": "Eagle Triple Combo"
+      "name": "Twin Eagle Triple Strike"
     },
     {
       "$id": 709,
@@ -3558,27 +3558,27 @@
     {
       "$id": 710,
       "style": 13,
-      "name": "Eagle Slice"
+      "name": "Eagle Fang Spiral Charge"
     },
     {
       "$id": 711,
       "style": 13,
-      "name": "Super Spin"
+      "name": "Super Spiral Spin"
     },
     {
       "$id": 712,
       "style": 13,
-      "name": "Fiery Pain IV"
+      "name": "Hellfire Twin Wave IV"
     },
     {
       "$id": 713,
       "style": 13,
-      "name": "Massacre Lotus"
+      "name": "Great Slaughter Lotus"
     },
     {
       "$id": 714,
       "style": 13,
-      "name": "Super Spin"
+      "name": "Super Spiral Spin"
     },
     {
       "$id": 715,
@@ -3613,52 +3613,52 @@
     {
       "$id": 721,
       "style": 13,
-      "name": "Very Last Resort"
+      "name": "Modified Suicide"
     },
     {
       "$id": 722,
       "style": 13,
-      "name": "Special Killing Claw"
+      "name": "Modified Killing Claw"
     },
     {
       "$id": 723,
       "style": 13,
-      "name": "Custom Dead Way"
+      "name": "Modified Dead Way"
     },
     {
       "$id": 724,
       "style": 13,
-      "name": "Venom Hell Spin"
+      "name": "Hell Spin: Deadly Poison"
     },
     {
       "$id": 725,
       "style": 13,
-      "name": "Custom Grand Shot"
+      "name": "Modified Grand Shot"
     },
     {
       "$id": 726,
       "style": 13,
-      "name": "Hell Talon Venom IV"
+      "name": "Hell Claw Fatal Venom IV"
     },
     {
       "$id": 727,
       "style": 13,
-      "name": "Regal Cut"
+      "name": "Angel Cut"
     },
     {
       "$id": 728,
       "style": 13,
-      "name": "Brilliant Light"
+      "name": "Arc Light"
     },
     {
       "$id": 729,
       "style": 13,
-      "name": "Sublime Cure"
+      "name": "Heaven's Cure"
     },
     {
       "$id": 730,
       "style": 13,
-      "name": "Honourable Blow"
+      "name": "Saint Blow"
     },
     {
       "$id": 731,
@@ -3688,17 +3688,17 @@
     {
       "$id": 736,
       "style": 13,
-      "name": "Blazing Flare"
+      "name": "Flamethrower"
     },
     {
       "$id": 737,
       "style": 13,
-      "name": "Mech Combo Attack VI"
+      "name": "Machine-Crab 4-Hit VI"
     },
     {
       "$id": 738,
       "style": 13,
-      "name": "Program Accelerate"
+      "name": "Computation Speed Up"
     },
     {
       "$id": 739,
@@ -3748,7 +3748,7 @@
     {
       "$id": 748,
       "style": 13,
-      "name": "Tough Armour"
+      "name": "Tofu Armour"
     },
     {
       "$id": 749,
@@ -3758,12 +3758,12 @@
     {
       "$id": 750,
       "style": 13,
-      "name": "Energy Flash"
+      "name": "Energy Bolt"
     },
     {
       "$id": 751,
       "style": 13,
-      "name": "Dead Slash"
+      "name": "Dead Smash"
     },
     {
       "$id": 752,
@@ -3798,7 +3798,7 @@
     {
       "$id": 758,
       "style": 13,
-      "name": "Delayal"
+      "name": "Delay R"
     },
     {
       "$id": 759,
@@ -3833,7 +3833,7 @@
     {
       "$id": 765,
       "style": 13,
-      "name": "Quick Cannon"
+      "name": "Rapid-Fire Cannon"
     },
     {
       "$id": 766,
@@ -3903,7 +3903,7 @@
     {
       "$id": 779,
       "style": 13,
-      "name": "Delayal"
+      "name": "Delay R"
     },
     {
       "$id": 780,
@@ -3928,7 +3928,7 @@
     {
       "$id": 784,
       "style": 13,
-      "name": "Spinning Slice"
+      "name": "Rolling Cut"
     },
     {
       "$id": 785,
@@ -3943,17 +3943,17 @@
     {
       "$id": 787,
       "style": 13,
-      "name": "Lock-On"
+      "name": "Lock On"
     },
     {
       "$id": 788,
       "style": 13,
-      "name": "Auto Repair"
+      "name": "Self Repair"
     },
     {
       "$id": 789,
       "style": 13,
-      "name": "Medusa Beam"
+      "name": "Medu Beam"
     },
     {
       "$id": 790,
@@ -3963,7 +3963,7 @@
     {
       "$id": 791,
       "style": 13,
-      "name": "Thermal Growth"
+      "name": "Heat Glow"
     },
     {
       "$id": 792,
@@ -3998,7 +3998,7 @@
     {
       "$id": 798,
       "style": 13,
-      "name": "Quick Cannon"
+      "name": "Rapid-Fire Cannon"
     },
     {
       "$id": 799,
@@ -4018,7 +4018,7 @@
     {
       "$id": 802,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 803,
@@ -4033,22 +4033,22 @@
     {
       "$id": 805,
       "style": 13,
-      "name": "Homing Missiles IV"
+      "name": "Scatter Homing IV"
     },
     {
       "$id": 806,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 807,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 808,
       "style": 13,
-      "name": "Lower Chainsaw"
+      "name": "Down Chainsaw"
     },
     {
       "$id": 809,
@@ -4128,7 +4128,7 @@
     {
       "$id": 824,
       "style": 13,
-      "name": "Hush Chop V"
+      "name": "Hash Chop V"
     },
     {
       "$id": 825,
@@ -4193,27 +4193,27 @@
     {
       "$id": 837,
       "style": 13,
-      "name": "Talent Absorb"
+      "name": "TP Drain"
     },
     {
       "$id": 838,
       "style": 13,
-      "name": "Strength Model"
+      "name": "Hard Form"
     },
     {
       "$id": 839,
       "style": 13,
-      "name": "Weakness Model"
+      "name": "Soft Form"
     },
     {
       "$id": 840,
       "style": 13,
-      "name": "Continual Model"
+      "name": "Severance Form"
     },
     {
       "$id": 841,
       "style": 13,
-      "name": "Chastise"
+      "name": "Leader's Intimidation"
     },
     {
       "$id": 842,
@@ -4223,17 +4223,17 @@
     {
       "$id": 843,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 844,
       "style": 13,
-      "name": "Manufacture Drone"
+      "name": "Make Machine God Soldier"
     },
     {
       "$id": 845,
       "style": 13,
-      "name": "Energy Replenish"
+      "name": "Energy Charge"
     },
     {
       "$id": 846,
@@ -4263,7 +4263,7 @@
     {
       "$id": 851,
       "style": 13,
-      "name": "Delayal"
+      "name": "Delay R"
     },
     {
       "$id": 852,
@@ -4273,12 +4273,12 @@
     {
       "$id": 853,
       "style": 13,
-      "name": "Big Combo VIII"
+      "name": "Great Multi-Hit VIII"
     },
     {
       "$id": 854,
       "style": 13,
-      "name": "Activity: Strong"
+      "name": "Active Zone: Hard"
     },
     {
       "$id": 855,
@@ -4293,12 +4293,12 @@
     {
       "$id": 857,
       "style": 13,
-      "name": "Activity: Weak"
+      "name": "Active Zone: Soft"
     },
     {
       "$id": 858,
       "style": 13,
-      "name": "Spinning Slice"
+      "name": "Rolling Cut"
     },
     {
       "$id": 859,
@@ -4313,7 +4313,7 @@
     {
       "$id": 861,
       "style": 13,
-      "name": "Lock-On"
+      "name": "Lock On"
     },
     {
       "$id": 862,
@@ -4353,17 +4353,17 @@
     {
       "$id": 869,
       "style": 13,
-      "name": "Mega Ether Particles"
+      "name": "Ether Mega-Particle Gun"
     },
     {
       "$id": 870,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 871,
       "style": 13,
-      "name": "Ether Particles"
+      "name": "Ether Particle Cannon"
     },
     {
       "$id": 872,
@@ -4388,12 +4388,12 @@
     {
       "$id": 876,
       "style": 13,
-      "name": "Soul Read"
+      "name": "Mind Reading"
     },
     {
       "$id": 877,
       "style": 13,
-      "name": "Ether Particles"
+      "name": "Ether Particle Cannon"
     },
     {
       "$id": 878,
@@ -4438,12 +4438,12 @@
     {
       "$id": 886,
       "style": 13,
-      "name": "Weather: Storm"
+      "name": "Weather: Thunderstorm"
     },
     {
       "$id": 887,
       "style": 13,
-      "name": "Sunlight Scatter"
+      "name": "Clear-Sky Scatter Gun"
     },
     {
       "$id": 888,
@@ -4463,7 +4463,7 @@
     {
       "$id": 891,
       "style": 13,
-      "name": "Elemental Activate"
+      "name": "Element Activation"
     },
     {
       "$id": 892,
@@ -4483,7 +4483,7 @@
     {
       "$id": 895,
       "style": 13,
-      "name": "Obliterate"
+      "name": "Sweep"
     },
     {
       "$id": 896,
@@ -4693,7 +4693,7 @@
     {
       "$id": 937,
       "style": 13,
-      "name": "Silent Chaos"
+      "name": "Chaos Silent"
     },
     {
       "$id": 938,
@@ -4703,12 +4703,12 @@
     {
       "$id": 939,
       "style": 13,
-      "name": "Treacherous Anger"
+      "name": "Demon God's Power"
     },
     {
       "$id": 940,
       "style": 13,
-      "name": "Righteous Anger"
+      "name": "Fierce God's Power"
     },
     {
       "$id": 941,
@@ -4778,17 +4778,17 @@
     {
       "$id": 954,
       "style": 13,
-      "name": "Monado Combo"
+      "name": "Monado Combo Slash"
     },
     {
       "$id": 955,
       "style": 13,
-      "name": "Titan Bazooka VIII"
+      "name": "God Bazooka VIII"
     },
     {
       "$id": 956,
       "style": 13,
-      "name": "World Reconstruct"
+      "name": "World Reconstruction"
     },
     {
       "$id": 957,
@@ -4798,17 +4798,17 @@
     {
       "$id": 958,
       "style": 13,
-      "name": "Giant God Buster"
+      "name": "Giant God M. Buster"
     },
     {
       "$id": 959,
       "style": 13,
-      "name": "World Reconstruct"
+      "name": "World Reconstruction"
     },
     {
       "$id": 960,
       "style": 13,
-      "name": "Machine God Buster"
+      "name": "Machine God M. Buster"
     },
     {
       "$id": 961,
@@ -4818,17 +4818,17 @@
     {
       "$id": 962,
       "style": 13,
-      "name": "Monado Combo"
+      "name": "Monado Combo Slash"
     },
     {
       "$id": 963,
       "style": 13,
-      "name": "Titan Bazooka VIII"
+      "name": "God Bazooka VIII"
     },
     {
       "$id": 964,
       "style": 13,
-      "name": "World Reconstruct"
+      "name": "World Reconstruction"
     },
     {
       "$id": 965,
@@ -4838,17 +4838,17 @@
     {
       "$id": 966,
       "style": 13,
-      "name": "Giant God Buster"
+      "name": "Giant God M. Buster"
     },
     {
       "$id": 967,
       "style": 13,
-      "name": "World Reconstruct"
+      "name": "World Reconstruction"
     },
     {
       "$id": 968,
       "style": 13,
-      "name": "Machine God Buster"
+      "name": "Machine God M. Buster"
     },
     {
       "$id": 969,
@@ -4903,37 +4903,37 @@
     {
       "$id": 979,
       "style": 13,
-      "name": "Demon Purging Fire"
+      "name": "Hellfire Oni Slayer"
     },
     {
       "$id": 980,
       "style": 13,
-      "name": "Ultra Air Crush X"
+      "name": "Ultra Sky Body Slam X"
     },
     {
       "$id": 981,
       "style": 13,
-      "name": "Vicious Combo"
+      "name": "Fierce Multi-Stab"
     },
     {
       "$id": 982,
       "style": 13,
-      "name": "Rex Roar"
+      "name": "Overlord Roar"
     },
     {
       "$id": 983,
       "style": 13,
-      "name": "Mountain Stomp"
+      "name": "Great Mountain Stomp"
     },
     {
       "$id": 984,
       "style": 13,
-      "name": "Rex Poison"
+      "name": "Overlord Poison Breath"
     },
     {
       "$id": 985,
       "style": 13,
-      "name": "Rex Gore"
+      "name": "Overlord Gore"
     },
     {
       "$id": 986,
@@ -4943,12 +4943,12 @@
     {
       "$id": 987,
       "style": 13,
-      "name": "Frozen Graveyard X"
+      "name": "Corpse Snowfield X"
     },
     {
       "$id": 988,
       "style": 13,
-      "name": "Imperial Upper"
+      "name": "Emperor Upper"
     },
     {
       "$id": 989,
@@ -4958,7 +4958,7 @@
     {
       "$id": 990,
       "style": 13,
-      "name": "Imperial Sobat"
+      "name": "Emperor Sobat"
     },
     {
       "$id": 991,
@@ -4968,7 +4968,7 @@
     {
       "$id": 992,
       "style": 13,
-      "name": "Imperial Might"
+      "name": "Tyrant's Power"
     },
     {
       "$id": 993,
@@ -5013,12 +5013,12 @@
     {
       "$id": 1001,
       "style": 13,
-      "name": "Elemental Bullet"
+      "name": "Element Bullet"
     },
     {
       "$id": 1002,
       "style": 13,
-      "name": "Elemental Cannon"
+      "name": "Element Cannon"
     },
     {
       "$id": 1003,
@@ -5053,12 +5053,12 @@
     {
       "$id": 1009,
       "style": 13,
-      "name": "Elemental Bullet"
+      "name": "Element Bullet"
     },
     {
       "$id": 1010,
       "style": 13,
-      "name": "Elemental Cannon"
+      "name": "Element Cannon"
     },
     {
       "$id": 1011,
@@ -5093,22 +5093,22 @@
     {
       "$id": 1017,
       "style": 13,
-      "name": "Pipe Down!"
+      "name": "In Your Dreams-mo!"
     },
     {
       "$id": 1018,
       "style": 13,
-      "name": "Wild Feast"
+      "name": "Shout, Dance, Feast-mo"
     },
     {
       "$id": 1019,
       "style": 13,
-      "name": "More Caviar!"
+      "name": "Highmore Caviar-mo"
     },
     {
       "$id": 1020,
       "style": 13,
-      "name": "Banishment"
+      "name": "Hell Brand"
     },
     {
       "$id": 1021,
@@ -5123,7 +5123,7 @@
     {
       "$id": 1023,
       "style": 13,
-      "name": "Gorge"
+      "name": "Gluttony"
     },
     {
       "$id": 1024,
@@ -5133,17 +5133,17 @@
     {
       "$id": 1025,
       "style": 13,
-      "name": "Horn Stab"
+      "name": "One-Horn Stab"
     },
     {
       "$id": 1026,
       "style": 13,
-      "name": "Howl of Darkness"
+      "name": "Eternal Dark Roar"
     },
     {
       "$id": 1027,
       "style": 13,
-      "name": "Cloak of Darkness"
+      "name": "Eternal Dark Cloak"
     },
     {
       "$id": 1028,
@@ -5158,12 +5158,12 @@
     {
       "$id": 1030,
       "style": 13,
-      "name": "Reckless Light"
+      "name": "Light of Rash Courage"
     },
     {
       "$id": 1031,
       "style": 13,
-      "name": "Impale IV"
+      "name": "Impaled Prey IV"
     },
     {
       "$id": 1032,
@@ -5178,7 +5178,7 @@
     {
       "$id": 1034,
       "style": 13,
-      "name": "Fish Festival VI"
+      "name": "Lantern Festival VI"
     },
     {
       "$id": 1035,
@@ -5198,22 +5198,22 @@
     {
       "$id": 1038,
       "style": 13,
-      "name": "Invite to Despair"
+      "name": "Invitation to Despair"
     },
     {
       "$id": 1039,
       "style": 13,
-      "name": "Noise of Despair"
+      "name": "Despair Noise"
     },
     {
       "$id": 1040,
       "style": 13,
-      "name": "Annihilation V"
+      "name": "Genocide V"
     },
     {
       "$id": 1041,
       "style": 13,
-      "name": "Royal Gravity"
+      "name": "King's Dignity"
     },
     {
       "$id": 1042,
@@ -5223,7 +5223,7 @@
     {
       "$id": 1043,
       "style": 13,
-      "name": "Sublime Cure"
+      "name": "Heaven's Cure"
     },
     {
       "$id": 1044,
@@ -5253,7 +5253,7 @@
     {
       "$id": 1049,
       "style": 13,
-      "name": "Gala Chainsaw V"
+      "name": "Garia Chainsaw V"
     },
     {
       "$id": 1050,
@@ -5263,7 +5263,7 @@
     {
       "$id": 1051,
       "style": 13,
-      "name": "Thermal Growth II"
+      "name": "Heat Glow II"
     },
     {
       "$id": 1052,
@@ -5278,32 +5278,32 @@
     {
       "$id": 1054,
       "style": 13,
-      "name": "Velua Rush"
+      "name": "Bellua Rush"
     },
     {
       "$id": 1055,
       "style": 13,
-      "name": "Velua Voice"
+      "name": "Bellua Voice"
     },
     {
       "$id": 1056,
       "style": 13,
-      "name": "Velua Break VI"
+      "name": "Bellua Break VI"
     },
     {
       "$id": 1057,
       "style": 13,
-      "name": "Glorious Meteor V"
+      "name": "Glory Meteor V"
     },
     {
       "$id": 1058,
       "style": 13,
-      "name": "Thorium Claw VI"
+      "name": "Tria Claw VI"
     },
     {
       "$id": 1059,
       "style": 13,
-      "name": "Electric Tongue VII"
+      "name": "Thunder Tongue VII"
     },
     {
       "$id": 1060,
@@ -5328,12 +5328,12 @@
     {
       "$id": 1064,
       "style": 13,
-      "name": "Orbit Attack VIII"
+      "name": "Meteoro Attack VIII"
     },
     {
       "$id": 1065,
       "style": 13,
-      "name": "Virgin Bite VII"
+      "name": "Parthenos Bite VII"
     },
     {
       "$id": 1066,
@@ -5343,17 +5343,17 @@
     {
       "$id": 1067,
       "style": 13,
-      "name": "Breaking Upper VII"
+      "name": "Break Upper VII"
     },
     {
       "$id": 1068,
       "style": 13,
-      "name": "Vicious Knock Back VII"
+      "name": "Hell Launch VII"
     },
     {
       "$id": 1069,
       "style": 13,
-      "name": "Vicious Tail Spike VIII"
+      "name": "Hell Needle Tail VIII"
     },
     {
       "$id": 1070,
@@ -5373,12 +5373,12 @@
     {
       "$id": 1073,
       "style": 13,
-      "name": "Gala Crush VII"
+      "name": "Garia Crush VII"
     },
     {
       "$id": 1074,
       "style": 13,
-      "name": "Stellar Arrow VIII"
+      "name": "Stella Arrow VIII"
     },
     {
       "$id": 1075,
@@ -5403,17 +5403,17 @@
     {
       "$id": 1079,
       "style": 13,
-      "name": "Violent Dance VIII"
+      "name": "Fierce Wild Dance VIII"
     },
     {
       "$id": 1080,
       "style": 13,
-      "name": "Mountain Impact IX"
+      "name": "Back Great Mt. Strike IX"
     },
     {
       "$id": 1081,
       "style": 13,
-      "name": "Glorious Bolt VIII"
+      "name": "Strong Thunder VIII"
     },
     {
       "$id": 1082,
@@ -5428,7 +5428,7 @@
     {
       "$id": 1084,
       "style": 13,
-      "name": "Accel Wind"
+      "name": "Speed Wind"
     },
     {
       "$id": 1085,
@@ -5443,7 +5443,7 @@
     {
       "$id": 1087,
       "style": 13,
-      "name": "Furor Slash"
+      "name": "Furia Slash"
     },
     {
       "$id": 1088,
@@ -5453,7 +5453,7 @@
     {
       "$id": 1089,
       "style": 13,
-      "name": "Erasing Mist"
+      "name": "Erase Mist"
     },
     {
       "$id": 1090,
@@ -5468,7 +5468,7 @@
     {
       "$id": 1092,
       "style": 13,
-      "name": "Summon Knight"
+      "name": "Summon Soldier"
     },
     {
       "$id": 1093,
@@ -5483,7 +5483,7 @@
     {
       "$id": 1095,
       "style": 13,
-      "name": "Collision Burst"
+      "name": "Collide Burst"
     },
     {
       "$id": 1096,

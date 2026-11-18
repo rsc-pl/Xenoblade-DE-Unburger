@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Riki glad Dundun like yum yum fish![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]So it was yummy-mo? Catching it was worth it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Melly is tired, but Riki tired too.[XENO:n ]\nAnd Dundun not look happy.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Melia-chan wasn't the only one who looked[XENO:n ]\ntired-mo. Dunban looked kind of sad too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,12 +38,12 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "Riki want to hear Dundun's story.[XENO:n ]\nRiki listen carefully.[XENO:wait wait=key ]"
+      "name": "Tell Riki what's making you sad-mo.[XENO:n ]\nRiki will listen-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]For Riki is the Heropon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]After all, Riki is the legendary hero-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -58,17 +58,17 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Yay! Riki listen.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "All right-mo. Tell Riki-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 125,
-      "name": "I have a sister. Her name is Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I have a younger sister. Her name is Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki know. She wears silver armour.[XENO:n ]\nShulk look everywhere for her.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki knows-mo. She was wearing silver armour-mo.[XENO:n ]\nShulk chased after her and jumped in-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "Even Riki know that![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Mm-hm, even Riki understands-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]She forget Shulk. She forget Dundun too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]She forgot Shulk-mo. She forgot Dunban too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 125,
-      "name": "Dundun take care of them![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dunban, watch over them-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
@@ -133,17 +133,17 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Dundun watch over Shulk.[XENO:n ]\nDundun watch over Fiorung.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Watch over Shulk-mo.[XENO:n ]\nWatch over Fiorung too-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 26,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT3 ]That is all a daddypon can do.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT3 ]That's about all a parent can do-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 27,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Riki make mistake. Dundun not daddypon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Ah, that's right. Dunban isn't their parent-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -153,12 +153,12 @@
     {
       "$id": 29,
       "style": 125,
-      "name": "But just like daddypon, watching over family.[XENO:n ]\nSame watch over.[XENO:wait wait=key ]"
+      "name": "But it's the same-mo. Having someone there[XENO:n ]\nwatching over you...[XENO:wait wait=key ]"
     },
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Dundun do what he must.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Just that can help you keep going-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -173,12 +173,12 @@
     {
       "$id": 33,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki have big family of littlepon.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki raised lots and lots of children-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 34,
       "style": 125,
-      "name": "Riki raised and say goodbye to many littlepon.[XENO:n ]\nRiki know some things.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And Riki sent lots and lots of them out into the[XENO:n ]\nworld-mo. Don't underestimate Riki-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,

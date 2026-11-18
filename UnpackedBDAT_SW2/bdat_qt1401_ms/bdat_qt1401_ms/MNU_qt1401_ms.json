@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Dolgan Outpost is occupied by the enemy.[XENO:n ]\nDefeat the enemy unit's leader and secure the base."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Prudent Purson[/System:Color] at Dolgan Outpost."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "The Dolgan Outpost is now under your control."
+    },
+    {
+      "$id": 4,
+      "style": 148,
+      "name": "Enalda Control Base is occupied by the enemy.[XENO:n ]\nDefeat the enemy unit's leader and secure the base."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Tranquil Morax[/System:Color] at Enalda Control Base."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Enalda Control Base is now under your control."
+    },
+    {
+      "$id": 7,
+      "style": 148,
+      "name": "Enemy reinforcements have arrived at the 3rd Gate.[XENO:n ]\nDefeat the Large Machine God Soldier to stop them."
+    },
+    {
+      "$id": 8,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Reinforcement M104[/System:Color] near the 3rd Gate."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "By stopping the enemy reinforcements,[XENO:n ]\nyou improved the situation on the battlefield."
+    },
+    {
+      "$id": 10,
+      "style": 148,
+      "name": "The enemy occupies the area around the Radio Tower.[XENO:n ]\nDefeating them may turn the battle in your favour.[XENO:n ]\nDefeat their leader to diminish their forces."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Lightning Ronve[/System:Color] near the Radio Tower."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "You defeated the enemy leader near the Radio Tower.[XENO:n ]\nTheir forces dwindled and the battle turned in your favour."
+    },
+    {
+      "$id": 13,
+      "style": 148,
+      "name": "A decisive battle between Homs and Machine God Soldiers.[XENO:n ]\nUse the Monado, the only weapon effective against them,[XENO:n ]\nto defeat the Machine God Soldiers around you!"
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "Defeat 3 Machine God Soldiers in the vicinity."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "You cleared all the nearby Machine God Soldiers!"
+    },
+    {
+      "$id": 16,
+      "style": 148,
+      "name": "Dunban with the Monado is the Homs army's only hope.[XENO:n ]\nUse the Monado, the only weapon effective against them,[XENO:n ]\nto defeat the incoming Machine God Soldiers!"
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Defeat 3 reinforcing Machine God Soldiers."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "You wiped out the reinforcing Machine God Soldiers!"
+    },
+    {
+      "$id": 19,
+      "style": 148,
+      "name": "No matter how many you defeat, their numbers never fall.[XENO:n ]\nBut you can't retreat in a battle for survival.[XENO:n ]\nDefeat the next wave of Machine God Soldiers!"
+    },
+    {
+      "$id": 20,
+      "style": 138,
+      "name": "Defeat the Machine God Soldier M82."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "You defeated the next wave of Machine God Soldiers!"
+    },
+    {
+      "$id": 22,
+      "style": 148,
+      "name": "Request Message 84"
+    },
+    {
+      "$id": 23,
+      "style": 148,
+      "name": "Request Message 85"
+    },
+    {
+      "$id": 24,
+      "style": 148,
+      "name": "Request Message 86"
+    },
+    {
+      "$id": 25,
+      "style": 148,
+      "name": "Request Message 87"
+    },
+    {
+      "$id": 26,
+      "style": 148,
+      "name": "Request Message 88"
+    },
+    {
+      "$id": 27,
+      "style": 148,
+      "name": "Request Message 89"
+    },
+    {
+      "$id": 28,
+      "style": 148,
+      "name": "Request Message 90"
+    }
+  ]
+}

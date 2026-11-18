@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 125,
-      "name": "I saw it. At the top of a black tower, you and I were[XENO:n ]\nfighting together. Fighting that faced Mechon.[XENO:wait wait=key ]"
+      "name": "I saw it. At the top of a black tower, you and I were[XENO:n ]\nfighting together. Fighting that faced Machine God Soldier.[XENO:wait wait=key ]"
     },
     {
       "$id": 28,
@@ -213,22 +213,22 @@
     {
       "$id": 41,
       "style": 125,
-      "name": "My dear. I apologise, but I could[XENO:n ]\nnot help overhearing.[XENO:wait wait=key ]"
+      "name": "Melia-sama, forgive me, but I[XENO:n ]\noverheard you-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 42,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Their offer sounds quite reasonable.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Why not accept their generous offer-mo?[XENO:wait wait=key ]"
     },
     {
       "$id": 43,
       "style": 125,
-      "name": "The danger extends much further than our[XENO:n ]\nsmall dwelling. Makna itself is at risk.[XENO:wait wait=key ]"
+      "name": "This concerns more than just our way of[XENO:n ]\nlife; it will affect all of Makna-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 44,
       "style": 125,
-      "name": "And we shall provide you with[XENO:n ]\nthe finest warrior of our clan.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "We should send our Nopon[XENO:n ]\nhero along as well-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]No need for thanks. He is the equal,[XENO:n ]\nif not better, of the Hom Hom.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Having only Hom Hom as your companions[XENO:n ]\nwould be a little worrying-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]The chosen Nopon hero will await you below.[XENO:n ]\nI shall go ahead and prepare him. Please excuse me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'll introduce you to the Nopon hero below-ja-mo. I'll[XENO:n ]\ngo down ahead of you-ja-mo. Now, if you'll excuse me-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 49,

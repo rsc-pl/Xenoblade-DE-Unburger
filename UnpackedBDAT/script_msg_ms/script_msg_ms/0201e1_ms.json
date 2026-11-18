@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Look, Reyn![XENO:wait wait=key ][System:PageBreak ]This geological formation...[XENO:n ]\nIt's incredible![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Look, Rein![XENO:wait wait=key ][System:PageBreak ]These rock formations... Isn't it[XENO:n ]\namazing how intricate they are?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT6 ]Reyn, are you OK?[XENO:wait wait=key ][System:PageBreak ]You don't normally want to talk[XENO:n ]\nabout geology and the weather.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT6 ]Huh?[XENO:wait wait=key ][System:PageBreak ]Is something[XENO:n ]\nwrong?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Reyn, are you OK?[XENO:n ]\nYou don't look so good.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Are you all right?[XENO:n ]\nDo you feel sick?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I'm sorry, Reyn. I shouldn't have[XENO:n ]\nstuck that spider in your shoe.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Sorry. It's because I put[XENO:n ]\na spider in your shoe, isn't it...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]It's caterpillars, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]It was a caterpillar...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT13 ]Haha, gotcha! I was[XENO:n ]\nonly joking, Reyn.[XENO:wait wait=key ][System:PageBreak ]Don't be so uptight! It's just[XENO:n ]\na few creepy crawlies.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]No, no,[XENO:n ]\nI'm only joking.[XENO:wait wait=key ][System:PageBreak ]There's no need[XENO:n ]\nto get so angry.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]See! You're the bad guy here.[XENO:n ]\nWhy did you do it, Reyn?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]What about you, Rein?![XENO:n ]\nWhy did you do that?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,

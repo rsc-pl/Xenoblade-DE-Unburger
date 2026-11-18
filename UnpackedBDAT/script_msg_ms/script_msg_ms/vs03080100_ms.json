@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Monsters' egg sacs...I think... But it looks like[XENO:n ]\nthere are Mechon parts inside as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Monsters' egg sacs...I think... But it looks like[XENO:n ]\nthere are Machine Soldier parts inside as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "Reyn! Get back![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein! Get back![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT15 ]No! If that vision comes true, then Reyn...![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT15 ]No! If that vision comes true, then Rein...![XENO:wait wait=key ]"
     },
     {
       "$id": 9,

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 126,
-      "name": "We've collected all five lots of[XENO:n ]\nBitter Wisp Fluid.[XENO:wait wait=key ][System:PageBreak ]I hope this is enough for Deku.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We've gathered five Bitter[XENO:n ]\nLampus Fluids, haven't we?[XENO:wait wait=key ][System:PageBreak ]Deku-san... Is it safe to gather this stuff?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "What's wrong with Naonami?[XENO:n ]\nWhy isn't she moving?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Naonami-san, why did you[XENO:n ]\nstop moving-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "Naonami taught me how to[XENO:n ]\nfix machines.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Naonami-san taught me how to[XENO:n ]\nfix machines.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "Nikita run too slow.[XENO:wait wait=key ][System:PageBreak ]Nikita get eaten by monster[XENO:n ]\nif Nikita no hurry.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Nikita, I'm going on ahead-mo~.[XENO:wait wait=key ][System:PageBreak ]If you don't hurry, a monster[XENO:n ]\nwill eat you-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,

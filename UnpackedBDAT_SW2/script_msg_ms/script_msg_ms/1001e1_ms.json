@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Oi, Riki! What you up to?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Rein, there are lots of fish-mo![XENO:wait wait=key ][System:PageBreak ]Sometimes winged[XENO:n ]\nfish jump-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Hahaha. You must be joking![XENO:wait wait=key ][System:PageBreak ]There's no such thing as fish[XENO:n ]\nwith wings. You've lost the plot![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・Look closely-mo!/・Don't make fun of me-mo! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Look, it jumped again-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Oh yeah. I saw that.[XENO:n ]\nSo fish can really fly?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]There weren't any fish like[XENO:wait wait=key ][System:PageBreak ]this in Frontier Village or[XENO:n ]\nMakna Forest-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Right then! Only one thing for it.[XENO:n ]\nWe catch one and eat it![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:sel sel=・What are you talking about-mo!/・I agree-mo~! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]What? We ain't allowed[XENO:n ]\nor something?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]That fish is special-mo! Sacred-mo![XENO:n ]\nEat it and you'll be punished-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Just looks like any old fish.[XENO:n ]\nI reckon it'll taste great.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Tut, tut, tut. Rein doesn't[XENO:n ]\nunderstand-mo. Nopon have wings-mo?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]That's why creatures with wings[XENO:n ]\nmust be treasured-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I getcha. So it's like[XENO:n ]\neating your own kind.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Don't compare it like that-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Sorry, man. Didn't mean to scare.[XENO:wait wait=key ][System:PageBreak ]It's all right, though. We've got[XENO:n ]\nloads of tasty fish back home.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT6 ]Is that so-mo?[XENO:n ]\nRiki is hungry-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Come on, then! I'll take you.[XENO:wait wait=key ][System:PageBreak ]We'll have to get my fishing stuff.[XENO:wait wait=key ][System:PageBreak ]Whoever catches the[XENO:n ]\nmost fish wins![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Bring it on-mo![XENO:n ]\nRiki won't lose-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT5 ]My time has come! I will show[XENO:n ]\nall of Giant God my fishing skills![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:type type=anger ][XENO:act act=EVT3 ]Ah! No![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]What's the matter with you?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Creatures with wings must[XENO:n ]\nbe treasured-mo.[XENO:wait wait=key ][System:PageBreak ]If Riki eats that fish, Riki[XENO:n ]\nwill get scolded-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Don't worry about it.[XENO:n ]\nNo one's looking.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Ugh... Donga will get mad at[XENO:n ]\nme-mo. But Riki is hungry-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT22 ]I won't tell anyone.[XENO:wait wait=key ][System:PageBreak ]But that means you've gotta[XENO:n ]\nfish twice as hard as me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]I hate to admit it, but I have[XENO:n ]\nto do what Rein says-mo.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Riki will catch tons of fish-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT24 ]I knew it. When food's around[XENO:n ]\nyou're suddenly up for it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]The one who calls someone[XENO:n ]\nstupid is stupid-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Calm down, Riki. Don't get[XENO:n ]\nso defensive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "I heard your inner[XENO:n ]\nvoice-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Looking at the water again,[XENO:n ]\nI can see...something like that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Just like Riki said-mo![XENO:wait wait=key ][System:PageBreak ]Strange creatures live[XENO:n ]\nin Eryth Sea-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・I guess you were right./・You know what's stranger? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "They even got hovering rocks[XENO:n ]\nin this place. I'll believe anything.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki wants to travel[XENO:n ]\nto lots of places-mo.[XENO:wait wait=key ][System:PageBreak ]I might meet even[XENO:n ]\nstranger creatures-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Sounds like a plan, Riki. And just[XENO:n ]\nthink of all the food to eat![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Rein is such a[XENO:n ]\nglutton-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Take a look at yourself, lard ball.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]When Hero Riki sets out, Rein[XENO:n ]\nwill come as a companion-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Friends, huh? I'll think about[XENO:n ]\nthat one.[XENO:wait wait=key ][System:PageBreak ]But I wouldn't mind seeing[XENO:n ]\na bit of Giant God either.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "How on Giant God are you forty?![XENO:wait wait=key ][System:PageBreak ]That means you're[XENO:n ]\nlike...an old man![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Riki isn't an old man-mo! Nopon and[XENO:n ]\nHom Hom are different-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "But the Nopon I met at Colony 9[XENO:n ]\nacted their age. Why not you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Rein is the strange one-mo![XENO:n ]\nNo one can tell your age-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Why you little... I'm gonna...[XENO:n ]\nOh, I give up. What's the point?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "You're much younger than Riki,[XENO:n ]\nbut big in body and attitude-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]OK, old man. I'll give it a go.[XENO:n ]\nYou haven't got long left anyway...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

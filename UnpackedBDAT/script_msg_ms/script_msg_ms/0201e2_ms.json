@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "Reyn, look! What a sight.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, look! What a sight.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "What's wrong, Reyn? It's not like[XENO:n ]\nyou to look so serious.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What's wrong, Rein? It's not like[XENO:n ]\nyou to look so serious.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]But, Reyn... I...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Rein...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]That makes me feel better.[XENO:n ]\nThanks, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]I see.[XENO:n ]\nThank you...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "Think about it, Fiorung.[XENO:wait wait=key ][System:PageBreak ]If we'd just sat around in Colony 9[XENO:n ]\nfor the rest of our lives...[XENO:wait wait=key ][System:PageBreak ]We'd never have found a way[XENO:n ]\nto beat the Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You know...[XENO:wait wait=key ][System:PageBreak ]If we'd stayed[XENO:n ]\nput in Colony 9,[XENO:wait wait=key ][System:PageBreak ]I don't think we'd ever have found a way[XENO:n ]\nto fight off the Machine God Soldiers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Really? Thanks, Reyn.[XENO:n ]\nThanks for making me feel better.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]I see...[XENO:n ]\nThanks, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "Nope. Had never touched a frying[XENO:n ]\npan in my life.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]But I'm a new Reyn these days![XENO:n ]\nAnd I've decided that tonight...[XENO:wait wait=key ][System:PageBreak ]I'm gonna make you my[XENO:n ]\nextra special speciality![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "W-well,[XENO:n ]\nyeah...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Right![XENO:n ]\nTomorrow,[XENO:wait wait=key ][System:PageBreak ]I'm going to make something[XENO:n ]\nspecial for Fiorung![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
@@ -248,12 +248,12 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Now, Reyn... I don't mind teaching[XENO:n ]\nyou, but are you going to listen?[XENO:wait wait=key ][System:PageBreak ]You remember what happened[XENO:n ]\nlast time, don't you?[XENO:wait wait=key ][System:PageBreak ]You 'borrowed' the Monado and[XENO:n ]\ntried to use it to cut vegetables.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Huh? I don't[XENO:n ]\nmind, but...[XENO:wait wait=key ][System:PageBreak ]Are you sure you'll[XENO:n ]\nbe all right?[XENO:wait wait=key ][System:PageBreak ]Please don't cut the vegetables[XENO:n ]\nwith a weapon like last time, okay?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 49,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Don't you worry, Fiorung![XENO:wait wait=key ][System:PageBreak ]When we get back to the colony,[XENO:n ]\nI'll be the best student ever![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Yeah, I'm going to give it my best![XENO:wait wait=key ][System:PageBreak ]I'll be counting on you when we[XENO:n ]\nget back to Colony 9, too, Sensei![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Hooray for Reyn! The best chef[XENO:n ]\non all Giant God![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yes, yes. Well,[XENO:n ]\ngood luck![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 60,

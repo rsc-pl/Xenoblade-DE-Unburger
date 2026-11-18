@@ -1,0 +1,1014 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 13,
+      "name": "Rock-Shattering Blow"
+    },
+    {
+      "$id": 2,
+      "style": 13,
+      "name": "Bone-Shattering Blow"
+    },
+    {
+      "$id": 3,
+      "style": 13,
+      "name": "All-Shattering Blow"
+    },
+    {
+      "$id": 4,
+      "style": 13,
+      "name": "Greenhorn Warrior"
+    },
+    {
+      "$id": 5,
+      "style": 13,
+      "name": "Tough Guy, Eh?"
+    },
+    {
+      "$id": 6,
+      "style": 13,
+      "name": "Can't Beat This One"
+    },
+    {
+      "$id": 7,
+      "style": 13,
+      "name": "Please! No More!"
+    },
+    {
+      "$id": 8,
+      "style": 13,
+      "name": "Hunter-in-Training"
+    },
+    {
+      "$id": 9,
+      "style": 13,
+      "name": "Pro Hunter"
+    },
+    {
+      "$id": 10,
+      "style": 13,
+      "name": "Big Hunter"
+    },
+    {
+      "$id": 11,
+      "style": 13,
+      "name": "Look Closely!?"
+    },
+    {
+      "$id": 12,
+      "style": 13,
+      "name": "No Part to Play"
+    },
+    {
+      "$id": 13,
+      "style": 13,
+      "name": "Machine Soldier Killer"
+    },
+    {
+      "$id": 14,
+      "style": 13,
+      "name": "Machine Soldier Eraser"
+    },
+    {
+      "$id": 15,
+      "style": 13,
+      "name": "Machine Soldier Genocider"
+    },
+    {
+      "$id": 16,
+      "style": 13,
+      "name": "Land Creature Hunter"
+    },
+    {
+      "$id": 17,
+      "style": 13,
+      "name": "Land Creature Menace"
+    },
+    {
+      "$id": 18,
+      "style": 13,
+      "name": "Land Creature Nightmare"
+    },
+    {
+      "$id": 19,
+      "style": 13,
+      "name": "Flying Creature Killer"
+    },
+    {
+      "$id": 20,
+      "style": 13,
+      "name": "Flying Creature Menace"
+    },
+    {
+      "$id": 21,
+      "style": 13,
+      "name": "Flying Creature Nightmare"
+    },
+    {
+      "$id": 22,
+      "style": 13,
+      "name": "Insect Hunter"
+    },
+    {
+      "$id": 23,
+      "style": 13,
+      "name": "Natural Enemy of Insects"
+    },
+    {
+      "$id": 24,
+      "style": 13,
+      "name": "Elemental Hunter"
+    },
+    {
+      "$id": 25,
+      "style": 13,
+      "name": "Elementals' Nemesis"
+    },
+    {
+      "$id": 26,
+      "style": 13,
+      "name": "Telethia Hunter"
+    },
+    {
+      "$id": 27,
+      "style": 13,
+      "name": "Telethia's Bane"
+    },
+    {
+      "$id": 28,
+      "style": 13,
+      "name": "Big Catch! Big Catch!"
+    },
+    {
+      "$id": 29,
+      "style": 13,
+      "name": "Smashing!"
+    },
+    {
+      "$id": 30,
+      "style": 13,
+      "name": "Simply Smashing!"
+    },
+    {
+      "$id": 31,
+      "style": 13,
+      "name": "Smashing...to Pieces!"
+    },
+    {
+      "$id": 32,
+      "style": 13,
+      "name": "Not Gonna Happen!"
+    },
+    {
+      "$id": 33,
+      "style": 13,
+      "name": "I'll Stop It Every Time!"
+    },
+    {
+      "$id": 34,
+      "style": 13,
+      "name": "The Future Can Change!"
+    },
+    {
+      "$id": 35,
+      "style": 13,
+      "name": "Second Wind"
+    },
+    {
+      "$id": 36,
+      "style": 13,
+      "name": "Can't Keep 'Em Down"
+    },
+    {
+      "$id": 37,
+      "style": 13,
+      "name": "Down But Never Out"
+    },
+    {
+      "$id": 38,
+      "style": 13,
+      "name": "Don't Miss a Chance"
+    },
+    {
+      "$id": 39,
+      "style": 13,
+      "name": "Sharpened Nerves"
+    },
+    {
+      "$id": 40,
+      "style": 13,
+      "name": "Veteran's Tactics"
+    },
+    {
+      "$id": 41,
+      "style": 13,
+      "name": "Let's Fight!"
+    },
+    {
+      "$id": 42,
+      "style": 13,
+      "name": "Let's Go, Everyone!"
+    },
+    {
+      "$id": 43,
+      "style": 13,
+      "name": "Yeah! We Can Do It!"
+    },
+    {
+      "$id": 44,
+      "style": 13,
+      "name": "Fiery Battle"
+    },
+    {
+      "$id": 45,
+      "style": 13,
+      "name": "Boiling Battle"
+    },
+    {
+      "$id": 46,
+      "style": 13,
+      "name": "Scorching Battle"
+    },
+    {
+      "$id": 47,
+      "style": 13,
+      "name": "You're Not Alone!"
+    },
+    {
+      "$id": 48,
+      "style": 13,
+      "name": "Excellent Teamwork"
+    },
+    {
+      "$id": 49,
+      "style": 13,
+      "name": "Ironclad Teamwork"
+    },
+    {
+      "$id": 50,
+      "style": 13,
+      "name": "Ultimate Teamwork"
+    },
+    {
+      "$id": 51,
+      "style": 13,
+      "name": "Combination A"
+    },
+    {
+      "$id": 52,
+      "style": 13,
+      "name": "Combination S"
+    },
+    {
+      "$id": 53,
+      "style": 13,
+      "name": "Combination ∞"
+    },
+    {
+      "$id": 54,
+      "style": 13,
+      "name": "Attack Cycle"
+    },
+    {
+      "$id": 55,
+      "style": 13,
+      "name": "Together All the Way"
+    },
+    {
+      "$id": 56,
+      "style": 13,
+      "name": "Your Back's Wide Open!"
+    },
+    {
+      "$id": 57,
+      "style": 13,
+      "name": "Ambush Tactics Master"
+    },
+    {
+      "$id": 58,
+      "style": 13,
+      "name": "Assassination"
+    },
+    {
+      "$id": 59,
+      "style": 13,
+      "name": "Narrow Escape"
+    },
+    {
+      "$id": 60,
+      "style": 13,
+      "name": "First Despair"
+    },
+    {
+      "$id": 61,
+      "style": 13,
+      "name": "All-Out Battle"
+    },
+    {
+      "$id": 62,
+      "style": 13,
+      "name": "Skilled Artist"
+    },
+    {
+      "$id": 63,
+      "style": 13,
+      "name": "Always Going All-Out!"
+    },
+    {
+      "$id": 64,
+      "style": 13,
+      "name": "Bring It On!"
+    },
+    {
+      "$id": 65,
+      "style": 13,
+      "name": "Don't Get in My Way!"
+    },
+    {
+      "$id": 66,
+      "style": 13,
+      "name": "Move Aside!"
+    },
+    {
+      "$id": 67,
+      "style": 13,
+      "name": "This Is My Fight!"
+    },
+    {
+      "$id": 68,
+      "style": 13,
+      "name": "Mo-mo-mo-mo-mo-mo!"
+    },
+    {
+      "$id": 69,
+      "style": 13,
+      "name": "End This Pointless Fight!"
+    },
+    {
+      "$id": 70,
+      "style": 13,
+      "name": "One Step Further"
+    },
+    {
+      "$id": 71,
+      "style": 13,
+      "name": "To the Strongest World"
+    },
+    {
+      "$id": 72,
+      "style": 13,
+      "name": "Improved Technique"
+    },
+    {
+      "$id": 73,
+      "style": 13,
+      "name": "Developing Technique"
+    },
+    {
+      "$id": 74,
+      "style": 13,
+      "name": "Perfected Technique"
+    },
+    {
+      "$id": 75,
+      "style": 13,
+      "name": "Down to a Fine Art"
+    },
+    {
+      "$id": 76,
+      "style": 13,
+      "name": "Divine Technique"
+    },
+    {
+      "$id": 77,
+      "style": 13,
+      "name": "Professional"
+    },
+    {
+      "$id": 78,
+      "style": 13,
+      "name": "Everyone's Power"
+    },
+    {
+      "$id": 79,
+      "style": 13,
+      "name": "Pinnacle of Humanity"
+    },
+    {
+      "$id": 80,
+      "style": 13,
+      "name": "Love, Honesty, Intuition"
+    },
+    {
+      "$id": 81,
+      "style": 13,
+      "name": "Passion, Guts, Effort"
+    },
+    {
+      "$id": 82,
+      "style": 13,
+      "name": "Bold, Brave, Active"
+    },
+    {
+      "$id": 83,
+      "style": 13,
+      "name": "Style, Heroism, Caution"
+    },
+    {
+      "$id": 84,
+      "style": 13,
+      "name": "Patience, Devotion, Nerve"
+    },
+    {
+      "$id": 85,
+      "style": 13,
+      "name": "Pure, Cheerful, Flexible"
+    },
+    {
+      "$id": 86,
+      "style": 13,
+      "name": "Frank, Calm, Steady"
+    },
+    {
+      "$id": 87,
+      "style": 13,
+      "name": "Phoenix"
+    },
+    {
+      "$id": 88,
+      "style": 13,
+      "name": "Ace"
+    },
+    {
+      "$id": 89,
+      "style": 13,
+      "name": "Dream Team"
+    },
+    {
+      "$id": 90,
+      "style": 13,
+      "name": "Counterattack Opening"
+    },
+    {
+      "$id": 91,
+      "style": 13,
+      "name": "Signs of a Comeback"
+    },
+    {
+      "$id": 92,
+      "style": 13,
+      "name": "Great Comeback"
+    },
+    {
+      "$id": 93,
+      "style": 13,
+      "name": "Seeking Strong Foes"
+    },
+    {
+      "$id": 94,
+      "style": 13,
+      "name": "That Was a Good Fight"
+    },
+    {
+      "$id": 95,
+      "style": 13,
+      "name": "Unlucky Sixes"
+    },
+    {
+      "$id": 96,
+      "style": 13,
+      "name": "Lucky Sevens"
+    },
+    {
+      "$id": 97,
+      "style": 13,
+      "name": "Start of the Adventure"
+    },
+    {
+      "$id": 98,
+      "style": 13,
+      "name": "A Corner of the World"
+    },
+    {
+      "$id": 99,
+      "style": 13,
+      "name": "The World Is Still Vast"
+    },
+    {
+      "$id": 100,
+      "style": 13,
+      "name": "Where's the World's Edge?"
+    },
+    {
+      "$id": 101,
+      "style": 13,
+      "name": "World Traveler"
+    },
+    {
+      "$id": 102,
+      "style": 13,
+      "name": "Explorer"
+    },
+    {
+      "$id": 103,
+      "style": 13,
+      "name": "Extraordinary Explorer"
+    },
+    {
+      "$id": 104,
+      "style": 13,
+      "name": "Greatest Explorer Ever"
+    },
+    {
+      "$id": 105,
+      "style": 13,
+      "name": "Easy Travel"
+    },
+    {
+      "$id": 106,
+      "style": 13,
+      "name": "Lazybones"
+    },
+    {
+      "$id": 107,
+      "style": 13,
+      "name": "Treasure Is Precious"
+    },
+    {
+      "$id": 108,
+      "style": 13,
+      "name": "Treasure Above Life"
+    },
+    {
+      "$id": 109,
+      "style": 13,
+      "name": "It Finally Appeared!"
+    },
+    {
+      "$id": 110,
+      "style": 13,
+      "name": "I Want More and More!"
+    },
+    {
+      "$id": 111,
+      "style": 13,
+      "name": "Insatiable Desire"
+    },
+    {
+      "$id": 112,
+      "style": 13,
+      "name": "What Came from God"
+    },
+    {
+      "$id": 113,
+      "style": 13,
+      "name": "God's Blessing"
+    },
+    {
+      "$id": 114,
+      "style": 13,
+      "name": "Power Given by God"
+    },
+    {
+      "$id": 115,
+      "style": 13,
+      "name": "Got 1 Rare Crystal"
+    },
+    {
+      "$id": 116,
+      "style": 13,
+      "name": "Got 7 Rare Crystals"
+    },
+    {
+      "$id": 117,
+      "style": 13,
+      "name": "Got 77 Rare Crystals"
+    },
+    {
+      "$id": 118,
+      "style": 13,
+      "name": "Very Lucky"
+    },
+    {
+      "$id": 119,
+      "style": 13,
+      "name": "Nice Choice"
+    },
+    {
+      "$id": 120,
+      "style": 13,
+      "name": "All Glittering"
+    },
+    {
+      "$id": 121,
+      "style": 13,
+      "name": "Learning the Craft"
+    },
+    {
+      "$id": 122,
+      "style": 13,
+      "name": "Craft Expert"
+    },
+    {
+      "$id": 123,
+      "style": 13,
+      "name": "Gem Alchemist"
+    },
+    {
+      "$id": 124,
+      "style": 13,
+      "name": "Craft Festival"
+    },
+    {
+      "$id": 125,
+      "style": 13,
+      "name": "Craft Carnival"
+    },
+    {
+      "$id": 126,
+      "style": 13,
+      "name": "Crystal of Friendship"
+    },
+    {
+      "$id": 127,
+      "style": 13,
+      "name": "Craft Time, Everyone!"
+    },
+    {
+      "$id": 128,
+      "style": 13,
+      "name": "Cylinder Over"
+    },
+    {
+      "$id": 129,
+      "style": 13,
+      "name": "First Sunrise"
+    },
+    {
+      "$id": 130,
+      "style": 13,
+      "name": "Daredevil"
+    },
+    {
+      "$id": 131,
+      "style": 13,
+      "name": "Acrobatic"
+    },
+    {
+      "$id": 132,
+      "style": 13,
+      "name": "Let's Make a Field Guide"
+    },
+    {
+      "$id": 133,
+      "style": 13,
+      "name": "One Page Complete!"
+    },
+    {
+      "$id": 134,
+      "style": 13,
+      "name": "Finally Complete!"
+    },
+    {
+      "$id": 135,
+      "style": 13,
+      "name": "Study More!"
+    },
+    {
+      "$id": 136,
+      "style": 13,
+      "name": "Overflowing Power"
+    },
+    {
+      "$id": 137,
+      "style": 13,
+      "name": "Aggressive Approach"
+    },
+    {
+      "$id": 138,
+      "style": 13,
+      "name": "Ugh! Too Sweet"
+    },
+    {
+      "$id": 139,
+      "style": 13,
+      "name": "Fruity Sweet"
+    },
+    {
+      "$id": 140,
+      "style": 13,
+      "name": "You May Have This"
+    },
+    {
+      "$id": 141,
+      "style": 13,
+      "name": "Not Just Riki Eat!"
+    },
+    {
+      "$id": 142,
+      "style": 13,
+      "name": "Love at First Bite"
+    },
+    {
+      "$id": 143,
+      "style": 13,
+      "name": "Asking Around Is Basic"
+    },
+    {
+      "$id": 144,
+      "style": 13,
+      "name": "Even With Callused Ears"
+    },
+    {
+      "$id": 145,
+      "style": 13,
+      "name": "Chatter Spreads"
+    },
+    {
+      "$id": 146,
+      "style": 13,
+      "name": "Likes to Chat"
+    },
+    {
+      "$id": 147,
+      "style": 13,
+      "name": "Loves to Chat"
+    },
+    {
+      "$id": 148,
+      "style": 13,
+      "name": "First Acquaintance"
+    },
+    {
+      "$id": 149,
+      "style": 13,
+      "name": "10 Acquaintances"
+    },
+    {
+      "$id": 150,
+      "style": 13,
+      "name": "Fifty Fine Friends"
+    },
+    {
+      "$id": 151,
+      "style": 13,
+      "name": "Everyone's a Friend"
+    },
+    {
+      "$id": 152,
+      "style": 13,
+      "name": "The Brave Protectors"
+    },
+    {
+      "$id": 153,
+      "style": 13,
+      "name": "Giant God Info Network"
+    },
+    {
+      "$id": 154,
+      "style": 13,
+      "name": "People Full of Hope"
+    },
+    {
+      "$id": 155,
+      "style": 13,
+      "name": "Know More Than the Chief!"
+    },
+    {
+      "$id": 156,
+      "style": 13,
+      "name": "Wings of Nobility"
+    },
+    {
+      "$id": 157,
+      "style": 13,
+      "name": "Living on the Palm"
+    },
+    {
+      "$id": 158,
+      "style": 13,
+      "name": "The Strongest Tie"
+    },
+    {
+      "$id": 159,
+      "style": 13,
+      "name": "Constellation"
+    },
+    {
+      "$id": 160,
+      "style": 13,
+      "name": "Spider's Web"
+    },
+    {
+      "$id": 161,
+      "style": 13,
+      "name": "Like Synapses"
+    },
+    {
+      "$id": 162,
+      "style": 13,
+      "name": "The World Is Almost One"
+    },
+    {
+      "$id": 163,
+      "style": 13,
+      "name": "Colony 9 Celeb"
+    },
+    {
+      "$id": 164,
+      "style": 13,
+      "name": "Colony 6 Celeb"
+    },
+    {
+      "$id": 165,
+      "style": 13,
+      "name": "Frontier Village Celeb"
+    },
+    {
+      "$id": 166,
+      "style": 13,
+      "name": "Achamoth Celeb"
+    },
+    {
+      "$id": 167,
+      "style": 13,
+      "name": "Hidden Village Celeb"
+    },
+    {
+      "$id": 168,
+      "style": 13,
+      "name": "Local Hero"
+    },
+    {
+      "$id": 169,
+      "style": 13,
+      "name": "World Hero"
+    },
+    {
+      "$id": 170,
+      "style": 13,
+      "name": "Best Answer"
+    },
+    {
+      "$id": 171,
+      "style": 13,
+      "name": "Can't Read the Room"
+    },
+    {
+      "$id": 172,
+      "style": 13,
+      "name": "Relationship Between Two"
+    },
+    {
+      "$id": 173,
+      "style": 13,
+      "name": "Affection Between Two"
+    },
+    {
+      "$id": 174,
+      "style": 13,
+      "name": "Seven Companions"
+    },
+    {
+      "$id": 175,
+      "style": 13,
+      "name": "Blossoming Friendship"
+    },
+    {
+      "$id": 176,
+      "style": 13,
+      "name": "Unshakeable Trust"
+    },
+    {
+      "$id": 177,
+      "style": 13,
+      "name": "Unbreakable Bond"
+    },
+    {
+      "$id": 178,
+      "style": 13,
+      "name": "Rookie Party"
+    },
+    {
+      "$id": 179,
+      "style": 13,
+      "name": "Strongest Party"
+    },
+    {
+      "$id": 180,
+      "style": 13,
+      "name": "Problem Solved!"
+    },
+    {
+      "$id": 181,
+      "style": 13,
+      "name": "Can't Leave Them Alone"
+    },
+    {
+      "$id": 182,
+      "style": 13,
+      "name": "Caring Person"
+    },
+    {
+      "$id": 183,
+      "style": 13,
+      "name": "Strong and Kind Person"
+    },
+    {
+      "$id": 184,
+      "style": 13,
+      "name": "Saint"
+    },
+    {
+      "$id": 185,
+      "style": 13,
+      "name": "Life Choices"
+    },
+    {
+      "$id": 186,
+      "style": 13,
+      "name": "Treasure Hunter"
+    },
+    {
+      "$id": 187,
+      "style": 13,
+      "name": "Give and Take"
+    },
+    {
+      "$id": 188,
+      "style": 13,
+      "name": "Trader"
+    },
+    {
+      "$id": 189,
+      "style": 13,
+      "name": "Master Trader"
+    },
+    {
+      "$id": 190,
+      "style": 13,
+      "name": "77 Insect"
+    },
+    {
+      "$id": 191,
+      "style": 13,
+      "name": "Ultimate Gorgeous"
+    },
+    {
+      "$id": 192,
+      "style": 13,
+      "name": "Indigo Brutal"
+    },
+    {
+      "$id": 193,
+      "style": 13,
+      "name": "Electric Direction"
+    },
+    {
+      "$id": 194,
+      "style": 13,
+      "name": "Angelic Imitation"
+    },
+    {
+      "$id": 195,
+      "style": 13,
+      "name": "So Many People"
+    },
+    {
+      "$id": 196,
+      "style": 13,
+      "name": "Hit the Big Milestone"
+    },
+    {
+      "$id": 197,
+      "style": 13,
+      "name": "Full House, Thank You!"
+    },
+    {
+      "$id": 198,
+      "style": 13,
+      "name": "Reconstruction Day"
+    },
+    {
+      "$id": 199,
+      "style": 13,
+      "name": "Reconstruction Midpoint"
+    },
+    {
+      "$id": 200,
+      "style": 13,
+      "name": "Full Reconstruction"
+    }
+  ]
+}

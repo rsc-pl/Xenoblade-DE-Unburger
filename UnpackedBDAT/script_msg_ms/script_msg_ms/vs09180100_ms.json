@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Ah! Dinobeast![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Ah! It's the great dinosaur-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "It's just a statue. Don't freak us out like that, Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's just a statue! Don't scare us like that, old man.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Dinobeast! Dinobeast![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Great dinosaur~! Great dinosaur-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,

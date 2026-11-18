@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "Now you can return with your head held high, my dear.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Now you can return with your head held high, Melia-sama.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Not at all! Peace has been restored to the[XENO:n ]\nMakna region. On behalf of all Nopon, thank you![XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]No, thanks to you, peace in Makna was[XENO:n ]\npreserved-mo. We Nopon should thank you-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT1 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -48,17 +48,17 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Without question! These Hom Hom[XENO:n ]\nfought valiantly in aid of our village.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Of course-ja-mo. They are the ones who lent[XENO:n ]\nus their strength in defeating the great dinosaur too.[XENO:wait wait=key ]"
     },
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]And a request by you, my dear,[XENO:n ]\ncannot go unanswered.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Besides, it is a request[XENO:n ]\nfrom Melia-sama-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "I shall inform the villagers at once.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "I'll inform those above at once-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,

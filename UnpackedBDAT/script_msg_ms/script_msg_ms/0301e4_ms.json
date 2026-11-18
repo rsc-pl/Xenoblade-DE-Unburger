@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "True.[XENO:wait wait=key ][System:PageBreak ]A punch from you would send[XENO:n ]\nanyone to the A&E for a week![XENO:wait wait=key ][System:PageBreak ]Anyway, who's going to start[XENO:n ]\na fight with the mighty Reyn?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "If you hit someone, Rein...[XENO:wait wait=key ][System:PageBreak ]I doubt they'd[XENO:n ]\nrecover within a week.[XENO:wait wait=key ][System:PageBreak ]Is there anyone reckless[XENO:n ]\nenough to challenge you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]All you need to know is this.[XENO:wait wait=key ][System:PageBreak ]Girls always win, Reyn. Always.[XENO:wait wait=key ][System:PageBreak ]But it's easier when the guy's[XENO:n ]\nas kind as you or Gado.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Who knows?[XENO:wait wait=key ][System:PageBreak ]I suppose it's because[XENO:wait wait=key ][System:PageBreak ]you and Gado[XENO:n ]\nare both kind.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn, I'm complimenting you[XENO:n ]\nhere! Shut up and be grateful![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Oh, I'm complimenting[XENO:n ]\nyou. Just accept it![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "I'll take that as a good sign, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hehe. Let's keep getting along.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]I was joking, Reyn! Don't be[XENO:n ]\nso serious all the time.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Oh, I'm joking! You don't[XENO:n ]\nhave to get so down about it.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]You make me laugh, Reyn.[XENO:wait wait=key ][System:PageBreak ]You're so red in the face, I could[XENO:n ]\nswear you and Gado are related.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Hehehe...![XENO:wait wait=key ][System:PageBreak ]You're just like Gado when you[XENO:n ]\ngo red and start making excuses![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I like chatting with you, Reyn.[XENO:n ]\nAnd...I'm glad I met you as well.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I really enjoy talking to you,[XENO:n ]\nRein. Let's keep getting along.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Sorry, Reyn![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Why is it you can never think of[XENO:n ]\nthese things when you need to?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Sorry, sorry...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]At times like this I can't think[XENO:n ]\nof what to say on the spot.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Don't be such a baby, Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Oh, don't sulk![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -23,17 +23,17 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]What a mess, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]What a mess, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Friend not clever touching button![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't touch everything you don't know-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]I'm with these guys, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]I'm with these guys, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Riki agree with Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Shulk is right-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,

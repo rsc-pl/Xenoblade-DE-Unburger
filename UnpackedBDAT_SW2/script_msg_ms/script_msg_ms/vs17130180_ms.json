@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]I can sense Dikson.[XENO:n ]\nWe must be near the top.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "If we proceed from here,[XENO:n ]\nwe will be unable to return.[XENO:n ]\nAre you ready to go on?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "Do you want to go on?"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Yes"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "No"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Yes, I'm ready.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "No, I need more time.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I understand. We'll be ready.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

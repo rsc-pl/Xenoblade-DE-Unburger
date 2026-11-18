@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "We believed that if we were attacked by the Mechon,[XENO:n ]\nour power alone could repel them.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+      "name": "We believed that if we were attacked by the Machine God Soldiers,[XENO:n ]\nour power alone could repel them.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
     },
     {
       "$id": 19,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]When the Mechon descended upon Eryth Sea,[XENO:n ]\nShulk fought with a courage I have never seen.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT7 ]When the Machine God Soldiers descended upon Eryth Sea,[XENO:n ]\nShulk fought with a courage I have never seen.[XENO:wait wait=key ]"
     },
     {
       "$id": 21,
@@ -153,12 +153,12 @@
     {
       "$id": 29,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]The Nopon will join too! The Hom Hom and Bird People[XENO:n ]\nare friends of the Nopon. We will fight together![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Nopon will do our part too-ja-mo. Hom Hom and Bird People[XENO:n ]\nare our friends-mo. We'll fight together-ja-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 125,
-      "name": "Dickson, are you leaving?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dikson-dono, are you leaving?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Dickson![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Dikson-dono![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT6 ]If you should meet Shulk...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT6 ]If you should meet Shulk-dono...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,

@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Don't take snowy mountains lightly-mo.[XENO:n ]\nHear me out-mo."
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Nothing unusual at the ruins today-mo.[XENO:n ]\nNothing, as always, every day-mo."
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "I want to go to the ruins-mo~![XENO:n ]\nI want to investigate-mo~!"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Mo-mo~ These winding snowy slopes[XENO:line ][XENO:n ]\nare a little scary, but they look like a fun course-mo~"
+    }
+  ]
+}

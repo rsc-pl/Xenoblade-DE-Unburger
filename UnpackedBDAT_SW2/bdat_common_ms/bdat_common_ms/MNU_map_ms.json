@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Area List"
+    },
+    {
+      "$id": 2,
+      "style": 42,
+      "name": "Landmarks[XENO:n ]\nunavailable"
+    },
+    {
+      "$id": 3,
+      "style": 115,
+      "name": "Move to:"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Current Location"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Direction of Camera"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Next Destination"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Map Entrance/Exit"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Travel Point"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Landmark/Secret Area"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Shop"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Crystal Harvest Point"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Bonding Talk"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Story Quest Objective"
+    },
+    {
+      "$id": 16,
+      "style": 9,
+      "name": "Markers"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Landmarks"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Active Quest Target"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Quest Target"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Quest Giver"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Tracked Person"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Marker"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Climbable Wall"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Ether Deposit"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Arts Manual Shop"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Noponjaa Request"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Companion Talk"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Time Attack Portal"
+    }
+  ]
+}

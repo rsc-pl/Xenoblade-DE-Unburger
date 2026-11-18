@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Look, Shulk! Look![XENO:wait wait=key ][System:PageBreak ]Hidden Village get really small![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Shulk, look-mo![XENO:wait wait=key ][System:PageBreak ]The Hidden Village looks tiny-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Amaaazing! Riki see Giant God[XENO:n ]\nso well from here![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Riki think can see part where[XENO:n ]\nOka and littlepon are![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Amazing-mo, amazing-mo! You can see[XENO:n ]\nthe Giant God so well-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Is Oka and everyone[XENO:n ]\naround there-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "Shulk not look happy.[XENO:wait wait=key ][System:PageBreak ]Shulk need to talk to uncle Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk seems down-mo.[XENO:wait wait=key ][System:PageBreak ]Can you tell Riki about it-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]No! Riki understand everything![XENO:wait wait=key ][System:PageBreak ]Believe in Riki, Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's not true-mo![XENO:wait wait=key ][System:PageBreak ]Shulk should trust Riki-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT13 ]Shulk not trust Riki?[XENO:wait wait=key ][System:PageBreak ]But Shulk knows Riki has[XENO:n ]\neleven littlepon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Shulk doesn't trust Riki-mo?[XENO:wait wait=key ][System:PageBreak ]Riki is still the father of[XENO:n ]\neleven children-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "Riki not want to see Shulk's[XENO:n ]\nupside-down smile![XENO:wait wait=key ][System:PageBreak ]Hiding feelings is bad for soul![XENO:n ]\nShulk should let it all out![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki doesn't want to see Shulk[XENO:n ]\nlike that-mo![XENO:wait wait=key ][System:PageBreak ]Holding things in isn't good-mo. Hold[XENO:n ]\nin too much and you'll overflow-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT15 ]But also Riki know that[XENO:n ]\nShulk must want to talk.[XENO:wait wait=key ][System:PageBreak ]So Riki wait for good day[XENO:n ]\nwhen Shulk talk to Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT15 ]But forcing you to talk[XENO:n ]\nisn't good either-mo![XENO:wait wait=key ][System:PageBreak ]So Riki will wait until Shulk[XENO:n ]\nfeels ready to tell him-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki very cool![XENO:wait wait=key ][System:PageBreak ]Riki and Shulk very best friends.[XENO:wait wait=key ][System:PageBreak ]Friends always listen to friends.[XENO:n ]\nAnd Riki and Shulk best friends![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]Shulk want go back now? Dundun[XENO:n ]\nand all friends will be worried.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Riki will wait as long as needed-mo![XENO:wait wait=key ][System:PageBreak ]Because Shulk matters to Riki.[XENO:wait wait=key ][System:PageBreak ]Not as a follower—as[XENO:n ]\na companion-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]Shall we head back-mo? Dunban[XENO:n ]\nand the others are worried-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "That is big shame...[XENO:wait wait=key ][System:PageBreak ][XENO:type type=anger ][XENO:act act=EVT3 ]RIKI SUDDEN REALISE![XENO:wait wait=key ][System:PageBreak ][XENO:type type=def ]Riki have good idea![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk...[XENO:wait wait=key ][System:PageBreak ][XENO:type type=anger ][XENO:act act=EVT3 ]Oh, that's it-mo![XENO:wait wait=key ][System:PageBreak ][XENO:type type=def ]Riki just had a great idea-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki become Shulk's daddypon![XENO:wait wait=key ][System:PageBreak ]Then Shulk get new mamapon too![XENO:n ]\nLive like happy family![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki will become Shulk's father-mo![XENO:wait wait=key ][System:PageBreak ]Then Oka will be[XENO:n ]\nShulk's mother-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "Shulk use big Hom Hom brain![XENO:wait wait=key ][System:PageBreak ]Shulk can live with Riki and Oka,[XENO:n ]\nthen Shulk have family waiting![XENO:wait wait=key ][System:PageBreak ]Shulk never get sad again![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You don't understand-mo?[XENO:wait wait=key ][System:PageBreak ]Oka will wait for Shulk[XENO:n ]\nto come home-mo! See?[XENO:wait wait=key ][System:PageBreak ]Now someone is waiting for you-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT13 ]Shulk not like Riki's idea?[XENO:wait wait=key ][System:PageBreak ]Riki very, very sorry, Shulk.[XENO:n ]\nRiki only want to see Shulk happy.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]W-what's wrong-mo?[XENO:wait wait=key ][System:PageBreak ]Did that make you even sadder-mo?[XENO:n ]\nDid Riki say something strange-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Shulk not worry anymore![XENO:wait wait=key ][System:PageBreak ]Riki want to always see big[XENO:n ]\nHom Hom smile from ear to ear![XENO:wait wait=key ][System:PageBreak ]Then Shulk go show Melly and all[XENO:n ]\nfriends smile to cheer them up![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Don't worry about it-mo![XENO:wait wait=key ][System:PageBreak ]Shulk looks better smiling[XENO:n ]\nthan looking gloomy-mo![XENO:wait wait=key ][System:PageBreak ]Let's go show that smile to[XENO:n ]\nMelia-chan and the others-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Shulk be very silly Hom Hom![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Shulk, that's wrong-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Shulk need to remember all stuff[XENO:n ]\nthat happen with friends.[XENO:wait wait=key ][System:PageBreak ]Shulk will realise something[XENO:n ]\nif he think really, really hard![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Think back on everything that's[XENO:n ]\nhappened on our journey-mo![XENO:wait wait=key ][System:PageBreak ]If you remember it all,[XENO:n ]\nyou can't say that-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Yes![XENO:wait wait=key ][System:PageBreak ]Shulk meet lots and lots of[XENO:n ]\nnew people on his travels.[XENO:wait wait=key ][System:PageBreak ]All Shulk's new friends will be[XENO:n ]\nwaiting to see Shulk again![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's right-mo![XENO:wait wait=key ][System:PageBreak ]Shulk has met so many people[XENO:n ]\non this journey-mo!?[XENO:wait wait=key ][System:PageBreak ]Every one of them is definitely[XENO:n ]\nwaiting for Shulk to come back-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Yes! Of course remember Shulk![XENO:wait wait=key ][System:PageBreak ]So Shulk must not forget[XENO:n ]\nto remember friends either![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT13 ]Or Riki go Heropon mad at Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yes, exactly-mo![XENO:wait wait=key ][System:PageBreak ]You must never[XENO:n ]\nforget those people-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT13 ]If you do, Riki will be furious-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT15 ]Heropon need no thanks![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Ah! Riki forget Dundun want him![XENO:wait wait=key ][System:PageBreak ]Now Riki get biff bash on head...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT15 ]N-no need to thank Riki-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Oh, Dunban called him-mo![XENO:wait wait=key ][System:PageBreak ]Sorry, Riki will head back first-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Shulk still not understand?[XENO:n ]\nRiki start water leak from eyes...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Shulk, you don't understand-mo?[XENO:n ]\nRiki is going to cry-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -228,17 +228,17 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "Shulk really, REALLY not know?[XENO:wait wait=key ][System:PageBreak ]Shulk meet many, many new[XENO:n ]\nfriends on travels.[XENO:wait wait=key ][System:PageBreak ]All Shulk's friends will be waiting[XENO:n ]\nfor Shulk to come back![XENO:wait wait=key ][System:PageBreak ]Riki need Shulk to understand.[XENO:n ]\nRiki know in his heart truth![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You really don't understand-mo?[XENO:wait wait=key ][System:PageBreak ]Think of everyone[XENO:n ]\nShulk has met.[XENO:wait wait=key ][System:PageBreak ]They're all waiting for[XENO:n ]\nShulk to return-mo.[XENO:wait wait=key ][System:PageBreak ]Riki isn't[XENO:n ]\nwrong-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Ah! I understand now.[XENO:wait wait=key ][System:PageBreak ]Odama, Juujuu and even the[XENO:n ]\npeople of Hidden Village...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Ah! I understand now.[XENO:wait wait=key ][System:PageBreak ]Odama-san, Juujuu and even the[XENO:n ]\npeople of Hidden Village...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 46,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Yes! Well done, Shulk![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]So Shulk stop saying silly things[XENO:n ]\nand put smile on Hom Hom face.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]That's right-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]So you mustn't say[XENO:n ]\nsomething so sad-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Shulk know now![XENO:wait wait=key ][System:PageBreak ]Come on, Hom Hom. Back to work![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Good, you understand-mo![XENO:wait wait=key ][System:PageBreak ]Let's go back to Dunban's group-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,

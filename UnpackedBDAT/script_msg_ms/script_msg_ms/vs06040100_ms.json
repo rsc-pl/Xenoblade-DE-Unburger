@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "I thought it was you.[XENO:n ]\nNice to see you, Dickson.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I thought it was you.[XENO:n ]\nNice to see you, Dikson.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Wait... Dickson? Dunban? You're the heroes who risked[XENO:n ]\nyour lives a year ago, in the battle to defend the colonies.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Wait... Dikson? Dunban? You're the heroes who risked[XENO:n ]\nyour lives a year ago, in the battle to defend the colonies.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Dunban, Dickson, thanks for[XENO:n ]\nhelping out back there.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dunban-san, Dikson-san, thanks for[XENO:n ]\nhelping out back there.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Easy, Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Easy, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Wow! Dickson, man, you're just full of surprises![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Wow! Dikson-san, man, you're just full of surprises![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -313,7 +313,7 @@
     {
       "$id": 61,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]There are alternatives. We could abandon[XENO:n ]\nthe colonies, find a place the Mechon will not[XENO:n ]\ndiscover and live in secret.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]There are alternatives. We could abandon[XENO:n ]\nthe colonies, find a place the Machine God Soldiers will not[XENO:n ]\ndiscover and live in secret.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 62,
@@ -333,7 +333,7 @@
     {
       "$id": 65,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]You want to come with us?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Dunban-san, you want to come with us too?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 66,
@@ -348,7 +348,7 @@
     {
       "$id": 68,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Right, Reyn?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Right, Rein?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 69,
@@ -368,7 +368,7 @@
     {
       "$id": 72,
       "style": 125,
-      "name": "Sharp, light. Perfect for cutting through steel.[XENO:n ]\nShow me a Mechon and I'll slice it in two.[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ]"
+      "name": "Sharp, light. Perfect for cutting through steel.[XENO:n ]\nShow me a Machine God Soldier and I'll slice it in two.[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ]"
     },
     {
       "$id": 73,
@@ -393,7 +393,7 @@
     {
       "$id": 77,
       "style": 125,
-      "name": "Miserly old coot? That sword is forged from[XENO:n ]\nMechon armour. It's worth every penny.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Miserly old coot? That sword is forged from[XENO:n ]\nMachine Soldier armour. It's worth every penny.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 78,

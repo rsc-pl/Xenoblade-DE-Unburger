@@ -1,0 +1,229 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Those statues...[XENO:wait wait=key ][System:PageBreak ]Am I right in thinking they are[XENO:n ]\nof High Entia origin?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "They are indeed.[XENO:wait wait=key ][System:PageBreak ]These are the Sororal Statues.[XENO:wait wait=key ][System:PageBreak ]They depict twin goddesses[XENO:n ]\nrepresenting order and justice.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "A treacherous place to erect them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "This place was once used for our[XENO:n ]\nComing-of-Age Ceremony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・That seems fitting./・Here?! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Potential successors to the throne[XENO:n ]\nwho came of age were left here.[XENO:wait wait=key ][System:PageBreak ]If they survived, they could return[XENO:n ]\nto the capital, triumphant.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I see. So only the best specimens[XENO:n ]\ncontinued the imperial line.[XENO:wait wait=key ][System:PageBreak ]Ruthless but effective.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "That is what I was told, at least.[XENO:wait wait=key ][System:PageBreak ]It was probably all just a formality.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Of course.[XENO:wait wait=key ][System:PageBreak ]Fighting off the Satorl Guardian[XENO:n ]\nalone is no easy task.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "However, I have heard of a former[XENO:n ]\nruler who did see the task through.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・An adventurous one, no doubt./・A half-Homs like you? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "The participant has no choice[XENO:n ]\nin participating.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Then it sounds as if they were[XENO:n ]\nsimply being led to their death.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "There must have been a reason[XENO:n ]\nfor conducting the ceremony.[XENO:wait wait=key ][System:PageBreak ]Something that made it necessary[XENO:n ]\nin that particular case.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Are you suggesting...this High[XENO:n ]\nEntia was of mixed blood?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Yes.[XENO:wait wait=key ][System:PageBreak ]The ceremony must have been[XENO:n ]\nneeded to gain the people's trust.[XENO:wait wait=key ][System:PageBreak ]Just as I faced the Tomb.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Does this place remind[XENO:n ]\nyou of the Tomb?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "Yes. Of the hardship I faced there.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]And the friends that saved my life.[XENO:n ]\nI am forever grateful to you all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Very astute, Dunban.[XENO:wait wait=key ][System:PageBreak ]Not a pleasant fact, but still true.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "I find it ironic.[XENO:wait wait=key ][System:PageBreak ]Goddesses of order and justice[XENO:n ]\nlooking down with biased gazes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Still, I can understand why the[XENO:n ]\nceremony was necessary.[XENO:wait wait=key ][System:PageBreak ]It must have been the only way[XENO:n ]\nto secure the people's trust.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "The same reason you[XENO:n ]\nfaced the Tomb, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Calm yourself, Melia.[XENO:wait wait=key ][System:PageBreak ]Whenever you feel afraid, know[XENO:n ]\nthat we're here to protect you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "I know, Dunban. You saved[XENO:n ]\nmy life at the Tomb.[XENO:wait wait=key ][System:PageBreak ]I will never forget the debt[XENO:n ]\nI owe you and the others.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Yes, here! What are you[XENO:n ]\ntrying to suggest?![XENO:wait wait=key ][System:PageBreak ]This site is a stunning example[XENO:n ]\nof High Entia architectural skill.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I can't deny that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Oh no...![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:type type=def ]What's wrong, Melia?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Each statue is supposed to have[XENO:n ]\nan ether crystal on its chest.[XENO:wait wait=key ][System:PageBreak ]But one of them is missing![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Thankfully, the other statue's[XENO:n ]\ncrystal is still present.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "I wonder what happened...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:sel sel=・Perhaps it was stolen./・It might have fallen off. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "Many people with dubious[XENO:n ]\nreputations travel through here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I have heard of such people.[XENO:wait wait=key ][System:PageBreak ]I don't suppose we'll ever[XENO:n ]\nsee it again...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Why don't you replace it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "You're right, Dunban.[XENO:wait wait=key ][System:PageBreak ]The twin goddesses of order and[XENO:n ]\njustice must look their part.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Order and justice, huh?[XENO:wait wait=key ][System:PageBreak ]I am sure they'd be happy[XENO:n ]\nif you were to help them out.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "I have my doubts that such[XENO:n ]\na thing is possible...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Perhaps it was due to a flaw[XENO:n ]\nin the construction.[XENO:wait wait=key ][System:PageBreak ]Even the wise and skilled High[XENO:n ]\nEntia must have their off days.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Spare me your sarcasm, Dunban.[XENO:n ]\nEven if you are correct.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Why don't you replace the crystal?[XENO:n ]\nBring the sisters back to glory![XENO:wait wait=key ][System:PageBreak ]I'm sure you're up to the task.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "This is not a bad idea.[XENO:wait wait=key ][System:PageBreak ]What one sister has, the other[XENO:n ]\ncraves. And we cannot have that![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

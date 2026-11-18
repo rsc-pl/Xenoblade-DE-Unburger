@@ -1,0 +1,129 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "And that concludes my report[XENO:n ]\non events in the Tomb.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "So there are forces working in the shadows.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "However, this is purely circumstantial.[XENO:n ]\nNothing can be proven.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "Inquisitors of the Giant God Order,[XENO:n ]\ndedicated and devoted to the Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "The order was dissolved under the rule of the[XENO:n ]\nEmperor Lumian, 47th successor to the throne,[XENO:n ]\ndue to its extreme practices.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "Like puppet masters pulling[XENO:n ]\nthe strings from the shadows.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "I believed their bloodline[XENO:n ]\nwas lost to the ages.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "Her Highness the Consort of Light is currently[XENO:n ]\nresiding in the Tower of Investigation.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "The Ministry of Investigation's[XENO:n ]\njudgement should be imminent.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "That may not be enough.[XENO:n ]\nI myself must shine a light on the truth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "Agreed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Mother...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Your Majesty.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "You have returned unharmed from the Tomb.[XENO:n ]\nThe forefathers have spoken.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]But if it hadn't been for Shulk...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "Kallian has informed me of what happened. There is no[XENO:n ]\nreason to doubt your legitimacy to the throne.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "Believe in yourself, Crown Princess.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "Aniue...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Tomorrow will be the investiture ceremony.[XENO:n ]\nAt the appointed time, you will become my[XENO:n ]\nsuccessor. Be proud![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]I will![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]Melia, my child. I am overjoyed at how far you[XENO:n ]\nhave come. You are truly worthy of the throne.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]Continue the legacy of your High Entia and Homs[XENO:n ]\nbloodline. You are the hope of Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

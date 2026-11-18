@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Mo~... This is trouble-mo~..."
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "What ever shall I do...?"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Hmm, seems like it's lacking punch...\nAnything else we could use?"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "If only we had a High Ether Crystal...\nWith its high ether purity..."
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "New product on sale-mo! Special\nintroductory price right now-mo~!"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Renewed by popular demand-mo~! Drink\nthis and you'll feel pumped-mo~!"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Packed with yummy stuff-mo~!\nDrink up and get pumped-mo~!"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Really yummy this time-mo~! Try a\nsip, even if you think it's a trick-mo~!"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Weapons! Armour!\nNeed any of those?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "I've got weapons, I've got armour...\nCare to take a look?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Got your equipment in order?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Might you be looking for\nanything in particular?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Arts Manual shop,\nnow open for business![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Hm, I swear there was another volume...\nWhere in the world could it have gone...?[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

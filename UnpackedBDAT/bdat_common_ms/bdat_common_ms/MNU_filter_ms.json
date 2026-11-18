@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 12,
-      "name": "Current"
+      "name": "In Progress"
     },
     {
       "$id": 4,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 12,
-      "name": "Regular"
+      "name": "Normal"
     },
     {
       "$id": 6,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 12,
-      "name": "Unique"
+      "name": "Unique Weapons"
     },
     {
       "$id": 8,
       "style": 12,
-      "name": "Regular"
+      "name": "Normal"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 12,
-      "name": "Unique"
+      "name": "Unique Armour"
     },
     {
       "$id": 11,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 12,
-      "name": "Machine God"
+      "name": "Machine Realm"
     },
     {
       "$id": 15,
@@ -93,12 +93,12 @@
     {
       "$id": 17,
       "style": 12,
-      "name": "Equipment Gem"
+      "name": "Shared Gem"
     },
     {
       "$id": 18,
       "style": 12,
-      "name": "Attributes"
+      "name": "Stats"
     },
     {
       "$id": 19,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 12,
-      "name": "Veg"
+      "name": "Vegetable"
     },
     {
       "$id": 28,
@@ -158,12 +158,12 @@
     {
       "$id": 30,
       "style": 12,
-      "name": "Animal"
+      "name": "Small Animal"
     },
     {
       "$id": 31,
       "style": 12,
-      "name": "Bug"
+      "name": "Insect"
     },
     {
       "$id": 32,
@@ -173,12 +173,12 @@
     {
       "$id": 33,
       "style": 12,
-      "name": "Parts"
+      "name": "Machinery"
     },
     {
       "$id": 34,
       "style": 12,
-      "name": "Strange"
+      "name": "Mystery"
     },
     {
       "$id": 35,
@@ -203,17 +203,17 @@
     {
       "$id": 39,
       "style": 12,
-      "name": "Not Yet Viewed"
+      "name": "Not Achieved"
     },
     {
       "$id": 40,
       "style": 12,
-      "name": "Already Viewed"
+      "name": "Achieved"
     },
     {
       "$id": 41,
       "style": 12,
-      "name": "Can View"
+      "name": "Achievable"
     }
   ]
 }

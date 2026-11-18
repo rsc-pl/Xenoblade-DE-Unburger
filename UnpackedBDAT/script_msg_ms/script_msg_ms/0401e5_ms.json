@@ -18,17 +18,17 @@
     {
       "$id": 2,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Park bring back memories[XENO:n ]\nfor Fiorung?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Does Fiorung have memories[XENO:n ]\nof the park-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]It does, actually. It brings[XENO:n ]\nback a lot of memories.[XENO:wait wait=key ][System:PageBreak ]Shulk, Reyn and me used to play[XENO:n ]\nin the park in Colony 9.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yeah,[XENO:n ]\nI do.[XENO:wait wait=key ][System:PageBreak ]I have all sorts of memories[XENO:n ]\nof Shulk and Rein there.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki love memories![XENO:n ]\nPark remind Riki of forest![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Memories are good-mo![XENO:n ]\nNature is good too-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki too, Riki too![XENO:n ]\nGrass whispering, trees talking![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's right-mo! It[XENO:n ]\nmakes you all fluffy and... thingy-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Fiorung so clever![XENO:wait wait=key ][System:PageBreak ]Fiorung understand Riki's talking[XENO:n ]\nand feeling![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]That's Fiorung for you-mo![XENO:wait wait=key ][System:PageBreak ]Amazing you can understand Nopon[XENO:n ]\nwords-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -68,17 +68,17 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]You sort of know what[XENO:n ]\nRiki mean though.[XENO:wait wait=key ][System:PageBreak ]If Reyn here, he only complain.[XENO:n ]\nHe say, 'Too cold!' or 'Too hot!'[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Even[XENO:n ]\nRein[XENO:wait wait=key ][System:PageBreak ]would never[XENO:n ]\nunderstand-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Yeah, that sounds like him.[XENO:wait wait=key ][System:PageBreak ]But Reyn has his good points too.[XENO:n ]\nIf you look hard enough.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Ah, that's Rein for you.[XENO:wait wait=key ][System:PageBreak ]But Rein has his good points too, you know?[XENO:n ]\nEven if he doesn't understand things like that.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki know them! Reyn always[XENO:n ]\nprotect friends' backs![XENO:wait wait=key ][System:PageBreak ]When Shulk in danger,[XENO:n ]\nReyn first on scene. Kapow![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]I know-mo! Rein is always[XENO:n ]\nprotecting everyone-mo![XENO:wait wait=key ][System:PageBreak ]When Shulk is in danger,[XENO:n ]\nRein is the first to help-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -88,17 +88,17 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]What Reyn promise Fiorung?[XENO:n ]\nTell Riki, tell Riki![XENO:wait wait=key ][System:PageBreak ]Not fair to keep secret.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]A promise with Fiorung too-mo? What[XENO:n ]\nis it-mo, what is it-mo?[XENO:wait wait=key ][System:PageBreak ]Riki really wants to know-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Secret! Yes, just the word I was[XENO:n ]\nthinking of. It's a secret.[XENO:wait wait=key ][System:PageBreak ]It's just between me, Reyn and[XENO:n ]\nShulk. I can't tell you I'm afraid.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Hmm,[XENO:n ]\nit's a secret![XENO:wait wait=key ][System:PageBreak ]I'll keep it a secret just[XENO:n ]\nbetween the three of us![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Not fair, not fair! Riki[XENO:n ]\none of the gang now![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]No fair-mo, no fair-mo! Riki[XENO:n ]\nwants to join in too-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT6 ]Grrrr. Fiorung not good friend.[XENO:n ]\nAlways teasing Riki.[XENO:wait wait=key ][System:PageBreak ]Fiorung? Fiorung! Don't leave Riki![XENO:n ]\nWait for Riki![XENO:wait wait=key ][XENO:act act=EVT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT6 ]Ugh, Fiorung, that's a little[XENO:n ]\nmean-mo. Hey,[XENO:wait wait=key ][System:PageBreak ]don't leave Riki behind-mo! Fiorung,[XENO:n ]\nwait-mo!![XENO:wait wait=key ][XENO:act act=EVT3 ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Really? Hmm... Riki not know why,[XENO:n ]\nbut Nopon not usually magic.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Is that so-mo? Hmm, Riki[XENO:n ]\ndoesn't understand-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Not change Riki?[XENO:n ]\nThat means Riki good![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Stay as I am-mo? Then Riki[XENO:n ]\nwill stay like this forever-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Leave it to Riki![XENO:wait wait=key ][System:PageBreak ]Riki's job is to make friends feel[XENO:n ]\nbestest ever![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Leave it to me-mo![XENO:wait wait=key ][System:PageBreak ]Riki will make everyone feel[XENO:n ]\nkind-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -148,12 +148,12 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "Riki ready, Fiorung![XENO:wait wait=key ][System:PageBreak ]OK! Where is mean old Reyn?[XENO:n ]\nI make him into happy Hom Hom![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Leave everything to Riki-mo![XENO:wait wait=key ][System:PageBreak ]Now let's go find[XENO:n ]\nsomeone who isn't kind-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Riki not get what Fiorung mean.[XENO:n ]\nMemories are good thing![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Is that not right-mo? Aren't[XENO:n ]\nmemories good things-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "Riki not have any![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]When Riki is in forest, Riki[XENO:n ]\nonly feel warm and happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki doesn't really[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT12 ]understand-mo. Just being in nature[XENO:n ]\nmakes Riki feel happy-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki know Fiorung can. Just need[XENO:n ]\nto have nature all around![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Is that so-mo? If you're in nature,[XENO:n ]\nyou'll feel that way right away-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Yippee![XENO:n ]\nFiorung and Riki go now![XENO:wait wait=key ][System:PageBreak ]Riki know Fiorung will be[XENO:n ]\noverjollyed![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Good-mo![XENO:n ]\nThat's good-mo![XENO:wait wait=key ][System:PageBreak ]Riki will welcome Fiorung-mo! It'll[XENO:n ]\ndefinitely be fun-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]What's wrong, Fiorung?[XENO:n ]\nFiorung's smile upside down.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]What's wrong-mo?[XENO:n ]\nYou suddenly look sad-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Fiorung not learn! Fiorung feeeeeelll.[XENO:wait wait=key ][System:PageBreak ]Then Fiorung know the true joy[XENO:n ]\nof living in the wild.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Leave it to Riki-mo! Anyone who[XENO:wait wait=key ][System:PageBreak ]doesn't cherish nature will face[XENO:n ]\nthe wrath of the Nopon-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "Riki follow Fiorung![XENO:wait wait=key ][System:PageBreak ]When Frontier Village have peace,[XENO:n ]\nall Nopon have big party![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Let's do that-mo![XENO:wait wait=key ][System:PageBreak ]Let's bring peace quickly and all come[XENO:n ]\nvisit the Nopon village-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Why Fiorung not smile? Fiorung should[XENO:n ]\nsmile! Smile and laugh![XENO:wait wait=key ][System:PageBreak ]Park is nice. Park make Riki[XENO:n ]\nhappy. Also make Fiorung happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Why doesn't Fiorung[XENO:n ]\nsmile happily-mo?[XENO:wait wait=key ][System:PageBreak ]If you like it,[XENO:n ]\nisn't it fun-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Mmm... Riki not understand[XENO:n ]\nwhat Fiorung say.[XENO:wait wait=key ][System:PageBreak ]But Riki know Fiorung can laugh![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Ugh, it's too hard for Riki[XENO:n ]\nto understand-mo.[XENO:wait wait=key ][System:PageBreak ]But Fiorung should smile after all-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]That Riki's job![XENO:wait wait=key ][System:PageBreak ]When friend cry boo-hoo,[XENO:n ]\neveryone cry boo-hoo.[XENO:wait wait=key ][System:PageBreak ]Heropon Riki must rescue friends![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's obvious-mo![XENO:wait wait=key ][System:PageBreak ]If one person is sniffling,[XENO:n ]\neveryone else feels[XENO:wait wait=key ][System:PageBreak ]sniffly too-mo. I don't like that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -258,7 +258,7 @@
     {
       "$id": 50,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Cheer up, Fiorung![XENO:n ]\nCheery Fiorung make happy Fiorung![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Fiorung should have fun too-mo! Have[XENO:n ]\nfun and you'll smile naturally-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 51,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki love Fiorung's smile.[XENO:n ]\nRiki want to show Shulk![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Come, come, Fiorung![XENO:n ]\nGo find friends.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Yeah, that's a good smile-mo! Let's[XENO:n ]\ngo show Shulk and the others-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Come on, come on![XENO:n ]\nHurry up-mo!![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,

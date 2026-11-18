@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 5,
-      "name": "Progress"
+      "name": "Defeated"
     },
     {
       "$id": 4,
       "style": 5,
-      "name": "Progress"
+      "name": "Owned"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 9,
-      "name": "Current"
+      "name": "In Progress"
     },
     {
       "$id": 17,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 21,
-      "name": "Requested By"
+      "name": "Requester"
     },
     {
       "$id": 30,
@@ -168,12 +168,12 @@
     {
       "$id": 32,
       "style": 13,
-      "name": "Rec. Lv."
+      "name": "Rec. Level"
     },
     {
       "$id": 33,
       "style": 19,
-      "name": "Place Received"
+      "name": "Quest Acceptance Area"
     },
     {
       "$id": 34,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 49,
-      "name": "No quests found.[XENO:n ]\n(Categories may be filtered.)"
+      "name": "No quests to display.[XENO:n ]\n(Check display categories.)"
     },
     {
       "$id": 40,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 148,
-      "name": "Try setting an active quest in the Quest Log.[XENO:n ]\nThe path to that quest will show up on the mini-map.[XENO:n ]\n([ML:icon icon=btn_down ]: Open Quest Log)"
+      "name": "Set an active quest in the Quest Log.[XENO:n ]\nIts route can then be shown on the mini-map.[XENO:n ]\n([ML:icon icon=btn_down ]: Open Quest Log)"
     },
     {
       "$id": 43,
@@ -228,12 +228,12 @@
     {
       "$id": 44,
       "style": 13,
-      "name": "Target inactive now."
+      "name": "No route: inactive"
     },
     {
       "$id": 45,
       "style": 13,
-      "name": "Target not found."
+      "name": "No route: not found"
     },
     {
       "$id": 46,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 148,
-      "name": "[System:Color name=s1 ]The Active Quest feature hasn't been unlocked yet.\n[/System:Color]Later in the game, you will gain the ability to show\ninformation relating to quest progress in this panel."
+      "name": "[System:Color name=s1 ]You cannot set an active quest yet.[/System:Color]\nProgress through the game to unlock this setting\nand helpful quest progression features."
     }
   ]
 }

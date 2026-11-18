@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT22 ]Alvis? This the place you meant?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]Alviss? This the place you meant?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Throw hot water on ice![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Pour really hot water on it-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Yeah, nice one genius![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Old man, don't just make things up.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,

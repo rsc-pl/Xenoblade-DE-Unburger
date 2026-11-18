@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "A Heropon, you say? Not sure where you'll[XENO:n ]\ncome in handy, but the more the merrier.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "A hero, huh? He seems a little[XENO:n ]\nunreliable, but... fine.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -88,22 +88,22 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki has been informed of the Dinobeast,[XENO:n ]\nwhat you refer to as the Telethia.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I've told Riki all the details about[XENO:n ]\nthe great dinosaur Telethia-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 17,
       "style": 125,
-      "name": "Be safe, my Hom Hom friends.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Now then, Hom Hom, we're counting on you-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki's friends, listen to Riki![XENO:n ]\nDinobeast is big and scary![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Listen carefully, companions-mo. The great[XENO:n ]\ndinosaur is incredibly strong-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 19,
       "style": 125,
-      "name": "Friends get ready, friends help Riki get ready![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Good preparation and good equipment for Riki are important-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -113,22 +113,22 @@
     {
       "$id": 21,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Riki's friend right.[XENO:n ]\nHom Hom clever![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Exactly-mo. You're[XENO:n ]\nsmart-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT15 ]"
     },
     {
       "$id": 22,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Friends meet Riki when ready.[XENO:n ]\nThen friends and Riki leave together.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]When you're ready, come to[XENO:n ]\nRiki-mo. We'll leave after that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Big attitude for a furry footrest.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT7 ]He has some nerve.[XENO:wait wait=key ]"
     },
     {
       "$id": 24,
       "style": 125,
-      "name": "\"Dinobeast is big and scary!\"[XENO:n ]\nGreat. That'll come in handy.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And all your information on the Telethia[XENO:n ]\namounts to is, \"It's incredibly strong-mo!\"![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,

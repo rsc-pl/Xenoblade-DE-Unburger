@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 9,
-      "name": "Buff Time Plus"
+      "name": "Buff Duration"
     },
     {
       "$id": 17,
@@ -98,12 +98,12 @@
     {
       "$id": 18,
       "style": 51,
-      "name": "\\[Passive\\][XENO:n ]\nExtends gem buff effects by $1."
+      "name": "\\[Passive\\] Extends gem buff duration[XENO:n ]\nby $1."
     },
     {
       "$id": 19,
       "style": 9,
-      "name": "Weapon Power"
+      "name": "Weapon Proc Up"
     },
     {
       "$id": 20,
@@ -128,12 +128,12 @@
     {
       "$id": 24,
       "style": 51,
-      "name": "\\[Active\\] $2 chance that an attack[XENO:n ]\nwill lower enemy strength by $1."
+      "name": "\\[Active\\] $2 chance on auto-attack to[XENO:n ]\nlower enemy strength by $1."
     },
     {
       "$id": 25,
       "style": 9,
-      "name": "Blaze Plus"
+      "name": "Blaze Boost"
     },
     {
       "$id": 26,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 51,
-      "name": "\\[Passive\\] Increases aggro gained[XENO:n ]\nwhen healing or attacking by $1."
+      "name": "\\[Passive\\] Raises aggro from dealing[XENO:n ]\ndamage or healing allies by $1."
     },
     {
       "$id": 43,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 9,
-      "name": "Weaken"
+      "name": "Strength Weaken"
     },
     {
       "$id": 47,
@@ -313,7 +313,7 @@
     {
       "$id": 61,
       "style": 9,
-      "name": "Debuff Resist"
+      "name": "Debuff Res: All"
     },
     {
       "$id": 62,
@@ -388,7 +388,7 @@
     {
       "$id": 76,
       "style": 9,
-      "name": "HP Steal"
+      "name": "HP Absorb"
     },
     {
       "$id": 77,
@@ -403,7 +403,7 @@
     {
       "$id": 79,
       "style": 9,
-      "name": "Unbeatable"
+      "name": "Incap. Resist"
     },
     {
       "$id": 80,
@@ -443,7 +443,7 @@
     {
       "$id": 87,
       "style": 51,
-      "name": "\\[Passive\\] Reduces the detection[XENO:n ]\nrange of aquatic monsters by $1."
+      "name": "\\[Passive\\] Reduces detection range of[XENO:n ]\nenemies on water by $1."
     },
     {
       "$id": 88,
@@ -473,7 +473,7 @@
     {
       "$id": 93,
       "style": 51,
-      "name": "\\[Passive\\] Reduces damage taken[XENO:n ]\nfrom environment by $1."
+      "name": "\\[Passive\\][XENO:n ]\nReduces terrain damage taken by $1."
     },
     {
       "$id": 94,
@@ -518,7 +518,7 @@
     {
       "$id": 102,
       "style": 51,
-      "name": "\\[Passive\\] Increases probability of[XENO:n ]\nperforming a double attack by $1."
+      "name": "\\[Passive\\] $1 chance to strike twice[XENO:n ]\nwhen auto-attacking."
     },
     {
       "$id": 103,
@@ -553,7 +553,7 @@
     {
       "$id": 109,
       "style": 9,
-      "name": "Daze Plus"
+      "name": "Daze Duration"
     },
     {
       "$id": 110,
@@ -568,7 +568,7 @@
     {
       "$id": 112,
       "style": 9,
-      "name": "Phys Def Down"
+      "name": "Phys Resist Down"
     },
     {
       "$id": 113,
@@ -578,7 +578,7 @@
     {
       "$id": 114,
       "style": 51,
-      "name": "\\[Active\\] Auto-attack has $2 chance[XENO:n ]\nof lowering phys. defence by $1."
+      "name": "\\[Active\\] $2 chance on auto-attack to[XENO:n ]\nlower physical resistance by $1."
     },
     {
       "$id": 115,
@@ -613,7 +613,7 @@
     {
       "$id": 121,
       "style": 9,
-      "name": "Electric Plus"
+      "name": "Electric Boost"
     },
     {
       "$id": 122,
@@ -628,7 +628,7 @@
     {
       "$id": 124,
       "style": 9,
-      "name": "Back Atk Plus"
+      "name": "Back Atk Boost"
     },
     {
       "$id": 125,
@@ -643,7 +643,7 @@
     {
       "$id": 127,
       "style": 9,
-      "name": "First Atk Plus"
+      "name": "First Atk Boost"
     },
     {
       "$id": 128,
@@ -653,12 +653,12 @@
     {
       "$id": 129,
       "style": 51,
-      "name": "\\[Passive\\] Increases damage dealt[XENO:n ]\nby the First Attack by $1."
+      "name": "\\[Passive\\] Boosts damage of first attack[XENO:n ]\nafter battle starts by $1."
     },
     {
       "$id": 130,
       "style": 9,
-      "name": "Daze Up"
+      "name": "Daze Damage Up"
     },
     {
       "$id": 131,
@@ -673,7 +673,7 @@
     {
       "$id": 133,
       "style": 9,
-      "name": "Cast Quicken"
+      "name": "Cast Time Down"
     },
     {
       "$id": 134,
@@ -683,7 +683,7 @@
     {
       "$id": 135,
       "style": 51,
-      "name": "\\[Passive\\][XENO:n ]\nReduces cast time by $1."
+      "name": "\\[Passive\\][XENO:n ]\nReduces own cast time by $1."
     },
     {
       "$id": 136,
@@ -698,7 +698,7 @@
     {
       "$id": 138,
       "style": 51,
-      "name": "\\[Passive\\] Shrinks tension range by[XENO:n ]\n$1, so it can change more easily."
+      "name": "\\[Passive\\] Narrows tension range by $1,[XENO:n ]\nmaking it easier to rise and fall."
     },
     {
       "$id": 139,
@@ -763,7 +763,7 @@
     {
       "$id": 151,
       "style": 9,
-      "name": "Lock-On Resist"
+      "name": "Lock On Resist"
     },
     {
       "$id": 152,
@@ -773,12 +773,12 @@
     {
       "$id": 153,
       "style": 51,
-      "name": "\\[Passive\\] Increases Lock-On[XENO:n ]\nresistance by $1."
+      "name": "\\[Passive\\] Increases Lock On[XENO:n ]\nresistance by $1."
     },
     {
       "$id": 154,
       "style": 9,
-      "name": "Confuse Resist"
+      "name": "Panic Resist"
     },
     {
       "$id": 155,
@@ -788,7 +788,7 @@
     {
       "$id": 156,
       "style": 51,
-      "name": "\\[Passive\\] Increases Confuse[XENO:n ]\nresistance by $1."
+      "name": "\\[Passive\\] Increases Panic[XENO:n ]\nresistance by $1."
     },
     {
       "$id": 157,
@@ -808,7 +808,7 @@
     {
       "$id": 160,
       "style": 9,
-      "name": "Ether Protect"
+      "name": "Ether Barrier"
     },
     {
       "$id": 161,
@@ -853,7 +853,7 @@
     {
       "$id": 169,
       "style": 9,
-      "name": "Ether Def Down"
+      "name": "Ether Res Down"
     },
     {
       "$id": 170,
@@ -863,12 +863,12 @@
     {
       "$id": 171,
       "style": 51,
-      "name": "\\[Active\\] $2 chance of auto-attack[XENO:n ]\nreducing ether defence by $1."
+      "name": "\\[Active\\] $2 chance on auto-attack to[XENO:n ]\nlower ether resistance by $1."
     },
     {
       "$id": 172,
       "style": 9,
-      "name": "Chill Plus"
+      "name": "Chill Boost"
     },
     {
       "$id": 173,
@@ -898,7 +898,7 @@
     {
       "$id": 178,
       "style": 9,
-      "name": "Auto-Atk Stealth"
+      "name": "Auto-Atk Aggro -"
     },
     {
       "$id": 179,
@@ -913,7 +913,7 @@
     {
       "$id": 181,
       "style": 9,
-      "name": "Arts Stealth"
+      "name": "Art Aggro Down"
     },
     {
       "$id": 182,
@@ -938,7 +938,7 @@
     {
       "$id": 186,
       "style": 51,
-      "name": "\\[Passive\\] Auto-attack damage halved[XENO:n ]\nbut fills Talent Gauge by $1."
+      "name": "\\[Passive\\] Halves auto-attack damage;[XENO:n ]\nraises Talent Gauge gain by $1."
     },
     {
       "$id": 187,
@@ -953,12 +953,12 @@
     {
       "$id": 189,
       "style": 51,
-      "name": "\\[Passive\\] Reduces Ether Rifle[XENO:n ]\noverheating by $1."
+      "name": "\\[Passive\\][XENO:n ]\nReduces ether rifle heat gain by $1."
     },
     {
       "$id": 190,
       "style": 9,
-      "name": "Ether Smash"
+      "name": "Ether Def Weaken"
     },
     {
       "$id": 191,
@@ -1003,7 +1003,7 @@
     {
       "$id": 199,
       "style": 9,
-      "name": "Good Footing"
+      "name": "Launch Resist"
     },
     {
       "$id": 200,
@@ -1013,7 +1013,7 @@
     {
       "$id": 201,
       "style": 51,
-      "name": "\\[Passive\\] Increases Blow-Down[XENO:n ]\nresistance by $1."
+      "name": "\\[Passive\\][XENO:n ]\nIncreases launch resistance by $1."
     },
     {
       "$id": 202,
@@ -1063,7 +1063,7 @@
     {
       "$id": 211,
       "style": 9,
-      "name": "Topple Plus"
+      "name": "Topple Duration"
     },
     {
       "$id": 212,
@@ -1093,7 +1093,7 @@
     {
       "$id": 217,
       "style": 9,
-      "name": "Bleed Plus"
+      "name": "Bleed Boost"
     },
     {
       "$id": 218,
@@ -1108,7 +1108,7 @@
     {
       "$id": 220,
       "style": 9,
-      "name": "Topple Up"
+      "name": "Topple Damage Up"
     },
     {
       "$id": 221,
@@ -1153,7 +1153,7 @@
     {
       "$id": 229,
       "style": 9,
-      "name": "Quick Step"
+      "name": "Move Speed Up"
     },
     {
       "$id": 230,
@@ -1193,7 +1193,7 @@
     {
       "$id": 237,
       "style": 51,
-      "name": "\\[Passive\\] Reduces detection range[XENO:n ]\nof aerial monsters by $1."
+      "name": "\\[Passive\\] Reduces detection range of[XENO:n ]\nenemies in the air by $1."
     },
     {
       "$id": 238,
@@ -1213,7 +1213,7 @@
     {
       "$id": 241,
       "style": 9,
-      "name": "Muscle Up"
+      "name": "Physical Def Up"
     },
     {
       "$id": 242,
@@ -1238,12 +1238,12 @@
     {
       "$id": 246,
       "style": 51,
-      "name": "\\[Passive\\] Increases a weapon's[XENO:n ]\nminimum damage by $1."
+      "name": "\\[Passive\\][XENO:n ]\nRaises minimum weapon attack by $1."
     },
     {
       "$id": 247,
       "style": 9,
-      "name": "Attack Plus"
+      "name": "Attack Boost"
     },
     {
       "$id": 248,
@@ -1253,7 +1253,7 @@
     {
       "$id": 249,
       "style": 51,
-      "name": "\\[Passive\\] Increases a weapon's[XENO:n ]\nmaximum damage by $1."
+      "name": "\\[Passive\\][XENO:n ]\nRaises maximum weapon attack by $1."
     },
     {
       "$id": 250,
@@ -1288,7 +1288,7 @@
     {
       "$id": 256,
       "style": 9,
-      "name": "Divine Protect"
+      "name": "Instant KO Res"
     },
     {
       "$id": 257,
@@ -1303,7 +1303,7 @@
     {
       "$id": 259,
       "style": 9,
-      "name": "Physical Protect"
+      "name": "Physical Barrier"
     },
     {
       "$id": 260,
@@ -1318,7 +1318,7 @@
     {
       "$id": 262,
       "style": 9,
-      "name": "Night Vision"
+      "name": "Night Accuracy"
     },
     {
       "$id": 263,
@@ -1333,7 +1333,7 @@
     {
       "$id": 265,
       "style": 9,
-      "name": "Debuff Plus"
+      "name": "Debuff Duration"
     },
     {
       "$id": 266,
@@ -1343,12 +1343,12 @@
     {
       "$id": 267,
       "style": 51,
-      "name": "\\[Passive\\] Extends gem debuff[XENO:n ]\neffect time by $1."
+      "name": "\\[Passive\\] Extends gem debuff duration[XENO:n ]\nby $1."
     },
     {
       "$id": 268,
       "style": 9,
-      "name": "Armour Power"
+      "name": "Armour Proc Up"
     },
     {
       "$id": 269,
@@ -1378,7 +1378,7 @@
     {
       "$id": 274,
       "style": 9,
-      "name": "Poison Plus"
+      "name": "Poison Boost"
     },
     {
       "$id": 275,
@@ -1418,12 +1418,12 @@
     {
       "$id": 282,
       "style": 51,
-      "name": "\\[Passive\\] Reduces aggro gained[XENO:n ]\nwhen healing or attacking by $1."
+      "name": "\\[Passive\\] Lowers aggro from dealing[XENO:n ]\ndamage or healing allies by $1."
     },
     {
       "$id": 283,
       "style": 9,
-      "name": "Earth Cloak"
+      "name": "Ground Cloak"
     },
     {
       "$id": 284,
@@ -1433,12 +1433,12 @@
     {
       "$id": 285,
       "style": 51,
-      "name": "\\[Passive\\] Reduces detection range[XENO:n ]\nof ground monsters by $1."
+      "name": "\\[Passive\\] Reduces detection range of[XENO:n ]\nenemies on land by $1."
     },
     {
       "$id": 286,
       "style": 9,
-      "name": "Muscle Waste"
+      "name": "Phys Def Weaken"
     },
     {
       "$id": 287,
@@ -1453,7 +1453,7 @@
     {
       "$id": 289,
       "style": 9,
-      "name": "Unbeatable"
+      "name": "Incap. Resist"
     },
     {
       "$id": 290,

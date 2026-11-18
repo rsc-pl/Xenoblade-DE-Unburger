@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Fiorung... Can I talk to you[XENO:n ]\nabout something?[XENO:wait wait=key ][System:PageBreak ]Shulk told me you remember being[XENO:n ]\ninside that Mechon.[XENO:wait wait=key ][System:PageBreak ]Is it true?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Fiorung... Can I talk to you[XENO:n ]\nabout something?[XENO:wait wait=key ][System:PageBreak ]Shulk told me you remember being[XENO:n ]\ninside that Machine God Soldier.[XENO:wait wait=key ][System:PageBreak ]Is it true?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "Then...do you know what that[XENO:n ]\nmetal-faced Mechon did to me?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Then...do you know what that[XENO:n ]\nmetal-faced Machine God Soldier did to me?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]You believe he was[XENO:n ]\njealous of Dunban?[XENO:wait wait=key ][System:PageBreak ]I never knew much about Mumca[XENO:n ]\nor how they knew each other.[XENO:wait wait=key ][System:PageBreak ]Something must have happened[XENO:n ]\nfor that guy to change so much.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I see.[XENO:n ]\nThat's how it was.[XENO:wait wait=key ][System:PageBreak ]I don't know much about Mumca's[XENO:n ]\nrelationship with my older brother.[XENO:wait wait=key ][System:PageBreak ]Something must have happened[XENO:n ]\nfor that guy to change so much.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Shulk stopped Dunban? But[XENO:n ]\nDunban's bigger and stronger.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Shulk stopped my older brother? But[XENO:n ]\nhe's bigger and stronger.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Why not look inside yourself?[XENO:wait wait=key ][System:PageBreak ]Dunban always tells me that.[XENO:n ]\nSearch your own feelings first.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Why not look inside yourself?[XENO:wait wait=key ][System:PageBreak ]My older brother always tells me that.[XENO:n ]\nSearch your own feelings first.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Leave it to little old Fiorung![XENO:wait wait=key ][System:PageBreak ]And don't worry! I'll drag Shulk[XENO:n ]\nand Reyn along to help as well![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Leave it to little old Fiorung![XENO:wait wait=key ][System:PageBreak ]And don't worry! I'll drag Shulk[XENO:n ]\nand Rein along to help as well![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 49,

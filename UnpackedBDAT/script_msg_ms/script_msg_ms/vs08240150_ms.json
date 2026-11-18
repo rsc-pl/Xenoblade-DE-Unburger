@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "Shulk. Forgive us for detaining you earlier.[XENO:wait wait=key ]"
+      "name": "Shulk-dono. Forgive us for detaining you earlier.[XENO:wait wait=key ]"
     },
     {
       "$id": 2,
@@ -53,12 +53,12 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]I hear you seek the Mechon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]I hear you seek the Machine God Soldiers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "Yes. The Mechon devastated our homes,[XENO:n ]\nand we lost many loved ones.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes. The Machine God Soldiers devastated our homes,[XENO:n ]\nand we lost many loved ones.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "Shulk, you are the master of the Monado.[XENO:n ]\nBut there is something that must be said.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk-dono, you are the master of the Monado.[XENO:n ]\nBut there is something that must be said.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 125,
-      "name": "Alvis told me the same thing.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Alviss told me the same thing.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]I saw it in a vision.[XENO:n ]\nWe will fight a faced Mechon.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]I saw it in a vision.[XENO:n ]\nWe will fight a faced Machine God Soldier.[XENO:wait wait=key ]"
     },
     {
       "$id": 57,
@@ -333,7 +333,7 @@
     {
       "$id": 65,
       "style": 125,
-      "name": "Shulk. Allow me some time to deliberate.[XENO:wait wait=key ]"
+      "name": "Shulk-dono. Allow me some time to deliberate.[XENO:wait wait=key ]"
     },
     {
       "$id": 66,

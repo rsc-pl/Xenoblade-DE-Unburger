@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]I am sure he already understands.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]I am sure my older brother understands.[XENO:wait wait=key ]"
     },
     {
       "$id": 3,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "Brother?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Aniue?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I see. Very well. Let us hope my sister[XENO:n ]\ndoes not shed too many tears.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I see. Very well. Let us hope my younger sister[XENO:n ]\ndoes not shed too many tears.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Reyn wrong! This Melly smell different.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]No-mo! The smell is different from Melia-chan's-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Yes. We need Melia to learn more[XENO:n ]\nof the lands of Giant God.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Yes. My younger sister needs to learn more[XENO:n ]\nof the lands of Giant God.[XENO:wait wait=key ]"
     },
     {
       "$id": 31,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 125,
-      "name": "Kallian...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Aniue...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 125,
-      "name": "I request that you accompany Shulk in his quest[XENO:n ]\nto find the Mechon that attacked Achamoth.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I request that you accompany Shulk-dono in his quest[XENO:n ]\nto find the Machine God Soldiers that attacked Achamoth.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 125,
-      "name": "Shulk. I am aware of everything.[XENO:n ]\nGo forth and follow your heart.[XENO:wait wait=key ]"
+      "name": "Shulk-dono. I am aware of everything.[XENO:n ]\nGo forth and follow your heart.[XENO:wait wait=key ]"
     },
     {
       "$id": 38,
@@ -233,12 +233,12 @@
     {
       "$id": 45,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]We have recently received a report that the[XENO:n ]\nsilver-faced Mechon fled to Galahad Fortress,[XENO:n ]\nthe Mechon stronghold at Sword Valley.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]We have recently received a report that the[XENO:n ]\nsilver-faced Machine God Soldiers fled to Galahad Fortress,[XENO:n ]\nthe Machine God Soldiers stronghold at Sword Valley.[XENO:wait wait=key ]"
     },
     {
       "$id": 46,
       "style": 125,
-      "name": "It will be a treacherous path.[XENO:n ]\nMy sister is in your hands.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "It will be a treacherous path.[XENO:n ]\nMy Younger Sister is in your hands.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Regent, I accept your request.[XENO:n ]\nI will return victorious with Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Regent, I accept your request.[XENO:n ]\nI will return victorious with Shulk-dono.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 125,
-      "name": "Of course, you would be familiar with that region.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see... Seer-dono...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 55,
@@ -323,7 +323,7 @@
     {
       "$id": 63,
       "style": 125,
-      "name": "See you soon, Kallian.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "See you soon, Kallian-san.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Lift Call Panel"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Activation Panel"
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Turbine Control Panel"
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "Piston Control Panel"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Self-Destruct Device"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "It appears to be a turbine self-destruct device.[XENO:n ]\nYou need something to release it."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Control Room Door"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 10,
+      "style": 14,
+      "name": "Control Room Access"
+    },
+    {
+      "$id": 11,
+      "style": 117,
+      "name": "You need something to release it."
+    },
+    {
+      "$id": 12,
+      "style": 14,
+      "name": "Bulkhead Door"
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 14,
+      "style": 14,
+      "name": "Lift Verification Device"
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "The lift to the lower level of the fortress is[XENO:n ]\nlocked. You need something to release it."
+    }
+  ]
+}

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "Riki and friends help save Melly.[XENO:n ]\nRiki very happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki is really glad we made it in time to[XENO:n ]\nsave Melia-chan-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Shouldn't Kallian have been the one to ascend?[XENO:n ]\nAnd her foe in the Tomb clearly opposed that decision.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Shouldn't her older brother Kallian have been the one to ascend?[XENO:n ]\nAnd her foe in the Tomb clearly opposed that decision.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "His Majesty the Emperor summons you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk-dono, His Majesty the Emperor summons you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,

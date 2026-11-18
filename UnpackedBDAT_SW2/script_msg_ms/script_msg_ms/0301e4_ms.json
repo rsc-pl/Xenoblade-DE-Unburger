@@ -1,0 +1,309 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Can I tell you something?[XENO:wait wait=key ][System:PageBreak ]When I heard you call Juujuu 'kid',[XENO:n ]\nit made me smile.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]It did? I thought you were gonna[XENO:n ]\nshout at me or something![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]No. Actually, when you got angry[XENO:n ]\nat Juujuu, it reminded me of Gado.[XENO:wait wait=key ][System:PageBreak ]That's why it made me smile.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Ah, so it's about Gado.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]Hey, between me and Gado,[XENO:n ]\nwho would win in a fight?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・Gado, of course!/・You, by a whisker. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Oh, great! That's really nice[XENO:n ]\nof you, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]He's the best shot on Giant God![XENO:wait wait=key ][System:PageBreak ]He'd snipe you before you had[XENO:n ]\ntime to tie your shoelace.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Come on, Carna![XENO:wait wait=key ][System:PageBreak ]In a straight up fight,[XENO:n ]\nno one can beat me![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "If you hit someone, Rein...[XENO:wait wait=key ][System:PageBreak ]I doubt they'd[XENO:n ]\nrecover within a week.[XENO:wait wait=key ][System:PageBreak ]Is there anyone reckless[XENO:n ]\nenough to challenge you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Umm...there is someone, kinda...[XENO:wait wait=key ][System:PageBreak ]Someone I've never won[XENO:n ]\na fight against...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:sel sel=・You don't mean Shulk?/・Hehehe, I know! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Umm...not Shulk.[XENO:wait wait=key ][System:PageBreak ]Shulk would never take me on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]You're probably right.[XENO:n ]\nHe's too puny to beat you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]There was this one time, though.[XENO:n ]\nWe got into a scuffle.[XENO:wait wait=key ][System:PageBreak ]He ain't got my size or build,[XENO:n ]\nbut his jab is quick and powerful.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I see. Sounds like a good[XENO:n ]\ntactic for Shulk.[XENO:wait wait=key ][System:PageBreak ]A clever fighter always uses[XENO:n ]\nhis head to defeat an opponent.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Hey! I can use my head in a fight![XENO:n ]\nJust not always my brain...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "You might not be the quickest[XENO:n ]\nthinker, but you act decisively.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Right?[XENO:wait wait=key ][System:PageBreak ]I'm no sharp-shooter, like Gado,[XENO:n ]\nbut I've got my own style.[XENO:wait wait=key ][System:PageBreak ]You can look to me when you're[XENO:n ]\nin a jam, Carna. I'll be there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I know you will. I won't forget.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]A girl beat you up![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "All right, I admit it. It's Fiorung.[XENO:n ]\nI don't stand a chance against her.[XENO:wait wait=key ][System:PageBreak ]It's been years of humiliation.[XENO:wait wait=key ][System:PageBreak ]I'd start winning, and she'd cry[XENO:n ]\nand run off to Dunban![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "I can guess how that turned out![XENO:wait wait=key ][System:PageBreak ]I used to give Gado what for too,[XENO:n ]\nactually. He always gave in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Are all guys that soft on girls?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Who knows?[XENO:wait wait=key ][System:PageBreak ]I suppose it's because[XENO:wait wait=key ][System:PageBreak ]you and Gado[XENO:n ]\nare both kind.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Me? Kind? I mean...thanks![XENO:wait wait=key ][System:PageBreak ]That's, uh...the first time anyone's[XENO:n ]\ncalled me that. You sure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Oh, I'm complimenting[XENO:n ]\nyou. Just accept it![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]G-got it. Umm...[XENO:wait wait=key ][System:PageBreak ]This feels like a fight with Fiorung.[XENO:n ]\nLet's quit while we're ahead.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "Hehe. Let's keep getting along.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]You better! 'Cos we'll probably[XENO:n ]\nhave a few more like this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]I knew it! Me all the way, baby![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Yeah, that thick head of yours[XENO:n ]\ncould withstand anything![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Thick head...? Oi![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]What? Did I say something wrong?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Oh, I'm joking! You don't[XENO:n ]\nhave to get so down about it.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]But you said it's only 'cos[XENO:n ]\nof my thick head.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]That's one reason! I didn't say[XENO:n ]\nit was the only reason![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Then what else have I got?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:sel sel=・You have...dignified qualities./・Er...give me a second. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Dignified qualities?[XENO:n ]\nWhat do you mean by that?[XENO:wait wait=key ][System:PageBreak ]Come on, Carna.[XENO:n ]\nTell it to me straight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Umm...how can I put this?[XENO:n ]\nYou're...like a father figure.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "A father figure?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yeah. And I thought maybe...[XENO:n ]\nyou'd be Juujuu's father one day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT4 ]Hang on. If I'm Juujuu's dad, that'd[XENO:n ]\nmake Carna my daughter![XENO:wait wait=key ][System:PageBreak ]And that ain't right at all![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Wait, you didn't believe me,[XENO:n ]\ndid you? Gotcha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]I... What... No, course not![XENO:n ]\nHaha... Umm...nice one![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Hehehe...![XENO:wait wait=key ][System:PageBreak ]You're just like Gado when you[XENO:n ]\ngo red and start making excuses![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Really? I guess that almost[XENO:n ]\nsounds like a compliment.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I really enjoy talking to you,[XENO:n ]\nRein. Let's keep getting along.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Sure. Me too, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I know this one... Let me think.[XENO:n ]\nThere's that...but no. Hang on...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "OK, very funny. I get it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Sorry, sorry...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT3 ]At times like this I can't think[XENO:n ]\nof what to say on the spot.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "Carna? Are you so old[XENO:n ]\nyou're losing your memory?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Huh? What was that?[XENO:n ]\nYou say something?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Oh, don't worry. It's nothing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "I'll tell you what... If it comes back[XENO:n ]\nto me, I'll let you know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]But I wanna know now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Oh, don't sulk![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

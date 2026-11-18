@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "Dickson would have been proud.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Dikson would have been proud.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -93,12 +93,12 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Heropon Riki ready for round two![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't think you've beaten Hero Riki with this-mo~~![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Hey! Fight over already?[XENO:n ]\nNo! Riki not know![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]H-huh? Is it over[XENO:n ]\nalready-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -108,17 +108,17 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT22 ]We couldn't have done it without[XENO:n ]\nyou, brave little Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]We couldn't have done it without[XENO:n ]\nyou, Hero-sama![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Riki brave![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]E-ehehehe... That's right-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 22,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Reyn also a little brave.[XENO:n ]\nRiki happy happy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Rein and the others did well[XENO:n ]\ntoo-mo. Riki is happy-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

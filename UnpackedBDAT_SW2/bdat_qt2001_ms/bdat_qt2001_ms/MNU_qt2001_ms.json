@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "A Machine God Soldier unit occupied the Storage Depot![XENO:n ]\nDefeat its leader to weaken the enemy forces."
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Plum-Blossom Vagul[/System:Color ] in the Storage Depot."
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "The stationed enemy unit's leader was defeated,[XENO:n ]\nreducing the enemy's fighting strength."
+    },
+    {
+      "$id": 4,
+      "style": 148,
+      "name": "Machine God Soldiers were waiting inside the factory![XENO:n ]\nDefeat the enemies blocking your way and break through."
+    },
+    {
+      "$id": 5,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]M96 Crisis Unit[/System:Color ] at the Machine Soldier Factory."
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Crisis Response Units[/System:Color ] in Machine Soldier Factory."
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "You defeated the waiting enemies and broke through."
+    },
+    {
+      "$id": 8,
+      "style": 148,
+      "name": "Machine God Soldiers lay in wait on the rooftop![XENO:n ]\nDefeat the enemy unit's leader."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Venerable Focalor[/System:Color ] on the Training Ground Roof."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "The enemy leader was defeated, weakening their forces."
+    },
+    {
+      "$id": 11,
+      "style": 148,
+      "name": "The Weapon Creation Machine in Central Factory[XENO:n ]\ncan apparently make a new weapon for Fiorung.[XENO:n ]\nTake the materials there and make her a weapon."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Use the Weapon Creation Machine at Central Factory's[XENO:n ]\nControl Tower to make a weapon."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "You made a weapon for Fiorung."
+    },
+    {
+      "$id": 14,
+      "style": 148,
+      "name": "The lift to Central Factory's Central Tower has stopped.[XENO:n ]\nFind another route."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "Go to Maintenance Entrance 1."
+    },
+    {
+      "$id": 16,
+      "style": 138,
+      "name": "The lift beside the Maintenance Wing may take you up."
+    },
+    {
+      "$id": 17,
+      "style": 148,
+      "name": "An electrical barrier blocks the path from Maintenance Wing.[XENO:n ]\nDisable it to reach the lift."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "Use the Barrier Control Panel to release the[XENO:n ]\nelectrical barrier."
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "You disabled the barrier at the Maintenance Wing."
+    },
+    {
+      "$id": 20,
+      "style": 148,
+      "name": "The vertical lift to the next level has stopped.[XENO:n ]\nThe Machine Soldier Factory may provide a way up.[XENO:n ]\nFind somewhere to enter the factory."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Find a way into the Machine Soldier Factory."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Collect materials for the bomb."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "Make a bomb at Maintenance Wing's Weapon Creation Panel."
+    },
+    {
+      "$id": 24,
+      "style": 138,
+      "name": "Use the bomb to blast open the vent."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "You destroyed the vent, allowing entry to the factory."
+    },
+    {
+      "$id": 26,
+      "style": 148,
+      "name": "Destroying the vent may allow entry to the factory,[XENO:n ]\nbut you will need a bomb to destroy it.[XENO:n ]\nGet materials from Machine God Soldiers on 3F of the factory."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Obtain an [System:Color name=item ]Electrical Fuse[/System:Color ][XENO:n ]\nfrom M88 Watchtower guarding the Main Factory Gate."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "Obtain [System:Color name=item ]Black Ether Explosive[/System:Color ][XENO:n ]\nfrom M97 Commander in the Large Machine Depot."
+    },
+    {
+      "$id": 29,
+      "style": 138,
+      "name": "Obtain a [System:Color name=item ]Timer[/System:Color ] from Offensive Scout, a flying[XENO:n ]\nMachine God Soldier at the central container depot."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "You have the materials to make a bomb[XENO:n ]\nat the Maintenance Wing's Weapon Creation Panel."
+    },
+    {
+      "$id": 31,
+      "style": 148,
+      "name": "An electrical barrier blocks the way to Central Tower.[XENO:n ]\nDisable it and head to the upper part of the tower."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Turn off the electrical barrier."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Head to Central Tower."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "You have arrived at the transporter to the capital."
+    }
+  ]
+}

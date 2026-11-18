@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "Everyone safe. Everyone strong![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "They must be safe-mo. They're strong-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Friends look here![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Both of you, look-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Riki find it yesterday when Riki go scouting.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Riki found it while exploring yesterday-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Go go! Riki has feeling Shulk and friends[XENO:n ]\nare on other side![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Let's go check it out-mo! Riki's intuition says[XENO:n ]\nShulk and the others are up ahead-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,

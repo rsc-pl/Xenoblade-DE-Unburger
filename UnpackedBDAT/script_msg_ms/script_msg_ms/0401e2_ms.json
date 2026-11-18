@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・I've realised something./・It's because you're Dunban. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I've realised something./・It's because you're Dunban-san. ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT4 ]They really do. Reyn especially.[XENO:n ]\nHe's saved my skin over and over.[XENO:wait wait=key ][System:PageBreak ]But from now on, I'm gonna[XENO:n ]\npull my weight.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]Yes, Rein and the others[XENO:n ]\nhave helped me many times.[XENO:wait wait=key ][System:PageBreak ]From now on, I want[XENO:n ]\nto help them too.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT13 ]Don't be silly. You're Dunban![XENO:n ]\nThe Hero of the Homs![XENO:wait wait=key ][System:PageBreak ]No one's stronger than you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Huh?[XENO:n ]\nYou mean[XENO:wait wait=key ][System:PageBreak ]Dunban-san, who's known as a hero...?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:act act=EVT4 ]What do you mean?[XENO:wait wait=key ][System:PageBreak ]You're strong and powerful. That's[XENO:n ]\nhow you kept Colony 9 safe.[XENO:wait wait=key ][System:PageBreak ]Isn't that enough?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]What do you mean?[XENO:wait wait=key ][System:PageBreak ]Dunban-san really is strong.[XENO:n ]\nThat's why you could protect us,[XENO:wait wait=key ][System:PageBreak ]isn't it?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Of course I don't![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]You know how important[XENO:n ]\nyou guys are to me.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]That's not right![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]You can't just cast aside Rein,[XENO:n ]\nDunban-san and the others![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Dunban, do you have[XENO:n ]\nfirm convictions?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]What kind of resolve do[XENO:n ]\nyou have, Dunban-san?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 42,

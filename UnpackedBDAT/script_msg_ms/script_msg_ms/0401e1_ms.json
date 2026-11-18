@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I'm glad you're here to help me,[XENO:n ]\nReyn. I couldn't do it alone.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I can't manage that on my own.[XENO:n ]\nThat's why you'll help me, right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Reyn... You can't[XENO:n ]\nbeat yourself up.[XENO:wait wait=key ][System:PageBreak ]Do you know how many times[XENO:n ]\nyou've come to my rescue?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]And I'm not going to stop[XENO:n ]\nneeding your help.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Rein...[XENO:n ]\nThat's not true![XENO:wait wait=key ][System:PageBreak ]You've helped me[XENO:n ]\ntime and time again.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]So you'll keep watching[XENO:n ]\nmy back, right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 25,

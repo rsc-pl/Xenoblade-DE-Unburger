@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "This is the Nopon Grand Prix: Valak Mountain[XENO:n ]\nvenue-mo~.[XENO:wait wait=key ][System:PageBreak ]This thrilling course sends you racing down steep slopes[XENO:n ]\nwhile dodging obstacles-mo~.[XENO:wait wait=key ][System:PageBreak ]Do you want to take part in the Nopon Grand Prix-mo~?[XENO:n ]\n(You can also participate from the Main Menu)[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:sel sel=・Want to join/・Don't want to join ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "You don't want to join-mo?[XENO:n ]\nThen I'll take a nap in the meantime-mo~[XENO:wait wait=key ][System:PageBreak ]Ah, but if I nap somewhere this cold,[XENO:n ]\nI'll freeze solid-mo~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "The Nopon Grand Prix is temporarily suspended-mo~[XENO:wait wait=key ][System:PageBreak ]No need to rush. The Nopon Grand Prix isn't going anywhere-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "You should take care of your business[XENO:n ]\nfirst-mo~[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "A Mechon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "A Machine God Soldier.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Reyn...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn... Shulk... Thank you.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rein... Shulk... Thank you.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     }
   ]
 }

@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "You don't sound very interested.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dunban-san... You're not interested at all, are you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Obvious? You're not even[XENO:n ]\nclose, Dunban![XENO:wait wait=key ][System:PageBreak ]This is the thigh![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Dunban-san, that's[XENO:n ]\ncompletely wrong![XENO:wait wait=key ][System:PageBreak ]We're at the knee, you know![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 22,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "[XENO:act act=EVT4 ]I still have my old textbook,[XENO:n ]\n'Giant God Geography for Beginners'.[XENO:wait wait=key ][System:PageBreak ]You should read it.[XENO:n ]\nFrom page one![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]I'll lend you the Complete Guide to Giant[XENO:n ]\nGod Realm Geology again, Dunban-san.[XENO:wait wait=key ][System:PageBreak ]Make sure you[XENO:n ]\nread it this time![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You did? It looked like you[XENO:n ]\nwere just staring into space.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'm glad. Dunban-san,[XENO:n ]\nyou seemed so distracted...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "I guess when I talk about geeky[XENO:n ]\nstuff, you're gonna switch off.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dunban-san, you really don't pay any attention[XENO:n ]\nto things that don't interest you, do you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT4 ]I was kind of betting on you not[XENO:n ]\nknowing. You surprised me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]I didn't expect[XENO:n ]\nDunban-san to know that.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,

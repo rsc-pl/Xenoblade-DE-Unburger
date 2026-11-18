@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Automatic Door"
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "It doesn't seem to work right now."
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Sticky Cocoon"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "You could open it by dissolving it."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Sacrificial Altar"
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "There's a vessel for an offering."
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Obsidian Door"
+    },
+    {
+      "$id": 8,
+      "style": 117,
+      "name": "The writing is too worn to read."
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Warehouse Door"
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "You could open it if you had a key."
+    }
+  ]
+}

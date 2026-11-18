@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "EXP"
+    },
+    {
+      "$id": 2,
+      "style": 9,
+      "name": "To next level"
+    },
+    {
+      "$id": 3,
+      "style": 7,
+      "name": "Can level up"
+    },
+    {
+      "$id": 4,
+      "style": 3,
+      "name": "Lv"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Target Level"
+    },
+    {
+      "$id": 6,
+      "style": 8,
+      "name": "Remaining EXP"
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Bonus EXP: ON"
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Bonus EXP: OFF"
+    },
+    {
+      "$id": 9,
+      "style": 79,
+      "name": "Experience points earned\noutside battle will be set aside,\nallowing manual level adjustment."
+    },
+    {
+      "$id": 10,
+      "style": 79,
+      "name": "All EXP is converted into levels\nimmediately. Manual level adjustment\nis unavailable."
+    },
+    {
+      "$id": 11,
+      "style": 7,
+      "name": "Turn ON"
+    },
+    {
+      "$id": 12,
+      "style": 7,
+      "name": "Turn OFF"
+    },
+    {
+      "$id": 13,
+      "style": 14,
+      "name": "ON"
+    },
+    {
+      "$id": 14,
+      "style": 14,
+      "name": "OFF"
+    },
+    {
+      "$id": 15,
+      "style": 5,
+      "name": "Advanced"
+    },
+    {
+      "$id": 16,
+      "style": 117,
+      "name": "Do you want to use all reserve EXP?"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Use all"
+    },
+    {
+      "$id": 18,
+      "style": 11,
+      "name": "Cancel"
+    },
+    {
+      "$id": 19,
+      "style": 136,
+      "name": "Advanced Settings is currently disabled."
+    }
+  ]
+}

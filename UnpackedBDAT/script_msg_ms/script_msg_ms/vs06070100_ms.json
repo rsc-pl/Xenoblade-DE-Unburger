@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I want to help Shulk.[XENO:n ]\nThe Mechon must pay for what they did.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I want to help Shulk.[XENO:n ]\nThe Machine God Soldiers must pay for what they did.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
     },
     {
       "$id": 13,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Carna, I want to go with Odama.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Carna, I want to go with Odama-san.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I've never seen anything cooler than Shulk[XENO:n ]\nsmashing Mechon with the Monado![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I've never seen anything cooler than Shulk-san[XENO:n ]\nsmashing Machine God Soldiers with the Monado![XENO:wait wait=key ]"
     },
     {
       "$id": 19,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "Compared to you guys, I know[XENO:n ]\nI'm pretty useless.[XENO:wait wait=key ]"
+      "name": "Compared to Shulk-san and the others, I know[XENO:n ]\nI'm pretty useless.[XENO:wait wait=key ]"
     },
     {
       "$id": 23,
@@ -148,12 +148,12 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Shulk, Reyn. Keep Carna safe for me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Shulk, Rein. Keep Carna safe for me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Dickson, are you leaving too?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dikson-san, are you leaving too?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "[XENO:act act=EVT4 ]Thanks for the heads-up, Dickson.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]Thanks for the heads-up, Dikson-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,

@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 12,
-      "name": "Trade"
+      "name": "Barter"
     },
     {
       "$id": 19,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 12,
-      "name": "Harvest"
+      "name": "Harvest Crystals"
     },
     {
       "$id": 21,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 12,
-      "name": "Select Target"
+      "name": "Select Character"
     },
     {
       "$id": 26,
@@ -228,12 +228,12 @@
     {
       "$id": 44,
       "style": 12,
-      "name": "Character"
+      "name": "Swap Character"
     },
     {
       "$id": 45,
       "style": 12,
-      "name": "Select"
+      "name": "Change Equipment"
     },
     {
       "$id": 46,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 12,
-      "name": "Select"
+      "name": "Submenu"
     },
     {
       "$id": 59,
@@ -308,7 +308,7 @@
     {
       "$id": 60,
       "style": 12,
-      "name": "Select"
+      "name": "Change Equipment"
     },
     {
       "$id": 61,
@@ -353,7 +353,7 @@
     {
       "$id": 69,
       "style": 12,
-      "name": "View Qualities"
+      "name": "Select Effect"
     },
     {
       "$id": 70,
@@ -373,7 +373,7 @@
     {
       "$id": 73,
       "style": 12,
-      "name": "Speed Up"
+      "name": "Hold to Speed Up"
     },
     {
       "$id": 74,
@@ -383,7 +383,7 @@
     {
       "$id": 75,
       "style": 12,
-      "name": "Open"
+      "name": "Details"
     },
     {
       "$id": 76,
@@ -418,7 +418,7 @@
     {
       "$id": 82,
       "style": 12,
-      "name": "Change Level"
+      "name": "Change Floor"
     },
     {
       "$id": 83,
@@ -493,17 +493,17 @@
     {
       "$id": 97,
       "style": 12,
-      "name": "Party"
+      "name": "Bonding Chart: Party"
     },
     {
       "$id": 98,
       "style": 12,
-      "name": "Locations"
+      "name": "Bonding Chart: Towns"
     },
     {
       "$id": 99,
       "style": 12,
-      "name": "Change Trait"
+      "name": "Change Personality"
     },
     {
       "$id": 100,
@@ -528,7 +528,7 @@
     {
       "$id": 104,
       "style": 12,
-      "name": "Skill Tree"
+      "name": "Skill Lines"
     },
     {
       "$id": 105,
@@ -558,7 +558,7 @@
     {
       "$id": 110,
       "style": 12,
-      "name": "Skill Tree"
+      "name": "Skill Lines"
     },
     {
       "$id": 111,
@@ -688,7 +688,7 @@
     {
       "$id": 136,
       "style": 12,
-      "name": "Reset"
+      "name": "Restore Defaults"
     },
     {
       "$id": 137,
@@ -753,7 +753,7 @@
     {
       "$id": 149,
       "style": 23,
-      "name": "クローズ（長押しでナビゲート操作）"
+      "name": "Close/Hold: Nav"
     },
     {
       "$id": 150,
@@ -768,12 +768,12 @@
     {
       "$id": 152,
       "style": 9,
-      "name": "詳細表示切替"
+      "name": "Detail"
     },
     {
       "$id": 153,
       "style": 9,
-      "name": "単体表示切替"
+      "name": "Single"
     },
     {
       "$id": 154,
@@ -793,12 +793,12 @@
     {
       "$id": 157,
       "style": 12,
-      "name": "Monado Arts"
+      "name": "To Monado Arts"
     },
     {
       "$id": 158,
       "style": 12,
-      "name": "Regular Arts"
+      "name": "To Regular Arts"
     },
     {
       "$id": 159,
@@ -843,7 +843,7 @@
     {
       "$id": 167,
       "style": 12,
-      "name": "Residents"
+      "name": "Resident List"
     },
     {
       "$id": 168,
@@ -913,7 +913,7 @@
     {
       "$id": 181,
       "style": 12,
-      "name": "Reconstruction Info"
+      "name": "Reconstruction Steps"
     },
     {
       "$id": 182,
@@ -948,7 +948,7 @@
     {
       "$id": 188,
       "style": 12,
-      "name": "Bonding Graph: Party"
+      "name": "Bonding Chart: Party"
     },
     {
       "$id": 189,
@@ -988,7 +988,7 @@
     {
       "$id": 196,
       "style": 12,
-      "name": "Give Up"
+      "name": "Retire"
     },
     {
       "$id": 197,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 12,
-      "name": "Claim Cylinders"
+      "name": "Cylinder Conversion"
     },
     {
       "$id": 199,
@@ -1013,7 +1013,7 @@
     {
       "$id": 201,
       "style": 12,
-      "name": "Toggle Interface"
+      "name": "Viewer"
     },
     {
       "$id": 202,

@@ -13,12 +13,12 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]My dear Melia, it's good to[XENO:n ]\nsee you again so soon.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Melia-sama, it's good to[XENO:n ]\nsee you again so soon.[XENO:wait wait=key ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "And you look so well.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Did everything go well-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]What could a Hom Hom need of me?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Is that what the Hom Hom want-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]I see no reason to deny them.[XENO:n ]\nAnd Melia, what of you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]I have no objection, but what[XENO:n ]\nwill Melia-sama do-ja-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,

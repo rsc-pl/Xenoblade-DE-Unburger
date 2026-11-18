@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 10,
-      "name": "Strong Bonus"
+      "name": "High-Heat Helper"
     },
     {
       "$id": 10,
@@ -63,22 +63,22 @@
     {
       "$id": 11,
       "style": 10,
-      "name": "Combo Master"
+      "name": "Combo Plus"
     },
     {
       "$id": 12,
       "style": 10,
-      "name": "Gentle Bonus"
+      "name": "Simmer Helper"
     },
     {
       "$id": 13,
       "style": 10,
-      "name": "Impatient Shooter"
+      "name": "Hasty Shot"
     },
     {
       "$id": 14,
       "style": 10,
-      "name": "Medium Bonus"
+      "name": "Low-Heat Helper"
     },
     {
       "$id": 15,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 44,
-      "name": "Qualities grow stronger[XENO:n ]\nwith a strong flame."
+      "name": "Purity rises greatly[XENO:n ]\nwith High Heat."
     },
     {
       "$id": 18,
@@ -103,12 +103,12 @@
     {
       "$id": 19,
       "style": 44,
-      "name": "Qualities grow stronger[XENO:n ]\nwhen flame is constant."
+      "name": "Purity rises with repeat[XENO:n ]\ncrafts at the same heat."
     },
     {
       "$id": 20,
       "style": 44,
-      "name": "Cylinder Gauge fills up[XENO:n ]\nmore with gentle flame."
+      "name": "Cylinder Gauge fills up[XENO:n ]\nmore with Simmer."
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 44,
-      "name": "Qualities grow stronger[XENO:n ]\nwith a medium flame."
+      "name": "Purity rises greatly[XENO:n ]\nwith Low Heat."
     },
     {
       "$id": 23,
@@ -128,12 +128,12 @@
     {
       "$id": 24,
       "style": 7,
-      "name": "Quality"
+      "name": "Effect Name"
     },
     {
       "$id": 25,
       "style": 8,
-      "name": "Strength"
+      "name": "Purity"
     },
     {
       "$id": 26,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 115,
-      "name": "Continue gem crafting?"
+      "name": "Quit Gem Crafting?"
     },
     {
       "$id": 29,
@@ -283,37 +283,37 @@
     {
       "$id": 55,
       "style": 12,
-      "name": "Strong Flame"
+      "name": "High Heat"
     },
     {
       "$id": 56,
       "style": 12,
-      "name": "Medium Flame"
+      "name": "Low Heat"
     },
     {
       "$id": 57,
       "style": 12,
-      "name": "Gentle Flame"
+      "name": "Simmer"
     },
     {
       "$id": 58,
       "style": 13,
-      "name": "Crafting Complete"
+      "name": "Gem Complete!"
     },
     {
       "$id": 59,
       "style": 18,
-      "name": "Crafting Incomplete"
+      "name": "Gem Incomplete"
     },
     {
       "$id": 60,
       "style": 19,
-      "name": "Cylinder Conversion"
+      "name": "Cylinder Conversion!"
     },
     {
       "$id": 61,
       "style": 19,
-      "name": "Party Support"
+      "name": "Party Support Triggered!"
     },
     {
       "$id": 62,
@@ -323,22 +323,22 @@
     {
       "$id": 63,
       "style": 10,
-      "name": "MEGA HEAT"
+      "name": "MEGAHEAT"
     },
     {
       "$id": 64,
       "style": 8,
-      "name": "Strong Flame"
+      "name": "High Heat"
     },
     {
       "$id": 65,
       "style": 8,
-      "name": "Medium Flame"
+      "name": "Low Heat"
     },
     {
       "$id": 66,
       "style": 8,
-      "name": "Gentle Flame"
+      "name": "Simmer"
     },
     {
       "$id": 67,
@@ -353,12 +353,12 @@
     {
       "$id": 69,
       "style": 19,
-      "name": "Claim Cylinders"
+      "name": "Receive Cylinders"
     },
     {
       "$id": 70,
       "style": 19,
-      "name": "Claim Gems"
+      "name": "Receive Gems"
     },
     {
       "$id": 71,
@@ -378,7 +378,7 @@
     {
       "$id": 74,
       "style": 19,
-      "name": "Crack"
+      "name": "Split"
     },
     {
       "$id": 75,
@@ -393,7 +393,7 @@
     {
       "$id": 77,
       "style": 59,
-      "name": "You can't choose any more because[XENO:n ]\nan effect has reached 100% purity."
+      "name": "An effect exceeds 100% purity.[XENO:n ]\nYou cannot select any more."
     },
     {
       "$id": 78,

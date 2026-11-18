@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "Lady Meyneth fought the Giant God for us.[XENO:wait wait=key ]"
+      "name": " Maynus-sama fought the Giant God for us.[XENO:wait wait=key ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Who was Lady Meyneth?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Who was Maynus-sama?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "He's blinded by revenge. Even Lady Meyneth[XENO:n ]\nherself couldn't convince him to stop.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "He's blinded by revenge. Even Maynus-sama[XENO:n ]\nherself couldn't convince him to stop.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 125,
-      "name": "Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,

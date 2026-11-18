@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 19,
-      "name": "Inventory"
+      "name": "Items"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 5,
-      "name": "Price:"
+      "name": "Sell Price:"
     },
     {
       "$id": 4,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 7,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 11,
@@ -78,17 +78,17 @@
     {
       "$id": 14,
       "style": 12,
-      "name": "Equipment Gem"
+      "name": "Shared Gem"
     },
     {
       "$id": 15,
       "style": 12,
-      "name": "Weapon Gem"
+      "name": "Weapon-Only Gem"
     },
     {
       "$id": 16,
       "style": 12,
-      "name": "Armour Gem"
+      "name": "Armour-Only Gem"
     },
     {
       "$id": 17,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 11,
-      "name": "Area"
+      "name": "Origin"
     },
     {
       "$id": 26,
@@ -168,12 +168,12 @@
     {
       "$id": 32,
       "style": 11,
-      "name": "Machine God"
+      "name": "Machine Realm"
     },
     {
       "$id": 33,
       "style": 9,
-      "name": "Type"
+      "name": "Equipment Type"
     },
     {
       "$id": 34,
@@ -213,12 +213,12 @@
     {
       "$id": 41,
       "style": 13,
-      "name": "Legs"
+      "name": "Waist"
     },
     {
       "$id": 42,
       "style": 13,
-      "name": "Feet"
+      "name": "Legs"
     },
     {
       "$id": 43,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 13,
-      "name": "Collectables"
+      "name": "Collection"
     },
     {
       "$id": 49,
@@ -268,12 +268,12 @@
     {
       "$id": 52,
       "style": 9,
-      "name": "Most Recent"
+      "name": "Obtained"
     },
     {
       "$id": 53,
       "style": 9,
-      "name": "Sale Price"
+      "name": "Sell Price"
     },
     {
       "$id": 54,
@@ -283,12 +283,12 @@
     {
       "$id": 55,
       "style": 9,
-      "name": "Slots"
+      "name": "Empty Slot"
     },
     {
       "$id": 56,
       "style": 9,
-      "name": "Unique"
+      "name": "Unique Weapons"
     },
     {
       "$id": 57,
@@ -323,12 +323,12 @@
     {
       "$id": 63,
       "style": 9,
-      "name": "Unique"
+      "name": "Unique Armour"
     },
     {
       "$id": 64,
       "style": 9,
-      "name": "Number"
+      "name": "Owned"
     },
     {
       "$id": 65,
@@ -358,7 +358,7 @@
     {
       "$id": 70,
       "style": 9,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 71,
@@ -373,22 +373,22 @@
     {
       "$id": 73,
       "style": 9,
-      "name": "Weapon Use"
+      "name": "Weapon Only"
     },
     {
       "$id": 74,
       "style": 9,
-      "name": "Armour Use"
+      "name": "Armour Only"
     },
     {
       "$id": 75,
       "style": 9,
-      "name": "All Purpose"
+      "name": "Both"
     },
     {
       "$id": 76,
       "style": 9,
-      "name": "Attributes"
+      "name": "Parameters"
     },
     {
       "$id": 77,
@@ -423,7 +423,7 @@
     {
       "$id": 83,
       "style": 9,
-      "name": "Attributes"
+      "name": "Parameters"
     },
     {
       "$id": 84,
@@ -523,7 +523,7 @@
     {
       "$id": 103,
       "style": 11,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 104,
@@ -553,7 +553,7 @@
     {
       "$id": 109,
       "style": 116,
-      "name": "This is already in use. Do you want[XENO:n ]\nto equip it here instead?"
+      "name": "It is already in use.[XENO:n ]\nRemove and equip it here?"
     },
     {
       "$id": 110,
@@ -568,7 +568,7 @@
     {
       "$id": 112,
       "style": 117,
-      "name": "This character is already using that gem.[XENO:n ]\nDo you want to equip it here instead?"
+      "name": "This character already uses the gem.[XENO:n ]\nRemove and attach it here?"
     },
     {
       "$id": 113,
@@ -578,12 +578,12 @@
     {
       "$id": 114,
       "style": 117,
-      "name": "This is already in use. Do you want[XENO:n ]\nto equip it here instead?"
+      "name": "It is already in use.[XENO:n ]\nRemove and attach it here?"
     },
     {
       "$id": 115,
       "style": 117,
-      "name": "This is in another piece of equipment.[XENO:n ]\nAre you sure you want to equip it here instead?"
+      "name": "It is attached to other equipment.[XENO:n ]\nRemove and attach it here?"
     },
     {
       "$id": 116,
@@ -643,12 +643,12 @@
     {
       "$id": 127,
       "style": 6,
-      "name": "Bright"
+      "name": "Gleaming"
     },
     {
       "$id": 128,
       "style": 6,
-      "name": "Rare"
+      "name": "Ultimate"
     },
     {
       "$id": 129,
@@ -663,17 +663,17 @@
     {
       "$id": 131,
       "style": 19,
-      "name": "Artificially-refined cylinder."
+      "name": "Cylinder with a refined effect"
     },
     {
       "$id": 132,
       "style": 19,
-      "name": "Crystal looted from an enemy."
+      "name": "Crystal dropped by a monster"
     },
     {
       "$id": 133,
       "style": 19,
-      "name": "Condensed ether cylinder."
+      "name": "Cylinder of condensed ether"
     },
     {
       "$id": 134,
@@ -698,12 +698,12 @@
     {
       "$id": 138,
       "style": 5,
-      "name": "Price"
+      "name": "Purchase Price"
     },
     {
       "$id": 139,
       "style": 5,
-      "name": "Trade Val."
+      "name": "Trade Price"
     },
     {
       "$id": 140,
@@ -713,7 +713,7 @@
     {
       "$id": 141,
       "style": 5,
-      "name": "No. Held"
+      "name": "Owned"
     },
     {
       "$id": 142,
@@ -733,7 +733,7 @@
     {
       "$id": 145,
       "style": 5,
-      "name": "Effect Val."
+      "name": "Effect Value"
     },
     {
       "$id": 146,
@@ -748,7 +748,7 @@
     {
       "$id": 148,
       "style": 5,
-      "name": "Name"
+      "name": "Item Name"
     },
     {
       "$id": 149,
@@ -783,32 +783,32 @@
     {
       "$id": 155,
       "style": 15,
-      "name": "Area"
+      "name": "Target Map"
     },
     {
       "$id": 156,
       "style": 5,
-      "name": "アイテム数"
+      "name": "Item Count"
     },
     {
       "$id": 157,
       "style": 11,
-      "name": "Held/Max."
+      "name": "Owned/Max."
     },
     {
       "$id": 158,
       "style": 9,
-      "name": "Item Offered"
+      "name": "Wanted Item"
     },
     {
       "$id": 159,
       "style": 9,
-      "name": "Item to Trade"
+      "name": "Item to Give"
     },
     {
       "$id": 160,
       "style": 9,
-      "name": "Trade"
+      "name": "Barter"
     },
     {
       "$id": 161,
@@ -823,7 +823,7 @@
     {
       "$id": 163,
       "style": 49,
-      "name": "No items found.[XENO:n ]\n(Categories may be filtered.)"
+      "name": "No items to display.[XENO:n ]\n(Check display categories.)"
     },
     {
       "$id": 164,
@@ -908,7 +908,7 @@
     {
       "$id": 180,
       "style": 13,
-      "name": "Swap gems with current"
+      "name": "Swap gear and gems"
     },
     {
       "$id": 181,

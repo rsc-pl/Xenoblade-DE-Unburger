@@ -1,0 +1,434 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "To-night's… cough,[XENO:wait wait=key ][System:PageBreak ]cough… food prepa… cough…[XENO:wait wait=key ][System:PageBreak ]Something's wrong with my throat-mo…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Health[XENO:n ]\ncomes first,[XENO:wait wait=key ][System:PageBreak ]so what's[XENO:n ]\ngoing on-mo?[XENO:wait wait=key ][System:PageBreak ]Is this a Dinobeast curse-mo!?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "When[XENO:n ]\nyour tummy~[XENO:wait wait=key ][System:PageBreak ]gets[XENO:n ]\nhungwy~[XENO:wait wait=key ][System:PageBreak ]it's[XENO:n ]\nTati's~[XENO:wait wait=key ][System:PageBreak ]tuwn…[XENO:n ]\ncough![XENO:wait wait=key ][System:PageBreak ]Prep it nice[XENO:n ]\nand swow~[XENO:wait wait=key ][System:PageBreak ]yummy-yum… cough, cough![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Ugh, something's wong[XENO:wait wait=key ][System:PageBreak ]with my thwoat-mo![XENO:wait wait=key ][System:PageBreak ]My favourite songs[XENO:n ]\nsound like curses-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "The cool air might have been bad for my thwoat-mo.[XENO:wait wait=key ][System:PageBreak ]Tati must be careful not to pass[XENO:n ]\nit on to his daughter-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "When I get home, I'll eat[XENO:n ]\nmy wife's food and go[XENO:wait wait=key ][System:PageBreak ]straight to bed-mo. Brrr,[XENO:wait wait=key ][System:PageBreak ]I'm starting to shiver-mo~.[XENO:n ]\nI'll have her warm me up-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "When I get home, I'll eat[XENO:n ]\nNpa's food and go[XENO:wait wait=key ][System:PageBreak ]straight to bed-mo. Brrr,[XENO:trust trust= p:3:a:201:3 ][XENO:wait wait=key ][System:PageBreak ]I'm starting to shiver-mo~. I'll[XENO:n ]\nhave Npa warm me up-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "The cool air might have been bad for my thwoat-mo.[XENO:wait wait=key ][System:PageBreak ]I must be careful not to pass[XENO:n ]\nit on to my daughter Kyuri-mo![XENO:trust trust= p:3:a:192:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Tonight too, I'll have fun[XENO:n ]\npreparing dinner-mo.[XENO:wait wait=key ][System:PageBreak ]I'll make it Pique's[XENO:n ]\nbreakfast-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Nopon eat several meals a day-mo.[XENO:wait wait=key ][System:PageBreak ]My daughter eats twelve meals-mo.[XENO:wait wait=key ][System:PageBreak ]As a cook, I'm proud of her-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "When you're hungry~[XENO:n ]\nit's Tati's turn~![XENO:wait wait=key ][System:PageBreak ]Prep it nice and slow~[XENO:n ]\nyummy, yummy meals~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Pack in the fish~[XENO:n ]\nsalt and pepper~![XENO:wait wait=key ][System:PageBreak ]Stack them in layers~[XENO:n ]\nlet them mature~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Tati's wife prepares[XENO:n ]\nthe vegetables during the day-mo.[XENO:wait wait=key ][System:PageBreak ]Nicely spiced[XENO:n ]\nand second to none-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I've worked hard[XENO:n ]\nagain tonight-mo![XENO:wait wait=key ][System:PageBreak ]A drink after a hard day's[XENO:n ]\nwork is something special-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "My wife Npa prepares[XENO:n ]\nthe vegetables during the day-mo.[XENO:trust trust= p:3:a:201:3 ][XENO:wait wait=key ][System:PageBreak ]Nicely spiced[XENO:n ]\nand second to none-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "I've worked hard again tonight-mo![XENO:wait wait=key ][System:PageBreak ]I'll have a drink of Npa's[XENO:n ]\nspecial fruit wine-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Nopon eat several meals a day-mo.[XENO:wait wait=key ][System:PageBreak ]My daughter Kyuri eats twelve meals-mo.[XENO:n ]\nAs a cook,[XENO:wait wait=key ][System:PageBreak ]I'm proud of her-mo.[XENO:trust trust= p:3:a:192:3 ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "I start work after watching my[XENO:n ]\ndaughter eat heartily-mo.[XENO:wait wait=key ][System:PageBreak ]It fills Tati with[XENO:n ]\nmotivation too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Ever since she was little, my daughter[XENO:n ]\nhas eaten food made[XENO:wait wait=key ][System:PageBreak ]by Tati and the family-mo. That's why[XENO:n ]\nshe's grown bigger than other Nopon-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "I came up with a new song using the[XENO:n ]\nsinging things you gathered-mo![XENO:wait wait=key ][System:PageBreak ]Just one look~ la la la~ makes a[XENO:n ]\nboiled egg melt~ la la~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Huh? What's with that[XENO:n ]\nlukewarm look-mo?[XENO:wait wait=key ][System:PageBreak ]It's the finest love song-mo![XENO:n ]\nAren't you moved-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "You gathered singing[XENO:n ]\nthings for me,[XENO:wait wait=key ][System:PageBreak ]but my wife and daughter[XENO:n ]\nsaid I was too loud-mo.[XENO:wait wait=key ][System:PageBreak ]I'm sad-mo…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "My daughter even says listening[XENO:n ]\nto my songs makes the food taste bad.[XENO:wait wait=key ][System:PageBreak ]Maybe she's at a difficult[XENO:n ]\nage-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Ever since she was little, my daughter[XENO:n ]\nhas eaten Tati and Npa's[XENO:wait wait=key ][System:PageBreak ]homemade food-mo. That's why she's[XENO:n ]\ngrown bigger than other Nopon-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:trust trust= p:3:a:201:3 ]You gathered singing[XENO:n ]\nthings for me,[XENO:wait wait=key ][System:PageBreak ]but Npa and my daughter[XENO:n ]\nsaid I was too loud…[XENO:wait wait=key ][System:PageBreak ]I'm sad-mo…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:trust trust= p:3:a:192:3 ]After feeding Kyuri and Npa a[XENO:n ]\ngood meal, Tati starts work-mo.[XENO:wait wait=key ][System:PageBreak ]The whole family is healthy[XENO:n ]\nthanks to Tati's food-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "They both know what's good and[XENO:n ]\nbad about Tati's cooking-mo.[XENO:wait wait=key ][System:PageBreak ]I can't cut corners just[XENO:n ]\nbecause they're family-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:trust trust= p:3:a:192:3 ]I came up with a new[XENO:n ]\nsong using the[XENO:wait wait=key ][System:PageBreak ]singing things you[XENO:n ]\ngathered-mo! Tati's hands~[XENO:wait wait=key ][System:PageBreak ]wrap Npa and Kyuri~ softly[XENO:n ]\nlike xiaolongbao~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Can you feel how[XENO:n ]\nimportant family is-mo?[XENO:wait wait=key ][System:PageBreak ]As a special treat,[XENO:wait wait=key ][System:PageBreak ]you can sing it however you like-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:trust trust= p:3:a:192:3 ]You gathered singing[XENO:n ]\nthings for me,[XENO:wait wait=key ][System:PageBreak ]but Npa and Kyuri[XENO:n ]\nsaid I was too loud…[XENO:wait wait=key ][System:PageBreak ]I'm sad-mo…[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "Kyuri says listening to my[XENO:n ]\nsongs makes her lose her appetite.[XENO:wait wait=key ][System:PageBreak ]She wouldn't be cute[XENO:n ]\nif she weren't round,[XENO:wait wait=key ][System:PageBreak ]so I'll hold back at home-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Gaaah…[XENO:n ]\nNgggh…[XENO:wait wait=key ][System:PageBreak ]Oh, no goob… It's so cold here,[XENO:n ]\nmy voice sounds wong-mo![XENO:wait wait=key ][System:PageBreak ]I can't even sing my favourite[XENO:n ]\nsongs pwopewly-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Pleath,[XENO:wait wait=key ][System:PageBreak ]bring me some Fuudi[XENO:n ]\nCamouflage-mo![XENO:wait wait=key ][System:PageBreak ]I want to make a nice warm futon[XENO:n ]\nand get a good night's thleep-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "I used to sing while I worked,[XENO:wait wait=key ][System:PageBreak ]but with this thwoat, all I[XENO:n ]\ncan make are stwange noises-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "Oh, oh, oh! You weally[XENO:n ]\nbrought it for me-mo![XENO:wait wait=key ][System:PageBreak ]It's as warm and cosy[XENO:n ]\nto the touch as they say-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Yayayayaya![XENO:wait wait=key ][System:PageBreak ]Just touching Fuudi Camouflage makes me[XENO:n ]\nfeel like I slept all night-mo.[XENO:wait wait=key ][System:PageBreak ]Oh? My throat's better[XENO:n ]\ntoo-mo~![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:qst_start ]Lulala~ A song that makes dinner~.[XENO:wait wait=key ][System:PageBreak ]Today I'm~ in top form-mo~.[XENO:wait wait=key ][System:PageBreak ]Do you know~ what Tati, who[XENO:n ]\nloves~ singing, wants-mo~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Have you ever~[XENO:wait wait=key ][System:PageBreak ]gotten any-mo~? In the world~[XENO:n ]\nthere are singing~[XENO:wait wait=key ][System:PageBreak ]vegetables and singing~ insects~[XENO:n ]\nit seems-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "What would you do with them if[XENO:n ]\nyou got them?[XENO:wait wait=key ][System:PageBreak ]Are you starting a choir[XENO:n ]\nor something?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "That's~ attractive too-mo~.[XENO:wait wait=key ][System:PageBreak ]Now I have~ a good goal-mo~. Note[XENO:n ]\nit down, note it down-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Across the world~ scattered~[XENO:n ]\nHumming and~[XENO:wait wait=key ][System:PageBreak ]Pop'n things~. Please[XENO:n ]\ngather them-mo~.[XENO:wait wait=key ][System:PageBreak ]I think I can~ make[XENO:n ]\na new song-mo~. Tati,[XENO:wait wait=key ][System:PageBreak ]who runs~ the village[XENO:n ]\nkitchen~ can't leave~.[XENO:wait wait=key ][System:PageBreak ]I'm asking you-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:qst qst=383 ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "Lalala~! Song of joy~.[XENO:n ]\nMaybe you'll~[XENO:wait wait=key ][System:PageBreak ]gather them all-mo~. I'm[XENO:n ]\nlooking forward~ to it-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Eight kinds in all~.[XENO:n ]\nDo your~ best-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:qst qst=384 ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:qst qst=385 ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Dun, dun, duuun~[XENO:n ]\nA song of sorrow~![XENO:wait wait=key ][System:PageBreak ]Tati's little[XENO:n ]\ndream~~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Four[XENO:n ]\nkinds~[XENO:wait wait=key ][System:PageBreak ]with Humming in[XENO:n ]\nthe name~. Four kinds~[XENO:wait wait=key ][System:PageBreak ]with Pop'n in the name~. Can[XENO:n ]\nyou~ gather them all-mo~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Amazing~ So[XENO:n ]\nHumming and Pop'n-mo~![XENO:wait wait=key ][System:PageBreak ]Hawawa~ Melodies[XENO:n ]\nI've never heard-mo~.[XENO:wait wait=key ][System:PageBreak ]A flood of sound~~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "This phrase!!! A new[XENO:n ]\nmelody line came to me-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Lululu-lalala~[XENO:n ]\nSo grateful~[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "No, no-mo! This way is dangerous-mo![XENO:wait wait=key ][System:PageBreak ]If you're swept away, you'll[XENO:n ]\ngo deep into the roots-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Countless Nopon have[XENO:n ]\nbeen[XENO:wait wait=key ][System:PageBreak ]swept away here... Even[XENO:n ]\nnow, at night...[XENO:wait wait=key ][System:PageBreak ]Just kidding-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "It's really hard to inflict Break[XENO:n ]\non huge enemies or flying ones-mo.[XENO:wait wait=key ][System:PageBreak ]When facing enemies like those,[XENO:n ]\nwe Nopon use teamwork-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "Poison and Blaze make your[XENO:n ]\nhealth slowly drain-mo.[XENO:wait wait=key ][System:PageBreak ]Equip gems to prevent them-mo—Poison[XENO:n ]\nDefence and things like that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "This is the root part of the tree-mo.[XENO:n ]\nThis is only the beginning-mo.[XENO:wait wait=key ][System:PageBreak ]Apparently the roots go much, much[XENO:n ]\nfarther down-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "It's cool underground, but not[XENO:n ]\ncold-mo. You can really feel[XENO:wait wait=key ][System:PageBreak ]the tree wrapping around[XENO:n ]\nyou-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "Geez, who put that[XENO:n ]\nbarrel up so high-mo?[XENO:wait wait=key ][System:PageBreak ]I can't reach it-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "I don't know when it was put there,[XENO:n ]\nso its contents must be bubbling-mo.[XENO:wait wait=key ][System:PageBreak ]If they ferment too[XENO:n ]\nmuch, it'll explode-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "I'm holding the lid down with my[XENO:wait wait=key ][System:PageBreak ]weight-mo. Only a few Nopon can do[XENO:n ]\nthis job-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "It's not because[XENO:n ]\nI'm heavy-mo![XENO:wait wait=key ][System:PageBreak ]I can do it because I'm[XENO:n ]\njust the right weight-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "Go through this hole and you can[XENO:n ]\nswim in the pond outside anytime-mo![XENO:wait wait=key ][System:PageBreak ]Splash, splash, glide![XENO:n ]\nGurgle, glub, glub![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "It's fun catching fish[XENO:n ]\nthat wander in here-mo.[XENO:wait wait=key ][System:PageBreak ]Any fish I catch are all[XENO:n ]\nmine-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "The tree Frontier Village sits in[XENO:n ]\nis the oldest in Makna-mo.[XENO:wait wait=key ][System:PageBreak ]Donga-sama says he's[XENO:n ]\nthe same age,[XENO:wait wait=key ][System:PageBreak ]but... really-mo~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "Nopon don't know how this tree[XENO:n ]\ncame to be-mo.[XENO:wait wait=key ][System:PageBreak ]We'd have to ask the[XENO:n ]\nGiant God to find out-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "Do your best, Hero-mo![XENO:wait wait=key ][System:PageBreak ]If I catch fresh fish, I'll[XENO:n ]\nsave some for the Hero-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "If the Hero doesn't hurry,[XENO:n ]\nthere won't be any fresh[XENO:wait wait=key ][System:PageBreak ]fish left-mo. My patience[XENO:n ]\nhas limits-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "Do you know what a Secret Area[XENO:n ]\nis-mo? I don't really know-mo.[XENO:wait wait=key ][System:PageBreak ]Rumor says there's one in Makna too-mo,[XENO:n ]\nbut no one's ever seen it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "Are you mining Ether Crystals-mo?[XENO:wait wait=key ][System:PageBreak ]They're crystals of the Giant God,[XENO:n ]\nafter all-mo. They're amazing-mo.[XENO:wait wait=key ][System:PageBreak ]There's a huge deposit in Makna,[XENO:n ]\nso don't forget to mine it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "We need lots of boxes, so I've[XENO:n ]\nbeen closing lots of them-mo.[XENO:wait wait=key ][System:PageBreak ]I've been moving so much[XENO:n ]\nI've lost a little weight-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "If I don't keep my weight just right,[XENO:n ]\nI won't be able to close the boxes-mo.[XENO:wait wait=key ][System:PageBreak ]Tomorrow I'll have twice[XENO:n ]\nas many snacks as today-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "I've never heard such[XENO:n ]\na terrifying sound before…[XENO:wait wait=key ][System:PageBreak ]An indescribable sound came[XENO:n ]\nfrom deeper inside here-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "It must be the Giant God's groan-mo.[XENO:n ]\nIs the Giant God all right-mo?[XENO:wait wait=key ][System:PageBreak ]Does something[XENO:n ]\nhurt-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "A barrel stored up high fell[XENO:n ]\nduring the shaking-mo![XENO:wait wait=key ][System:PageBreak ]Way too dangerous-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "What if I got hurt-mo? Since[XENO:n ]\nthe Giant God moved,[XENO:wait wait=key ][System:PageBreak ]I'll make him take[XENO:n ]\nresponsibility-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "Tati's voice is so awful, my heart[XENO:n ]\nfeels like it'll fall apart-mo. This[XENO:wait wait=key ][System:PageBreak ]could turn into a noise problem-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "I feel sorry for the food having to[XENO:n ]\nhear songs like that-mo. If it starts[XENO:wait wait=key ][System:PageBreak ]tasting bad, we're in trouble, so I[XENO:n ]\nwant him to restrain himself-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "Yaaawn… Tati's singing is[XENO:n ]\nlulling me to sleep-mo.[XENO:wait wait=key ][System:PageBreak ]I'd love to abandon my work[XENO:n ]\nand laze around sleeping-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "With that singing voice, it feels[XENO:n ]\nlike the food will take on a mellow[XENO:wait wait=key ][System:PageBreak ]flavor-mo. I can't wait to eat it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "My precious Shiny Gold Ball has gone[XENO:n ]\nmissing-mo! I won't be able to play[XENO:wait wait=key ][System:PageBreak ]by rolling it around-mo. What if it[XENO:n ]\ngets scratched…? Please find it-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "[XENO:qst qst=458 ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "If you find it, touch it gently-mo.[XENO:wait wait=key ][System:PageBreak ]Don't grab it hard or crush it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "I'm so worried it was stepped on or[XENO:n ]\nkicked that I can't sit still-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]"
+    }
+  ]
+}

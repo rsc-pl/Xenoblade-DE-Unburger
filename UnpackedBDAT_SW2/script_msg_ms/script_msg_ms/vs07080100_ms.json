@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "We shall travel to the Nopon village.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Nopon village?! That's where we've been heading.[XENO:n ]\nWe reckon it's our best chance of making it to the top.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Since inhabiting the region, the Nopon have been a[XENO:n ]\ngreat help. You can travel to Eryth Sea from their village.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]It's settled. We'll make our way to the Nopon village.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "Very well. The Nopon inhabit a giant tree.[XENO:n ]\nIf we follow this trail, we will be safe.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "Exactly.[XENO:wait wait=key ][System:PageBreak ]And we could have lost our homes[XENO:n ]\nto the Mechon just as easily.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yeah. We could have lost our home too.[XENO:wait wait=key ][System:PageBreak ]The Machine God Soldiers[XENO:n ]\ncould have taken it from us.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "I mean, Reyn, that your closeness[XENO:n ]\nto Shulk is a good thing.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]Never let that friendship die.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You two have always been[XENO:n ]\nreally close, haven't you?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]I think that's a good thing.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Reyn, do you not realise what[XENO:n ]\nhappens to that sword's wielder?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]You were thinking about[XENO:n ]\nsomething that complicated?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]When you put it that way,[XENO:n ]\nhow can I refuse?[XENO:wait wait=key ][System:PageBreak ]Let's get to it, Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yeah,[XENO:n ]\nthat's right.[XENO:wait wait=key ][System:PageBreak ]Of course.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

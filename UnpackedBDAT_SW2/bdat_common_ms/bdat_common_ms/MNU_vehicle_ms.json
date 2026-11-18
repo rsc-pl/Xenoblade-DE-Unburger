@@ -1,0 +1,394 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "Current Score"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "Start !"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "Time up !"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "1st place !"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "2nd place !"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "3rd place !"
+    },
+    {
+      "$id": 7,
+      "style": 13,
+      "name": "Score Attack\n"
+    },
+    {
+      "$id": 8,
+      "style": 13,
+      "name": "Battle Race\n"
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Course Name"
+    },
+    {
+      "$id": 10,
+      "style": 9,
+      "name": "High Score"
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "Reward"
+    },
+    {
+      "$id": 12,
+      "style": 9,
+      "name": "Reward Requirements"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "First-Time Bonus Reward"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "Base Reward"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "Course Info"
+    },
+    {
+      "$id": 16,
+      "style": 9,
+      "name": "New Record"
+    },
+    {
+      "$id": 17,
+      "style": 4,
+      "name": "-----"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "Pause Menu"
+    },
+    {
+      "$id": 19,
+      "style": 19,
+      "name": "Select a character to control."
+    },
+    {
+      "$id": 20,
+      "style": 9,
+      "name": "Confirm"
+    },
+    {
+      "$id": 21,
+      "style": 11,
+      "name": "Start"
+    },
+    {
+      "$id": 22,
+      "style": 11,
+      "name": "Quit"
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "Return to Game"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Retry"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Quit"
+    },
+    {
+      "$id": 26,
+      "style": 11,
+      "name": "Capil Circuit"
+    },
+    {
+      "$id": 27,
+      "style": 11,
+      "name": "Jungle Rumble"
+    },
+    {
+      "$id": 28,
+      "style": 11,
+      "name": "Oval Achamoth"
+    },
+    {
+      "$id": 29,
+      "style": 11,
+      "name": "Valak Slalom"
+    },
+    {
+      "$id": 30,
+      "style": 11,
+      "name": "Country Road"
+    },
+    {
+      "$id": 31,
+      "style": 11,
+      "name": "Twilight Leg"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Midnight Forest"
+    },
+    {
+      "$id": 33,
+      "style": 11,
+      "name": "Dawn Achamoth"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Blizzard Enduro"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Excite Colony 9"
+    },
+    {
+      "$id": 36,
+      "style": 13,
+      "name": "With %s, achieve a score of %d"
+    },
+    {
+      "$id": 37,
+      "style": 59,
+      "name": "A well-balanced, easy-to-handle type across all stats.\nTry your first course with Shulk!"
+    },
+    {
+      "$id": 38,
+      "style": 59,
+      "name": "Top-class speed, but acceleration leaves something to be desired...\nYou want to maintain top speed, but don't forget to brake properly!"
+    },
+    {
+      "$id": 39,
+      "style": 59,
+      "name": "Fast and easy to control!\nUse the high turning performance and keep pushing forward!"
+    },
+    {
+      "$id": 40,
+      "style": 59,
+      "name": "High acceleration allows flexible handling!\nBoost performance is low, so careful boost management is important!"
+    },
+    {
+      "$id": 41,
+      "style": 59,
+      "name": "Speed and turning are the lowest, but the other stats make up for it!\nHigh boost performance makes this easier to handle than you might think..."
+    },
+    {
+      "$id": 42,
+      "style": 59,
+      "name": "A dark horse with top-class boost and turning performance!\nMake up for the low speed with that outstanding boost performance!"
+    },
+    {
+      "$id": 43,
+      "style": 59,
+      "name": "Overwhelming speed and acceleration are the main selling points!\nUse boost when it counts to make up for the other lower stats!"
+    },
+    {
+      "$id": 44,
+      "style": 117,
+      "name": "Start Score Attack\n“%s”?"
+    },
+    {
+      "$id": 45,
+      "style": 117,
+      "name": "Start Battle Race\n“%s”?"
+    },
+    {
+      "$id": 46,
+      "style": 117,
+      "name": "Exit Nopon Grand Prix?\nAre you sure?"
+    },
+    {
+      "$id": 47,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 48,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 49,
+      "style": 13,
+      "name": "Win using %s"
+    },
+    {
+      "$id": 50,
+      "style": 11,
+      "name": "Speed"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Acceleration"
+    },
+    {
+      "$id": 52,
+      "style": 11,
+      "name": "Boost Performance"
+    },
+    {
+      "$id": 53,
+      "style": 11,
+      "name": "Turning Performance"
+    },
+    {
+      "$id": 54,
+      "style": 11,
+      "name": "Weight"
+    },
+    {
+      "$id": 55,
+      "style": 13,
+      "name": "？？？？"
+    },
+    {
+      "$id": 56,
+      "style": 11,
+      "name": "？？？？"
+    },
+    {
+      "$id": 57,
+      "style": 7,
+      "name": "？？？？"
+    },
+    {
+      "$id": 58,
+      "style": 12,
+      "name": "1 CHAIN！"
+    },
+    {
+      "$id": 59,
+      "style": 12,
+      "name": "2 CHAIN！"
+    },
+    {
+      "$id": 60,
+      "style": 12,
+      "name": "3 CHAIN！"
+    },
+    {
+      "$id": 61,
+      "style": 12,
+      "name": "4 CHAIN！"
+    },
+    {
+      "$id": 62,
+      "style": 12,
+      "name": "5 CHAIN！"
+    },
+    {
+      "$id": 63,
+      "style": 12,
+      "name": "6 CHAIN！"
+    },
+    {
+      "$id": 64,
+      "style": 12,
+      "name": "7 CHAIN！"
+    },
+    {
+      "$id": 65,
+      "style": 12,
+      "name": "8 CHAIN！"
+    },
+    {
+      "$id": 66,
+      "style": 12,
+      "name": "9 CHAIN！"
+    },
+    {
+      "$id": 67,
+      "style": 12,
+      "name": "MAX CHAIN！"
+    },
+    {
+      "$id": 68,
+      "style": 5,
+      "name": "NEXT"
+    },
+    {
+      "$id": 69,
+      "style": 5,
+      "name": "GOAL"
+    },
+    {
+      "$id": 70,
+      "style": 11,
+      "name": "Finish !"
+    },
+    {
+      "$id": 71,
+      "style": 25,
+      "name": "4th place"
+    },
+    {
+      "$id": 72,
+      "style": 5,
+      "name": "5th place"
+    },
+    {
+      "$id": 73,
+      "style": 5,
+      "name": "6th place"
+    },
+    {
+      "$id": 74,
+      "style": 11,
+      "name": "7th place"
+    },
+    {
+      "$id": 75,
+      "style": 9,
+      "name": "High Score Updated"
+    },
+    {
+      "$id": 76,
+      "style": 9,
+      "name": "Reward Requirement Met"
+    }
+  ]
+}

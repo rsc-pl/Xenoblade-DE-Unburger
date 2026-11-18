@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]There's a path leading from the base[XENO:n ]\nof Digit 2 to the foot of the Machine God.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]There's a path leading from the base[XENO:n ]\nof Machine God Index Finger to the foot of the Machine God.[XENO:wait wait=key ]"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]We're in your debt. Linada.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]We're in your debt. Linada-san.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Linada, thank you for everything.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Linada-san, thank you for everything.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

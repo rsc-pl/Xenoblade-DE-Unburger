@@ -1,0 +1,299 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "Vanea... Where have you been?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Egil, why do you go so far[XENO:n ]\nto destroy the Giant God?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 3,
+      "style": 125,
+      "name": "We survived that battle.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 4,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]We should have created a new world[XENO:n ]\nin which we could live in peace.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 5,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]And we still can...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 125,
+      "name": "The rage of those who were annihilated[XENO:n ]\nby the Monado will never dissipate.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]Think not about avenging the dead.[XENO:n ]\nThink of the living. Please, Egil![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]I don't want to lose you. [XENO:act act=EVT_EXT10 ]Are you so[XENO:n ]\nresigned to giving your life for this?[XENO:wait wait=key ][XENO:act act=EVT_EXT7 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 125,
+      "name": "Life or death, I care for neither of these.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 10,
+      "style": 125,
+      "name": "The agonised cries of our brethren[XENO:n ]\nresound within my ears.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 11,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Until they are silenced, I am deaf to all else.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 125,
+      "name": "Egil...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 125,
+      "name": "So you have finally arrived. Heir to the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]You are Egil, leader of Machine God.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 125,
+      "name": "That I am.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 16,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Of course. You have never seen[XENO:n ]\nme outside of my Face - Yaldabaoth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]But even if I am without it,[XENO:n ]\nyou will never defeat me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Wait. I didn't come to fight you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]Cowardice?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 20,
+      "style": 125,
+      "name": "Then relinquish the Monado[XENO:n ]\nand kneel before me.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]I didn't come to surrender to you either.[XENO:n ]\nI just want to know something.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 125,
+      "name": "You have my undivided attention.[XENO:n ]\nAsk your question.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT10 ]I've seen the legends of the Machina[XENO:n ]\nright here in the capital.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 24,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT12 ]I think I understand why you[XENO:n ]\nwant to fight the Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 25,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]But why send the Machine God Soldiers[XENO:n ]\nto attack the people of Giant God?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 125,
+      "name": "Hahaha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 125,
+      "name": "I don't see the joke! We share the same world![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 28,
+      "style": 125,
+      "name": "The Homs, Nopon and High Entia live in[XENO:n ]\nharmony, [XENO:act act=EVT3 ]so why not the Machina too?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 125,
+      "name": "Tell me, boy. Are you familiar with[XENO:n ]\nthe concept of starvation tactics?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Of course.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT1 ]A military strategy in which you cut[XENO:n ]\nthe supply lines and starve out the enemy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 125,
+      "name": "So then you understand that that is the[XENO:n ]\nbest method by which to ensure victory.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 33,
+      "style": 125,
+      "name": "I have no resentment or hatred[XENO:n ]\n[XENO:act act=EVT2 ]for the peoples of Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 34,
+      "style": 125,
+      "name": "I am simply depleting the Giant God's energy. Striking back[XENO:n ]\nat the titan that robbed my people of their lives.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT7 ]I don't understand.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]Perhaps you need me to put things more simply.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 37,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]All life on Giant God exists purely to feed its master![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT9 ]What?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 125,
+      "name": "Ether, the base element of all things[XENO:n ]\nthat exist in this world.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 40,
+      "style": 125,
+      "name": "My body, your bodies... You are aware[XENO:n ]\nthat ether is the foundation of them all?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Yes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 125,
+      "name": "Ether is power. You are the[XENO:n ]\nsource of that power.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 43,
+      "style": 125,
+      "name": "All life that is born from the Giant God dies,[XENO:n ]\n[XENO:act act=EVT2 ]and is returned to the Giant God.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 44,
+      "style": 125,
+      "name": "Unlike the Machine God, the Giant God feeds on ether[XENO:n ]\nprovided by those who return to it.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 45,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Upon the moment of its eventual awakening,[XENO:n ]\nit will require an incredible number of lives.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 125,
+      "name": "But that means...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT19 ]What're ya talkin' about?![XENO:n ]\nAre ya sayin' we're just food?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 125,
+      "name": "[XENO:act act=EVT2 ]It was the Giant God that created you[XENO:n ]\nfor such a purpose. Not I.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 125,
+      "name": "So you attacked Giant God to reduce[XENO:n ]\nthe Giant God's power supply?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Correct! You are nothing more than bugs[XENO:n ]\nto be devoured by my sworn adversary.[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 51,
+      "style": 125,
+      "name": "Do not speak to me of your[XENO:n ]\nfoolish dreams of unity.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT13 ]Foolish?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 53,
+      "style": 125,
+      "name": "We only grieve for those we've lost, as you do![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 54,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT15 ]Machina or Homs we've suffered the same![XENO:wait wait=key ]"
+    },
+    {
+      "$id": 55,
+      "style": 125,
+      "name": "[XENO:act act=EVT_EXT4 ]Don't tell me it's different![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 125,
+      "name": "[XENO:act act=EVT1 ]Indeed. We have both suffered.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 125,
+      "name": "So then...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

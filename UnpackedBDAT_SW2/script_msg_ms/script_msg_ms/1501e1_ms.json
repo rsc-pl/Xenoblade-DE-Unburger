@@ -1,0 +1,244 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Dunban, how's your arm[XENO:n ]\nholding up?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "You mean this old thing?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "The others told me what happened[XENO:n ]\na year ago, at Sword Valley.[XENO:wait wait=key ][System:PageBreak ]It must have been very painful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:sel sel=・I don't need your sympathy./・It hardly even bothers me now. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Well excuse me for being[XENO:n ]\nconcerned about your well-being![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "I'm sorry, that was rude of me.[XENO:wait wait=key ][System:PageBreak ]But I'm fine. I'm sure I've told you[XENO:n ]\nI can move it almost perfectly.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I don't think so. In fact, I heard[XENO:n ]\nyou could barely move it at all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Looks like the game is up.[XENO:n ]\nShe doesn't miss a thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Tell me the truth. How much[XENO:n ]\ncan you move your right arm?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・A bit./・As well as anyone! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "I knew it![XENO:wait wait=key ][System:PageBreak ]Finally the truth comes out.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Did you really know all along?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "I'm a medic, aren't I?[XENO:wait wait=key ][System:PageBreak ]Anyway, at least you still[XENO:n ]\nhave some movement.[XENO:wait wait=key ][System:PageBreak ]That's very positive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Yes. I still have some feeling.[XENO:n ]\nAll hope is not lost.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Why not get Linada to look at it?[XENO:n ]\nShe might be able to help you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "I hadn't thought of that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Well, what are you waiting for?[XENO:wait wait=key ][System:PageBreak ]Come on! You and me are[XENO:n ]\nheading for Junks.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "What? Right now?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Yep! And I won't hear any of your[XENO:n ]\nexcuses, Dunban![XENO:wait wait=key ][System:PageBreak ]Hurry up![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]This must be what it feels like[XENO:n ]\nto be Juujuu...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "If you think I'm going to believe[XENO:n ]\nthat, you don't know me at all![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "I... But... It's just...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Can't you see I'm trying to help?[XENO:wait wait=key ][System:PageBreak ]You don't need to try and shield[XENO:n ]\nme from any of this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Carna, I...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "I've seen all kinds of things during[XENO:n ]\nmy time on the battlefield.[XENO:wait wait=key ][System:PageBreak ]If you think I can't handle the[XENO:n ]\ntruth, well, you're wrong.[XENO:wait wait=key ][System:PageBreak ]So there's no need to try[XENO:n ]\nand be all secretive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I apologise, Carna.[XENO:wait wait=key ][System:PageBreak ]I was wrong to doubt you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "Heh. Now you just have to[XENO:n ]\nremember that in the future![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I'm used to this left-handed[XENO:n ]\nstyle now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "It must be tough, though.[XENO:wait wait=key ][System:PageBreak ]Only a year ago you were fighting[XENO:n ]\nwith the Monado.[XENO:wait wait=key ][System:PageBreak ]And this is your reward...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "You think losing the use of one[XENO:n ]\narm is going to hold me back?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "You really can't use your right[XENO:n ]\narm then? That's a real shame.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:sel sel=・I have no regrets./・I'm perfectly fine like this. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Without the Monado, we would[XENO:n ]\nnever have repelled the Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]I did what anyone[XENO:n ]\nwould have done.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "There you go again. Showing off[XENO:n ]\nin that special Dunban way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I wouldn't be in any fit state to be[XENO:n ]\nshowing off if not for all of you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Wow! That's some honesty[XENO:n ]\nright there![XENO:wait wait=key ][System:PageBreak ]I can't believe I've stripped away[XENO:n ]\nso many layers so quickly![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Did I say too much?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "No. It was quite sweet, actually.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Erm... Can I ask you not to tell[XENO:n ]\nRein about this conversation?[XENO:wait wait=key ][System:PageBreak ]If he ever found out, I wouldn't[XENO:n ]\nhear the end of it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Don't worry! My lips are sealed![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "No you're not![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "I'm fine because I know it was[XENO:n ]\nall for the best.[XENO:wait wait=key ][System:PageBreak ]I had no choice. There was no[XENO:n ]\none else able to use the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "Well...I suppose...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "I did it because I had to.[XENO:n ]\nAnd I have no regrets.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "Dunban, ever the humble hero.[XENO:wait wait=key ][System:PageBreak ]I'm sorry for pushing you. I just[XENO:n ]\nwanted you to know I care.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "I know. Thank you.[XENO:wait wait=key ][System:PageBreak ]Your honesty is refreshing,[XENO:n ]\nand I really appreciate it.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

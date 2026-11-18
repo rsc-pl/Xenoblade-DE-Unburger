@@ -93,17 +93,17 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You can't do it on your own.[XENO:wait wait=key ][System:PageBreak ]We'll all help you. Me, Reyn...[XENO:n ]\neveryone! We'll do it together.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]You're not alone, Carna.[XENO:wait wait=key ][System:PageBreak ]You've got me, of course,[XENO:n ]\nbut also Rein and everyone else.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT16 ]You really think Reyn'll chip in?[XENO:wait wait=key ][System:PageBreak ]Hmm. When this is all over, I'll[XENO:n ]\nask him. It'd be great if he did.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Rein, huh...?[XENO:wait wait=key ][System:PageBreak ]Then I'll talk to him when the fighting's over.[XENO:n ]\nI'll ask him to help rebuild the colony.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 19,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Of course he'll help. We all will.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]And Reyn isn't gonna turn down a[XENO:n ]\nrequest by you, Carna. Trust me.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT3 ]Anyway, you wanna go and[XENO:n ]\nfind the others?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]I think that's a good idea.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]I'm sure Rein[XENO:n ]\nwill agree.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT3 ]...Well,[XENO:n ]\nshall we head back?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -133,12 +133,12 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Right. So don't worry, Carna![XENO:n ]\nEverything's gonna be fine.[XENO:wait wait=key ][System:PageBreak ]Me and Reyn are gonna come and[XENO:n ]\nvisit all the time when this is over![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]That's right. So things[XENO:n ]\nwill be fine here.[XENO:wait wait=key ][System:PageBreak ]Even when the fighting's over and we're back[XENO:n ]\nin Colony 9, I'll visit with Rein and the others.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Oh yeah... I guess Reyn will[XENO:n ]\ngo back to Colony 9, huh?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Oh yeah... I guess Rein will[XENO:n ]\ngo back to Colony 9, huh?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,

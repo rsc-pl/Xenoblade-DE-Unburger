@@ -1,0 +1,2969 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Hello there.[XENO:wait wait=key ][System:PageBreak ]Hmm, what should I make for[XENO:n ]\ndinner? Such a tough choice.[XENO:wait wait=key ][System:PageBreak ]Maybe cabbage parcels?[XENO:n ]\nThey're my speciality, you know![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Kids like curry, right? Maybe I'll[XENO:n ]\nmake curry for dinner tonight.[XENO:wait wait=key ][System:PageBreak ]That curry shop in the Commercial[XENO:n ]\nDistrict is all the rage lately.[XENO:wait wait=key ][System:PageBreak ]But mine never goes down well...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "My good-for-nothing son broke[XENO:n ]\nsomething very dear to me![XENO:wait wait=key ][System:PageBreak ]It was all I had left to remember[XENO:n ]\nmy husband by, and now it's gone.[XENO:wait wait=key ][System:PageBreak ]He passed away a mere year ago.[XENO:wait wait=key ][System:PageBreak ]Oooh! He's such a spoilt little boy![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "If you see a boy looking really[XENO:n ]\nsullen, that's probably my son.[XENO:wait wait=key ][System:PageBreak ]Mind trying to cheer him up a bit?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Did you see the boy who's[XENO:n ]\nbeen looking all glum?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust=p:1:a:5:1 ]That's my son, Rocco.[XENO:wait wait=key ][System:PageBreak ]He went all funny just because[XENO:n ]\nI yelled at him a bit.[XENO:wait wait=key ][System:PageBreak ]He looks really worried. I don't[XENO:n ]\nthink I yelled THAT loud...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Wow! Rocco fixed my pendant![XENO:wait wait=key ][System:PageBreak ]I mean, he must have asked[XENO:n ]\nsomeone to do it for him, but still![XENO:wait wait=key ][System:PageBreak ]He's only little, but he's trying so[XENO:n ]\nhard. I'm really proud of my boy![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "I have the best son in the world,[XENO:n ]\nand I don't care who knows it![XENO:wait wait=key ][System:PageBreak ]I'm making his favourite food for[XENO:n ]\ndinner tonight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Rocco fixed the pendant I always[XENO:n ]\nwear to remember his father by.[XENO:wait wait=key ][System:PageBreak ]Look, it shines just as brightly as[XENO:n ]\nthe day my husband gave it to me.[XENO:wait wait=key ][System:PageBreak ]I started to well up when I saw it[XENO:n ]\nfixed... Silly old me... *sob*[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Well, at least my son's sorted out.[XENO:wait wait=key ][System:PageBreak ]Now, if only my tomboy daughter[XENO:n ]\nwould give me the time of day...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "When night falls, I get to[XENO:n ]\nthinking about all kinds of things.[XENO:wait wait=key ][System:PageBreak ]Remembering my husband...[XENO:n ]\nThe happy life we had...[XENO:wait wait=key ][System:PageBreak ]And wondering if I can really[XENO:n ]\nbring up two kids without him...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "My daughter's a bit...well,[XENO:n ]\n'stubborn', to put it mildly.[XENO:wait wait=key ][System:PageBreak ]Lately she won't listen to a[XENO:n ]\nsingle word I say![XENO:wait wait=key ][System:PageBreak ]Maybe I'm just a bad mother...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "I've been spending a lot of time[XENO:n ]\nwith Dean lately.[XENO:wait wait=key ][System:PageBreak ]He makes me go all aflutter![XENO:wait wait=key ][System:PageBreak ]I may be getting on in years,[XENO:n ]\nbut it's nice to feel young again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Dean told me he wanted to eat[XENO:n ]\nSonia-san's cabbage parcels every day![XENO:wait wait=key ][System:PageBreak ]I was surprised. I[XENO:n ]\nburst out laughing![XENO:wait wait=key ][System:PageBreak ]It's really fun being with Dean.[XENO:n ]\nAnd it brings back memories.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "It's settled. Tonight I'm making[XENO:n ]\ncabbage parcels for dinner.[XENO:wait wait=key ][System:PageBreak ]My kids' faces light up every time[XENO:n ]\nI make it![XENO:wait wait=key ][System:PageBreak ]Not like when I make curry...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Heehee...[XENO:wait wait=key ][System:PageBreak ]Dean wants to eat my cabbage[XENO:n ]\nparcels every single day.[XENO:wait wait=key ][System:PageBreak ]I can't help giggling to myself[XENO:n ]\na bit when I think about it![XENO:wait wait=key ][System:PageBreak ]Do I look as happy as I feel?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "I can't believe Riruka was worried[XENO:n ]\nfor my sake.[XENO:wait wait=key ][System:PageBreak ]It's tough raising two kids on my[XENO:n ]\nown. But you know what?[XENO:wait wait=key ][System:PageBreak ]Whatever happens, we always pull[XENO:n ]\nthrough. The three of us, together.[XENO:wait wait=key ][System:PageBreak ]That's because we're a family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Dean's like a younger brother to me.[XENO:wait wait=key ][System:PageBreak ]He puts on this act like[XENO:n ]\nhe's really strong, but...[XENO:wait wait=key ][System:PageBreak ]He's fun to tease.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "I'm playing somewhere different from my[XENO:n ]\nolder sister. We're fighting, you see.[XENO:wait wait=key ][System:PageBreak ]Just because she's older, she[XENO:n ]\nacts like she's so important.[XENO:wait wait=key ][System:PageBreak ]I'm trying hard, too...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Why did I have to break my mum's[XENO:n ]\npendant?![XENO:wait wait=key ][System:PageBreak ]It was a present from Dad![XENO:wait wait=key ][System:PageBreak ]Now she's so angry she makes us[XENO:n ]\nhorrible food every night.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "That pendant was my mum's only[XENO:n ]\none, and I broke it![XENO:wait wait=key ][System:PageBreak ]It even has her name[XENO:n ]\nengraved on it...[XENO:wait wait=key ][System:PageBreak ]I can't buy another one. I just[XENO:n ]\nhope someone can fix it for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "I'm getting pretty hungry.[XENO:n ]\nI wonder what's for dinner tonight.[XENO:wait wait=key ][System:PageBreak ]I bet it's horrible again...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "I'm fighting with both my[XENO:n ]\nolder sister and Mum...[XENO:wait wait=key ][System:PageBreak ]I'm only little, but I've got so many troubles.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Ever since the war a year ago, the[XENO:n ]\nadults have had a lot to deal with.[XENO:wait wait=key ][System:PageBreak ]They don't have time for us kids,[XENO:n ]\nso I never have anyone to turn to.[XENO:wait wait=key ][System:PageBreak ]You know I'm right![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Thanks for the other day.[XENO:wait wait=key ][System:PageBreak ]Dean-san's amazing. I[XENO:n ]\nreally look up to him.[XENO:wait wait=key ][System:PageBreak ]It was in such bad shape,[XENO:n ]\nbut now it looks like new![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "I wish I could learn to fix[XENO:n ]\nall sorts of things, too.[XENO:wait wait=key ][System:PageBreak ]Then I could fix things with my[XENO:n ]\nolder sister right away, couldn't I?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I thought my mum had stopped[XENO:n ]\nbeing angry with me...[XENO:wait wait=key ][System:PageBreak ]But dinner still tastes horrible![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "Maybe she's still angry. Or maybe[XENO:wait wait=key ][System:PageBreak ]my tongue has gone all funny?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I made up with my older sister![XENO:wait wait=key ][System:PageBreak ]It really is fun[XENO:n ]\nplaying with her.[XENO:wait wait=key ][System:PageBreak ]But she gets mad when she's about to[XENO:n ]\nlose, so that's a bit of a bother.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "I wonder if my older sister will be like Mum[XENO:n ]\nwhen she grows up?[XENO:wait wait=key ][System:PageBreak ]I kind of hope she isn't...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Dean-san's a nice person. He's[XENO:n ]\nbeen coming over to play with me.[XENO:wait wait=key ][System:PageBreak ]Mum seems[XENO:n ]\nhappy, too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "But my older sister[XENO:n ]\nalways goes off somewhere.[XENO:wait wait=key ][System:PageBreak ]It's fun, too...[XENO:wait wait=key ][System:PageBreak ]I wonder why. She looks lonely.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "My older sister Riruka has a short[XENO:n ]\ntemper and won't admit how she feels.[XENO:wait wait=key ][System:PageBreak ]But she has a kind side, too.[XENO:n ]\nDon't get the wrong idea about her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "My mum's a great cook! At least,[XENO:n ]\nher cabbage parcels are amazing![XENO:wait wait=key ][System:PageBreak ]My dad loved them too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "I just wish Mum would get better[XENO:n ]\nat cooking other stuff.[XENO:wait wait=key ][System:PageBreak ]Then she'd be the best mum in[XENO:n ]\nthe whole wide world![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "My dad is one of the stars[XENO:n ]\nshining in the night sky.[XENO:wait wait=key ][System:PageBreak ]He watches over me every night.[XENO:wait wait=key ][System:PageBreak ]That's why I gaze out the window[XENO:n ]\nto see him, too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Dad passed away last year.[XENO:wait wait=key ][System:PageBreak ]But I know it's all thanks to him[XENO:n ]\nthat I can live so peacefully.[XENO:wait wait=key ][System:PageBreak ]He helped save our colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "That snot-nosed brother of mine![XENO:wait wait=key ][System:PageBreak ]I said I'd play with him, and he[XENO:n ]\njust ran off![XENO:wait wait=key ][System:PageBreak ]Well, whatever. I can play[XENO:n ]\nby myself. Hmph.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "My younger brother's been looking down lately.[XENO:n ]\nSeems like he's thinking about something...[XENO:wait wait=key ][System:PageBreak ]Hmph. Forget it. I'm[XENO:n ]\ndone worrying about him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "I bet dinner's going to be[XENO:n ]\nnasty again tonight.[XENO:wait wait=key ][System:PageBreak ]Wait, don't tell Mum I said that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Dinner's been awful[XENO:n ]\nevery night lately.[XENO:wait wait=key ][System:PageBreak ]Just thinking about it gives me[XENO:n ]\na stomach ache![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:6:2 ]Rocco is such a snot-nosed brat![XENO:wait wait=key ][System:PageBreak ]I told him I wouldn't mind playing[XENO:n ]\nwith him, but he just ran off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Rocco seems down in the dumps[XENO:n ]\nlately. Something's bothering him.[XENO:wait wait=key ][System:PageBreak ]He should just come and play![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "I bet dinner's going to be[XENO:n ]\nnasty again tonight.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:12:3 ]Wait! If you see someone called[XENO:n ]\nSonia, don't tell her I said that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Dad... You'll always be[XENO:n ]\nlooking out for me, right?[XENO:wait wait=key ][System:PageBreak ]Oh, sorry, I was just talking to[XENO:n ]\nmyself. Forget I said anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "You ready, Rocco? Just remember[XENO:n ]\nto let me win sometimes![XENO:wait wait=key ][System:PageBreak ]It's boring if you win all the time.[XENO:n ]\nNot to mention rude![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "It's fun playing with my younger[XENO:n ]\nbrother. Just a little, though.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Mum's in a great mood these days.[XENO:n ]\nThere's just one thing...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Oh, never mind.[XENO:wait wait=key ][System:PageBreak ]Hey, Rocco, wait for me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Dad's with us wherever we go.[XENO:wait wait=key ][System:PageBreak ]He's watching as we grow up, and[XENO:n ]\nhe'll be there until the day we die.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "It's nice being part of a family.[XENO:wait wait=key ][System:PageBreak ]Just being together makes the[XENO:n ]\nworld seem a little bit brighter.[XENO:wait wait=key ][System:PageBreak ]But only a little bit.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Dean? He's OK.[XENO:wait wait=key ][System:PageBreak ]I don't mind if he's around once in[XENO:n ]\na while...[XENO:wait wait=key ][System:PageBreak ]But I don't want to see him every[XENO:n ]\nday![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "I'll let you in on a little secret:[XENO:wait wait=key ][System:PageBreak ]Apart from her famous cabbage[XENO:n ]\nparcels, Mum is a TERRIBLE cook.[XENO:wait wait=key ][System:PageBreak ]I bet even I could cook better![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Me and Rocco are used to Mum's[XENO:n ]\nawful food. It's fine for us.[XENO:wait wait=key ][System:PageBreak ]But I bet if she fed it to anyone[XENO:n ]\nelse, they'd just keel over.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "I'm always working, so my[XENO:n ]\ndaughter's staying with her gran.[XENO:wait wait=key ][System:PageBreak ]I wish we could all live together,[XENO:n ]\nbut I'm too poor for a new house.[XENO:wait wait=key ][System:PageBreak ]And she won't be little forever...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "I can't fight or nothin', so I make[XENO:n ]\nfood for everyone instead.[XENO:wait wait=key ][System:PageBreak ]That's my way of helping out.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "Hey, mate! You after some curry?[XENO:wait wait=key ][System:PageBreak ]Better grab it before it goes! I only[XENO:n ]\nmake enough for 20 plates a day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "This is the busiest time of the day.[XENO:wait wait=key ][System:PageBreak ]If you're not eatin', then I ain't[XENO:n ]\nlisten'. Eat up or move on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "There you are! How come[XENO:n ]\nyou're here so late?[XENO:wait wait=key ][System:PageBreak ]I've run out of curry. I only make[XENO:n ]\nenough for 20 plates. Sorry, mate![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "It's tough finding good ingredients[XENO:n ]\nnowadays. Not like it used to be.[XENO:wait wait=key ][System:PageBreak ]But I don't let it get to me. It's[XENO:n ]\njust something you gotta deal with![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 60,
+      "style": 126,
+      "name": "The place is full of customers,[XENO:n ]\njust how I like it![XENO:wait wait=key ][System:PageBreak ]The more curry I sell, the more[XENO:n ]\nmoney my daughter has.[XENO:wait wait=key ][System:PageBreak ]Hey, what did you just say about[XENO:n ]\nmy daughter?! Nothing? Good![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 61,
+      "style": 126,
+      "name": "It's a tough life, though. Every[XENO:n ]\nnight I crash out when I get home.[XENO:wait wait=key ][System:PageBreak ]Work hard, sleep hard.[XENO:n ]\nThat's my motto![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 62,
+      "style": 126,
+      "name": "Welcome! I've got a limited run[XENO:n ]\nof 20 servings of curry today![XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:45:3 ]Even the famous artist Keni[XENO:n ]\nRuhin sings its praises![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 63,
+      "style": 126,
+      "name": "I hear Keni Ruhin has taken on a pupil.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:45:4 ]He's a fine[XENO:n ]\nman, that one.[XENO:wait wait=key ][System:PageBreak ]He doesn't focus solely on art. He[XENO:n ]\ncares about the people here, too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 64,
+      "style": 126,
+      "name": "Wish I was the one with a pupil.[XENO:wait wait=key ][System:PageBreak ]But I suppose you gotta do what's[XENO:n ]\nright for you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 65,
+      "style": 126,
+      "name": "You saw the fireworks, right?[XENO:wait wait=key ][System:PageBreak ]I got to see them with my little[XENO:n ]\ngirl. Just lucky timing.[XENO:wait wait=key ][System:PageBreak ]You should have seen her face,[XENO:n ]\nthough! She looked so happy.[XENO:wait wait=key ][System:PageBreak ]The whole colony did.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:47:4 ]I hear the guy behind it was called[XENO:n ]\nPeanut or something, yeah?[XENO:wait wait=key ][System:PageBreak ]Well, if I ever see the guy around,[XENO:n ]\nI'm treating him to some curry.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 66,
+      "style": 126,
+      "name": "Morning![XENO:wait wait=key ][System:PageBreak ]*yawn* I'm terribly tired.[XENO:n ]\nToo tired, in fact. How suspicious.[XENO:wait wait=key ][System:PageBreak ]I think someone's been fiddling[XENO:n ]\nwith my clock while I'm sleeping.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 67,
+      "style": 126,
+      "name": "Not many people are up and about[XENO:n ]\nthis early. Only the best people![XENO:wait wait=key ][System:PageBreak ]It's like they say. Early to bed and[XENO:n ]\nearly to rise... I forget the rest.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 68,
+      "style": 126,
+      "name": "Nothing to report![XENO:wait wait=key ][System:PageBreak ]Well? Did I[XENO:n ]\nlook cool?[XENO:wait wait=key ][System:PageBreak ]I'm not standing here[XENO:n ]\nfor nothing, you know.[XENO:wait wait=key ][System:PageBreak ]I'm more useful than my older[XENO:n ]\nbrother, who can't do anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 69,
+      "style": 126,
+      "name": "Unlike my older brother, things go[XENO:n ]\nwell for me with just a bit of effort.[XENO:wait wait=key ][System:PageBreak ]Is it talent? Or[XENO:n ]\nam I just lucky?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 70,
+      "style": 126,
+      "name": "You know the soldier who keeps[XENO:n ]\nwatch in the Residential District?[XENO:wait wait=key ][System:PageBreak ]She's my friend. She's been in the[XENO:n ]\nDefence Force longer than me.[XENO:wait wait=key ][System:PageBreak ]I should go out somewhere with[XENO:n ]\nher, have a little fun![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 71,
+      "style": 126,
+      "name": "If I do go out somewhere with her,[XENO:n ]\nI mustn't spend too much, though.[XENO:wait wait=key ][System:PageBreak ]Maybe I should sell materials too.[XENO:n ]\nThere's good money in that, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 72,
+      "style": 126,
+      "name": "I'm the only one stationed in the[XENO:n ]\nCommercial District. It's no fun.[XENO:wait wait=key ][System:PageBreak ]I hope the others will visit me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 73,
+      "style": 126,
+      "name": "Nearly time to go home![XENO:wait wait=key ][System:PageBreak ]When I get home I'll have dinner,[XENO:n ]\nthen it's straight to bed.[XENO:wait wait=key ][System:PageBreak ]I get up at five and leave at six[XENO:n ]\nfor my gatekeeping duties.[XENO:wait wait=key ][System:PageBreak ]It's a hard job, but someone's[XENO:n ]\ngot to do it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 74,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:23:3 ]You know the soldier who keeps[XENO:n ]\nwatch in the Residential District?[XENO:wait wait=key ][System:PageBreak ]That's Minnie. She's been in the[XENO:n ]\nDefence Force longer than me.[XENO:wait wait=key ][System:PageBreak ]I should go out somewhere with[XENO:n ]\nher, have a little fun![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 75,
+      "style": 126,
+      "name": "So Captain Luhiol was testing me?[XENO:wait wait=key ][System:PageBreak ]Oh... If only I'd presented[XENO:n ]\nmyself a bit better.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 76,
+      "style": 126,
+      "name": "But there's still hope. I'm not[XENO:n ]\ngoing to lose to Minnie.[XENO:wait wait=key ][System:PageBreak ]I can beat her![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 77,
+      "style": 126,
+      "name": "If I do go out somewhere with her,[XENO:n ]\nI mustn't spend too much, though.[XENO:wait wait=key ][System:PageBreak ]Maybe I should sell materials too.[XENO:n ]\nThere's good money in that, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 78,
+      "style": 126,
+      "name": "Morning![XENO:wait wait=key ][System:PageBreak ]*yawn* I'm terribly...[XENO:wait wait=key ][System:PageBreak ]No! I'm not tired at all![XENO:n ]\nI'm wide awake, me![XENO:wait wait=key ][System:PageBreak ]A lieutenant can't[XENO:n ]\nafford to be tired![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 79,
+      "style": 126,
+      "name": "I have more duties now on top of[XENO:n ]\nkeeping watch here.[XENO:wait wait=key ][System:PageBreak ]No time for lazing about![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 80,
+      "style": 126,
+      "name": "I don't think Minnie likes me now.[XENO:wait wait=key ][System:PageBreak ]But I can't help that, can I?[XENO:n ]\nCaptain Luhiol made his choice.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 81,
+      "style": 126,
+      "name": "I wish Minnie would stop sulking.[XENO:wait wait=key ][System:PageBreak ]It's not my fault promotions in the[XENO:n ]\nDefence Force are based on merit.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 82,
+      "style": 126,
+      "name": "Am I right in thinking it was[XENO:n ]\nyou who nominated me?[XENO:wait wait=key ][System:PageBreak ]Thank you so much. Now I'm that[XENO:n ]\nlittle bit better off each month![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 83,
+      "style": 126,
+      "name": "I'm not keeping the extra cash to[XENO:n ]\nmyself, though.[XENO:wait wait=key ][System:PageBreak ]I can buy all kinds of food for[XENO:n ]\nthose kids now.[XENO:wait wait=key ][System:PageBreak ]Being charitable is a great feeling.[XENO:n ]\nBut I'll stop going on about it now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 84,
+      "style": 126,
+      "name": "I'm fine at the moment. I wonder if[XENO:n ]\nCaptain Luhiol needs anything?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 85,
+      "style": 126,
+      "name": "Gargh! No one's turned up to[XENO:n ]\nhelp. We still need 30 people![XENO:wait wait=key ][System:PageBreak ]It's my son. He's gone missing,[XENO:n ]\nand I'll never find him on my own.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 86,
+      "style": 126,
+      "name": "We can search for all those who[XENO:n ]\nwent missing during the war, too![XENO:wait wait=key ][System:PageBreak ]If we work together, I'm sure we[XENO:n ]\nwill be able to find them all![XENO:wait wait=key ][System:PageBreak ]I have to find my son![XENO:n ]\nWhy won't anyone listen to me?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 87,
+      "style": 126,
+      "name": "Most people here have lost people[XENO:n ]\nthey loved. Why won't they help?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 88,
+      "style": 126,
+      "name": "It's no good just standing around.[XENO:n ]\nWe all have to go out and search.[XENO:wait wait=key ][System:PageBreak ]For my son, and for all the other[XENO:n ]\npeople who have been lost.[XENO:wait wait=key ][System:PageBreak ]I know we can find them![XENO:n ]\nThere must be people who care![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 89,
+      "style": 126,
+      "name": "So it's true. My son... He's dead.[XENO:wait wait=key ][System:PageBreak ]No mother should have to[XENO:n ]\noutlive her son.[XENO:wait wait=key ][System:PageBreak ]I can barely live with my regrets.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 90,
+      "style": 126,
+      "name": "As soon as I saw his things,[XENO:n ]\nit finally hit home for me.[XENO:wait wait=key ][System:PageBreak ]He's gone. It's painful, but there's[XENO:n ]\nnothing I can do about it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 91,
+      "style": 126,
+      "name": "I just couldn't admit he was gone.[XENO:wait wait=key ][System:PageBreak ]That's why I caused all this[XENO:n ]\ntrouble for everyone.[XENO:wait wait=key ][System:PageBreak ]Thank you so much for[XENO:n ]\nhelping me snap out of it.[XENO:wait wait=key ][System:PageBreak ]That was no way to honour[XENO:n ]\nmy son's memory.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 92,
+      "style": 126,
+      "name": "Thank you for gathering his[XENO:n ]\neffects. I'll keep them safe.[XENO:wait wait=key ][System:PageBreak ]And then, when I become one with[XENO:n ]\nthe Giant God, I'll take them with me.[XENO:wait wait=key ][System:PageBreak ]But don't worry, I've got a few[XENO:n ]\nyears left in me yet. Hahaha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 93,
+      "style": 126,
+      "name": "I saw old man Dionysis recently.[XENO:n ]\nI hadn't spoken to him in years.[XENO:wait wait=key ][System:PageBreak ]He comforted me about my son.[XENO:n ]\nIt was so nice of him.[XENO:wait wait=key ][System:PageBreak ]He used to help my boy out, too.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:20:4 ]He might not look it, but Dionysis[XENO:n ]\nis one man you can truly rely on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 94,
+      "style": 126,
+      "name": "I'm on Rein's side. Rein's[XENO:n ]\nthe best in the whole world![XENO:wait wait=key ][System:PageBreak ]I keep getting into fights[XENO:n ]\nwith my friend who likes Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 95,
+      "style": 126,
+      "name": "I'm gonna have so much fun today![XENO:wait wait=key ][System:PageBreak ]I know a secret place to hang out.[XENO:wait wait=key ][System:PageBreak ]You'll never find it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 96,
+      "style": 126,
+      "name": "What?! How did you find me?[XENO:wait wait=key ][System:PageBreak ]This is my secret place![XENO:wait wait=key ][System:PageBreak ]Just don't tell anyone else, OK?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 97,
+      "style": 126,
+      "name": "I wish my dad would take a day[XENO:n ]\noff once in a while.[XENO:wait wait=key ][System:PageBreak ]All he does is work.[XENO:wait wait=key ][System:PageBreak ]He's super successful though![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 98,
+      "style": 126,
+      "name": "When Rein lifts me up, I[XENO:n ]\ncan see really far away![XENO:wait wait=key ][System:PageBreak ]I want him to[XENO:n ]\ndo it again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 99,
+      "style": 126,
+      "name": "I'm going to marry Rein when I grow[XENO:n ]\nup! I wonder if he'll wait for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 100,
+      "style": 126,
+      "name": "Is it that late already?![XENO:wait wait=key ][System:PageBreak ]If I don't get home[XENO:n ]\nsoon, Gran will scold me![XENO:wait wait=key ][System:PageBreak ]I hear if I'm outside when it's pitch-dark,[XENO:n ]\na Meld Lizard will take me away![XENO:wait wait=key ][System:PageBreak ]Scary![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 101,
+      "style": 126,
+      "name": "Dad and Gran always say, 'There[XENO:n ]\naren't enough hours in the day.'[XENO:wait wait=key ][System:PageBreak ]But I think there are quite a lot.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 102,
+      "style": 126,
+      "name": "Yay, Rein! It's Rein![XENO:wait wait=key ][System:PageBreak ]Come play with me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 103,
+      "style": 126,
+      "name": "Sorry, I'm busy right now.[XENO:wait wait=key ][System:PageBreak ]Maybe another[XENO:n ]\ntime, okay?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 104,
+      "style": 126,
+      "name": "You'd better promise![XENO:wait wait=key ][System:PageBreak ]Even though you forget every[XENO:n ]\npromise you ever make...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 105,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:65:2 ]Nerine-chan says[XENO:n ]\nshe likes Shulk![XENO:wait wait=key ][System:PageBreak ]She's got weird taste, huh?[XENO:wait wait=key ][System:PageBreak ]Oh, I don't mean Shulk's[XENO:n ]\nweird. Nerine-chan is![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 106,
+      "style": 126,
+      "name": "I definitely like Rein[XENO:n ]\nbetter than Shulk![XENO:wait wait=key ][System:PageBreak ]I'm going to marry Rein when I grow[XENO:n ]\nup! I wonder if he'll wait for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 107,
+      "style": 126,
+      "name": "Rein's definitely[XENO:n ]\nbetter than Shulk.[XENO:wait wait=key ][System:PageBreak ]Right? Don't you think so too?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 108,
+      "style": 126,
+      "name": "Nerine-chan and I are rivals![XENO:wait wait=key ][System:PageBreak ]Unless Shulk and Rein[XENO:n ]\nget along even better,[XENO:wait wait=key ][System:PageBreak ]we always will be.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 109,
+      "style": 126,
+      "name": "Nerine-chan and I had a huge fight the other day.[XENO:wait wait=key ][System:PageBreak ]Who's stronger, Shulk or[XENO:n ]\nRein? It's obviously Rein![XENO:wait wait=key ][System:PageBreak ]But Nerine-chan says[XENO:n ]\nShulk's the smarter one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 110,
+      "style": 126,
+      "name": "I hate Shulk.[XENO:wait wait=key ][System:PageBreak ]If Shulk didn't exist, I wouldn't[XENO:n ]\nhave to fight with Nerine-chan.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 111,
+      "style": 126,
+      "name": "Nerine-chan and I are best[XENO:n ]\nfriends, just like Shulk and Rein![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 112,
+      "style": 126,
+      "name": "Rein's strong, and Shulk's clever.[XENO:wait wait=key ][System:PageBreak ]Together, they can[XENO:n ]\nbeat anything, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 113,
+      "style": 126,
+      "name": "You know, I really[XENO:n ]\nlove Rein, but...[XENO:wait wait=key ][System:PageBreak ]I think Shulk's not so bad either. He listens[XENO:n ]\nto me and he's kind to kids, you know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 114,
+      "style": 126,
+      "name": "I'm going to write Nerine-chan[XENO:n ]\na letter when I get home.[XENO:wait wait=key ][System:PageBreak ]Gran checks my spelling.[XENO:n ]\nPerfect, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 115,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:62:3 ]I've been getting along with Gref-kun lately.[XENO:wait wait=key ][System:PageBreak ]He's more grown-up than Rein,[XENO:n ]\nand I like that about him![XENO:wait wait=key ][System:PageBreak ]I'll tell Nerine-chan[XENO:n ]\nabout him next time.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 116,
+      "style": 126,
+      "name": "You were a lifesaver, taking those[XENO:n ]\nbiscuits to Jiroque for me.[XENO:wait wait=key ][System:PageBreak ]I'll make you something tasty in[XENO:n ]\nreturn. What would you like?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 117,
+      "style": 126,
+      "name": "Watching over the colony makes[XENO:n ]\nme want to buy Jiroque a present.[XENO:wait wait=key ][System:PageBreak ]I know he's a bit too old for that[XENO:n ]\nnow, but he's still my grandson.[XENO:wait wait=key ][System:PageBreak ]I'll always see him as my sweet[XENO:n ]\nlittle grandson.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 118,
+      "style": 126,
+      "name": "Who's that nice little girl always[XENO:n ]\nplaying by the colony's entrance?[XENO:wait wait=key ][System:PageBreak ]I bet she'd enjoy some[XENO:n ]\nof my biscuits.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 119,
+      "style": 126,
+      "name": "I'm always baking them anyway,[XENO:n ]\nand it's nice to share them.[XENO:wait wait=key ][System:PageBreak ]But I live on my own, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 120,
+      "style": 126,
+      "name": "Do you know the little girl who[XENO:n ]\nplays by the colony's entrance?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:13:3 ]I believe she's called Riruka.[XENO:wait wait=key ][System:PageBreak ]She's just as spirited as my[XENO:n ]\ngrandson was when he was young.[XENO:wait wait=key ][System:PageBreak ]I bet she'd enjoy my biscuits.[XENO:n ]\nI think I'll bake her some later.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 121,
+      "style": 126,
+      "name": "I always like to bake anyway,[XENO:n ]\nand I think she'd appreciate some.[XENO:wait wait=key ][System:PageBreak ]I live on my own, so I don't always[XENO:n ]\nget a chance to share them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 122,
+      "style": 126,
+      "name": "I gave Riruka-chan some[XENO:n ]\ncookies the other day.[XENO:wait wait=key ][System:PageBreak ]She looked so happy[XENO:n ]\nwhen she thanked me.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:13:4 ]She's such a cheerful,[XENO:n ]\npolite little girl.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 123,
+      "style": 126,
+      "name": "My grandsons are boys, so they were[XENO:n ]\nonly cute when they were little.[XENO:wait wait=key ][System:PageBreak ]Girls are lovely, though. They stay[XENO:n ]\ncute no matter how old they get.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 124,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:9:2 ]I hear Kazuroo's gone off on a journey.[XENO:wait wait=key ][System:PageBreak ]What a hopeless[XENO:n ]\nolder brother he is.[XENO:wait wait=key ][System:PageBreak ]I hope he doesn't get[XENO:n ]\neaten by a beast, though.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 125,
+      "style": 126,
+      "name": "I think Jiroque is relieved more[XENO:n ]\nthan anything else.[XENO:wait wait=key ][System:PageBreak ]Now he won't be getting involved[XENO:n ]\nin any more scraps.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 126,
+      "style": 126,
+      "name": "Thank you for the other day. I've[XENO:n ]\ntreated Kazuroo terribly all this time...[XENO:wait wait=key ][System:PageBreak ]Adopted or not, he's one[XENO:n ]\nof my grandchildren, too.[XENO:wait wait=key ][System:PageBreak ]I'm going to make it up to him by giving[XENO:n ]\nhim all the love I should have before.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 127,
+      "style": 126,
+      "name": "Not that I'll love Jiroque any less.[XENO:wait wait=key ][System:PageBreak ]They're such close brothers and[XENO:n ]\nsuch wonderful grandsons![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 128,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:15:5 ]It was you that did so much for[XENO:n ]\nCyril recently, wasn't it?[XENO:wait wait=key ][System:PageBreak ]We used to be very close friends,[XENO:n ]\nbut it's been hard to deal with her.[XENO:wait wait=key ][System:PageBreak ]Ever since her son died, she's[XENO:n ]\nbeen beyond all reason.[XENO:wait wait=key ][System:PageBreak ]In showing her the truth, you've[XENO:n ]\ndone me a great favour as well.[XENO:wait wait=key ][System:PageBreak ]I'm truly grateful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 129,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:345:3 ]I've heard that Durand is in town.[XENO:wait wait=key ][System:PageBreak ]It's been a while since he's shown[XENO:n ]\nhis face here, so I was worried.[XENO:wait wait=key ][System:PageBreak ]What? He might not[XENO:n ]\neven show his face?[XENO:wait wait=key ][System:PageBreak ]Well, I expect a free spirit like him[XENO:n ]\nto be chasing dreams somewhere.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 130,
+      "style": 126,
+      "name": "Oh, Shulk, you've been out again?[XENO:wait wait=key ][System:PageBreak ]Let me guess... Searching for[XENO:n ]\nscrap metal as usual?[XENO:wait wait=key ][System:PageBreak ]Not that it's scrap anymore when[XENO:n ]\nyou get your hands on it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 131,
+      "style": 126,
+      "name": "You shouldn't go outside the[XENO:n ]\ncolony on your own, Shulk.[XENO:wait wait=key ][System:PageBreak ]The monsters will eat you alive![XENO:wait wait=key ][System:PageBreak ]At least keep that hulking lummox[XENO:n ]\naround to fight them off.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 132,
+      "style": 126,
+      "name": "Oh, Fiorung, are you going over[XENO:n ]\nto visit Shulk again?[XENO:wait wait=key ][System:PageBreak ]He went past earlier. He had the[XENO:n ]\nstrangest expression on his face...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 133,
+      "style": 126,
+      "name": "I must say, I'm jealous.[XENO:wait wait=key ][System:PageBreak ]Wish I had a pretty girl like you[XENO:n ]\ncooking for me all the time![XENO:wait wait=key ][System:PageBreak ]It's like you two are more than[XENO:n ]\njust friends. Ha ha ha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 134,
+      "style": 126,
+      "name": "You know the Mag Mell Ruins?[XENO:wait wait=key ][System:PageBreak ]You can see them from the[XENO:n ]\nentrance to the colony.[XENO:wait wait=key ][System:PageBreak ]You know, that great big metal[XENO:n ]\nthing sticking out of the rock.[XENO:wait wait=key ][System:PageBreak ]Well, jumping down from there is[XENO:n ]\nthe quickest way to get back here.[XENO:wait wait=key ][System:PageBreak ]But it's really scary. I did it once,[XENO:n ]\nwhen I was young and foolish...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 135,
+      "style": 126,
+      "name": "If you're falling, just make sure[XENO:n ]\nthere's water below you.[XENO:wait wait=key ][System:PageBreak ]Then you'll be safe no matter how[XENO:n ]\nbig the drop is. Try it out![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 136,
+      "style": 126,
+      "name": "Are you two leaving?[XENO:wait wait=key ][System:PageBreak ]I don't blame you. That was[XENO:n ]\nawful, what happened to Fiorung.[XENO:wait wait=key ][System:PageBreak ]Be careful, though. Make sure[XENO:n ]\nyou come back in one piece.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 137,
+      "style": 126,
+      "name": "Go through Tephra Cave and[XENO:n ]\ncross the Giant God's Leg.[XENO:wait wait=key ][System:PageBreak ]That'll take you to Colony 6...[XENO:n ]\neventually.[XENO:wait wait=key ][System:PageBreak ]But watch out for monsters that[XENO:n ]\nare too strong for you.[XENO:wait wait=key ][System:PageBreak ]Sometimes the best thing is to[XENO:n ]\nrun away or find another route.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 138,
+      "style": 126,
+      "name": "Colony 6 was attacked by Machine God Soldiers[XENO:n ]\ntoo? It was even worse there than here, then.[XENO:wait wait=key ][System:PageBreak ]So the Homs are being driven into[XENO:n ]\na corner without even knowing it...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 139,
+      "style": 126,
+      "name": "I haven't forgotten[XENO:n ]\nthe war a year ago.[XENO:wait wait=key ][System:PageBreak ]I believe you and the Monado[XENO:n ]\nwill be our ray of hope.[XENO:wait wait=key ][System:PageBreak ]Drive the Machine God Soldiers away! Bring us peace![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 140,
+      "style": 126,
+      "name": "Fiorung's alive? That's[XENO:n ]\nwonderful news![XENO:wait wait=key ][System:PageBreak ]And not just because the area will[XENO:n ]\nsmell like her great cooking again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 141,
+      "style": 126,
+      "name": "Dunban-san and the others still have things[XENO:n ]\nto do, so they can't come home yet, right?[XENO:wait wait=key ][System:PageBreak ]But nobody in town is worried. We know[XENO:n ]\nthey'll see it through and come back safely.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 142,
+      "style": 126,
+      "name": "Things have taken a terrible turn.[XENO:wait wait=key ][System:PageBreak ]Luckily, those Telethia[XENO:n ]\nmonsters haven't come here.[XENO:wait wait=key ][System:PageBreak ]We thought the Machine God Soldiers were[XENO:n ]\ngone, and now there's another problem.[XENO:wait wait=key ][System:PageBreak ]When will we ever have peace?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 143,
+      "style": 126,
+      "name": "It's not the Defence Force[XENO:n ]\nthat truly protects this town.[XENO:wait wait=key ][System:PageBreak ]I believe it's Shulk,[XENO:n ]\nFiorung, Rein and Dunban-san.[XENO:wait wait=key ][System:PageBreak ]We're cheering for you.[XENO:n ]\nWe're counting on you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 144,
+      "style": 126,
+      "name": "You know that big lump of metal[XENO:n ]\nsticking out of the western cliff?[XENO:wait wait=key ][System:PageBreak ]There are all kinds of machines in[XENO:n ]\nthere that we could never make.[XENO:wait wait=key ][System:PageBreak ]But you already knew that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 145,
+      "style": 126,
+      "name": "I'm so glad Colony 9 is at peace.[XENO:wait wait=key ][System:PageBreak ]A year ago we were at war.[XENO:n ]\nLife is so much happier now.[XENO:wait wait=key ][System:PageBreak ]I hope nothing changes. I hope[XENO:n ]\nit stays like this forever...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 146,
+      "style": 126,
+      "name": "You know that big lump of metal[XENO:n ]\nsticking out of the western cliff?[XENO:wait wait=key ][System:PageBreak ]There are Ether Cylinders in there[XENO:n ]\nthat can power all kinds of things![XENO:wait wait=key ][System:PageBreak ]But you already knew that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 147,
+      "style": 126,
+      "name": "Everything on Giant God is made[XENO:n ]\nout of ether.[XENO:wait wait=key ][System:PageBreak ]And very pure ether is stored in[XENO:n ]\nwhat we call Ether Cylinders.[XENO:wait wait=key ][System:PageBreak ]But you already knew all that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 148,
+      "style": 126,
+      "name": "I've been in a bit of a state,[XENO:n ]\nbut now's not the time to panic.[XENO:wait wait=key ][System:PageBreak ]Another attack could come any[XENO:n ]\nday. We have to set up defences.[XENO:wait wait=key ][System:PageBreak ]Otherwise the next time[XENO:n ]\ncould be even worse.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 149,
+      "style": 126,
+      "name": "What were the Machine God Soldiers trying to[XENO:n ]\nachieve by attacking Colony 9?[XENO:wait wait=key ][System:PageBreak ]I feel like knowing that would[XENO:n ]\nhelp us defend ourselves.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 150,
+      "style": 126,
+      "name": "I hear the Machine God[XENO:n ]\nSoldiers occupied Colony 6.[XENO:wait wait=key ][System:PageBreak ]It's rich in ether, so it must[XENO:n ]\nhave made a suitable relay base.[XENO:wait wait=key ][System:PageBreak ]Now we've taken it back,[XENO:n ]\ndon't we have the advantage?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 151,
+      "style": 126,
+      "name": "Thinking about what happened in[XENO:n ]\nColony 6 makes me want to cry.[XENO:wait wait=key ][System:PageBreak ]I can't imagine having my home[XENO:n ]\ntrampled all over and occupied.[XENO:wait wait=key ][System:PageBreak ]At least reconstruction has begun.[XENO:n ]\nThat alone is a powerful thing.[XENO:wait wait=key ][System:PageBreak ]It shows there's still hope.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 152,
+      "style": 126,
+      "name": "I heard Galahad Fortress fell![XENO:n ]\nIsn't that incredible?[XENO:wait wait=key ][System:PageBreak ]I feel like true peace might finally[XENO:n ]\nbe waiting just around the corner.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 153,
+      "style": 126,
+      "name": "The soldiers are all in a tizzy, and[XENO:n ]\nthe whole colony's on tenterhooks.[XENO:wait wait=key ][System:PageBreak ]I expect there'll be a colony-wide[XENO:n ]\nparty if we finally achieve peace.[XENO:wait wait=key ][System:PageBreak ]We can't all fight, but we're[XENO:n ]\ndoing everything we can.[XENO:wait wait=key ][XENO:del del=this ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 154,
+      "style": 126,
+      "name": "I naively thought there'd be peace once[XENO:n ]\nthe Machine God Soldiers were gone.[XENO:wait wait=key ][System:PageBreak ]Those monsters called Telethia[XENO:n ]\ncan see the future, can't they?[XENO:wait wait=key ][System:PageBreak ]If they attack our[XENO:n ]\ntown, we're done for.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 155,
+      "style": 126,
+      "name": "At least we could hurt the Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]But we can't fight[XENO:n ]\nthe Telethia.[XENO:wait wait=key ][System:PageBreak ]Even our anti-air batteries and[XENO:n ]\nDefence Force would be powerless.[XENO:wait wait=key ][System:PageBreak ]I've never felt so anxious.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 156,
+      "style": 126,
+      "name": "If you're short of cash, why not[XENO:n ]\ndo a few quests?[XENO:wait wait=key ][System:PageBreak ]Particularly ones where you have[XENO:n ]\nto defeat monsters or collect stuff.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 157,
+      "style": 126,
+      "name": "Some of the quests people give[XENO:n ]\nyou might be pretty tough...[XENO:wait wait=key ][System:PageBreak ]But hey - no pain, no gain, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 158,
+      "style": 126,
+      "name": "If you're short of cash, why not[XENO:n ]\ndo a few quests?[XENO:wait wait=key ][System:PageBreak ]Particularly ones where you have[XENO:n ]\nto defeat monsters or collect stuff.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 159,
+      "style": 126,
+      "name": "Some of the quests people give[XENO:n ]\nyou might be pretty tough...[XENO:wait wait=key ][System:PageBreak ]But hey - no pain, no gain, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 160,
+      "style": 126,
+      "name": "If you're short of cash, why not[XENO:n ]\ndo a few quests?[XENO:wait wait=key ][System:PageBreak ]Particularly ones where you have[XENO:n ]\nto defeat monsters or collect stuff.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 161,
+      "style": 126,
+      "name": "Some of the quests people give[XENO:n ]\nyou might be pretty tough...[XENO:wait wait=key ][System:PageBreak ]But hey - no pain, no gain, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 162,
+      "style": 126,
+      "name": "Are you leaving the colony? Don't[XENO:n ]\nforget to complete some quests![XENO:wait wait=key ][System:PageBreak ]You can help people and get some[XENO:n ]\ncash. Two birds with one stone![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 163,
+      "style": 126,
+      "name": "What? You think your mission's[XENO:n ]\ntoo vital to waste time on quests?[XENO:wait wait=key ][System:PageBreak ]But if you're trying to save[XENO:n ]\neveryone, won't quests help?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 164,
+      "style": 126,
+      "name": "It's chilling, what happened to[XENO:n ]\nColony 6. I hope we aren't next.[XENO:wait wait=key ][System:PageBreak ]Are we next? Are we going to die?[XENO:wait wait=key ][System:PageBreak ]I should stop thinking like that...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 165,
+      "style": 126,
+      "name": "Selling your spoils is great, but[XENO:n ]\ndon't forget about quests.[XENO:wait wait=key ][System:PageBreak ]They're both good ways to make[XENO:n ]\nmoney. So many options![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 166,
+      "style": 126,
+      "name": "Good to see you back! I feel[XENO:n ]\nlike you've toughened up a bit.[XENO:wait wait=key ][System:PageBreak ]You might even be ready for some[XENO:n ]\nquests you couldn't handle before![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 167,
+      "style": 126,
+      "name": "Have you been all the way to the[XENO:n ]\ntop of the Giant God?[XENO:wait wait=key ][System:PageBreak ]I have to know... Are there[XENO:n ]\nquests up there too?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 168,
+      "style": 126,
+      "name": "The Machine God and the Giant God...[XENO:wait wait=key ][System:PageBreak ]I suppose now's not really the[XENO:n ]\ntime to be talking about quests.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 169,
+      "style": 126,
+      "name": "But doing some quests could help.[XENO:n ]\nYou might feel like yourself again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 170,
+      "style": 126,
+      "name": "People keep on saying how much[XENO:n ]\nnicer it is now that we're at peace.[XENO:wait wait=key ][System:PageBreak ]But wasn't it actually fairly[XENO:n ]\npeaceful in the colony a year ago?[XENO:wait wait=key ][System:PageBreak ]We have mobile artillery and anti-[XENO:n ]\nair batteries. The perfect defence![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 171,
+      "style": 126,
+      "name": "We live in the safest place around.[XENO:n ]\nI know my family is in no danger.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 172,
+      "style": 126,
+      "name": "We live in the safest place around.[XENO:wait wait=key ][System:PageBreak ]It's all thanks to you,[XENO:n ]\nDunban-san. Thank you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 173,
+      "style": 126,
+      "name": "People keep on saying how much[XENO:n ]\nnicer it is now that we're at peace.[XENO:wait wait=key ][System:PageBreak ]But wasn't it actually fairly[XENO:n ]\npeaceful in the colony a year ago?[XENO:wait wait=key ][System:PageBreak ]We have mobile artillery and anti-[XENO:n ]\nair batteries. The perfect defence![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 174,
+      "style": 126,
+      "name": "I've heard Tephra Cave is[XENO:n ]\nfull of ferocious monsters.[XENO:wait wait=key ][System:PageBreak ]I hope they stay there. Wouldn't[XENO:n ]\nwant them inside the colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 175,
+      "style": 126,
+      "name": "Always watch your backs.[XENO:wait wait=key ][System:PageBreak ]And kill tons of monsters.[XENO:n ]\nIt makes us all feel better![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 176,
+      "style": 126,
+      "name": "My son! My son's been...![XENO:wait wait=key ][System:PageBreak ]I must be imagining all this.[XENO:n ]\nIt has to be a horrible nightmare![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 177,
+      "style": 126,
+      "name": "It's not fair. They should[XENO:n ]\nhave taken me instead.[XENO:wait wait=key ][System:PageBreak ]My son didn't deserve this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 178,
+      "style": 126,
+      "name": "Colony 6 was attacked as well?[XENO:wait wait=key ][System:PageBreak ]There must be others who've[XENO:n ]\nlost their children, like me.[XENO:wait wait=key ][System:PageBreak ]I'll never forgive the Machine[XENO:n ]\nGod Soldiers. How could I?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 179,
+      "style": 126,
+      "name": "I want to avenge my son, but I can't[XENO:n ]\ndefeat the Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]It's so frustrating.[XENO:wait wait=key ][System:PageBreak ]There must be lots of people[XENO:n ]\nin Colony 6 who feel the same.[XENO:wait wait=key ][System:PageBreak ]If only we could join hands.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 180,
+      "style": 126,
+      "name": "I hear Colony 6 was recovered.[XENO:wait wait=key ][System:PageBreak ]I imagine the people are thrilled.[XENO:n ]\nI'm thrilled for them, at least.[XENO:wait wait=key ][System:PageBreak ]Are they going to start[XENO:n ]\nrebuilding their colony now?[XENO:wait wait=key ][System:PageBreak ]It'll take a while, but I know they'll[XENO:n ]\nmake a thriving community![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 181,
+      "style": 126,
+      "name": "I think I'm happier that you[XENO:n ]\ndefeated the Machine God Soldiers...[XENO:wait wait=key ][System:PageBreak ]...than that you[XENO:n ]\ntook back Colony 6.[XENO:wait wait=key ][System:PageBreak ]When I think of my murdered[XENO:n ]\nson, I feel a little relief.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 182,
+      "style": 126,
+      "name": "What a tremor! It's like the[XENO:n ]\nGiant God was having a stretch![XENO:wait wait=key ][System:PageBreak ]Luckily the colony is safe, but did[XENO:n ]\nyou hear about Tephra Cave?[XENO:wait wait=key ][System:PageBreak ]You can actually reach some[XENO:n ]\npaths that used to be cut off.[XENO:wait wait=key ][System:PageBreak ]I bet that's exciting for explorers![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 183,
+      "style": 126,
+      "name": "Shura-san told me about that earlier.[XENO:wait wait=key ][System:PageBreak ]Apparently, there are[XENO:n ]\nruins of the Giants.[XENO:wait wait=key ][System:PageBreak ]I don't know what's[XENO:n ]\nthere, mind you.[XENO:wait wait=key ][System:PageBreak ]But it's bound to be[XENO:n ]\nsomething amazing, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 184,
+      "style": 126,
+      "name": "When you're fighting powerful[XENO:n ]\nmonsters, always be prepared.[XENO:wait wait=key ][System:PageBreak ]Pick out your best armour and[XENO:n ]\ndress for success![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 185,
+      "style": 126,
+      "name": "It's not so easy to give advice for[XENO:n ]\nunique monsters, though.[XENO:wait wait=key ][System:PageBreak ]Even if they're the same level as[XENO:n ]\nyou, they'll put up quite a fight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 186,
+      "style": 126,
+      "name": "When you're fighting powerful[XENO:n ]\nmonsters, always be prepared.[XENO:wait wait=key ][System:PageBreak ]Pick out your best armour and[XENO:n ]\ndress for success![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 187,
+      "style": 126,
+      "name": "It's not so easy to give advice for[XENO:n ]\nunique monsters, though.[XENO:wait wait=key ][System:PageBreak ]Even if they're the same level as[XENO:n ]\nyou, they'll put up quite a fight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 188,
+      "style": 126,
+      "name": "When you're fighting powerful[XENO:n ]\nmonsters, always be prepared.[XENO:wait wait=key ][System:PageBreak ]Pick out your best armour and[XENO:n ]\ndress for success![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 189,
+      "style": 126,
+      "name": "It's not so easy to give advice for[XENO:n ]\nunique monsters, though.[XENO:wait wait=key ][System:PageBreak ]Even if they're the same level as[XENO:n ]\nyou, they'll put up quite a fight.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 190,
+      "style": 126,
+      "name": "You're heading outside? Then[XENO:n ]\nmake sure you're armoured up![XENO:wait wait=key ][System:PageBreak ]You don't have to look now, but[XENO:n ]\nthe shop's got new equipment in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 191,
+      "style": 126,
+      "name": "You should check out the shop.[XENO:n ]\nThey've got some new stuff in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 192,
+      "style": 126,
+      "name": "No... Colony 6, too?![XENO:wait wait=key ][System:PageBreak ]Sounds like it's been a dangerous[XENO:n ]\njourney for you. Keep safe.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 193,
+      "style": 126,
+      "name": "Weapons and armour are both[XENO:n ]\nvital. Don't forget about them.[XENO:wait wait=key ][System:PageBreak ]But hey, I'm sure I don't[XENO:n ]\nneed to tell you guys that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 194,
+      "style": 126,
+      "name": "Your equipment's much stronger[XENO:n ]\nthan when you first left Colony 9.[XENO:wait wait=key ][System:PageBreak ]I kind of feel bad for you. You've[XENO:n ]\nclearly had to go through so much.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 195,
+      "style": 126,
+      "name": "Never give up hope. Remember,[XENO:n ]\nyou've got all of us behind you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 196,
+      "style": 126,
+      "name": "Always check your equipment.[XENO:wait wait=key ][System:PageBreak ]I know you're focused on the big[XENO:n ]\npicture, but these details matter.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 197,
+      "style": 126,
+      "name": "Never give up hope. Remember,[XENO:n ]\nyou've got all of us behind you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 198,
+      "style": 126,
+      "name": "The scars of war never fade.[XENO:wait wait=key ][System:PageBreak ]Some of the people here lost their[XENO:n ]\nfamilies only a year ago...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 199,
+      "style": 126,
+      "name": "It's Dunban who saved Colony 9,[XENO:n ]\nand Colony 6 as well.[XENO:wait wait=key ][System:PageBreak ]We're eternally grateful to him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 200,
+      "style": 126,
+      "name": "How are Dunban's injuries? Tell[XENO:n ]\nhim my thoughts are with him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 201,
+      "style": 126,
+      "name": "It's Dunban who saved Colony 9,[XENO:n ]\nand Colony 6.[XENO:wait wait=key ][System:PageBreak ]We're eternally grateful to him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 202,
+      "style": 126,
+      "name": "Pack Armus are different to other[XENO:n ]\nmonsters. They're perfectly tame.[XENO:wait wait=key ][System:PageBreak ]Most monsters will attack Homs.[XENO:n ]\nDon't let yourself get hurt![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 203,
+      "style": 126,
+      "name": "When I was little I went[XENO:n ]\ninto Tephra Cave once.[XENO:wait wait=key ][System:PageBreak ]I got attacked by this monster[XENO:n ]\ncalled a Cellar Bugworm.[XENO:wait wait=key ][System:PageBreak ]I ran like the wind![XENO:wait wait=key ][System:PageBreak ]That experience taught me to[XENO:n ]\nstick to the safe paths in life.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 204,
+      "style": 126,
+      "name": "War only ever breeds sadness and[XENO:n ]\ndespair. Who would want that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 205,
+      "style": 126,
+      "name": "Machine God Soldiers can't have[XENO:n ]\nfeelings of their own.[XENO:wait wait=key ][System:PageBreak ]Otherwise they'd never[XENO:n ]\ncommit such atrocities.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 206,
+      "style": 126,
+      "name": "Colony 6 was[XENO:n ]\nattacked too?[XENO:wait wait=key ][System:PageBreak ]I can't forgive the Machine God Soldiers.[XENO:n ]\nWas it resentment over last year's war?[XENO:wait wait=key ][System:PageBreak ]But I don't think[XENO:n ]\nthey have feelings.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 207,
+      "style": 126,
+      "name": "We're the type of people who[XENO:n ]\nalways get back on our feet.[XENO:wait wait=key ][System:PageBreak ]Turning sorrow into strength...[XENO:n ]\nIt's harsh, but it's how we survive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 208,
+      "style": 126,
+      "name": "Even the High Entia have joined[XENO:n ]\nthe battle against the Mechon.[XENO:wait wait=key ][System:PageBreak ]The Homs alone could never win[XENO:n ]\nthe fight, but if we work together...[XENO:wait wait=key ][System:PageBreak ]If all the races on Giant God work[XENO:n ]\ntogether... Maybe there's a hope.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 209,
+      "style": 126,
+      "name": "Even I'll fight if I need to. I can't[XENO:n ]\nleave it all to you young'uns![XENO:wait wait=key ][System:PageBreak ]Don't let Dionysis tell you[XENO:n ]\nhe's tougher than me.[XENO:wait wait=key ][System:PageBreak ]I'd beat him in a fight any day![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 210,
+      "style": 126,
+      "name": "What happened? Did[XENO:n ]\nthe Giant God start moving?[XENO:wait wait=key ][System:PageBreak ]I've never felt anything like[XENO:n ]\nit in my many long years![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 211,
+      "style": 126,
+      "name": "Everyone's scared at the moment,[XENO:n ]\nold and young. It's only natural.[XENO:wait wait=key ][System:PageBreak ]It's easy to just tell everyone to[XENO:n ]\ncalm down, but that doesn't fix it.[XENO:wait wait=key ][System:PageBreak ]At least we have you to rely on.[XENO:n ]\nPlease...save the colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 212,
+      "style": 126,
+      "name": "Feel like going cliff diving?[XENO:wait wait=key ][System:PageBreak ]Jump into water from any height[XENO:n ]\nand you'll be fine![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 213,
+      "style": 126,
+      "name": "I love swimming! It's so relaxing![XENO:wait wait=key ][System:PageBreak ]You can also get to places where[XENO:n ]\nthere aren't any roads![XENO:wait wait=key ][System:PageBreak ]Watch out if you go east, though.[XENO:wait wait=key ][System:PageBreak ]There are deadly monsters[XENO:n ]\naround Agora Shore.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 214,
+      "style": 126,
+      "name": "Pah... Some Defence Force.[XENO:wait wait=key ][System:PageBreak ]They didn't defend anything[XENO:n ]\nthat mattered.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 215,
+      "style": 126,
+      "name": "They say they lost because[XENO:n ]\nit was a surprise attack.[XENO:wait wait=key ][System:PageBreak ]What kind of excuse is that?![XENO:n ]\nThis is war! What did they expect?[XENO:wait wait=key ][System:PageBreak ]I feel like an idiot for ever[XENO:n ]\nrespecting them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 216,
+      "style": 126,
+      "name": "You're certainly looking more[XENO:n ]\nrugged than you used to.[XENO:wait wait=key ][System:PageBreak ]Maybe you could even beat some[XENO:n ]\nof the monsters near Agora Shore.[XENO:wait wait=key ][System:PageBreak ]You could get some rare items![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 217,
+      "style": 126,
+      "name": "You'll probably come across[XENO:n ]\nmonsters you can't defeat.[XENO:wait wait=key ][System:PageBreak ]Don't fret. Just come back later[XENO:n ]\nwhen you've got a bit stronger.[XENO:wait wait=key ][System:PageBreak ]You might find you can explore[XENO:n ]\nmore of an area when you go back![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 218,
+      "style": 126,
+      "name": "You've definitely got a bit more[XENO:n ]\nmuscle than you used to.[XENO:wait wait=key ][System:PageBreak ]But I'd steer clear of the rocky[XENO:n ]\narea north of Anti-Air Battery 2.[XENO:wait wait=key ][System:PageBreak ]The Flamii are really savage.[XENO:wait wait=key ][System:PageBreak ]Trust me, you don't want to go[XENO:n ]\nthere. You'll only regret it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 219,
+      "style": 126,
+      "name": "There are deadly monsters[XENO:n ]\nall over the world.[XENO:wait wait=key ][System:PageBreak ]Try and remember where[XENO:n ]\nthe really strong ones are.[XENO:wait wait=key ][System:PageBreak ]That way you can come back and[XENO:n ]\nfight them when you feel up to it.[XENO:wait wait=key ][System:PageBreak ]And won't that be satisfying?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 220,
+      "style": 126,
+      "name": "You're not in any rush to[XENO:n ]\nget somewhere, are you?[XENO:wait wait=key ][System:PageBreak ]Then this is a perfect chance to go[XENO:n ]\nback and do more exploration![XENO:wait wait=key ][System:PageBreak ]Places you've been to might have[XENO:n ]\nareas you couldn't get to before.[XENO:wait wait=key ][System:PageBreak ]For example, I heard an ancient[XENO:n ]\nroute opened up in Tephra Cave.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 221,
+      "style": 126,
+      "name": "You want to know where to find[XENO:n ]\nthe world's toughest monsters?[XENO:wait wait=key ][System:PageBreak ]Frankly speaking,[XENO:n ]\nI don't have a clue.[XENO:wait wait=key ][System:PageBreak ]But I hear the strongest ones also[XENO:n ]\nhave a kind of...intelligence.[XENO:wait wait=key ][System:PageBreak ]They attack settlements and[XENO:n ]\nsteal their ether! Terrible![XENO:wait wait=key ][System:PageBreak ]Best not to say any more.[XENO:n ]\nWhat if I'm tempting fate?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 222,
+      "style": 126,
+      "name": "Ether crystals can be found all over the world.[XENO:wait wait=key ][System:PageBreak ]They form when lots of tiny ether[XENO:n ]\nparticles gather together-mo.[XENO:wait wait=key ][System:PageBreak ]Sometimes something puts the[XENO:n ]\nparticles under intense pressure-mo.[XENO:wait wait=key ][System:PageBreak ]When that happens, ether of similar colors[XENO:n ]\nand shapes strongly attracts each other-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 223,
+      "style": 126,
+      "name": "Ether crystals formed by that[XENO:n ]\nattraction take on a color-mo.[XENO:wait wait=key ][System:PageBreak ]Their color determines their attribute-mo.[XENO:n ]\nRed for fire, blue for water, see-mo?[XENO:wait wait=key ][System:PageBreak ]If you want to make gems,[XENO:n ]\ngo to the shop next door-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 224,
+      "style": 126,
+      "name": "Ether crystals can be found all over the world.[XENO:wait wait=key ][System:PageBreak ]They form when lots of tiny ether[XENO:n ]\nparticles gather together-mo.[XENO:wait wait=key ][System:PageBreak ]Sometimes something puts the[XENO:n ]\nparticles under intense pressure-mo.[XENO:wait wait=key ][System:PageBreak ]When that happens, ether of similar colors[XENO:n ]\nand shapes strongly attracts each other-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 225,
+      "style": 126,
+      "name": "Ether crystals formed by that[XENO:n ]\nattraction take on a color-mo.[XENO:wait wait=key ][System:PageBreak ]Their color determines their attribute-mo.[XENO:n ]\nRed for fire, blue for water, see-mo?[XENO:wait wait=key ][System:PageBreak ]If you want to make gems,[XENO:n ]\ngo to the shop next door-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 226,
+      "style": 126,
+      "name": "I heard Gem Crafting works better when[XENO:n ]\nclose companions do it together-mo.[XENO:wait wait=key ][System:PageBreak ]The old man next door[XENO:n ]\ntold me that-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 227,
+      "style": 126,
+      "name": "A close companion is a close companion-mo.[XENO:wait wait=key ][System:PageBreak ]Um... someone you've[XENO:n ]\nformed a bond with-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 228,
+      "style": 126,
+      "name": "The higher a crystal's purity, the[XENO:n ]\nbetter the ether gem it'll make-mo.[XENO:wait wait=key ][System:PageBreak ]That's what the old man next door said-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 229,
+      "style": 126,
+      "name": "Purity is purity-mo.[XENO:wait wait=key ][System:PageBreak ]Umm... I don't really[XENO:n ]\nunderstand it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 230,
+      "style": 126,
+      "name": "If you want to beat monsters senseless,[XENO:n ]\nyour weapon is what matters most-mo.[XENO:wait wait=key ][System:PageBreak ]Got it? Then hurry up and[XENO:n ]\nbuy a weapon-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 231,
+      "style": 126,
+      "name": "More and more Nopon are[XENO:n ]\ngetting eaten by monsters-mo.[XENO:wait wait=key ][System:PageBreak ]Every Nopon needs a weapon to stay safe-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 232,
+      "style": 126,
+      "name": "I saw Homs being eaten by Machine[XENO:n ]\nGod Soldiers with my own eyes-mo.[XENO:wait wait=key ][System:PageBreak ]I learned that it's not just weapons that matter.[XENO:wait wait=key ][System:PageBreak ]Armor is important too.[XENO:n ]\nIt really hit me-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 233,
+      "style": 126,
+      "name": "It doesn't matter whether we're Nopon or Homs now-mo.[XENO:wait wait=key ][System:PageBreak ]Let's work together and put the[XENO:n ]\ntown back the way it was-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 234,
+      "style": 126,
+      "name": "There are weapons and armor[XENO:n ]\nwith slots in them? Really-mo?![XENO:wait wait=key ][System:PageBreak ]Apparently, putting ether gems in[XENO:n ]\nthose slots makes them stronger-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 235,
+      "style": 126,
+      "name": "Apparently, some equipment already[XENO:n ]\ncomes with ether gems in its slots-mo.[XENO:wait wait=key ][System:PageBreak ]Among Nopon, we call that unique[XENO:n ]\nequipment-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 236,
+      "style": 126,
+      "name": "I've heard about all[XENO:n ]\nyour exploits-mo.[XENO:wait wait=key ][System:PageBreak ]You're beating the bad guys to a pulp-mo.[XENO:n ]\nIf I could join you, I'd do just as well-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 237,
+      "style": 126,
+      "name": "You've been through a lot too, haven't you-mo?[XENO:wait wait=key ][System:PageBreak ]Keep going-mo. I'm always[XENO:n ]\ncheering you on-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 238,
+      "style": 126,
+      "name": "Did you know that ether particles[XENO:n ]\ncan cause a chain reaction?[XENO:wait wait=key ][System:PageBreak ]It happens when the same type of[XENO:n ]\nether gathers in a large quantity.[XENO:wait wait=key ][System:PageBreak ]The heat it generates is intense![XENO:wait wait=key ][System:PageBreak ]The ether stream under Colony 6[XENO:n ]\nis a prime example of all this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 239,
+      "style": 126,
+      "name": "Ether is a plentiful energy source[XENO:n ]\nprovided for us by the Giant God.[XENO:wait wait=key ][System:PageBreak ]Just plain ether is enough to[XENO:n ]\npower almost all of our machines.[XENO:wait wait=key ][System:PageBreak ]But some machines need very pure[XENO:n ]\nether. Like the Anti-Air Batteries.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 240,
+      "style": 126,
+      "name": "I'm so hungry! Come on, Fiorung...[XENO:wait wait=key ][System:PageBreak ]Don't just walk past with food that[XENO:n ]\nsmells so tasty. Give me some![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 241,
+      "style": 126,
+      "name": "Shouldn't we scale back the[XENO:n ]\nDefence Force a bit?[XENO:wait wait=key ][System:PageBreak ]All they've shot down in the[XENO:n ]\npast year is rubble![XENO:wait wait=key ][System:PageBreak ]Waste of money if you ask me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 242,
+      "style": 126,
+      "name": "Did you know that ether particles[XENO:n ]\ncan cause a chain reaction?[XENO:wait wait=key ][System:PageBreak ]It happens when the same type of[XENO:n ]\nether gathers in a large quantity.[XENO:wait wait=key ][System:PageBreak ]The heat it generates is intense![XENO:wait wait=key ][System:PageBreak ]The ether stream under Colony 6[XENO:n ]\nis a prime example of all this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 243,
+      "style": 126,
+      "name": "Ether is a plentiful energy source[XENO:n ]\nprovided for us by the Giant God.[XENO:wait wait=key ][System:PageBreak ]Just plain ether is enough to[XENO:n ]\npower almost all of our machines.[XENO:wait wait=key ][System:PageBreak ]But some machines need very pure[XENO:n ]\nether. Like the Anti-Air Batteries.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 244,
+      "style": 126,
+      "name": "I'm happy to be alive.[XENO:wait wait=key ][System:PageBreak ]But I feel like I've stared death in[XENO:n ]\nthe face. Those things are chilling.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 245,
+      "style": 126,
+      "name": "The Defence Force weren't[XENO:n ]\ntotally useless, I suppose.[XENO:wait wait=key ][System:PageBreak ]The death toll would have been[XENO:n ]\neven worse without them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 246,
+      "style": 126,
+      "name": "So you wiped out the Machine[XENO:n ]\nGod Soldiers infesting Colony 6.[XENO:wait wait=key ][System:PageBreak ]That makes our[XENO:n ]\ntown safe now.[XENO:wait wait=key ][System:PageBreak ]It's chilling[XENO:n ]\nto think[XENO:wait wait=key ][System:PageBreak ]our town could've ended up like Colony 6.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 247,
+      "style": 126,
+      "name": "What happened to Colony 6[XENO:n ]\nsounds truly atrocious.[XENO:wait wait=key ][System:PageBreak ]In comparison, we got off with[XENO:n ]\nbarely a scratch.[XENO:wait wait=key ][System:PageBreak ]It's a small relief at least.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 248,
+      "style": 126,
+      "name": "Pathetic, aren't I? I'm shaking with fear.[XENO:wait wait=key ][System:PageBreak ]This is worse than a Machine[XENO:n ]\nGod Soldier attack, isn't it?[XENO:wait wait=key ][System:PageBreak ]There's nowhere[XENO:n ]\nto run or hide.[XENO:wait wait=key ][System:PageBreak ]It's not[XENO:n ]\nfair.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 249,
+      "style": 126,
+      "name": "You're different, aren't you? You[XENO:n ]\nhave the power to do something.[XENO:wait wait=key ][System:PageBreak ]So please...I'm begging you.[XENO:wait wait=key ][System:PageBreak ]Save the colony. And if you have[XENO:n ]\ntime...save me and my family too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 250,
+      "style": 126,
+      "name": "No Machine God Soldiers lately-mo.[XENO:n ]\nDunban-san and the others fought hard.[XENO:wait wait=key ][System:PageBreak ]It's thanks to last year's decisive battle-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 251,
+      "style": 126,
+      "name": "Apparently, communication with neighboring[XENO:n ]\nColony 6 has been cut off-mo.[XENO:wait wait=key ][System:PageBreak ]That's the only thing I'm worried about-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 252,
+      "style": 126,
+      "name": "There's a park by the Residential District-mo.[XENO:wait wait=key ][System:PageBreak ]It's a nice place to go with someone you like-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 253,
+      "style": 126,
+      "name": "No Machine God Soldiers lately-mo.[XENO:n ]\nDunban-san and the others fought hard.[XENO:wait wait=key ][System:PageBreak ]It's thanks to last year's decisive battle-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 254,
+      "style": 126,
+      "name": "If someone like me went outside Colony 9,[XENO:n ]\nI'd get eaten by a monster right away-mo.[XENO:wait wait=key ][System:PageBreak ]Just imagining it is scary. I never[XENO:n ]\nwant to go out alone-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 255,
+      "style": 126,
+      "name": "A Nopon wouldn't taste good-mo.[XENO:n ]\nYou'd get a stomachache-mo.[XENO:wait wait=key ][System:PageBreak ]I'm imagining things a little too much-mo.[XENO:wait wait=key ][System:PageBreak ]But be careful-mo. It[XENO:n ]\nreally is dangerous-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 256,
+      "style": 126,
+      "name": "Why did the Machine God Soldiers attack-mo? We[XENO:n ]\nhaven't done anything wrong-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 257,
+      "style": 126,
+      "name": "Ah!![XENO:wait wait=key ][System:PageBreak ]Could it be because I ate the fruit from the[XENO:n ]\nhouse next door-mo? I'll never do it again-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 258,
+      "style": 126,
+      "name": "Did you go to Frontier Village-mo? What was it[XENO:n ]\nlike-mo~? I've never been there-mo.[XENO:wait wait=key ][System:PageBreak ]I was born and[XENO:n ]\nraised in Colony 9, that's why-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 259,
+      "style": 126,
+      "name": "Grandpa and Grandma have lived here since[XENO:n ]\nretiring from the Nopon Merchant Company-mo~.[XENO:wait wait=key ][System:PageBreak ]I carry their merchant blood and run a shop-mo~.[XENO:wait wait=key ][System:PageBreak ]But at least once[XENO:n ]\nI'd like to see[XENO:wait wait=key ][System:PageBreak ]Grandpa and Grandma's birthplace-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 260,
+      "style": 126,
+      "name": "No Nopon in the Machine God Realm-mo~?[XENO:wait wait=key ][System:PageBreak ]Even the Nopon Merchant Company never[XENO:n ]\ngot that far-mo?[XENO:wait wait=key ][System:PageBreak ]That's a little disappointing-mo~.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 261,
+      "style": 126,
+      "name": "The Nopon Merchant Company[XENO:n ]\ndoes more than trade-mo.[XENO:wait wait=key ][System:PageBreak ]It gathers information and keeps[XENO:n ]\nwatch for danger everywhere-mo.[XENO:wait wait=key ][System:PageBreak ]Or so Grandpa proudly told me-mo.[XENO:wait wait=key ][System:PageBreak ]But he laments that its[XENO:n ]\npower is weakening lately-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 262,
+      "style": 126,
+      "name": "You don't know why the Giant God[XENO:n ]\nis shaped like a person?[XENO:wait wait=key ][System:PageBreak ]Didn't you ever listen at school?[XENO:wait wait=key ][System:PageBreak ]The Giant God isn't shaped like us.[XENO:n ]\nWe're shaped like the Giant God![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 263,
+      "style": 126,
+      "name": "Scientists are saying the weirdest[XENO:n ]\nthings nowadays though.[XENO:wait wait=key ][System:PageBreak ]Apparently the laws of physics say[XENO:n ]\nthat the world should be round.[XENO:wait wait=key ][System:PageBreak ]But if the Giant God was round, then[XENO:n ]\npeople would be round as well.[XENO:wait wait=key ][System:PageBreak ]I don't want to be round. I think[XENO:n ]\nthe Giant God would agree with me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 264,
+      "style": 126,
+      "name": "I lie awake at night.[XENO:wait wait=key ][System:PageBreak ]I saw horrors...[XENO:wait wait=key ][System:PageBreak ]My friend was...[XENO:wait wait=key ][System:PageBreak ]*sob*[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 265,
+      "style": 126,
+      "name": "The Machine God Soldiers won't come again, will they?[XENO:wait wait=key ][System:PageBreak ]I can't take any more of this. I[XENO:n ]\njust want to lead a normal life...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 266,
+      "style": 126,
+      "name": "You made it through Tephra Cave? How was[XENO:n ]\nColony 6? If only they could help us...[XENO:wait wait=key ][System:PageBreak ]They were[XENO:n ]\nattacked too?[XENO:wait wait=key ][System:PageBreak ]Why are the Machine God Soldiers so cruel?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 267,
+      "style": 126,
+      "name": "Is there no ray of[XENO:n ]\nhope for the Homs?[XENO:wait wait=key ][System:PageBreak ]If all we can do is wait to be[XENO:n ]\noppressed by the Machine God Soldiers...[XENO:wait wait=key ][System:PageBreak ]I don't know what we were born for.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 268,
+      "style": 126,
+      "name": "The Mechon are gone from[XENO:n ]\nColony 6? That's wonderful![XENO:wait wait=key ][System:PageBreak ]Perhaps there's a tiny[XENO:n ]\nray of hope for us after all.[XENO:wait wait=key ][System:PageBreak ]If they can rebuild, anyone can.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 269,
+      "style": 126,
+      "name": "Reconstructing Colony 6 will be[XENO:n ]\nhard. They've lost so many people.[XENO:wait wait=key ][System:PageBreak ]I wish I could help.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 270,
+      "style": 126,
+      "name": "I saw someone weird in the park.[XENO:wait wait=key ][System:PageBreak ]She had wings growing out of[XENO:n ]\nher head. She looked really sad.[XENO:wait wait=key ][System:PageBreak ]I wanted to say something, but I[XENO:n ]\ncouldn't work up the courage.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 271,
+      "style": 126,
+      "name": "Everything's changed since[XENO:n ]\nthe Mechon attacked us.[XENO:wait wait=key ][System:PageBreak ]The world keeps moving so fast,[XENO:n ]\nwe barely have a chance to rest.[XENO:wait wait=key ][System:PageBreak ]Please... You have to win. We[XENO:n ]\nneed peace, and so does that girl.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 272,
+      "style": 126,
+      "name": "So our colony is built on the[XENO:n ]\nbody of the Giant God, right?[XENO:wait wait=key ][System:PageBreak ]But the whole world is the Giant God.[XENO:wait wait=key ][System:PageBreak ]It must be huge. I wish I could see[XENO:n ]\nwhat it all looked like from above.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 273,
+      "style": 126,
+      "name": "You'd never get a view like that[XENO:n ]\nfrom anywhere on Giant God.[XENO:wait wait=key ][System:PageBreak ]You'd have to go to Machine God...[XENO:n ]\nand that's not going to happen![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 274,
+      "style": 126,
+      "name": "So our colony is built on the[XENO:n ]\nbody of the Giant God, right?[XENO:wait wait=key ][System:PageBreak ]But the whole world is the Giant God.[XENO:wait wait=key ][System:PageBreak ]It must be huge. I wish I could see[XENO:n ]\nwhat it all looked like from above.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 275,
+      "style": 126,
+      "name": "You'd never get a view like that[XENO:n ]\nfrom anywhere on Giant God.[XENO:wait wait=key ][System:PageBreak ]You'd have to go to Machine God...[XENO:n ]\nand that's not going to happen![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 276,
+      "style": 126,
+      "name": "So our colony is built on the[XENO:n ]\nbody of the Giant God, right?[XENO:wait wait=key ][System:PageBreak ]But the whole world is the Giant God.[XENO:wait wait=key ][System:PageBreak ]It must be huge. I wish I could see[XENO:n ]\nwhat it all looked like from above.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 277,
+      "style": 126,
+      "name": "You'd never get a view like that[XENO:n ]\nfrom anywhere on Giant God.[XENO:wait wait=key ][System:PageBreak ]You'd have to go to Machine God...[XENO:n ]\nand that's not going to happen![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 278,
+      "style": 126,
+      "name": "If anyone on your party ever[XENO:n ]\ngets Dazed, help them out, quick![XENO:wait wait=key ][System:PageBreak ]I've heard horror stories where[XENO:n ]\npeople who can't move get eaten![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 279,
+      "style": 126,
+      "name": "If you help someone who's been[XENO:n ]\nDazed, your affinity will deepen.[XENO:wait wait=key ][System:PageBreak ]That's how me and my[XENO:n ]\nboyfriend got together![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 280,
+      "style": 126,
+      "name": "I've heard there are monsters who[XENO:n ]\ncan Daze your entire party![XENO:wait wait=key ][System:PageBreak ]That's why I sometimes wear gems[XENO:n ]\nthat protect against Daze.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 281,
+      "style": 126,
+      "name": "But not all the time. Sometimes[XENO:n ]\nit's nice to be Dazed in battle.[XENO:wait wait=key ][System:PageBreak ]Otherwise you don't get the[XENO:n ]\naffinity boost from being rescued![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 282,
+      "style": 126,
+      "name": "I've heard there are monsters who[XENO:n ]\ncan Daze your entire party![XENO:wait wait=key ][System:PageBreak ]That's why I sometimes wear gems[XENO:n ]\nthat protect against Daze.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 283,
+      "style": 126,
+      "name": "But not all the time. Sometimes[XENO:n ]\nit's nice to be Dazed in battle.[XENO:wait wait=key ][System:PageBreak ]Otherwise you don't get the[XENO:n ]\naffinity boost from being rescued![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 284,
+      "style": 126,
+      "name": "The lab? It's in the Military[XENO:n ]\nDistrict. Are you feeling all right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 285,
+      "style": 126,
+      "name": "You can't remember where the[XENO:n ]\nMilitary District is either?[XENO:wait wait=key ][System:PageBreak ]You just turn left at that junction![XENO:wait wait=key ][System:PageBreak ]Come on! You go there every day![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 286,
+      "style": 126,
+      "name": "Oh, Fiorung! How are things?[XENO:wait wait=key ][System:PageBreak ]If you're after Shulk, I just[XENO:n ]\nsaw him go past here.[XENO:wait wait=key ][System:PageBreak ]He must have been going[XENO:n ]\nto Outlook Park.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 287,
+      "style": 126,
+      "name": "Are you bringing him lunch?[XENO:n ]\nHow romantic.[XENO:wait wait=key ][System:PageBreak ]Ah, young love. I wish I had[XENO:n ]\nsomeone to take lunch to.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 288,
+      "style": 126,
+      "name": "If you're planning to go through[XENO:n ]\nTephra Cave, just remember this.[XENO:wait wait=key ][System:PageBreak ]Don't go anywhere near the[XENO:n ]\ngiant Caterpile. Promise me![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 289,
+      "style": 126,
+      "name": "I used to go out with someone[XENO:n ]\nin the Defence Force, you know.[XENO:wait wait=key ][System:PageBreak ]He told me that Caterpile has[XENO:n ]\nkilled countless men.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 290,
+      "style": 126,
+      "name": "That day, Dunban-san defeated[XENO:n ]\nthe Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]I thought that was the end of it.[XENO:wait wait=key ][System:PageBreak ]I'll never forgive the[XENO:n ]\nMachine God Soldiers.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 291,
+      "style": 126,
+      "name": "That's the Monado, isn't it?[XENO:wait wait=key ][System:PageBreak ]With that in your hands, you look[XENO:n ]\nlike you're ready for anything.[XENO:wait wait=key ][System:PageBreak ]So let us take care of the colony[XENO:n ]\nwhile you do what you need to![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 292,
+      "style": 126,
+      "name": "Certain monsters can Poison you.[XENO:wait wait=key ][System:PageBreak ]I've been looking for some kind[XENO:n ]\nof medicine that can cure it, but...[XENO:wait wait=key ][System:PageBreak ]It seems like there isn't one.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 293,
+      "style": 126,
+      "name": "I did hear that the ether rifles the[XENO:n ]\nsoldiers use can cure Poison.[XENO:wait wait=key ][System:PageBreak ]They use anti-Poison bullets.[XENO:wait wait=key ][System:PageBreak ]If only I had any friends in the[XENO:n ]\nDefence Force.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 294,
+      "style": 126,
+      "name": "Buffs are basically these little[XENO:n ]\npower-ups to help you in battle.[XENO:wait wait=key ][System:PageBreak ]Debuffs are the opposite.[XENO:n ]\nThey make you weaker.[XENO:wait wait=key ][System:PageBreak ]You get the idea, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 295,
+      "style": 126,
+      "name": "Monsters will try to hit you with[XENO:n ]\ndebuffs, so be very careful![XENO:wait wait=key ][System:PageBreak ]If you get too weak, the slightest[XENO:n ]\nbreeze could knock you out.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 296,
+      "style": 126,
+      "name": "Watch out for the Defence Force[XENO:n ]\nColonel with the pointy moustache.[XENO:wait wait=key ][System:PageBreak ]He's very scary. But we have him[XENO:n ]\nto thank for our peaceful lives.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 297,
+      "style": 126,
+      "name": "A lot more girls have become[XENO:n ]\nsoldiers since the war ended.[XENO:wait wait=key ][System:PageBreak ]Maybe I should sign up? It would[XENO:n ]\nbe good exercise. Ahaha, kidding![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 298,
+      "style": 126,
+      "name": "The colonel's in a mood again.[XENO:wait wait=key ][System:PageBreak ]He should try and watch[XENO:n ]\nhis blood pressure![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 299,
+      "style": 126,
+      "name": "It's no good being quick-tempered.[XENO:n ]\nBetter to have a thick skin.[XENO:wait wait=key ][System:PageBreak ]Resist all attacks...using your[XENO:n ]\nmental Anti-Air Batteries. Ahaha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 300,
+      "style": 126,
+      "name": "The Defence Force is down to[XENO:n ]\nalmost nothing.[XENO:wait wait=key ][System:PageBreak ]Who's going to protect[XENO:n ]\nthe colony now?[XENO:wait wait=key ][System:PageBreak ]Me? Ahahaha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 301,
+      "style": 126,
+      "name": "I hope you don't think it's too[XENO:n ]\nsoon to be making jokes.[XENO:wait wait=key ][System:PageBreak ]That's just my way of getting[XENO:n ]\nthrough the pain.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 302,
+      "style": 126,
+      "name": "Things have finally settled down in town.[XENO:wait wait=key ][System:PageBreak ]But we haven't defeated the[XENO:n ]\nMachine God Soldiers, have we?[XENO:wait wait=key ][System:PageBreak ]I hope they don't attack again...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 303,
+      "style": 126,
+      "name": "Don't worry! Next time there won't[XENO:n ]\nbe a single casualty.[XENO:wait wait=key ][System:PageBreak ]We'll all run and hide the second[XENO:n ]\nwe see anything made of metal![XENO:wait wait=key ][System:PageBreak ]Ahaha![XENO:wait wait=key ][System:PageBreak ]Too soon?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 304,
+      "style": 126,
+      "name": "Don't give up, guys![XENO:n ]\nKeep going, you can do it![XENO:wait wait=key ][System:PageBreak ]I can't do much else, so I thought[XENO:n ]\nat least I could cheer you on.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 305,
+      "style": 126,
+      "name": "If you do manage to beat them,[XENO:n ]\nI'll have to give you something.[XENO:wait wait=key ][System:PageBreak ]Like...a delicious[XENO:n ]\nhome-cooked meal![XENO:wait wait=key ][System:PageBreak ]Why, what did you think I meant?[XENO:wait wait=key ][System:PageBreak ]Ahaha! Get your mind[XENO:n ]\nout of the gutter![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 306,
+      "style": 126,
+      "name": "The mobile artillery used to have[XENO:n ]\nfive machines.[XENO:wait wait=key ][System:PageBreak ]They got destroyed one by one in[XENO:n ]\nthe war. Now there's only one left.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 307,
+      "style": 126,
+      "name": "It's always lovely seeing the[XENO:n ]\ncolony so full of life.[XENO:wait wait=key ][System:PageBreak ]It was boring when all anyone[XENO:n ]\ntalked about was the war.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 308,
+      "style": 126,
+      "name": "You're going to Tephra Cave?[XENO:wait wait=key ][System:PageBreak ]If so, could you go a bit further[XENO:n ]\nand get news from Colony 6?[XENO:wait wait=key ][System:PageBreak ]No? Oh, all right then.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 309,
+      "style": 126,
+      "name": "Colony 6 is famed for its ether[XENO:n ]\ncrystals. Did you know that?[XENO:wait wait=key ][System:PageBreak ]It's also just as big as Colony 9.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 310,
+      "style": 126,
+      "name": "Is anyone in trouble?[XENO:wait wait=key ][System:PageBreak ]I can help! I want to help![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 311,
+      "style": 126,
+      "name": "I know it's tough, but we all have[XENO:n ]\nto keep going somehow.[XENO:wait wait=key ][System:PageBreak ]We're still alive, so we might[XENO:n ]\nas well act like it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 312,
+      "style": 126,
+      "name": "Did you notice the rubble is gone?[XENO:wait wait=key ][System:PageBreak ]Everyone pitched in to clear it.[XENO:wait wait=key ][System:PageBreak ]I think it's had a positive effect.[XENO:n ]\nTurned some frowns upside-down.[XENO:wait wait=key ][System:PageBreak ]It's nice for the colony to be[XENO:n ]\nall pretty again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 313,
+      "style": 126,
+      "name": "Life is hard, but we've[XENO:n ]\nstill got to live it.[XENO:wait wait=key ][System:PageBreak ]Speaking of living, why not help[XENO:n ]\nme make one? Buy something![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 314,
+      "style": 126,
+      "name": "Galahad Fortress?[XENO:n ]\nI hear it's a pile of rubble now.[XENO:wait wait=key ][System:PageBreak ]And thank goodness for that![XENO:wait wait=key ][System:PageBreak ]Just goes to show, we Homs do[XENO:n ]\nstill have some fight left in us.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 315,
+      "style": 126,
+      "name": "At this rate, maybe we could even[XENO:n ]\nwipe out the Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]Peace is what everyone who[XENO:n ]\nsuffered in the attack wishes for.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 316,
+      "style": 126,
+      "name": "The Machine God Soldiers are gone,[XENO:n ]\nbut it's one problem after another.[XENO:wait wait=key ][System:PageBreak ]Still, things will work out, won't they?[XENO:wait wait=key ][System:PageBreak ]I believe in Dunban,[XENO:n ]\nFiorung, Rein and Shulk.[XENO:wait wait=key ][System:PageBreak ]After all, they were[XENO:n ]\nborn and raised here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 317,
+      "style": 126,
+      "name": "The whole colony respects you.[XENO:n ]\nThat's why no one's complained.[XENO:wait wait=key ][System:PageBreak ]You know, that you're lolling about[XENO:n ]\ninstead of doing anything useful.[XENO:wait wait=key ][System:PageBreak ]I'm joking! Come on, it was a joke![XENO:wait wait=key ][System:PageBreak ]We love seeing you back here.[XENO:n ]\nThat way we know you're OK.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 318,
+      "style": 126,
+      "name": "Have you ever seen ether crystal deposits[XENO:n ]\nexposed on the Giant God's surface-mo?[XENO:wait wait=key ][System:PageBreak ]They form as ether gathers under intense[XENO:n ]\nheat and pressure inside the Giant God-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 319,
+      "style": 126,
+      "name": "Similar ether particles gather together, so[XENO:n ]\nether crystals have attributes-mo.[XENO:wait wait=key ][System:PageBreak ]Red means fire, for example-mo. You should[XENO:n ]\nlook around for different ones-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 320,
+      "style": 126,
+      "name": "Have you ever seen ether crystal deposits[XENO:n ]\nexposed on the Giant God's surface-mo?[XENO:wait wait=key ][System:PageBreak ]They form as ether gathers under intense[XENO:n ]\nheat and pressure inside the Giant God-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 321,
+      "style": 126,
+      "name": "Similar ether particles gather together, so[XENO:n ]\nether crystals have attributes-mo.[XENO:wait wait=key ][System:PageBreak ]Red means fire, for example-mo. You should[XENO:n ]\nlook around for different ones-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 322,
+      "style": 126,
+      "name": "Have you seen ether crystal deposits exposed[XENO:n ]\non the Giant God's surface-mo?[XENO:wait wait=key ][System:PageBreak ]They're formed when ether gathers under intense[XENO:n ]\nheat and pressure inside the Giant God-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 323,
+      "style": 126,
+      "name": "Similar ether particles gather together, so[XENO:n ]\nether crystals have attributes-mo.[XENO:wait wait=key ][System:PageBreak ]Red means fire, for example-mo. You should[XENO:n ]\nlook around for different ones-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 324,
+      "style": 126,
+      "name": "Are you making ether gems-mo? If[XENO:n ]\nnot, you definitely should-mo.[XENO:wait wait=key ][System:PageBreak ]I recommend Strength Up[XENO:n ]\ngems-mo. Strength is justice-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 325,
+      "style": 126,
+      "name": "You need equipment with slots to[XENO:n ]\nattach ether gems-mo.[XENO:wait wait=key ][System:PageBreak ]Some ether gems are for weapons and some are[XENO:n ]\nfor armor, so be careful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 326,
+      "style": 126,
+      "name": "Are you making ether gems-mo? If[XENO:n ]\nnot, you definitely should-mo.[XENO:wait wait=key ][System:PageBreak ]I recommend Strength Up[XENO:n ]\ngems-mo. Strength is justice-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 327,
+      "style": 126,
+      "name": "You need equipment with slots to[XENO:n ]\nattach ether gems-mo.[XENO:wait wait=key ][System:PageBreak ]Some ether gems are for weapons and some are[XENO:n ]\nfor armor, so be careful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 328,
+      "style": 126,
+      "name": "I heard they've developed a[XENO:n ]\nportable Gem Crafting furnace-mo.[XENO:wait wait=key ][System:PageBreak ]If you don't have one yet,[XENO:n ]\nask Gem Man-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 329,
+      "style": 126,
+      "name": "Being able to do Gem Crafting anywhere would[XENO:n ]\nbe really convenient-mo.[XENO:wait wait=key ][System:PageBreak ]You could make ether gems as soon as you[XENO:n ]\ngather the crystals-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 330,
+      "style": 126,
+      "name": "You know how monsters can[XENO:n ]\nsometimes drop ether crystals?[XENO:wait wait=key ][System:PageBreak ]Well, that's because everything is[XENO:n ]\nmade of ether! Even monsters![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 331,
+      "style": 126,
+      "name": "Ether crystals from monsters are[XENO:n ]\nbasically the same as other ones.[XENO:wait wait=key ][System:PageBreak ]The difference is they can have[XENO:n ]\nmore than one property.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 332,
+      "style": 126,
+      "name": "You know how monsters can[XENO:n ]\nsometimes drop ether crystals?[XENO:wait wait=key ][System:PageBreak ]Well, that's because everything is[XENO:n ]\nmade of ether! Even monsters![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 333,
+      "style": 126,
+      "name": "Ether crystals from monsters are[XENO:n ]\nbasically the same as other ones.[XENO:wait wait=key ][System:PageBreak ]The difference is they can have[XENO:n ]\nmore than one property.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 334,
+      "style": 126,
+      "name": "You know how monsters can[XENO:n ]\nsometimes drop ether crystals?[XENO:wait wait=key ][System:PageBreak ]Well, that's because everything is[XENO:n ]\nmade of ether! Even monsters![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 335,
+      "style": 126,
+      "name": "Ether crystals from monsters are[XENO:n ]\nbasically the same as other ones.[XENO:wait wait=key ][System:PageBreak ]The difference is they can have[XENO:n ]\nmore than one property.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 336,
+      "style": 126,
+      "name": "Have you ever seen an ether[XENO:n ]\ndeposit? They're all sparkly![XENO:wait wait=key ][System:PageBreak ]If you do come across one, don't[XENO:n ]\nforget to harvest some crystals.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 337,
+      "style": 126,
+      "name": "You can harvest from the same[XENO:n ]\nether deposit over and over again.[XENO:wait wait=key ][System:PageBreak ]You just have to wait a bit. I used[XENO:n ]\nto do it all the time in my youth![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 338,
+      "style": 126,
+      "name": "Ether deposits are like...the[XENO:n ]\ncrystallised blood of the Giant God.[XENO:wait wait=key ][System:PageBreak ]That's why the crystals you[XENO:n ]\nharvest from them are so pure.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 339,
+      "style": 126,
+      "name": "Don't just collect ether crystals[XENO:n ]\nand forget about them.[XENO:wait wait=key ][System:PageBreak ]Craft them into gems! It's a[XENO:n ]\nterrible waste otherwise.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 340,
+      "style": 126,
+      "name": "You had to charge through all the[XENO:n ]\nfighting to get here, didn't you?[XENO:wait wait=key ][System:PageBreak ]I can see it on your faces.[XENO:n ]\nYou poor things![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 341,
+      "style": 126,
+      "name": "Take the time to do everything you[XENO:n ]\nneed to. Don't worry, it'll be fine![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 342,
+      "style": 126,
+      "name": "Have you ever had the curry here?[XENO:wait wait=key ][System:PageBreak ]It's very tasty.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 343,
+      "style": 126,
+      "name": "I'm so addicted to this curry. I cry[XENO:n ]\nif I can't come here every day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 344,
+      "style": 126,
+      "name": "Does Copham-san[XENO:n ]\nlook tired lately?[XENO:wait wait=key ][System:PageBreak ]Opening his shop every[XENO:n ]\nday after the attack...[XENO:wait wait=key ][System:PageBreak ]It must be hard on him.[XENO:n ]\nI'm a little worried.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 345,
+      "style": 126,
+      "name": "I'm glad Copham's Curry Shop[XENO:n ]\ndidn't get destroyed in the raid.[XENO:wait wait=key ][System:PageBreak ]It's nice to have some semblance[XENO:n ]\nof normality in our lives still.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 346,
+      "style": 126,
+      "name": "Is it true? Have they started[XENO:n ]\nreconstructing Colony 6?[XENO:wait wait=key ][System:PageBreak ]Maybe it was just a silly rumour.[XENO:wait wait=key ][System:PageBreak ]You hear a lot of those around the[XENO:n ]\nCurry Shop for some reason.[XENO:wait wait=key ][System:PageBreak ]Anyway, it's fun to gossip![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 347,
+      "style": 126,
+      "name": "I heard something odd.[XENO:wait wait=key ][System:PageBreak ]If you jump down from Kneecap[XENO:n ]\nHill, you can make an eternal vow.[XENO:wait wait=key ][System:PageBreak ]Probably just another silly rumour.[XENO:n ]\nFrankly, I expect you'd just die![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 348,
+      "style": 126,
+      "name": "Is it true that there are Giants'[XENO:n ]\nruins all over Giant God?[XENO:wait wait=key ][System:PageBreak ]Maybe it was just a silly rumour.[XENO:wait wait=key ][System:PageBreak ]You hear a lot of those around the[XENO:n ]\nCurry Shop for some reason.[XENO:wait wait=key ][System:PageBreak ]Anyway, it's fun to gossip![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 349,
+      "style": 126,
+      "name": "I heard about three Giants'[XENO:n ]\ntreasures the other day.[XENO:wait wait=key ][System:PageBreak ]Supposedly you're meant to offer[XENO:n ]\nthem and...err, get something?[XENO:wait wait=key ][System:PageBreak ]No, you're right, that's ridiculously[XENO:n ]\nvague. Someone made it up, I bet.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 350,
+      "style": 126,
+      "name": "Off out?[XENO:wait wait=key ][System:PageBreak ]You should know better than to go[XENO:n ]\nout of the colony on your own.[XENO:wait wait=key ][System:PageBreak ]Even two people aren't really safe[XENO:n ]\noutside. Three is a better number.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 351,
+      "style": 126,
+      "name": "Sorry, I shouldn't be[XENO:n ]\nsuch an old fusspot.[XENO:wait wait=key ][System:PageBreak ]All I want is for you to take the[XENO:n ]\nnecessary amount of caution.[XENO:wait wait=key ][System:PageBreak ]Don't feel like you have to impress[XENO:n ]\nanybody. Run away if you need to.[XENO:wait wait=key ][System:PageBreak ]That will keep you in good stead.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 352,
+      "style": 126,
+      "name": "What a lovely little party you are![XENO:n ]\nAre you going to Tephra Cave?[XENO:wait wait=key ][System:PageBreak ]Just remember to be cautious.[XENO:n ]\nDon't get too carried away.[XENO:wait wait=key ][System:PageBreak ]The monsters there are vicious.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 353,
+      "style": 126,
+      "name": "If you're in any danger, run away.[XENO:wait wait=key ][System:PageBreak ]Plenty of people would be upset if[XENO:n ]\nanything happened to you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 354,
+      "style": 126,
+      "name": "I see you're setting off.[XENO:n ]\nBe careful, both of you.[XENO:wait wait=key ][System:PageBreak ]I do worry that you're rushing into[XENO:n ]\nall this. Just...exercise caution.[XENO:wait wait=key ][System:PageBreak ]Fiorung wouldn't want you to get[XENO:n ]\nyourselves hurt.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 355,
+      "style": 126,
+      "name": "Come back to Colony 9[XENO:n ]\nwhenever you need to.[XENO:wait wait=key ][System:PageBreak ]We'll welcome you back[XENO:n ]\nwith open arms.[XENO:wait wait=key ][System:PageBreak ]I think Dunban would be pleased[XENO:n ]\nto see you in particular.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 356,
+      "style": 126,
+      "name": "The fighting never ends, does it?[XENO:wait wait=key ][System:PageBreak ]It had been peaceful here for so[XENO:n ]\nlong, it doesn't quite seem real.[XENO:wait wait=key ][System:PageBreak ]Just remember, there's no shame[XENO:n ]\nin running from a fight sometimes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 357,
+      "style": 126,
+      "name": "Are you coping all right?[XENO:wait wait=key ][System:PageBreak ]I know you're fighting to ease the[XENO:n ]\npain of losing your loved ones.[XENO:wait wait=key ][System:PageBreak ]But you can only expect so much.[XENO:n ]\nThey'll still be gone, I'm afraid.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 358,
+      "style": 126,
+      "name": "Dunban and Fiorung are both back[XENO:n ]\nhere, safe and sound.[XENO:wait wait=key ][System:PageBreak ]It's certainly a relief.[XENO:wait wait=key ][System:PageBreak ]It would be awful if the colony[XENO:n ]\nwere to lose its brightest youths.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 359,
+      "style": 126,
+      "name": "I hope Fiorung is back for good.[XENO:wait wait=key ][System:PageBreak ]I'd love to resume our weekly[XENO:n ]\ncooking lessons.[XENO:wait wait=key ][System:PageBreak ]She learns so quickly.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 360,
+      "style": 126,
+      "name": "Let me tell you all about[XENO:n ]\nether furnaces, sweetie![XENO:wait wait=key ][System:PageBreak ]They draw out the power of ether,[XENO:n ]\nwhich we compress into cylinders.[XENO:wait wait=key ][System:PageBreak ]Different cylinders for different[XENO:n ]\npurposes. All sorts of cylinders![XENO:wait wait=key ][System:PageBreak ]Ether furnaces are also used for[XENO:n ]\ngem crafting. Ooh, how exciting![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 361,
+      "style": 126,
+      "name": "Ether Cylinders from the furnace[XENO:n ]\nfuel everyone's light and heating.[XENO:wait wait=key ][System:PageBreak ]They're also what powers the[XENO:n ]\nDefence Force's machines.[XENO:wait wait=key ][System:PageBreak ]But they're not usually pure[XENO:n ]\nenough for the latest weapons.[XENO:wait wait=key ][System:PageBreak ]That's why we need the stockpile[XENO:n ]\nof cylinders at the ancient ruins.[XENO:wait wait=key ][System:PageBreak ]All the cylinders there are of a[XENO:n ]\nvery high purity, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 362,
+      "style": 126,
+      "name": "Let me tell you all about[XENO:n ]\nether furnaces, sweetie![XENO:wait wait=key ][System:PageBreak ]They draw out the power of ether,[XENO:n ]\nwhich we compress into cylinders.[XENO:wait wait=key ][System:PageBreak ]Different cylinders for different[XENO:n ]\npurposes. All sorts of cylinders![XENO:wait wait=key ][System:PageBreak ]Ether furnaces are also used for[XENO:n ]\ngem crafting. Ooh, how exciting![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 363,
+      "style": 126,
+      "name": "Ether Cylinders from the furnace[XENO:n ]\nfuel everyone's light and heating.[XENO:wait wait=key ][System:PageBreak ]They're also what powers the[XENO:n ]\nDefence Force's machines.[XENO:wait wait=key ][System:PageBreak ]But they're not usually pure[XENO:n ]\nenough for the latest weapons.[XENO:wait wait=key ][System:PageBreak ]That's why we need the stockpile[XENO:n ]\nof cylinders at the ancient ruins.[XENO:wait wait=key ][System:PageBreak ]All the cylinders there are of a[XENO:n ]\nvery high purity, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 364,
+      "style": 126,
+      "name": "Let me tell you all about[XENO:n ]\nether furnaces, sweetie![XENO:wait wait=key ][System:PageBreak ]They draw out the power of ether,[XENO:n ]\nwhich we compress into cylinders.[XENO:wait wait=key ][System:PageBreak ]Different cylinders for different[XENO:n ]\npurposes. All sorts of cylinders![XENO:wait wait=key ][System:PageBreak ]Ether furnaces are also used for[XENO:n ]\ngem crafting. Ooh, how exciting![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 365,
+      "style": 126,
+      "name": "Ether Cylinders from the furnace[XENO:n ]\nfuel everyone's light and heating.[XENO:wait wait=key ][System:PageBreak ]They're also what powers the[XENO:n ]\nDefence Force's machines.[XENO:wait wait=key ][System:PageBreak ]But they're not usually pure[XENO:n ]\nenough for the latest weapons.[XENO:wait wait=key ][System:PageBreak ]That's why we need the stockpile[XENO:n ]\nof cylinders at the ancient ruins.[XENO:wait wait=key ][System:PageBreak ]All the cylinders there are of a[XENO:n ]\nvery high purity, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 366,
+      "style": 126,
+      "name": "Let me tell you all about[XENO:n ]\nether furnaces, sweetie![XENO:wait wait=key ][System:PageBreak ]They draw out the power of ether,[XENO:n ]\nwhich we compress into cylinders.[XENO:wait wait=key ][System:PageBreak ]Different cylinders for different[XENO:n ]\npurposes. All sorts of cylinders![XENO:wait wait=key ][System:PageBreak ]Ether furnaces are also used for[XENO:n ]\ngem crafting. Ooh, how exciting![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 367,
+      "style": 126,
+      "name": "Ether Cylinders from the furnace[XENO:n ]\nfuel everyone's light and heating.[XENO:wait wait=key ][System:PageBreak ]They're also what powers the[XENO:n ]\nDefence Force's machines.[XENO:wait wait=key ][System:PageBreak ]But they're not usually pure[XENO:n ]\nenough for the latest weapons.[XENO:wait wait=key ][System:PageBreak ]That's why we need the stockpile[XENO:n ]\nof cylinders at the ancient ruins.[XENO:wait wait=key ][System:PageBreak ]All the cylinders there are of a[XENO:n ]\nvery high purity, you see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 368,
+      "style": 126,
+      "name": "Tell me, sweetie... What's the one[XENO:n ]\nvital thing friends need to have?[XENO:wait wait=key ][System:PageBreak ]Bonding, of course![XENO:n ]\nWhat else could it be?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 369,
+      "style": 126,
+      "name": "Rescuing your friends in battle[XENO:n ]\nis one way to deepen your affinity.[XENO:wait wait=key ][System:PageBreak ]But what about giving presents?[XENO:n ]\nCollectables, for instance.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 370,
+      "style": 126,
+      "name": "Sweetie, having deeper affinity[XENO:n ]\nwill even help your chain attacks![XENO:wait wait=key ][System:PageBreak ]You might be able to keep it going[XENO:n ]\nforever. Figuratively, I mean.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 371,
+      "style": 126,
+      "name": "It's not just amongst friends.[XENO:wait wait=key ][System:PageBreak ]There are plenty of people in the[XENO:n ]\nworld to develop an affinity with.[XENO:wait wait=key ][System:PageBreak ]They're all so interesting, sweetie![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 372,
+      "style": 126,
+      "name": "The Nopon are so cute and fluffy![XENO:wait wait=key ][System:PageBreak ]I remember hearing that they[XENO:n ]\ncome from quite far away.[XENO:wait wait=key ][System:PageBreak ]Originally they lived somewhere[XENO:n ]\naround the Giant God's back![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 373,
+      "style": 126,
+      "name": "I've never been to the[XENO:n ]\nGiant God's back.[XENO:wait wait=key ][System:PageBreak ]That would be so cool, seeing[XENO:n ]\nthe Nopon's homeland...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 374,
+      "style": 126,
+      "name": "Where are you off to together?[XENO:wait wait=key ][System:PageBreak ]I hope it's somewhere[XENO:n ]\nnice and romantic![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 375,
+      "style": 126,
+      "name": "Wherever you're going,[XENO:n ]\ncan I come too? Pleeeeeease?[XENO:wait wait=key ][System:PageBreak ]Relax, I'm just kidding! Haha![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 376,
+      "style": 126,
+      "name": "You're heading to Colony 6?[XENO:wait wait=key ][System:PageBreak ]Ooh, watch out. There are some[XENO:n ]\ncreepy monsters on the way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 377,
+      "style": 126,
+      "name": "Colony 6 is quite a way away. You[XENO:n ]\nhave to go through Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]I don't know what the next part of[XENO:n ]\nthe journey is like. I bet it's rough![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 378,
+      "style": 126,
+      "name": "You must be making it up. How[XENO:n ]\ncan Colony 6 be in ruins?[XENO:wait wait=key ][System:PageBreak ]More to the point, does this[XENO:n ]\nmean we're all doomed?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 379,
+      "style": 126,
+      "name": "Sorry, I'm always such an idiot.[XENO:n ]\nI didn't mean to panic like that.[XENO:wait wait=key ][System:PageBreak ]Just...don't die, OK? I think[XENO:n ]\nyou might be our only hope.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 380,
+      "style": 126,
+      "name": "Skills, Skills, Skills... Sorry,[XENO:n ]\nthat's my new favourite word![XENO:wait wait=key ][System:PageBreak ]Skills are great! I just wish I had[XENO:n ]\nthe dedication to learn any...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 381,
+      "style": 126,
+      "name": "I think Skills depend on[XENO:n ]\na person's personality.[XENO:wait wait=key ][System:PageBreak ]A hot-blooded[XENO:n ]\ntype like Rein...[XENO:wait wait=key ][System:PageBreak ]Probably has mostly offensive ones, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 382,
+      "style": 126,
+      "name": "Do you think people have[XENO:n ]\nhidden depths to them?[XENO:wait wait=key ][System:PageBreak ]Like, extra character traits we[XENO:n ]\ndon't know about up front?[XENO:wait wait=key ][System:PageBreak ]If so, I bet there are Skills related[XENO:n ]\nto those as well![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 383,
+      "style": 126,
+      "name": "How can you find out what hidden[XENO:n ]\ncharacter traits people have?[XENO:wait wait=key ][System:PageBreak ]Good question. Maybe they're[XENO:n ]\nrevealed when you help people?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 384,
+      "style": 126,
+      "name": "Have you seen the boy playing[XENO:n ]\non his own around here?[XENO:wait wait=key ][System:PageBreak ]His name's Rocco. He actually[XENO:n ]\nlives in the house just over there.[XENO:wait wait=key ][System:PageBreak ]I think his mum had a go at him.[XENO:n ]\nHe seems so upset, poor thing.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 385,
+      "style": 126,
+      "name": "I hear Rocco-chan and his[XENO:n ]\nolder sister are fighting too.[XENO:wait wait=key ][System:PageBreak ]Poor thing, he's[XENO:n ]\nstill so young.[XENO:wait wait=key ][System:PageBreak ]He's a brave little one,[XENO:n ]\nthough, holding back his tears.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 386,
+      "style": 126,
+      "name": "Rocco-chan looks happier lately now[XENO:n ]\nthat he's made up with his mother.[XENO:wait wait=key ][System:PageBreak ]Things must be hard for Sonia-san, though.[XENO:n ]\nShe lost her husband in last year's war.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 387,
+      "style": 126,
+      "name": "Now all that's left is for Rocco-chan[XENO:n ]\nto make up with Riruka-chan.[XENO:wait wait=key ][System:PageBreak ]But how can we get them to make up?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 388,
+      "style": 126,
+      "name": "I hear some odd man has been[XENO:n ]\ncourting Sonia-san lately.[XENO:wait wait=key ][System:PageBreak ]I saw them the other day,[XENO:n ]\ntoo. They looked happy.[XENO:wait wait=key ][System:PageBreak ]She's seemed troubled lately,[XENO:n ]\nso I'm glad to see her smile.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 389,
+      "style": 126,
+      "name": "I imagine this all must be[XENO:n ]\nquite difficult for Riruka.[XENO:wait wait=key ][System:PageBreak ]She was a real daddy's girl. This[XENO:n ]\nnew man has a lot to live up to![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 390,
+      "style": 126,
+      "name": "Riruka-chan and Rocco-chan seem to[XENO:n ]\nbe playing happily together lately.[XENO:wait wait=key ][System:PageBreak ]Sonia-san seems to have come to terms[XENO:n ]\nwith things, and looks much happier.[XENO:wait wait=key ][System:PageBreak ]It must be hard for the three of them,[XENO:n ]\nbut I hope they always get along.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 391,
+      "style": 126,
+      "name": "Oh yes, Sonia-san shared[XENO:n ]\nsome cabbage parcels with me.[XENO:wait wait=key ][System:PageBreak ]They were exquisite. They[XENO:n ]\npractically melted on my tongue.[XENO:wait wait=key ][System:PageBreak ]She gave me some grilled Capil[XENO:n ]\nskewers too, but those were inedible.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 392,
+      "style": 126,
+      "name": "Buy one of these fabulous ether[XENO:n ]\nlamps! It'll brighten up any home![XENO:wait wait=key ][System:PageBreak ]Good quality products, just like[XENO:n ]\nthe ones that light up the colony.[XENO:wait wait=key ][System:PageBreak ]In stock but going fast! 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 393,
+      "style": 126,
+      "name": "Come on, you know you want an[XENO:n ]\nether lamp! They last forever![XENO:wait wait=key ][System:PageBreak ]When it goes dim, just change the[XENO:n ]\nEther Cylinder! Plus it's 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 394,
+      "style": 126,
+      "name": "If it isn't Fiorung![XENO:wait wait=key ][System:PageBreak ]Aren't these new ether lamps just[XENO:n ]\ndarling? You know you want one![XENO:wait wait=key ][System:PageBreak ]They're even 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 395,
+      "style": 126,
+      "name": "Sorry![XENO:wait wait=key ][System:PageBreak ]I have to get this food to Shulk[XENO:n ]\nwhilst it's still warm.[XENO:wait wait=key ][System:PageBreak ]I'll come by to chat later![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 396,
+      "style": 126,
+      "name": "Buy one of these fabulous ether[XENO:n ]\nlamps! It'll brighten up any home![XENO:wait wait=key ][System:PageBreak ]Good quality products, just like[XENO:n ]\nthe ones that light up the colony.[XENO:wait wait=key ][System:PageBreak ]In stock but going fast! 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 397,
+      "style": 126,
+      "name": "Come on, you know you want an[XENO:n ]\nether lamp! They last forever![XENO:wait wait=key ][System:PageBreak ]When it goes dim, just change the[XENO:n ]\nEther Cylinder! Plus it's 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 398,
+      "style": 126,
+      "name": "I suppose people aren't thinking[XENO:n ]\nabout ether lamps right now.[XENO:wait wait=key ][System:PageBreak ]But I have to try and sell them.[XENO:wait wait=key ][System:PageBreak ]That's why they're 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 399,
+      "style": 126,
+      "name": "The Machine God Soldiers didn't destroy[XENO:n ]\nmuch. It seems they mostly attacked people.[XENO:wait wait=key ][System:PageBreak ]My lamps weren't broken, so I[XENO:n ]\ncan keep doing business as usual.[XENO:wait wait=key ][System:PageBreak ]But I'd rather the people had[XENO:n ]\nbeen saved than the lamps...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 400,
+      "style": 126,
+      "name": "Ah, my ether lamp sales are back[XENO:n ]\nto normal these days.[XENO:wait wait=key ][System:PageBreak ]Now that we have the allied force,[XENO:n ]\neveryone's feeling positive.[XENO:wait wait=key ][System:PageBreak ]Speaking of which, my prices are[XENO:n ]\npositively rock bottom! 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 401,
+      "style": 126,
+      "name": "Ether lamps glow because of[XENO:n ]\nether, obviously.[XENO:wait wait=key ][System:PageBreak ]But how do those Nopon[XENO:n ]\npollen orbs work?[XENO:wait wait=key ][System:PageBreak ]As a lamp specialist, I'm quite[XENO:n ]\nintrigued. At least 50% intrigued.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 402,
+      "style": 126,
+      "name": "What in the world is going on?[XENO:wait wait=key ][System:PageBreak ]Maybe I shouldn't be standing[XENO:n ]\naround here selling lamps.[XENO:wait wait=key ][System:PageBreak ]I should be running off. 50% off![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 403,
+      "style": 126,
+      "name": "Oh dear... We must have provoked[XENO:n ]\nthe wrath of the Giant God![XENO:wait wait=key ][System:PageBreak ]Could it be because I was using[XENO:n ]\nits precious ether to power lamps?[XENO:wait wait=key ][System:PageBreak ]What do I do? I sold so many[XENO:n ]\nof them at 50% off...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 404,
+      "style": 126,
+      "name": "[XENO:qst_start ]Please, you must listen.[XENO:wait wait=key ][System:PageBreak ]My son went missing years ago,[XENO:n ]\nand I think I know where he went.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 405,
+      "style": 126,
+      "name": "I found something that belonged to[XENO:n ]\nhim. That's how I know he's...[XENO:wait wait=key ][System:PageBreak ]He's gone. He's gone, and he's[XENO:n ]\nnever coming back.[XENO:wait wait=key ][System:PageBreak ]And worst of all, I don't even have[XENO:n ]\nhis remains to return to the Giant God.[XENO:wait wait=key ][System:PageBreak ]Could you find his other effects?[XENO:n ]\nI'd like to know how far he went.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 406,
+      "style": 126,
+      "name": "You can count on me, old lady![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 407,
+      "style": 126,
+      "name": "Hmm... Is that so?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 408,
+      "style": 126,
+      "name": "Do I look like someone who'd[XENO:n ]\nmake jokes?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 409,
+      "style": 126,
+      "name": "It's nice to see there are still fine,[XENO:n ]\nupstanding youths in the world.[XENO:wait wait=key ][System:PageBreak ]You remind me of my son.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 410,
+      "style": 126,
+      "name": "My son said he was aiming to[XENO:n ]\nreach the Giant God's head. Silly boy.[XENO:wait wait=key ][System:PageBreak ]I don't know how far he got, but[XENO:n ]\nI'd like it if you found his effects.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 411,
+      "style": 126,
+      "name": "[XENO:qst qst=1 ]"
+    },
+    {
+      "$id": 412,
+      "style": 126,
+      "name": "Thank you most kindly.[XENO:wait wait=key ][System:PageBreak ]Accepting my son's fate was hard,[XENO:n ]\nbut it's left me much more at ease.[XENO:wait wait=key ][System:PageBreak ]Take care in your own travels.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 413,
+      "style": 126,
+      "name": "I wish he'd never left home.[XENO:wait wait=key ][System:PageBreak ]Well, it's no use me saying[XENO:n ]\nthat to you.[XENO:wait wait=key ][System:PageBreak ]I blame myself. Maybe I could[XENO:n ]\nhave stopped him.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 414,
+      "style": 126,
+      "name": "Are you still looking for my son's[XENO:n ]\nthings? There should be three.[XENO:wait wait=key ][System:PageBreak ]He was always talking nonsense[XENO:n ]\nabout going to the Giant God's head.[XENO:wait wait=key ][System:PageBreak ]I wonder how far he really got...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 415,
+      "style": 126,
+      "name": "I...I don't believe it.[XENO:wait wait=key ][System:PageBreak ]There's no question. This is my[XENO:n ]\nson's armour, gun and knife.[XENO:wait wait=key ][System:PageBreak ]He saved up so hard to buy them.[XENO:wait wait=key ][System:PageBreak ]I remember how he smiled when he[XENO:n ]\nchanged into his new armour.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 416,
+      "style": 126,
+      "name": "I've no choice but to accept it.[XENO:n ]\nNothing will bring my son back.[XENO:wait wait=key ][System:PageBreak ]But at least some part of him has[XENO:n ]\nreturned to the place he grew up.[XENO:wait wait=key ][System:PageBreak ]For that I am very grateful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 417,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:e ]On behalf of both my son and[XENO:n ]\nmyself... Thank you very much.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 418,
+      "style": 126,
+      "name": "[XENO:qst_start ]Ugh, it tastes awful.[XENO:wait wait=key ][System:PageBreak ]At this rate, my curry ain't gonna[XENO:n ]\nbe famous, it's gonna be infamous![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 419,
+      "style": 126,
+      "name": "It's life or death, mate.[XENO:wait wait=key ][System:PageBreak ]My curry's key ingredient is Dance[XENO:n ]\nApples. They give it the flavour.[XENO:wait wait=key ][System:PageBreak ]But my supply's almost run out.[XENO:wait wait=key ][System:PageBreak ]Problem is, I'm too busy here to[XENO:n ]\ngo and get any![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 420,
+      "style": 126,
+      "name": "But you can't stop making it! I'd[XENO:n ]\ndie if I couldn't eat your curry![XENO:wait wait=key ][System:PageBreak ]Plus, you don't charge extra for[XENO:n ]\na bigger helping.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 421,
+      "style": 126,
+      "name": "You...You really like my curry?[XENO:wait wait=key ][System:PageBreak ]Well, thanks, mate![XENO:wait wait=key ][System:PageBreak ]So...you don't mind helping me[XENO:n ]\nout? I'll make it worth your while![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 422,
+      "style": 126,
+      "name": "[XENO:qst qst=3 ]"
+    },
+    {
+      "$id": 423,
+      "style": 126,
+      "name": "You really don't mind?![XENO:wait wait=key ][System:PageBreak ]This is such a big help.[XENO:n ]\nI owe you big time![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 424,
+      "style": 126,
+      "name": "I guess my reputation's gonna[XENO:n ]\ncarry on its downward spiral...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 425,
+      "style": 126,
+      "name": "I just need some Dance Apples.[XENO:wait wait=key ][System:PageBreak ]Don't do it just for me...[XENO:n ]\nDo it for my daughter![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 426,
+      "style": 126,
+      "name": "You got them? Cheers, mate![XENO:n ]\nAnd the timing couldn't be better.[XENO:wait wait=key ][System:PageBreak ]I've just now used up the very[XENO:n ]\nlast of my Dance Apples.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c ]Anyway, this is a big help![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 427,
+      "style": 126,
+      "name": "You can come here for curry any[XENO:n ]\ntime you like. It's on the house![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 428,
+      "style": 126,
+      "name": "[XENO:qst_start ]Deary me... My grandsons are[XENO:n ]\nhaving quite the altercation![XENO:wait wait=key ][System:PageBreak ]And now to get the upper hand[XENO:n ]\nthey are both in training.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 429,
+      "style": 126,
+      "name": "Have you ever heard anything[XENO:n ]\nso ridiculous? I certainly haven't.[XENO:wait wait=key ][System:PageBreak ]I do hope the younger of the two[XENO:n ]\nwins, though.[XENO:wait wait=key ][System:PageBreak ]He is my flesh and blood,[XENO:n ]\nafter all.[XENO:wait wait=key ][System:PageBreak ]That's why I'd like someone to[XENO:n ]\ntake him the biscuits I've made.[XENO:wait wait=key ][System:PageBreak ]It might encourage him to train[XENO:n ]\nharder![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 430,
+      "style": 126,
+      "name": "Why do you want the younger one[XENO:n ]\nto win? They're both family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 431,
+      "style": 126,
+      "name": "Oh, that's right, Fiorung...[XENO:n ]\nYou wouldn't know.[XENO:wait wait=key ][System:PageBreak ]Anyway, that's our business.[XENO:n ]\nI shouldn't have said anything.[XENO:wait wait=key ][System:PageBreak ]In any case, would you mind[XENO:n ]\nhelping me with this?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 432,
+      "style": 126,
+      "name": "[XENO:qst qst=4 ]"
+    },
+    {
+      "$id": 433,
+      "style": 126,
+      "name": "I'm most grateful. My legs aren't[XENO:n ]\nwhat they used to be, you see.[XENO:wait wait=key ][System:PageBreak ]Even getting to the Residential[XENO:n ]\nDistrict is awkward.[XENO:wait wait=key ][System:PageBreak ]I'll make you some biscuits.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 434,
+      "style": 126,
+      "name": "Make sure my grandson gets those[XENO:n ]\nbiscuits. All of them, preferably.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 435,
+      "style": 126,
+      "name": "Never mind. I suppose you have[XENO:n ]\na lot on your plate already.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 436,
+      "style": 126,
+      "name": "You'll find my grandson, Jiroque,[XENO:n ]\nin the Residential District.[XENO:wait wait=key ][System:PageBreak ]He trains there every night.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 437,
+      "style": 126,
+      "name": "You took my biscuits to Jiroque?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:7:3 ]He's a good boy. So sweet...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 438,
+      "style": 126,
+      "name": "I'd very much like Jiroque to win.[XENO:wait wait=key ][System:PageBreak ]You're on his side too, aren't you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 439,
+      "style": 126,
+      "name": "[XENO:qst_start ]Must...work...harder...[XENO:wait wait=key ][System:PageBreak ]Keep focused. I'm in the zone.[XENO:n ]\nCan't slow down for a second![XENO:wait wait=key ][System:PageBreak ]One plate for you? Or maybe five?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 440,
+      "style": 126,
+      "name": "What? What's wrong?[XENO:wait wait=key ][System:PageBreak ]You think I'm looking a bit funny?[XENO:n ]\nYou think I'm...working too hard?[XENO:wait wait=key ][System:PageBreak ]Hah! I mean, I am feeling worn out[XENO:n ]\nlately. Times are a bit rough...[XENO:wait wait=key ][System:PageBreak ]But that doesn't matter. Not when[XENO:n ]\nI think of my cute little daughter![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 441,
+      "style": 126,
+      "name": "[XENO:qst qst=16 ]"
+    },
+    {
+      "$id": 442,
+      "style": 126,
+      "name": "Listen, I'm glad you cared enough[XENO:n ]\nto ask. Just...don't worry, OK?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 443,
+      "style": 126,
+      "name": "I can take it. This and more.[XENO:wait wait=key ][System:PageBreak ]I'm a big manly man![XENO:n ]\nWork ain't gonna beat me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 444,
+      "style": 126,
+      "name": "Well, if you really want to help...[XENO:wait wait=key ][System:PageBreak ]I could do with some Fresh Armu[XENO:n ]\nMilk. It's very nutritious.[XENO:wait wait=key ][System:PageBreak ]It should keep me going for[XENO:n ]\na bit longer.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 445,
+      "style": 126,
+      "name": "Wow, mate, you really got me[XENO:n ]\nsome. Thanks! You're a star.[XENO:wait wait=key ][System:PageBreak ]Now it's back to full speed ahead![XENO:wait wait=key ][System:PageBreak ]OK, OK, I'll slow down a bit.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 446,
+      "style": 126,
+      "name": "The thing is, tons of people love[XENO:n ]\nmy curry. I can't let them down.[XENO:wait wait=key ][System:PageBreak ]My customers are really important.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c ]The trick is to strike up a good[XENO:n ]\nbalance between work and family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 447,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:a:55:2 ]What?! Daddy's working himself[XENO:n ]\nto death?![XENO:wait wait=key ][System:PageBreak ]I told him to be careful![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 448,
+      "style": 126,
+      "name": "I don't want him to die![XENO:wait wait=key ][System:PageBreak ]So please...save my daddy![XENO:wait wait=key ][System:PageBreak ]I don't have a mummy, so I can't[XENO:n ]\nlose my daddy as well![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 449,
+      "style": 126,
+      "name": "I used to give him a shoulder[XENO:n ]\nmassage every evening.[XENO:wait wait=key ][System:PageBreak ]He said I was so good at it. I bet[XENO:n ]\nthat's why he gets tired now![XENO:wait wait=key ][System:PageBreak ]He should at least go home[XENO:n ]\nand sleep once in a while.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 450,
+      "style": 126,
+      "name": "But he rarely[XENO:n ]\ncomes home.[XENO:wait wait=key ][System:PageBreak ]So I'll have to put on a little act.[XENO:wait wait=key ][System:PageBreak ]I'll use medicine to fall[XENO:n ]\nasleep and pretend I've fainted.[XENO:wait wait=key ][System:PageBreak ]Then go get Daddy. I'm[XENO:n ]\nsure he'll come right away.[XENO:wait wait=key ][System:PageBreak ]Three Crazy Mints from[XENO:n ]\nTephra Cave should be enough.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 451,
+      "style": 126,
+      "name": "I just need three Crazy Mints.[XENO:n ]\nYou can get them in Tephra Cave![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 452,
+      "style": 126,
+      "name": "You got them! That's really cool,[XENO:n ]\nyou guys![XENO:wait wait=key ][System:PageBreak ]Wow, they stink! I almost feel like[XENO:n ]\nI might actually pass out![XENO:wait wait=key ][System:PageBreak ]Anyway, these should do nicely.[XENO:wait wait=key ][System:PageBreak ]Go and tell Daddy I've fainted![XENO:n ]\nLeave the rest to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 453,
+      "style": 126,
+      "name": "Hurry up! Go and tell Daddy![XENO:wait wait=key ][System:PageBreak ]Come on, pick up the pace![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 454,
+      "style": 126,
+      "name": "What?! Paola fainted?![XENO:wait wait=key ][System:PageBreak ]Oh no, my poor little girl![XENO:wait wait=key ][System:PageBreak ]I'll be back later. Thanks for[XENO:n ]\nletting me know what happened![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 455,
+      "style": 126,
+      "name": "Turns out she was just pretending.[XENO:n ]\nI gave her a right old telling off.[XENO:wait wait=key ][System:PageBreak ]But I know why she did it,[XENO:n ]\nand it's all my fault.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:4 ]I haven't been spending enough[XENO:n ]\ntime with her. I'm a bad daddy![XENO:wait wait=key ][System:PageBreak ]But I'm gonna fix it, even though[XENO:n ]\nit means making less curry.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 456,
+      "style": 126,
+      "name": "[XENO:qst_start ]Glad you're here! Could I bend[XENO:n ]\nyour ear for a minute?[XENO:wait wait=key ][System:PageBreak ]I have a favour to ask.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 457,
+      "style": 126,
+      "name": "I bet you can guess. Come on,[XENO:n ]\nisn't it obvious?[XENO:wait wait=key ][System:PageBreak ]It's Paola! She seems so lonely.[XENO:n ]\nCould you go and play with her?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 458,
+      "style": 126,
+      "name": "Isn't that your job?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 459,
+      "style": 126,
+      "name": "Now come on, that's not fair![XENO:wait wait=key ][System:PageBreak ]Paola likes you guys.[XENO:wait wait=key ][System:PageBreak ]Don't you think she'd rather[XENO:n ]\nplay with you than on her own?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 460,
+      "style": 126,
+      "name": "[XENO:qst qst=17 ]"
+    },
+    {
+      "$id": 461,
+      "style": 126,
+      "name": "Nice one![XENO:wait wait=key ][System:PageBreak ]I think she'll be really happy[XENO:n ]\nto see you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 462,
+      "style": 126,
+      "name": "No worries. I can see you've got[XENO:n ]\na lot going on at the moment.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 463,
+      "style": 126,
+      "name": "Paola's gonna be glad to see you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 464,
+      "style": 126,
+      "name": "Did she have fun?[XENO:wait wait=key ][System:PageBreak ]Good stuff, mate![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 465,
+      "style": 126,
+      "name": "You can hang out with her again[XENO:n ]\nsometime, you know?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:3 ]Wait, no! I need to stop doing this.[XENO:wait wait=key ][System:PageBreak ]I'm the one that has to spend[XENO:n ]\ntime with her. I'm being selfish.[XENO:wait wait=key ][System:PageBreak ]Thanks for today, anyhow![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 466,
+      "style": 126,
+      "name": "Huh? You've come to hang out[XENO:n ]\nwith me? Oooh, thank you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 467,
+      "style": 126,
+      "name": "Oh, I see! Daddy must have[XENO:n ]\nasked you! Like, as a favour.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 468,
+      "style": 126,
+      "name": "Why won't Daddy come and[XENO:n ]\nhang out with me himself?[XENO:wait wait=key ][System:PageBreak ]Hmm... Maybe he wants me to be[XENO:n ]\na better daughter! That must be it![XENO:wait wait=key ][System:PageBreak ]Hey, what if I helped everyone by[XENO:n ]\nbeating up some monsters?[XENO:wait wait=key ][System:PageBreak ]Then he'd see how good I am![XENO:wait wait=key ][System:PageBreak ]There's this Fiendish Bunnit[XENO:n ]\naround the hill at Cliff Lake.[XENO:wait wait=key ][System:PageBreak ]It's such a terror![XENO:wait wait=key ][System:PageBreak ]But...I'm just a little girl.[XENO:n ]\nCould you defeat it for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 469,
+      "style": 126,
+      "name": "If I do something good, Daddy will[XENO:n ]\nsee what a good girl I am![XENO:wait wait=key ][System:PageBreak ]This kind of thing is a breeze for[XENO:n ]\nyou, right? Please help me out![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 470,
+      "style": 126,
+      "name": "It's the Fiendish Bunnit around[XENO:n ]\nthe hill at Cliff Lake.[XENO:wait wait=key ][System:PageBreak ]I hear it's pretty tough. Watch out![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 471,
+      "style": 126,
+      "name": "Wow! You beat it! The whole[XENO:n ]\ncolony will feel safer now.[XENO:wait wait=key ][System:PageBreak ]I can hold my head high and say...[XENO:wait wait=key ][System:PageBreak ]My friends beat the[XENO:n ]\nFiendish Bunnit![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 472,
+      "style": 126,
+      "name": "I think everyone will be grateful.[XENO:wait wait=key ][System:PageBreak ]Thanks for hanging out with me![XENO:n ]\nIt was the most fun ever![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 473,
+      "style": 126,
+      "name": "[XENO:qst_start ]I hate having to say this, but...[XENO:wait wait=key ][System:PageBreak ]Since I started spending more time[XENO:n ]\nwith Paola, my curry's got worse.[XENO:wait wait=key ][System:PageBreak ]People keep saying it's not how it[XENO:n ]\nused to be. They can't finish it![XENO:wait wait=key ][System:PageBreak ]My home life is more fulfilled, but[XENO:n ]\nwork's gone to the dogs.[XENO:wait wait=key ][System:PageBreak ]It's safe to say I've hit a slump.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 474,
+      "style": 126,
+      "name": "It's seriously life or death, mate![XENO:wait wait=key ][System:PageBreak ]You know my daughter's the most[XENO:n ]\nimportant thing in the world to me.[XENO:wait wait=key ][System:PageBreak ]But I can't give her nice things if[XENO:n ]\nI'm not making any money![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 475,
+      "style": 126,
+      "name": "That's why I have[XENO:n ]\na favor to ask.[XENO:wait wait=key ][System:PageBreak ]Could you get me five[XENO:n ]\nlots of Samon Milt?[XENO:wait wait=key ][System:PageBreak ]I hear it goes well with curry.[XENO:wait wait=key ][System:PageBreak ]It'll keep the curry tasting good until I'm[XENO:n ]\nback in form, even if it's only a stopgap.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 476,
+      "style": 126,
+      "name": "I must admit, I have some[XENO:n ]\ndoubts about this plan.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 477,
+      "style": 126,
+      "name": "Heh. I don't know, it's an idea.[XENO:wait wait=key ][System:PageBreak ]I think it'll stop my customers[XENO:n ]\nlosing all their faith in me.[XENO:wait wait=key ][System:PageBreak ]I've gotta keep up appearances![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 478,
+      "style": 126,
+      "name": "For the sake of your family.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 479,
+      "style": 126,
+      "name": "[XENO:qst qst=18 ]"
+    },
+    {
+      "$id": 480,
+      "style": 126,
+      "name": "Please, I need that Piranhax Roe![XENO:wait wait=key ][System:PageBreak ]Do it for Paola, not for me![XENO:n ]\nWait, did I say that once already?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 481,
+      "style": 126,
+      "name": "Fine, you've got your own[XENO:n ]\nproblems. I'll manage somehow.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 482,
+      "style": 126,
+      "name": "Hopefully those ingredients will[XENO:n ]\nmake my curry a bit tastier.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 483,
+      "style": 126,
+      "name": "Oh, you got me the stuff I asked[XENO:n ]\nfor! It smells really tasty.[XENO:wait wait=key ][System:PageBreak ]Now all I need is...[XENO:wait wait=key ][System:PageBreak ]Actually, no, this is perfect![XENO:wait wait=key ][System:PageBreak ]Now there won't be anyone[XENO:n ]\nsaying my curry is awful.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 484,
+      "style": 126,
+      "name": "Now all I have to do is get myself[XENO:n ]\nback into expert cooking mode.[XENO:wait wait=key ][System:PageBreak ]The better my curry is, the more[XENO:n ]\nnice clothes I can buy for Paola.[XENO:wait wait=key ][System:PageBreak ]So it's time to get my groove back![XENO:trust trust=p:1:c:55:5 ][XENO:wait wait=key ][System:PageBreak ]Thanks for your help, guys.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 485,
+      "style": 126,
+      "name": "[XENO:qst_start ]You brought it, then?[XENO:n ]\nLooks as tasty as they say.[XENO:wait wait=key ][System:PageBreak ]While you're at it,[XENO:wait wait=key ][System:PageBreak ]could you get me about[XENO:n ]\nthree Juicy Tomatoes?[XENO:wait wait=key ][System:PageBreak ]It'll make the curry[XENO:n ]\neven better. Please![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 486,
+      "style": 126,
+      "name": "Nerine-chan wants[XENO:n ]\nme to see something?[XENO:wait wait=key ][System:PageBreak ]What is it?[XENO:wait wait=key ][System:PageBreak ]How well Shulk and[XENO:n ]\nRein get along?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 487,
+      "style": 126,
+      "name": "Oh, you're right![XENO:wait wait=key ][System:PageBreak ]Shulk and Rein really[XENO:n ]\nare that close.[XENO:wait wait=key ][System:PageBreak ]I'm jealous. I wish[XENO:n ]\nNerine-chan and I...[XENO:wait wait=key ][System:PageBreak ]Oh, but maybe it's[XENO:n ]\nbecause they're boys?[XENO:wait wait=key ][System:PageBreak ]Girls can't get that close. I'm sure of it.[XENO:wait wait=key ][System:PageBreak ]If you disagree, prove girls can get that close![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 488,
+      "style": 126,
+      "name": "If you think girls can be just as[XENO:n ]\ngood friends as boys, prove it![XENO:wait wait=key ][System:PageBreak ]I won't believe it unless you can[XENO:n ]\nprove it to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 489,
+      "style": 126,
+      "name": "Please go tell Nerine-chan soon.[XENO:wait wait=key ][System:PageBreak ]I want to make up with her right away![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 490,
+      "style": 126,
+      "name": "Wow, amazing! I guess girls really[XENO:n ]\ncan be as good friends as boys![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 491,
+      "style": 126,
+      "name": "I wonder if Nerine-chan and I can get along too?[XENO:wait wait=key ][System:PageBreak ]Shulk and Rein get[XENO:n ]\nalong, after all.[XENO:wait wait=key ][System:PageBreak ]We can't keep fighting[XENO:n ]\nall the time, can we?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 492,
+      "style": 126,
+      "name": "Okay, I'll get along[XENO:n ]\nwith Nerine-chan.[XENO:wait wait=key ][System:PageBreak ]It's all about helping[XENO:n ]\neach other, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 493,
+      "style": 126,
+      "name": "It seems you've been able to[XENO:n ]\nhalt my grandsons' argument.[XENO:wait wait=key ][System:PageBreak ]Thank you. It was dreadful to think[XENO:n ]\nJiroque might get himself hurt.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 494,
+      "style": 126,
+      "name": "A present?[XENO:n ]\nBut this is Maternal Armu Milk.[XENO:wait wait=key ][System:PageBreak ]This will make my biscuits[XENO:n ]\nparticularly sumptuous![XENO:wait wait=key ][System:PageBreak ]Thank you most kindly.[XENO:wait wait=key ][System:PageBreak ]Hmm? Was there something else?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 495,
+      "style": 126,
+      "name": "Was there something else[XENO:n ]\nyou wanted to give me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 496,
+      "style": 126,
+      "name": "This was his...[XENO:wait wait=key ][System:PageBreak ]I thought I'd never find it again.[XENO:wait wait=key ][System:PageBreak ]That Nopon gave it to you?[XENO:wait wait=key ][System:PageBreak ]He must've searched so hard for it.[XENO:n ]\nThis is a memento of my late husband.[XENO:wait wait=key ][System:PageBreak ]My husband got into a bit[XENO:n ]\nof trouble with Nopon...[XENO:wait wait=key ][System:PageBreak ]That's how he lost his life...[XENO:wait wait=key ][System:PageBreak ]I know it wasn't that boy's fault,[XENO:n ]\nbut somehow I couldn't accept him...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 497,
+      "style": 126,
+      "name": "My own stubbornness led me[XENO:n ]\nto treat Kazuroo unfairly.[XENO:wait wait=key ][System:PageBreak ]Could you wait a moment?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 498,
+      "style": 126,
+      "name": "It may be too late for apologies,[XENO:n ]\nbut would you take these to him?[XENO:wait wait=key ][System:PageBreak ]Baking is all I'm skilled at,[XENO:n ]\nso biscuits will have to do.[XENO:wait wait=key ][System:PageBreak ]And tell him I wouldn't mind if he[XENO:n ]\ncame to keep me company later.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 499,
+      "style": 126,
+      "name": "[XENO:qst_start ]You like solving problems, don't[XENO:n ]\nyou? Well, I've got a whopper![XENO:wait wait=key ][System:PageBreak ]I broke my mum's pendant. She[XENO:n ]\nloves it so much. Dad gave her it![XENO:wait wait=key ][System:PageBreak ]Now Mum's super angry and keeps[XENO:n ]\nmaking horrible mush for dinner.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 500,
+      "style": 126,
+      "name": "If I don't eat some real food and[XENO:n ]\nfast, my tongue's gonna fall off![XENO:wait wait=key ][System:PageBreak ]I've tried to find someone who can[XENO:n ]\nfix my mum's pendant.[XENO:wait wait=key ][System:PageBreak ]But no one in the Residential[XENO:n ]\nDistrict can do it.[XENO:wait wait=key ][System:PageBreak ]I can't walk very far on my own,[XENO:n ]\nso can you find someone instead?[XENO:wait wait=key ][XENO:del del=all ]"
+    },
+    {
+      "$id": 501,
+      "style": 126,
+      "name": "Dean-san at the lab should be[XENO:n ]\ngood at fixing things like this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 502,
+      "style": 126,
+      "name": "Really? Thanks, Shulk! Does that[XENO:n ]\nmean you'll ask him for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 503,
+      "style": 126,
+      "name": "[XENO:qst qst=35 ]"
+    },
+    {
+      "$id": 504,
+      "style": 126,
+      "name": "Thanks! I owe you big time![XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:5:1 ]By the way, whatever you do,[XENO:n ]\ndon't tell Sonia about this![XENO:wait wait=key ][System:PageBreak ]She's my mum.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 505,
+      "style": 126,
+      "name": "Oh yeah, here's the pendant.[XENO:n ]\nDon't lose it or anything![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 506,
+      "style": 126,
+      "name": "What am I gonna do? Mum keeps[XENO:n ]\nmaking this horrible face at me...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 507,
+      "style": 126,
+      "name": "Please agree to get my mum's[XENO:n ]\npendant repaired.[XENO:wait wait=key ][System:PageBreak ]Otherwise I won't be able to have[XENO:n ]\na nice dinner ever again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 508,
+      "style": 126,
+      "name": "You got it fixed?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 509,
+      "style": 126,
+      "name": "Wow, you really did it! It's just[XENO:n ]\nlike it was before! Who fixed it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 510,
+      "style": 126,
+      "name": "Huh? Dean-san from the lab fixed it for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 511,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:c:5:4 ]Dean-san's[XENO:n ]\namazing![XENO:wait wait=key ][System:PageBreak ]When I grow up, I want to[XENO:n ]\nbe able to fix anything![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 512,
+      "style": 126,
+      "name": "I hope I meet him so I can thank[XENO:n ]\nhim properly. Anyway, thank you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 513,
+      "style": 126,
+      "name": "Oh, Dean wants to go to dinner?[XENO:n ]\nHaha! How cute of him to say that.[XENO:wait wait=key ][System:PageBreak ]To be honest, I'd love to say yes,[XENO:n ]\nbut the problem is the kids...[XENO:wait wait=key ][System:PageBreak ]I can barely find time for myself[XENO:n ]\nbecause they squabble constantly![XENO:wait wait=key ][System:PageBreak ]It's such a silly argument, as well.[XENO:n ]\nIt's all because of a Shin Gecko![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 514,
+      "style": 126,
+      "name": "Shin Geckos are rare, you see.[XENO:wait wait=key ][System:PageBreak ]Then before I knew it, they started[XENO:n ]\narguing over who spotted it first![XENO:wait wait=key ][System:PageBreak ]And while the argument raged on,[XENO:n ]\nthe Shin Gecko ran off scared![XENO:wait wait=key ][System:PageBreak ]Maybe if they could each have one[XENO:n ]\nas a pet, they'd calm down a bit.[XENO:wait wait=key ][System:PageBreak ]Then I'd feel happy inviting[XENO:n ]\nDean over for dinner![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 515,
+      "style": 126,
+      "name": "Find two Shin Geckos for my kids.[XENO:wait wait=key ][System:PageBreak ]Then I won't mind if Dean comes[XENO:n ]\nover and has dinner with us![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 516,
+      "style": 126,
+      "name": "Did you manage to find them?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 517,
+      "style": 126,
+      "name": "Those are perfect! My kids are[XENO:n ]\ngoing to love these.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:6:4 ]Now they should stop fighting.[XENO:n ]\nThank you so much for your help![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 518,
+      "style": 126,
+      "name": "Now, about this date of mine.[XENO:wait wait=key ][System:PageBreak ]Could you go and tell Dean that[XENO:n ]\nany time is fine for me?[XENO:wait wait=key ][System:PageBreak ]Ooh, I'm getting all excited![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 519,
+      "style": 126,
+      "name": "[XENO:qst_start ]It was you who went and helped[XENO:n ]\nout that man for Rocco, wasn't it?![XENO:wait wait=key ][System:PageBreak ]Well now I need a favour![XENO:n ]\nIt's for my mum.[XENO:wait wait=key ][System:PageBreak ]Now that she's dating that geeky[XENO:n ]\nman, I'm worried about her.[XENO:wait wait=key ][System:PageBreak ]I think she's forgetting Dad![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 520,
+      "style": 126,
+      "name": "Before Dad died, he told me this:[XENO:wait wait=key ][System:PageBreak ]If Mum is ever in trouble, look in[XENO:n ]\nthe little cave on Agora Shore.[XENO:wait wait=key ][System:PageBreak ]Dad must have left something[XENO:n ]\nimportant in that cave, I know it![XENO:wait wait=key ][System:PageBreak ]You have to find it or else Mum'll[XENO:n ]\nforget all about Dad![XENO:wait wait=key ][System:PageBreak ]So please...could you search for[XENO:n ]\nwhatever my dad left in that cave?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 521,
+      "style": 126,
+      "name": "If you remember the people you've[XENO:n ]\nlost, they never really leave you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 522,
+      "style": 126,
+      "name": "Yeah, exactly![XENO:wait wait=key ][System:PageBreak ]That's why I'll never forget him.[XENO:wait wait=key ][System:PageBreak ]But I really want Mum to never[XENO:n ]\nforget him as well. So...please![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 523,
+      "style": 126,
+      "name": "[XENO:qst qst=37 ]"
+    },
+    {
+      "$id": 524,
+      "style": 126,
+      "name": "Please... Find whatever's in that[XENO:n ]\ncave and show it to my mum.[XENO:wait wait=key ][System:PageBreak ]And, um... Don't come back until[XENO:n ]\nyou've found it. OK?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 525,
+      "style": 126,
+      "name": "This is a desperate situation![XENO:n ]\nMy mum's hanging by a thread![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 526,
+      "style": 126,
+      "name": "Agora Shore is on the east[XENO:n ]\nside of the colony.[XENO:wait wait=key ][System:PageBreak ]Hurry up or Mum will forget Dad![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 527,
+      "style": 126,
+      "name": "Did Mum remember?[XENO:wait wait=key ][System:PageBreak ]Yay! I'm so glad[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 528,
+      "style": 126,
+      "name": "Thanks! I mean...[XENO:n ]\nThank you very much![XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:e:12:4 ]Now we can get back to being[XENO:n ]\na family again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 529,
+      "style": 126,
+      "name": "You found it![XENO:wait wait=key ][System:PageBreak ]So...what's inside?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 530,
+      "style": 126,
+      "name": "[XENO:type type=anger ]A recipe for cabbage parcels?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 531,
+      "style": 126,
+      "name": "It's not what I imagined it to be,[XENO:n ]\nbut I know it'll remind her of Dad![XENO:wait wait=key ][System:PageBreak ]Could you show it to Mum for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 532,
+      "style": 126,
+      "name": "Can I help you with something?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 533,
+      "style": 126,
+      "name": "Hold on... This is the recipe I gave[XENO:n ]\nmy husband before we married![XENO:wait wait=key ][System:PageBreak ]This takes me back... I remember[XENO:n ]\nthe very day I gave it to him.[XENO:wait wait=key ][System:PageBreak ]He said he wanted to eat my[XENO:n ]\ncabbage parcels 'every day'.[XENO:wait wait=key ][System:PageBreak ]So I went ahead and wrote down[XENO:n ]\nthe recipe and gave it to him.[XENO:wait wait=key ][System:PageBreak ]That way, he could make it himself[XENO:n ]\nany time he liked, I said.[XENO:wait wait=key ][System:PageBreak ]He looked at me, dropped on one[XENO:n ]\nknee, took my hand and said:[XENO:wait wait=key ][System:PageBreak ]'I'm proposing to you, you silly[XENO:n ]\nnincompoop!'[XENO:wait wait=key ][System:PageBreak ]The cabbage parcels were his way[XENO:n ]\nof saying he wanted to marry me![XENO:wait wait=key ][System:PageBreak ]When he finished talking I just[XENO:n ]\nburst out laughing...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 534,
+      "style": 126,
+      "name": "I see why Riruka's been worried[XENO:n ]\nrecently, but I'll never forget him.[XENO:wait wait=key ][System:PageBreak ]But for my own child to do this...[XENO:n ]\nIt makes me feel like a bad parent![XENO:wait wait=key ][System:PageBreak ]Thank you for telling me about it.[XENO:n ]\nI should have realised sooner.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 535,
+      "style": 126,
+      "name": "You're trying to find[XENO:n ]\nwork for someone?[XENO:wait wait=key ][System:PageBreak ]Then you've come to the right guy![XENO:wait wait=key ][System:PageBreak ]I need a top-notch consultant for[XENO:n ]\nmy 'Tasty Recipes Department'.[XENO:wait wait=key ][System:PageBreak ]While I'm here making the curry,[XENO:n ]\nthey're coming up with new menus.[XENO:wait wait=key ][System:PageBreak ]Then everyone won't have to eat[XENO:n ]\nthe same boring old curry![XENO:wait wait=key ][System:PageBreak ]So if someone's looking for a job,[XENO:n ]\nthere's one here for the taking![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 536,
+      "style": 126,
+      "name": "Only thing is, how can I be sure[XENO:n ]\nI can trust this guy?[XENO:wait wait=key ][System:PageBreak ]But... I trust you at least.[XENO:wait wait=key ][System:PageBreak ]So if you're recommending,[XENO:n ]\nthen I'll give him a try.[XENO:wait wait=key ][System:PageBreak ]But I'm not promising to keep him![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 537,
+      "style": 126,
+      "name": "Oh, that reminds me.[XENO:wait wait=key ][System:PageBreak ]Could you go and get rid of some[XENO:n ]\nTephra Lizards for me?[XENO:wait wait=key ][System:PageBreak ]Five should do it. They're eating[XENO:n ]\nall the rabbits I need for my curry![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 538,
+      "style": 126,
+      "name": "I need you to take care of[XENO:n ]\nfive Tephra Lizards.[XENO:wait wait=key ][System:PageBreak ]You'll find them in Tephra Cave.[XENO:n ]\nVilia Lake is full of the things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 539,
+      "style": 126,
+      "name": "Looks like you've defeated them.[XENO:wait wait=key ][System:PageBreak ]To go this far[XENO:n ]\nfor Jackson-kun...[XENO:wait wait=key ][System:PageBreak ]All right. If you trust[XENO:n ]\nhim, I'll trust him too.[XENO:wait wait=key ][System:PageBreak ]I've actually[XENO:n ]\ncontacted him already.[XENO:wait wait=key ][System:PageBreak ]He'll start developing the[XENO:n ]\nnew menu at his house soon.[XENO:wait wait=key ][System:PageBreak ]Tell him, 'Let's do[XENO:n ]\nour best together.'[XENO:wait wait=key ][System:PageBreak ]Thanks for your help.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 540,
+      "style": 126,
+      "name": "Did you forget what I asked, mate?[XENO:wait wait=key ][System:PageBreak ]It's about Tephra Lizards. Five of[XENO:n ]\nthem, if you can.[XENO:wait wait=key ][System:PageBreak ]Try Vilia Lake in Tephra Cave.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 541,
+      "style": 126,
+      "name": "[XENO:qst_start ]I'm so hungry![XENO:wait wait=key ][System:PageBreak ]Wait... Did you hear that?[XENO:n ]\nForget I said it! At once![XENO:wait wait=key ][System:PageBreak ]Speaking of hearing things,[XENO:n ]\nCaptain Luhiol told me you'd come.[XENO:wait wait=key ][System:PageBreak ]He said you like solving[XENO:n ]\npeople's problems.[XENO:wait wait=key ][System:PageBreak ]Well, I have serious problems.[XENO:wait wait=key ][System:PageBreak ]Shut up, I didn't mean it like that![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 542,
+      "style": 126,
+      "name": "Anyway, don't think it's urgent[XENO:n ]\nor anything, but...[XENO:wait wait=key ][System:PageBreak ]Could you find me five Heart[XENO:n ]\nPeaches? I hear they're yummy![XENO:wait wait=key ][System:PageBreak ]I've never eaten them though.[XENO:wait wait=key ][System:PageBreak ]What? What's wrong? I thought[XENO:n ]\nyou liked solving problems![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 543,
+      "style": 126,
+      "name": "Don't you feel ashamed for making[XENO:n ]\nsuch selfish requests of others?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 544,
+      "style": 126,
+      "name": "Well excuse me, princess![XENO:wait wait=key ][System:PageBreak ]Sorry, but I don't find all that too[XENO:n ]\nconvincing coming from you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 545,
+      "style": 126,
+      "name": "I'm considerate of others[XENO:n ]\nevery second of my life![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 546,
+      "style": 126,
+      "name": "So, are you going to get me[XENO:n ]\nmy Heart Peaches?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 547,
+      "style": 126,
+      "name": "[XENO:qst qst=46 ]"
+    },
+    {
+      "$id": 548,
+      "style": 126,
+      "name": "I don't have all day, you know![XENO:wait wait=key ][System:PageBreak ]Those Heart Peaches aren't[XENO:n ]\ngoing to collect themselves.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 549,
+      "style": 126,
+      "name": "Heart Peaches. Five of them.[XENO:wait wait=key ][System:PageBreak ]You don't know where to[XENO:n ]\nfind them? Me neither, really.[XENO:wait wait=key ][System:PageBreak ]Think harder! Maybe[XENO:n ]\nit'll come to you![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 550,
+      "style": 126,
+      "name": "Yay, you got them for me![XENO:wait wait=key ][System:PageBreak ]See, I knew you were[XENO:n ]\nthe helpful type![XENO:wait wait=key ][System:PageBreak ]Wait here a moment.[XENO:n ]\nI'll be back right away.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 551,
+      "style": 126,
+      "name": "I think you've made those[XENO:n ]\nkids really happy.[XENO:wait wait=key ][System:PageBreak ]I try to help them as best I can,[XENO:n ]\nbut good food is hard to come by.[XENO:wait wait=key ][System:PageBreak ]Even once in a while really makes[XENO:n ]\na difference. Those poor kids...[XENO:wait wait=key ][System:PageBreak ]Anyway, mission complete![XENO:wait wait=key ][System:PageBreak ]Take this for your trouble.[XENO:n ]\nIt's my thanks to you.[XENO:wait wait=key ][System:PageBreak ]Good work, guys![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 552,
+      "style": 126,
+      "name": "There are some Hand Bunnits just[XENO:n ]\noutside the Commercial District.[XENO:wait wait=key ][System:PageBreak ]It would be very dangerous if[XENO:n ]\nthey got inside the colony.[XENO:wait wait=key ][System:PageBreak ]Could you go and deal with them?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 553,
+      "style": 126,
+      "name": "[XENO:qst qst=56 ]"
+    },
+    {
+      "$id": 554,
+      "style": 126,
+      "name": "Oh, thank you.[XENO:n ]\nI feel safer already![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 555,
+      "style": 126,
+      "name": "Too busy? Ah well, such is life.[XENO:wait wait=key ][System:PageBreak ]No one wants to play with fire[XENO:n ]\nfor no reason, I suppose.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 556,
+      "style": 126,
+      "name": "Could you defeat some[XENO:n ]\nBeach Cribes for me?[XENO:wait wait=key ][System:PageBreak ]They live on the beach near the[XENO:n ]\nCommercial District entrance.[XENO:wait wait=key ][System:PageBreak ]I'm worried they'll be dangerous[XENO:n ]\nfor children playing there.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 557,
+      "style": 126,
+      "name": "[XENO:qst qst=57 ]"
+    },
+    {
+      "$id": 558,
+      "style": 126,
+      "name": "Oh, thank you! The kids need[XENO:n ]\nsomewhere safe to play![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 559,
+      "style": 126,
+      "name": "Oh, that's a shame.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 560,
+      "style": 126,
+      "name": "I was attacked on the way to[XENO:n ]\nTephra Cave the other day.[XENO:wait wait=key ][System:PageBreak ]I think they were Wood[XENO:n ]\nBunnits on Tephra Slope.[XENO:wait wait=key ][System:PageBreak ]I'd like you to teach[XENO:n ]\nthem a little lesson.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 561,
+      "style": 126,
+      "name": "[XENO:qst qst=58 ]"
+    },
+    {
+      "$id": 562,
+      "style": 126,
+      "name": "Wonderful![XENO:wait wait=key ][System:PageBreak ]Next time I can feel more safe[XENO:n ]\nas I stride blindly into danger.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 563,
+      "style": 126,
+      "name": "What? Are you just throwing[XENO:n ]\nme to the Bunnits then?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 564,
+      "style": 126,
+      "name": "Have you seen[XENO:n ]\nLight Skeets?[XENO:wait wait=key ][System:PageBreak ]They live on the beach[XENO:n ]\nbeyond Anti-Air Battery 1.[XENO:wait wait=key ][System:PageBreak ]Sometimes they wander into[XENO:n ]\ntown and cause trouble.[XENO:wait wait=key ][System:PageBreak ]Could you defeat a few of them?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 565,
+      "style": 126,
+      "name": "[XENO:qst qst=59 ]"
+    },
+    {
+      "$id": 566,
+      "style": 126,
+      "name": "I knew you'd be up for it.[XENO:n ]\nBe careful now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 567,
+      "style": 126,
+      "name": "That's fine. But do come and ask[XENO:n ]\nme about it again if you get time![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 568,
+      "style": 126,
+      "name": "Verdant Bluchal's on the beach[XENO:n ]\nnear Anti-Air Battery 1.[XENO:wait wait=key ][System:PageBreak ]I can't stand the sight of it. Nasty[XENO:n ]\nthing with those spiky horn bits.[XENO:wait wait=key ][System:PageBreak ]You'll take care of it, won't you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 569,
+      "style": 126,
+      "name": "[XENO:qst qst=64 ]"
+    },
+    {
+      "$id": 570,
+      "style": 126,
+      "name": "Good. I hope it doesn't come too[XENO:n ]\nclose to the Anti-Air Battery itself.[XENO:wait wait=key ][System:PageBreak ]I feel ill just thinking about it,[XENO:n ]\nnever mind looking at it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 571,
+      "style": 126,
+      "name": "That's disappointing.[XENO:wait wait=key ][System:PageBreak ]Urgh, I shouldn't have brought[XENO:n ]\nit up. Now my skin is crawling.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 572,
+      "style": 126,
+      "name": "I want you to defeat Wallside[XENO:n ]\nGwynry in the Mag Mell Ruins-mo.[XENO:wait wait=key ][System:PageBreak ]It and its underlings almost[XENO:n ]\nate me the other day-mo.[XENO:wait wait=key ][System:PageBreak ]I was scared half to death-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 573,
+      "style": 126,
+      "name": "[XENO:qst qst=66 ]"
+    },
+    {
+      "$id": 574,
+      "style": 126,
+      "name": "That's a reassuring answer-mo![XENO:wait wait=key ][System:PageBreak ]I want you to beat them to a pulp-mo!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 575,
+      "style": 126,
+      "name": "I never thought you'd refuse-mo.[XENO:wait wait=key ][System:PageBreak ]Where am I supposed to vent[XENO:n ]\nall this frustration-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 576,
+      "style": 126,
+      "name": "I wonder where to[XENO:n ]\nfind Vamp Teeth.[XENO:wait wait=key ][System:PageBreak ]Gran insists[XENO:n ]\nshe wants some.[XENO:wait wait=key ][System:PageBreak ]Maybe she needs them for her handicrafts.[XENO:wait wait=key ][System:PageBreak ]Would you mind[XENO:n ]\ncollecting some for me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 577,
+      "style": 126,
+      "name": "[XENO:qst qst=69 ]"
+    },
+    {
+      "$id": 578,
+      "style": 126,
+      "name": "Thanks a million![XENO:wait wait=key ][System:PageBreak ]I don't know if getting them will be[XENO:n ]\ndangerous, but if so, be careful![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 579,
+      "style": 126,
+      "name": "*sigh* Well, if you change your[XENO:n ]\nmind, come and chat to me again.[XENO:wait wait=key ][System:PageBreak ]I'll still be hanging around here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 580,
+      "style": 126,
+      "name": "My niece asked me to get her[XENO:n ]\nsomething cute.[XENO:wait wait=key ][System:PageBreak ]I just wish I was better at finding[XENO:n ]\nstuff like that! Will you help me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 581,
+      "style": 126,
+      "name": "[XENO:qst qst=71 ]"
+    },
+    {
+      "$id": 582,
+      "style": 126,
+      "name": "Great! She'll be thrilled![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 583,
+      "style": 126,
+      "name": "Let me know if you[XENO:n ]\nchange your mind.[XENO:wait wait=key ][System:PageBreak ]It would make her so happy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 584,
+      "style": 126,
+      "name": "Oh, good gracious! You won't[XENO:n ]\nbelieve what a silly fool I am![XENO:wait wait=key ][System:PageBreak ]I've lost something I really need.[XENO:n ]\nWill you help me find it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 585,
+      "style": 126,
+      "name": "[XENO:qst qst=77 ]"
+    },
+    {
+      "$id": 586,
+      "style": 126,
+      "name": "I knew I'd get you all fired up if I[XENO:n ]\ndid my damsel in distress act![XENO:wait wait=key ][System:PageBreak ]But I am a fool, losing my door[XENO:n ]\nkey. My fate is in your hands![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 587,
+      "style": 126,
+      "name": "Oh, deary me. I suppose I could[XENO:n ]\njust climb in through the window...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 588,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]?"
+    },
+    {
+      "$id": 589,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:60 ]?"
+    },
+    {
+      "$id": 590,
+      "style": 126,
+      "name": "[XENO:fade fade=in ]"
+    },
+    {
+      "$id": 591,
+      "style": 126,
+      "name": "[XENO:fade fade=out ]"
+    }
+  ]
+}

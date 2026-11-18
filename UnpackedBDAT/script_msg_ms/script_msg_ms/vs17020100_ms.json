@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Thankfully the Mechon did us a favour by[XENO:n ]\nfortifying it for us. It should hold out for a while.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Thankfully the Machine God Soldiers did us a favour by[XENO:n ]\nfortifying it for us. It should hold out for a while.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "There's no way Kallian would leave the fate of the[XENO:n ]\nHigh Entia to you if that was gonna happen![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There's no way Kallian-san would leave the fate of the[XENO:n ]\nHigh Entia to you if that was gonna happen![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 125,
-      "name": "That is the final wish of my father and brother.[XENO:wait wait=key ]"
+      "name": "That is the final wish of my father and older brother.[XENO:wait wait=key ]"
     },
     {
       "$id": 22,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]I think Meyneth used the last of[XENO:n ]\nher power to protect him...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]I think Maynus used the last of[XENO:n ]\nher power to protect him...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "What do you mean by that, Alvis?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What do you mean by that, Alviss?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -293,7 +293,7 @@
     {
       "$id": 57,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Alvis! Whose side are you on?![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Alviss! Whose side are you on?![XENO:wait wait=key ]"
     },
     {
       "$id": 58,

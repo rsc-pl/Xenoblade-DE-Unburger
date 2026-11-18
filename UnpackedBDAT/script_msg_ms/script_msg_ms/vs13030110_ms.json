@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "The same unit is used in Mechon, so[XENO:n ]\nif you were to find some Mechon parts...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The same unit is used in Machine God Soldiers, so[XENO:n ]\nif you were to find some Machine Soldier parts...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Well, outside of the village, at the[XENO:n ]\nbase of Digit 5, there is a beach.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Well, outside of the village, at the[XENO:n ]\nbase of Machine God Pinky, there is a beach.[XENO:wait wait=key ]"
     },
     {
       "$id": 10,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "You might be able to find one[XENO:n ]\namong the Mechon wreckage.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "You might be able to find one[XENO:n ]\namong the Machine Soldier wreckage.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 12,

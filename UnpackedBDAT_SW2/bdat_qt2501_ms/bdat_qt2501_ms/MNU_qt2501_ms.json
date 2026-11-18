@@ -1,0 +1,1099 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 148,
+      "name": "Overview"
+    },
+    {
+      "$id": 2,
+      "style": 138,
+      "name": "Objective"
+    },
+    {
+      "$id": 3,
+      "style": 138,
+      "name": "Report"
+    },
+    {
+      "$id": 4,
+      "style": 138,
+      "name": "Result"
+    },
+    {
+      "$id": 5,
+      "style": 148,
+      "name": "The Armu in Gran Dell have become Fogbeasts.\nDefeat them before they harm the residents. (Temp.)"
+    },
+    {
+      "$id": 6,
+      "style": 138,
+      "name": "Defeat all Armu that have become Fogbeasts. (Temp.)"
+    },
+    {
+      "$id": 7,
+      "style": 138,
+      "name": "Damage to Gran Dell seems to have been minimal. (Temp.)"
+    },
+    {
+      "$id": 8,
+      "style": 148,
+      "name": "Defeating the Fog King requires a dense ether field.\nTo obtain a crystal of high ether purity,\nask the townspeople about High Ether Crystals."
+    },
+    {
+      "$id": 9,
+      "style": 138,
+      "name": "Ask the defence force members in Gran Dell\nabout High Ether Crystals."
+    },
+    {
+      "$id": 10,
+      "style": 138,
+      "name": "Ask the defence force on Gran Dell Ramparts\nabout High Ether Crystals."
+    },
+    {
+      "$id": 11,
+      "style": 138,
+      "name": "Speak to Sarja\nat the Graveyard of Sorrow."
+    },
+    {
+      "$id": 12,
+      "style": 138,
+      "name": "Report to Radam."
+    },
+    {
+      "$id": 13,
+      "style": 138,
+      "name": "Find a [System:Color name=item ]High Ether Crystal[/System:Color]."
+    },
+    {
+      "$id": 14,
+      "style": 138,
+      "name": "You gathered information on High Ether Crystals.\nFinding one will bring you nearer to beating the Fog King."
+    },
+    {
+      "$id": 15,
+      "style": 138,
+      "name": "You found a High Ether Crystal using the information.\nHave Radam modify the Monado Replica."
+    },
+    {
+      "$id": 16,
+      "style": 148,
+      "name": "Promising leads on High Ether Crystals were gathered.\nExplore the caves near Forbidden Hushland,\nwhich have not yet been thoroughly surveyed."
+    },
+    {
+      "$id": 17,
+      "style": 138,
+      "name": "Go to the caves around the Forbidden Hushland\nin search of a [System:Color name=item ]High Ether Crystal[/System:Color]."
+    },
+    {
+      "$id": 18,
+      "style": 138,
+      "name": "Obtain a High Ether Crystal. (Temp.)"
+    },
+    {
+      "$id": 19,
+      "style": 138,
+      "name": "You obtained a High Ether Crystal.\nHave Radam modify the Monado Replica."
+    },
+    {
+      "$id": 20,
+      "style": 148,
+      "name": "Tsukuku dropped his treasured hand mirror on an islet\nin Tranquil Tarn.\nHe cannot work without it, so help him find it."
+    },
+    {
+      "$id": 21,
+      "style": 138,
+      "name": "Search for [System:Color name=item ]Tsukuku's Mirror[/System:Color] on the small islet\nat Tranquil Tarn."
+    },
+    {
+      "$id": 22,
+      "style": 138,
+      "name": "Take [System:Color name=item ]Tsukuku's Mirror[/System:Color] to Tsukuku\nby the shore of Tranquil Tarn."
+    },
+    {
+      "$id": 23,
+      "style": 138,
+      "name": "Tsukuku's mirror was found.\nNow he can admire his face to his heart's content."
+    },
+    {
+      "$id": 24,
+      "style": 148,
+      "name": "To make up for interrupting Rutoru's survey,\nyou agreed to help with her request.\nDefeat the Spicals."
+    },
+    {
+      "$id": 25,
+      "style": 138,
+      "name": "Near Xen's Thoroughfare,\ndefeat 3 Spicals."
+    },
+    {
+      "$id": 26,
+      "style": 138,
+      "name": "Return to Rutoru."
+    },
+    {
+      "$id": 27,
+      "style": 138,
+      "name": "Speak to Rutoru at the far end\nof Xen's Thoroughfare."
+    },
+    {
+      "$id": 28,
+      "style": 138,
+      "name": "The Spicals were defeated and the survey completed.\nRutoru seems relieved to have finished her work."
+    },
+    {
+      "$id": 29,
+      "style": 148,
+      "name": "Sakusaku finished surveying but wants to study\nthe local ecology and is reluctant to leave.\nSolve her riddles and she will come along."
+    },
+    {
+      "$id": 30,
+      "style": 138,
+      "name": "Collect an item whose name starts with S\nand ends with E."
+    },
+    {
+      "$id": 31,
+      "style": 138,
+      "name": "Give [System:Color name=item ]Sky Mole[/System:Color] to Sakusaku."
+    },
+    {
+      "$id": 32,
+      "style": 138,
+      "name": "Defeat a monster whose name starts with G\nand ends with S."
+    },
+    {
+      "$id": 33,
+      "style": 138,
+      "name": "Return to Sakusaku."
+    },
+    {
+      "$id": 34,
+      "style": 138,
+      "name": "You solved Sakusaku's riddles.\nAs promised, she will come along."
+    },
+    {
+      "$id": 35,
+      "style": 148,
+      "name": "The survey markers keep mysteriously disappearing,\nmaking it impossible to work.\nHelp Sechichi finish the survey."
+    },
+    {
+      "$id": 36,
+      "style": 138,
+      "name": "Plant [System:Color name=item ]Sechichi's Stake[/System:Color] on the lakeshore\nby the side of the Junks."
+    },
+    {
+      "$id": 37,
+      "style": 138,
+      "name": "Return to Sechichi."
+    },
+    {
+      "$id": 38,
+      "style": 138,
+      "name": "Defeat the thief in the higher reaches of\nNavvir Highland to recover Sechichi's stolen stake."
+    },
+    {
+      "$id": 39,
+      "style": 138,
+      "name": "Return to Sechichi."
+    },
+    {
+      "$id": 40,
+      "style": 138,
+      "name": "With the stake thief defeated, Sechichi could complete\nher survey. One less thing for her to worry about..."
+    },
+    {
+      "$id": 41,
+      "style": 148,
+      "name": "Nanana wants to make a declaration on the bridge terrace,\nbut the Roguls are getting in the way.\nDefeat the Roguls occupying the terrace."
+    },
+    {
+      "$id": 42,
+      "style": 138,
+      "name": "At Whisperwind Crossing, defeat the [System:Color name=item ]Despotic Rogul[/System:Color]\noccupying the terrace."
+    },
+    {
+      "$id": 43,
+      "style": 138,
+      "name": "Return to Nanana."
+    },
+    {
+      "$id": 44,
+      "style": 138,
+      "name": "You defeated the Rogul and witnessed Nanana's declaration.\nNanana will now come along."
+    },
+    {
+      "$id": 45,
+      "style": 148,
+      "name": "Hachocho finished surveying but a monster spotted him\nat the last moment, so he dropped his charm while fleeing.\nHelp Hachocho find his charm."
+    },
+    {
+      "$id": 46,
+      "style": 138,
+      "name": "At Nerthis Necropolis,\nlook for [System:Color name=item ]Hachocho's Charm[/System:Color]."
+    },
+    {
+      "$id": 47,
+      "style": 138,
+      "name": "Return the charm to Hachocho."
+    },
+    {
+      "$id": 48,
+      "style": 138,
+      "name": "The charm seems to mean more to Hachocho than anything.\nHaving it back relieved him and restored his composure."
+    },
+    {
+      "$id": 49,
+      "style": 148,
+      "name": "Follow Noino's enigmatic words.\nDefeat the monster to provide the \"proof\"."
+    },
+    {
+      "$id": 50,
+      "style": 138,
+      "name": "Defeat \"[System:Color name=item ]Thing-a-Majicker XIII[/System:Color]\"."
+    },
+    {
+      "$id": 51,
+      "style": 138,
+      "name": "Return [System:Color name=item ]Noino's Survey License[/System:Color] to Noino."
+    },
+    {
+      "$id": 52,
+      "style": 138,
+      "name": "The \"proof\" Noino spoke of\nseems to have been a surveyor's licence."
+    },
+    {
+      "$id": 53,
+      "style": 148,
+      "name": "A monster is approaching a Noponjaa.\nRescue them before it attacks."
+    },
+    {
+      "$id": 54,
+      "style": 138,
+      "name": "Defeat the [System:Color name=item ]Slobbering Antol[/System:Color]\napproaching the Noponjaa."
+    },
+    {
+      "$id": 55,
+      "style": 138,
+      "name": "Talk to the Noponjaa to make sure\nthey're OK."
+    },
+    {
+      "$id": 56,
+      "style": 138,
+      "name": "It seems the enemy was drawn in by the\nincense. At least Torotoro was all right."
+    },
+    {
+      "$id": 57,
+      "style": 148,
+      "name": "Shiishii finished surveying and was about to have a snack\nbut apparently dropped it in the pond.\nHelp her out."
+    },
+    {
+      "$id": 58,
+      "style": 138,
+      "name": "Defeat the shoal of [System:Color name=item ]Whapol Sardi[/System:Color]\nthat ate the snack Shiishii dropped in the pond."
+    },
+    {
+      "$id": 59,
+      "style": 138,
+      "name": "Return to Shiishii."
+    },
+    {
+      "$id": 60,
+      "style": 138,
+      "name": "Find 3 [System:Color name=item ]Morrow Cobs[/System:Color]\nthat Shiishii wants to eat."
+    },
+    {
+      "$id": 61,
+      "style": 138,
+      "name": "Deliver the food to Shiishii."
+    },
+    {
+      "$id": 62,
+      "style": 138,
+      "name": "Defeating the monsters seems to have calmed Shiishii.\nWith her belly full too, she now looks serene."
+    },
+    {
+      "$id": 63,
+      "style": 148,
+      "name": "Wanawana, the captain waiting for the Noponjaa,\nforgot to tell the others where to meet.\nBring all the Noponjaa here for him."
+    },
+    {
+      "$id": 64,
+      "style": 138,
+      "name": "Gather the other 11 Noponjaa."
+    },
+    {
+      "$id": 65,
+      "style": 138,
+      "name": "Go and see Wanawana."
+    },
+    {
+      "$id": 66,
+      "style": 138,
+      "name": "Get back the memo from the [System:Color name=item ]Cutpurse Igna\n[/System:Color]north of Clear Sky Bluff."
+    },
+    {
+      "$id": 67,
+      "style": 138,
+      "name": "Return the memo to Wanawana."
+    },
+    {
+      "$id": 68,
+      "style": 138,
+      "name": "The Noponjaa are assembled and the memo recovered.\nThey will now explain why they came here."
+    },
+    {
+      "$id": 69,
+      "style": 148,
+      "name": "The Noponjaa came here to find a secret treasure.\nThis is their final request.\nFind the secret treasure on Giant God's Shoulder together!"
+    },
+    {
+      "$id": 70,
+      "style": 138,
+      "name": "Search for the treasure in the ruins at the back of\nNerthis Necropolis."
+    },
+    {
+      "$id": 71,
+      "style": 138,
+      "name": "Defeat the monster guarding the treasure in the ruins\nat the back of Nerthis Necropolis."
+    },
+    {
+      "$id": 72,
+      "style": 138,
+      "name": "Investigate the treasure chest in the ruins at the back\nof Nerthis Necropolis."
+    },
+    {
+      "$id": 73,
+      "style": 138,
+      "name": "The Noponjaa found the secret treasure.\nCheers rang out: Ruins Research HQ could remain open."
+    },
+    {
+      "$id": 74,
+      "style": 148,
+      "name": "Exterminate the ether organisms that have spawned\nabnormally in two locations on Navvir Highland."
+    },
+    {
+      "$id": 75,
+      "style": 138,
+      "name": "Exterminate the wind elementals."
+    },
+    {
+      "$id": 76,
+      "style": 138,
+      "name": "Exterminate the water elementals."
+    },
+    {
+      "$id": 77,
+      "style": 138,
+      "name": "Return to Treanna."
+    },
+    {
+      "$id": 78,
+      "style": 138,
+      "name": "The two kinds of ether organism have been eliminated.\nMonsters should no longer be drawn to their presence."
+    },
+    {
+      "$id": 79,
+      "style": 148,
+      "name": "Gannett asked for help with her research.\nUse the prototype General Ether Pick\nto mine ether deposits."
+    },
+    {
+      "$id": 80,
+      "style": 138,
+      "name": "Excavate an ether deposit using\nthe [System:Color name=item ]General Ether Pick[/System:Color]."
+    },
+    {
+      "$id": 81,
+      "style": 138,
+      "name": "Return to Gannett."
+    },
+    {
+      "$id": 82,
+      "style": 138,
+      "name": "Gannett provided an Ether Pick, allowing gems to be mined\ndirectly from deposits across the Giant God's Shoulder."
+    },
+    {
+      "$id": 83,
+      "style": 148,
+      "name": "Helmut is short of people to help procure food.\nHunt Eks and gather Eks Iron Hearts,\nthen lay Rainbow Carrots as bait for the next hunt."
+    },
+    {
+      "$id": 84,
+      "style": 138,
+      "name": "Defeat Makna Eks at Navvir Highland\nand collect 4 [System:Color name=item ]Eks Iron Hearts[/System:Color]."
+    },
+    {
+      "$id": 85,
+      "style": 138,
+      "name": "Gather 3 [System:Color name=item ]Rainbow Carrots[/System:Color] to be used\nas bait for the Makna Eks."
+    },
+    {
+      "$id": 86,
+      "style": 138,
+      "name": "Head to north-western Navvir Highland and place the\nRainbow Carrots there to lure out the Makna Eks."
+    },
+    {
+      "$id": 87,
+      "style": 138,
+      "name": "Return to Helmut."
+    },
+    {
+      "$id": 88,
+      "style": 138,
+      "name": "Eks Iron Hearts were delivered to Helmut.\nSome could be processed and stored for later."
+    },
+    {
+      "$id": 89,
+      "style": 148,
+      "name": "Renato asked for help with three jobs.\nSolve the problems in his place."
+    },
+    {
+      "$id": 90,
+      "style": 138,
+      "name": "Complete the quest \"Secure Fresh Wildgrass\"."
+    },
+    {
+      "$id": 91,
+      "style": 138,
+      "name": "Complete the quest \"Defeat the Praying Capil\"."
+    },
+    {
+      "$id": 92,
+      "style": 138,
+      "name": "Complete the quest \"Eliminate the Noble Grogs\"."
+    },
+    {
+      "$id": 93,
+      "style": 138,
+      "name": "Return to Renato."
+    },
+    {
+      "$id": 94,
+      "style": 138,
+      "name": "Future food shortages remain a concern,\nbut Renato will work out how to address them."
+    },
+    {
+      "$id": 95,
+      "style": 148,
+      "name": "Gianna is struggling to find Fresh Wildgrass.\nHelp gather some."
+    },
+    {
+      "$id": 96,
+      "style": 138,
+      "name": "Between Navvir Highland and Purifying Falls,\ngather 5 sprigs of [System:Color name=item ]Fresh Wildgrass[/System:Color]."
+    },
+    {
+      "$id": 97,
+      "style": 138,
+      "name": "Enough was gathered this time.\nCapils seem to have eaten it, leaving less to gather."
+    },
+    {
+      "$id": 98,
+      "style": 148,
+      "name": "Praying Capils have appeared in large numbers,\nand Fedot cannot defeat them alone.\nHelp him defeat them."
+    },
+    {
+      "$id": 99,
+      "style": 138,
+      "name": "Defeat 3 [System:Color name=item ]Praying Capils[/System:Color] in the vicinity of\nNavvir Crossroads."
+    },
+    {
+      "$id": 100,
+      "style": 138,
+      "name": "The Capils have been winnowed out.\nIt seems they were congregating to eat wildgrass."
+    },
+    {
+      "$id": 101,
+      "style": 148,
+      "name": "Noble Grogs have appeared in large numbers,\nand Robert cannot defeat them alone.\nHelp him defeat them."
+    },
+    {
+      "$id": 102,
+      "style": 138,
+      "name": "Defeat 2 [System:Color name=item ]Noble Grogs[/System:Color] in the vicinity of\nthe Purifying Falls."
+    },
+    {
+      "$id": 103,
+      "style": 138,
+      "name": "The Grogs have been successfully dealt with.\nIt seems they were gathering to hunt Capils."
+    },
+    {
+      "$id": 104,
+      "style": 148,
+      "name": "Gather Pororo's favourite food scattered\nacross the Giant God's Shoulder and bring it to Pororo."
+    },
+    {
+      "$id": 105,
+      "style": 138,
+      "name": "Search every corner of the Giant God's Shoulder\nfor [System:Color name=item ]Pororo's Favourites[/System:Color] and give them to Pororo."
+    },
+    {
+      "$id": 106,
+      "style": 138,
+      "name": "Ask Pororo whether all the lost\n[System:Color name=item ]Pororo's Favourites[/System:Color] are accounted for."
+    },
+    {
+      "$id": 107,
+      "style": 138,
+      "name": "All of Pororo's favourite food was found and returned.\nNow Pororo can visit \"that person\" without worry."
+    },
+    {
+      "$id": 108,
+      "style": 148,
+      "name": "Help the High Entia woman\nbeing attacked by monsters."
+    },
+    {
+      "$id": 109,
+      "style": 138,
+      "name": "Defeat the Antols\nto rescue the woman under attack."
+    },
+    {
+      "$id": 110,
+      "style": 138,
+      "name": "Make sure the woman is OK."
+    },
+    {
+      "$id": 111,
+      "style": 138,
+      "name": "You defeated the monsters and rescued Leafa.\nThe Armu keeper returned safely to Gran Dell."
+    },
+    {
+      "$id": 112,
+      "style": 148,
+      "name": "The Rusty ID Tag belonged to Laban's older brother.\nHe wants the bangle his brother wore with it\nto be found as well."
+    },
+    {
+      "$id": 113,
+      "style": 138,
+      "name": "Search for the bangle on the high ground\nat Shoulderstone Scree."
+    },
+    {
+      "$id": 114,
+      "style": 138,
+      "name": "Give the [System:Color name=item ]Warped Bangle[/System:Color] to Laban."
+    },
+    {
+      "$id": 115,
+      "style": 138,
+      "name": "You found Laban's older brother's bangle.\nLaban will keep it as an heirloom."
+    },
+    {
+      "$id": 116,
+      "style": 148,
+      "name": "Shuushuu climbed a tree to escape a monster,\nbut let her guard down, fell and got hurt.\nHelp Shuushuu."
+    },
+    {
+      "$id": 117,
+      "style": 138,
+      "name": "Gather a [System:Color name=item ]Peppity Herb[/System:Color] from atop the\nCragmaw Caverns."
+    },
+    {
+      "$id": 118,
+      "style": 138,
+      "name": "Give the [System:Color name=item ]Peppity Herb[/System:Color] to Shuushuu."
+    },
+    {
+      "$id": 119,
+      "style": 138,
+      "name": "Defeat the [System:Color name=item ]Revenant Volff[/System:Color]\ntargeting Shuushuu."
+    },
+    {
+      "$id": 120,
+      "style": 138,
+      "name": "Return to Shuushuu."
+    },
+    {
+      "$id": 121,
+      "style": 138,
+      "name": "Thanks to Nene, Shuushuu has not grown afraid of trees.\nShe seems set to avoid climbing for a while, though."
+    },
+    {
+      "$id": 122,
+      "style": 148,
+      "name": "In return for finding a catalyst for him to use in his\ntool upgrades, Lott offers to improve your Ether Pick.\nFind him a Cerulean Shard in Barouh Ruins Cave."
+    },
+    {
+      "$id": 123,
+      "style": 138,
+      "name": "Look for a [System:Color name=item ]Cerulean Shard[/System:Color] around\nBarouh Ruins Cave."
+    },
+    {
+      "$id": 124,
+      "style": 138,
+      "name": "Give Lott\nthe [System:Color name=item ]Cerulean Shard[/System:Color]."
+    },
+    {
+      "$id": 125,
+      "style": 138,
+      "name": "With your new Reinforced Ether Pick, you'll be able to\nfind better gems from ether deposits than before."
+    },
+    {
+      "$id": 126,
+      "style": 148,
+      "name": "Melekanze is studying the monsters on the Shoulder,\nbut seems to be having trouble.\nTake photographs for her."
+    },
+    {
+      "$id": 127,
+      "style": 138,
+      "name": "Take a photo of a [System:Color name=item ]Glow Deinos[/System:Color] in the\nForbidden Hushland during the night."
+    },
+    {
+      "$id": 128,
+      "style": 138,
+      "name": "Take a photo of a [System:Color name=item ]Dozy Eluca[/System:Color] at the plateau\nnear the Purifying Falls during the day."
+    },
+    {
+      "$id": 129,
+      "style": 138,
+      "name": "Return to Melekanze."
+    },
+    {
+      "$id": 130,
+      "style": 138,
+      "name": "Melekanze was delighted to see the photographs.\nBut what she truly longs to study is[XENO:line ]"
+    },
+    {
+      "$id": 131,
+      "style": 148,
+      "name": "The Paguurs in the lake where Junks crashed are violent.\nIt is no longer safe to gather food there.\nDefeat the Paguurs in the area as requested."
+    },
+    {
+      "$id": 132,
+      "style": 138,
+      "name": "Around the lake where Junks crashed,\ndefeat 3 [System:Color name=item ]Clamouring Paguurs[/System:Color]."
+    },
+    {
+      "$id": 133,
+      "style": 138,
+      "name": "Return to Mithril."
+    },
+    {
+      "$id": 134,
+      "style": 138,
+      "name": "You defeated the Paguurs and peace returned to the lake.\nHopefully the fish can now be delivered safely."
+    },
+    {
+      "$id": 135,
+      "style": 148,
+      "name": "Margo's elderly Machina benefactor cannot move\nbecause of a fault in his leg.\nFetch a General Medical Kit from Junks."
+    },
+    {
+      "$id": 136,
+      "style": 138,
+      "name": "Head to Junks\nand obtain a [System:Color name=item ]General Medical Kit[/System:Color]."
+    },
+    {
+      "$id": 137,
+      "style": 138,
+      "name": "Head to Nerthis Necropolis\nand look for Hersel."
+    },
+    {
+      "$id": 138,
+      "style": 138,
+      "name": "Persuade Hersel\nto hand over the [System:Color name=item ]General Medical Kit[/System:Color]."
+    },
+    {
+      "$id": 139,
+      "style": 138,
+      "name": "Give the [System:Color name=item ]General Medical Kit[/System:Color] to Margo."
+    },
+    {
+      "$id": 140,
+      "style": 138,
+      "name": "The General Medical Kit was delivered to Margo.\nThe elderly Machina should now be able to move."
+    },
+    {
+      "$id": 141,
+      "style": 148,
+      "name": "Ancient Gran Dell is strewn with rubble.\nHover Stones should allow it to be floated and moved.\nGather some Hover Stones."
+    },
+    {
+      "$id": 142,
+      "style": 138,
+      "name": "Collect 3 pieces of [System:Color name=item ]Hover Stone[/System:Color] at Soltnar\nSeal Island, Pillar Knoll and Scapular Lance."
+    },
+    {
+      "$id": 143,
+      "style": 138,
+      "name": "Give the [System:Color name=item ]Hover Stone[/System:Color] to Selsetana."
+    },
+    {
+      "$id": 144,
+      "style": 138,
+      "name": "The rubble was cleared and Gran Dell is clean.\nThose who lived here long ago would surely be glad."
+    },
+    {
+      "$id": 145,
+      "style": 148,
+      "name": "Nestor, Sele and the others searched Gran Dell\nfor flowers to offer at a grave but found none.\nIt is dangerous outside, so go in Nestor's place."
+    },
+    {
+      "$id": 146,
+      "style": 138,
+      "name": "Near Lamentation Pass,\ngather 3 [System:Color name=item ]Dawn Flowers[/System:Color]."
+    },
+    {
+      "$id": 147,
+      "style": 138,
+      "name": "Hand the [System:Color name=item ]Dawn Flowers[/System:Color] over to Nestor."
+    },
+    {
+      "$id": 148,
+      "style": 138,
+      "name": "You found the Dawn Flowers without too much trouble.\nNestor placed them on the grave and prayed solemnly."
+    },
+    {
+      "$id": 149,
+      "style": 148,
+      "name": "An airship in Achamoth may have parts\nthat could be used to repair Junks.\nHead there to retrieve them."
+    },
+    {
+      "$id": 150,
+      "style": 138,
+      "name": "Investigate the airship in the vicinity of\nAchamoth's Main Entrance."
+    },
+    {
+      "$id": 151,
+      "style": 138,
+      "name": "Investigate the airship in the vicinity of\nMelfica Road."
+    },
+    {
+      "$id": 152,
+      "style": 138,
+      "name": "On the outer perimeter of 2F,\nexamine the airship."
+    },
+    {
+      "$id": 153,
+      "style": 138,
+      "name": "Return to Hermina."
+    },
+    {
+      "$id": 154,
+      "style": 138,
+      "name": "Despite encountering Telethia, some parts were recovered.\nMore parts will probably be needed to repair Junks."
+    },
+    {
+      "$id": 155,
+      "style": 148,
+      "name": "Arara, a Nopon from Frontier Village, asked the group\nto repay Hero Riki's debt in his place.\nFind ingredients for Giant Prilim and a cook to make it."
+    },
+    {
+      "$id": 156,
+      "style": 138,
+      "name": "Search each region of the Giant God's Shoulder\nfor 7 [System:Color name=item ]Kilopumpkins[/System:Color]."
+    },
+    {
+      "$id": 157,
+      "style": 138,
+      "name": "Find a [System:Color name=item ]Sweet Cherry[/System:Color] along the banks of the\nTranquil Tarn."
+    },
+    {
+      "$id": 158,
+      "style": 138,
+      "name": "Ask Tasheen in Gran Dell\nto prepare the Prilim."
+    },
+    {
+      "$id": 159,
+      "style": 138,
+      "name": "Talk to Arara and let him know that preparations\nfor making the Giant Prilim are complete."
+    },
+    {
+      "$id": 160,
+      "style": 138,
+      "name": "The superb Giant Prilim and Melia's efforts moved Arara.\nThey repaid the debt and earned his heartfelt thanks."
+    },
+    {
+      "$id": 161,
+      "style": 148,
+      "name": "Ines has run out of the growth stimulant\nused to grow the wheat in her field.\nGather the ingredients she needs to make more."
+    },
+    {
+      "$id": 162,
+      "style": 138,
+      "name": "Collect 5 [System:Color name=item ]High Leaves[/System:Color]."
+    },
+    {
+      "$id": 163,
+      "style": 138,
+      "name": "Defeat Skeets near Xen's Thoroughfare and\ngather 4 globs of [System:Color name=item ]Skeet Thick Nectar[/System:Color] (clear weather only)."
+    },
+    {
+      "$id": 164,
+      "style": 138,
+      "name": "Report to Ines."
+    },
+    {
+      "$id": 165,
+      "style": 138,
+      "name": "Ines is working hard to increase her wheat harvest.\n<More collectible spots at Halcyon Wheats>"
+    },
+    {
+      "$id": 166,
+      "style": 148,
+      "name": "Bartol asked Alfreda to make a tool for catching fish,\nbut she's short on the materials she needs.\nGather the materials for her."
+    },
+    {
+      "$id": 167,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Snare Wires[/System:Color]\nand 3 [System:Color name=item ]Half Parts[/System:Color]."
+    },
+    {
+      "$id": 168,
+      "style": 138,
+      "name": "Collect the remaining [System:Color name=item ]Half Parts[/System:Color]."
+    },
+    {
+      "$id": 169,
+      "style": 138,
+      "name": "Give the materials you collected to Alfreda."
+    },
+    {
+      "$id": 170,
+      "style": 138,
+      "name": "Collect the remaining [System:Color name=item ]Snare Wires[/System:Color]."
+    },
+    {
+      "$id": 171,
+      "style": 138,
+      "name": "Find Bartol near Tranquil Tarn and give him\nthe \"Easy! Fish-Catcher-kun\"."
+    },
+    {
+      "$id": 172,
+      "style": 138,
+      "name": "Bartol taught you how to use \"Easy! Fish-Catcher-kun\".\n<More collectible spots at Tranquil Tarn>"
+    },
+    {
+      "$id": 173,
+      "style": 148,
+      "name": "To complete the nutritionally complete \"Radam Meshin EX\",\ngather some Glutton Herbs."
+    },
+    {
+      "$id": 174,
+      "style": 138,
+      "name": "Gather 3 [System:Color name=item ]Glutton Herbs[/System:Color]."
+    },
+    {
+      "$id": 175,
+      "style": 138,
+      "name": "Report to Radam."
+    },
+    {
+      "$id": 176,
+      "style": 138,
+      "name": "Radam Meshin EX was completed successfully.\nQuite apart from its name, its taste seems very popular."
+    },
+    {
+      "$id": 177,
+      "style": 148,
+      "name": "Kino approached Angela, a girl playing by herself,\nand found that she's shy around strangers too.\nAngela looks lonely. Help her make some friends."
+    },
+    {
+      "$id": 178,
+      "style": 138,
+      "name": "Talk to Sele where the imperial capital is visible."
+    },
+    {
+      "$id": 179,
+      "style": 138,
+      "name": "Talk to Nestor near Tranquil Tarn."
+    },
+    {
+      "$id": 180,
+      "style": 138,
+      "name": "Talk to Rudolph near the ruins of Gran Dell."
+    },
+    {
+      "$id": 181,
+      "style": 138,
+      "name": "Report to Angela."
+    },
+    {
+      "$id": 182,
+      "style": 138,
+      "name": "Kino helped Angela make new friends.\nThanks to him, she now has four friends including Kino."
+    },
+    {
+      "$id": 183,
+      "style": 148,
+      "name": "Angela wants something matching with her new friends.\nKino promised to make traditional Best Friend Bracelets.\nGather the materials for the Nopon bracelets."
+    },
+    {
+      "$id": 184,
+      "style": 138,
+      "name": "In the woods along Thulles Way,\nobtain 5 lengths of [System:Color name=item ]Elastic Ivy[/System:Color]."
+    },
+    {
+      "$id": 185,
+      "style": 138,
+      "name": "Report to Angela."
+    },
+    {
+      "$id": 186,
+      "style": 138,
+      "name": "By the rocks near the lake where Junks crashed,\nobtain 5 [System:Color name=item ]Sparkle Stones[/System:Color]."
+    },
+    {
+      "$id": 187,
+      "style": 138,
+      "name": "Report to Angela."
+    },
+    {
+      "$id": 188,
+      "style": 138,
+      "name": "Everyone was overjoyed at Kino's bracelets.\nWearing matching ones may bring them even closer."
+    },
+    {
+      "$id": 189,
+      "style": 148,
+      "name": "Amleto is worried that Winia seems down.\nTo cheer her up,\nhe asked you to find someone who can make a ring."
+    },
+    {
+      "$id": 190,
+      "style": 138,
+      "name": "Find someone who can make a ring."
+    },
+    {
+      "$id": 191,
+      "style": 138,
+      "name": "In the rocky area deep in Forbidden Hushland,\nobtain a [System:Color name=item ]Bright Stone[/System:Color]."
+    },
+    {
+      "$id": 192,
+      "style": 138,
+      "name": "Give the [System:Color name=item ]Bright Stone[/System:Color] to Kurt."
+    },
+    {
+      "$id": 193,
+      "style": 138,
+      "name": "Give Amleto\nthe ring made by Kurt."
+    },
+    {
+      "$id": 194,
+      "style": 138,
+      "name": "Kurt made the ring that Amleto requested.\nAmleto seems pleased with it."
+    },
+    {
+      "$id": 195,
+      "style": 148,
+      "name": "Amleto and Kurt headed to Zekr Marga Quarry.\nGo and look for them."
+    },
+    {
+      "$id": 196,
+      "style": 138,
+      "name": "At Zekr Marga Quarry,\nfind Amleto."
+    },
+    {
+      "$id": 197,
+      "style": 138,
+      "name": "At Zekr Marga Quarry,\nfind Kurt."
+    },
+    {
+      "$id": 198,
+      "style": 138,
+      "name": "Talk to Winia and let her know both men are all right."
+    },
+    {
+      "$id": 199,
+      "style": 138,
+      "name": "You brought Amleto and Kurt back.\nThis incident made Winia reconsider how she lives."
+    },
+    {
+      "$id": 200,
+      "style": 148,
+      "name": "Tasheen is making a home-cooked meal for Talco.\nBring him the three ingredients."
+    },
+    {
+      "$id": 201,
+      "style": 138,
+      "name": "Gather 3 bunches of [System:Color name=item ]Cream Wheat[/System:Color]."
+    },
+    {
+      "$id": 202,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Monsieur Clams[/System:Color]."
+    },
+    {
+      "$id": 203,
+      "style": 138,
+      "name": "Collect 3 [System:Color name=item ]Angel Bream[/System:Color]."
+    },
+    {
+      "$id": 204,
+      "style": 138,
+      "name": "Bring the ingredients to Tasheen."
+    },
+    {
+      "$id": 205,
+      "style": 138,
+      "name": "You delivered the ingredients to Tasheen.\nNow let's hope he stays safe.[XENO:line ]"
+    },
+    {
+      "$id": 206,
+      "style": 148,
+      "name": "The sender of the letter is waiting for Melia.\nHead to Companions' Cape."
+    },
+    {
+      "$id": 207,
+      "style": 138,
+      "name": "Go to Companions' Cape."
+    },
+    {
+      "$id": 208,
+      "style": 138,
+      "name": "Defeat [System:Color name=item ]Resentful Gelgar[/System:Color]."
+    },
+    {
+      "$id": 209,
+      "style": 138,
+      "name": "Talk to Gelgar."
+    },
+    {
+      "$id": 210,
+      "style": 138,
+      "name": "After the battle,\nMelia and the others witnessed Gelgar's final moments."
+    },
+    {
+      "$id": 211,
+      "style": 148,
+      "name": "Some of the residents have been acting oddly lately.\nA Nopon seems to know what's going on.\nTalk to them on Maxis's behalf."
+    },
+    {
+      "$id": 212,
+      "style": 138,
+      "name": "Ask Pororo what's going on."
+    },
+    {
+      "$id": 213,
+      "style": 138,
+      "name": "Report to Maxis\nabout the \"Mystery Drink\"."
+    },
+    {
+      "$id": 214,
+      "style": 138,
+      "name": "Catch Bahn,\nwho headed towards Halcyon Wheats."
+    },
+    {
+      "$id": 215,
+      "style": 138,
+      "name": "Defeat Bahn,\nwho is lying in wait at Halcyon Wheats."
+    },
+    {
+      "$id": 216,
+      "style": 138,
+      "name": "Talk to Bahn,\nwho's hanging his head at Halcyon Wheats."
+    },
+    {
+      "$id": 217,
+      "style": 138,
+      "name": "Melia and the others thwarted Bahn's grand ambitions.\nAnd once again, Bahn found himself being punished."
+    }
+  ]
+}

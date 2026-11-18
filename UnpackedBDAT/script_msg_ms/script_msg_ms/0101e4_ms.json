@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]You know...[XENO:wait wait=key ][System:PageBreak ]The only ones who ever say that[XENO:n ]\nare you and Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]You know...[XENO:wait wait=key ][System:PageBreak ]Only you and my older[XENO:n ]\nbrother say that to me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Hands off, Reyn! I haven't[XENO:n ]\nfinished cooking it yet![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Hey! What do you think you're[XENO:n ]\ndoing sneaking a bite?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]I will if you don't keep your[XENO:n ]\ngrubby paws away until it's ready![XENO:wait wait=key ][System:PageBreak ]Right, that's it![XENO:wait wait=key ][System:PageBreak ]You've had enough already, Reyn.[XENO:n ]\nYou're not getting any more today![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]That's no[XENO:n ]\nexcuse![XENO:wait wait=key ][System:PageBreak ]Sigh. Fine, whatever.[XENO:wait wait=key ][System:PageBreak ]That's all you're getting[XENO:n ]\nfor dinner tonight, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn, would you shut up?[XENO:wait wait=key ][System:PageBreak ]How long do expect me to keep[XENO:n ]\nmaking Shulk's food for him?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Wh-what are you talking about?![XENO:wait wait=key ][System:PageBreak ]I-I can't keep cooking[XENO:n ]\nfor Shulk forever, can I?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "Hang on, Reyn.[XENO:wait wait=key ][System:PageBreak ]You think I'll agree to feed you[XENO:n ]\njust because of that?[XENO:wait wait=key ][System:PageBreak ]Because of some vaguely positive[XENO:n ]\ncomment about my cooking skills?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's one thing.[XENO:wait wait=key ][System:PageBreak ]What we're[XENO:n ]\ntalking about[XENO:wait wait=key ][System:PageBreak ]is another[XENO:n ]\nmatter entirely![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]I don't know why I bother.[XENO:n ]\nSame old Reyn.[XENO:wait wait=key ][System:PageBreak ]Well, it's nearly ready. I guess[XENO:n ]\nyou'd better call Shulk in.[XENO:wait wait=key ][System:PageBreak ]You can set the table too.[XENO:wait wait=key ][System:PageBreak ]If you're not too busy fending[XENO:n ]\noff bad guys, that is.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Honestly! What am I going[XENO:n ]\nto do with you, Rein?[XENO:wait wait=key ][System:PageBreak ]All right,[XENO:n ]\nthen.[XENO:wait wait=key ][System:PageBreak ]Go get Shulk,[XENO:wait wait=key ][System:PageBreak ]and wipe down[XENO:n ]\nthe table.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]W-wait, Reyn![XENO:n ]\nWhere are you going?[XENO:wait wait=key ][System:PageBreak ]I was only joking...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]H-hey, Rein! You've[XENO:n ]\ngot to be kidding![XENO:wait wait=key ][System:PageBreak ]Don't take it seriously![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Yes, Master Reyn, sir![XENO:n ]\nWhatever you say![XENO:wait wait=key ][System:PageBreak ]Now, go and put this cloth on the[XENO:n ]\ntable and wait like a good boy.[XENO:wait wait=key ][System:PageBreak ]Oh, and go and tell Shulk[XENO:n ]\nit's nearly ready.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Yes, yes,[XENO:n ]\nof course.[XENO:wait wait=key ][System:PageBreak ]Rein, wipe down[XENO:n ]\nthe table and wait there.[XENO:wait wait=key ][System:PageBreak ]Oh, and make sure[XENO:n ]\nyou get Shulk, too.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 49,

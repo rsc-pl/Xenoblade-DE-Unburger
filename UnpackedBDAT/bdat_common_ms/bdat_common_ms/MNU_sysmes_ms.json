@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 11,
-      "name": "Obtained Items"
+      "name": "Item Obtained"
     },
     {
       "$id": 2,
       "style": 117,
-      "name": "Your inventory is full. Do you want to open[XENO:n ]\nthe Item Menu to make room?"
+      "name": "Your Item Box is full.[XENO:n ]\nOpen the Item menu to make room?"
     },
     {
       "$id": 3,
       "style": 117,
-      "name": "You cannot carry any more items."
+      "name": "You cannot carry any more of the same item."
     },
     {
       "$id": 4,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 11,
-      "name": "Forget It"
+      "name": "Give Up"
     },
     {
       "$id": 6,
@@ -53,37 +53,37 @@
     {
       "$id": 9,
       "style": 117,
-      "name": "New Art learnt!"
+      "name": "Art learned."
     },
     {
       "$id": 10,
       "style": 117,
-      "name": "You can now see visions."
+      "name": "Future Sight is now available."
     },
     {
       "$id": 11,
       "style": 117,
-      "name": "You can no longer see visions."
+      "name": "Future Sight is no longer available."
     },
     {
       "$id": 12,
       "style": 117,
-      "name": "You can now use Monado Arts."
+      "name": "Monado Arts are now available."
     },
     {
       "$id": 13,
       "style": 117,
-      "name": "You can no longer use Monado Arts."
+      "name": "Monado Arts are no longer available."
     },
     {
       "$id": 14,
       "style": 117,
-      "name": "You currently cannot skip to this Landmark."
+      "name": "You cannot Skip Travel right now."
     },
     {
       "$id": 15,
       "style": 117,
-      "name": "You cannot enter this area so you[XENO:n ]\ncannot skip to this Landmark."
+      "name": "You cannot Skip Travel here[XENO:n ]\nbecause access is blocked."
     },
     {
       "$id": 16,
@@ -93,12 +93,12 @@
     {
       "$id": 17,
       "style": 117,
-      "name": "You cannot save while using a device."
+      "name": "You cannot save while a mechanism is operating."
     },
     {
       "$id": 18,
       "style": 117,
-      "name": "Your inventory is full.[XENO:n ]\nYou cannot harvest any more crystals."
+      "name": "Your Item Box is full.[XENO:n ]\nYou cannot gather crystals."
     },
     {
       "$id": 19,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 8,
-      "name": "Afternoon"
+      "name": "Daytime"
     },
     {
       "$id": 24,
@@ -143,32 +143,32 @@
     {
       "$id": 27,
       "style": 88,
-      "name": "These requirements will become visible[XENO:n ]\nin the Bonding Talk list later in the story."
+      "name": "As the story progresses, you'll be able to check[XENO:n ]\nthe requirements in the Bonding Talk list."
     },
     {
       "$id": 28,
       "style": 25,
-      "name": "You can't view this Bonding Talk yet."
+      "name": "You cannot view this Bonding Talk yet."
     },
     {
       "$id": 29,
       "style": 9,
-      "name": "Characters"
+      "name": "Participants"
     },
     {
       "$id": 30,
       "style": 10,
-      "name": "Required Bonding"
+      "name": "Bonding Required"
     },
     {
       "$id": 31,
       "style": 10,
-      "name": "Time"
+      "name": "Time of Day"
     },
     {
       "$id": 32,
       "style": 7,
-      "name": "End"
+      "name": "or higher"
     },
     {
       "$id": 33,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 79,
-      "name": "Saving.[XENO:n ]\nPlease do not touch the[XENO:n ]\nPOWER Button or RESET."
+      "name": "Saving...[XENO:n ]\nPlease do not press the[XENO:n ]\nPOWER or RESET button."
     },
     {
       "$id": 44,
@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 11,
-      "name": "Yes"
+      "name": "Create"
     },
     {
       "$id": 47,
       "style": 11,
-      "name": "No"
+      "name": "Cancel"
     },
     {
       "$id": 48,
@@ -253,17 +253,17 @@
     {
       "$id": 49,
       "style": 11,
-      "name": "Yes"
+      "name": "Delete"
     },
     {
       "$id": 50,
       "style": 11,
-      "name": "No"
+      "name": "Cancel"
     },
     {
       "$id": 51,
       "style": 117,
-      "name": "Save data has been deleted."
+      "name": "Save data deleted."
     },
     {
       "$id": 52,
@@ -273,12 +273,12 @@
     {
       "$id": 53,
       "style": 11,
-      "name": "Yes"
+      "name": "Copy"
     },
     {
       "$id": 54,
       "style": 11,
-      "name": "No"
+      "name": "Cancel"
     },
     {
       "$id": 55,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 117,
-      "name": "Loading data.[XENO:n ]\nPlease do not touch the[XENO:n ]\nPOWER Button or RESET."
+      "name": "Loading...[XENO:n ]\nPlease do not press the[XENO:n ]\nPOWER or RESET button."
     },
     {
       "$id": 60,
@@ -328,27 +328,27 @@
     {
       "$id": 64,
       "style": 117,
-      "name": "Save current progress?"
+      "name": "Save your progress up to this point?"
     },
     {
       "$id": 65,
       "style": 11,
-      "name": "Yes"
+      "name": "Save"
     },
     {
       "$id": 66,
       "style": 11,
-      "name": "No"
+      "name": "Cancel"
     },
     {
       "$id": 67,
       "style": 117,
-      "name": "Copying data.[XENO:n ]\nPlease do not touch the[XENO:n ]\nPOWER Button or RESET."
+      "name": "Copying data...[XENO:n ]\nPlease do not press the[XENO:n ]\nPOWER or RESET button."
     },
     {
       "$id": 68,
       "style": 117,
-      "name": "Deleting data.[XENO:n ]\nPlease do not touch the[XENO:n ]\nPOWER Button or RESET."
+      "name": "Deleting data...[XENO:n ]\nPlease do not press the[XENO:n ]\nPOWER or RESET button."
     },
     {
       "$id": 69,
@@ -358,17 +358,17 @@
     {
       "$id": 70,
       "style": 117,
-      "name": "There is not enough available space in the[XENO:n ]\nWii System Memory. Create 5 blocks of free[XENO:n ]\nspace either by moving data to an SD Card or[XENO:n ]\ndeleting data in the Wii console's Data[XENO:n ]\nManagement screen."
+      "name": "Not enough free space in the Wii System Memory.[XENO:n ]\nIn Data Management on the Wii Menu, move data[XENO:n ]\nto an SD Card or delete data to free up[XENO:n ]\n5 blocks of space."
     },
     {
       "$id": 71,
       "style": 117,
-      "name": "There is not enough available space in the[XENO:n ]\nWii System Memory. Either move data to an[XENO:n ]\nSD Card or delete data in the Wii console's[XENO:n ]\nData Management screen."
+      "name": "Not enough free file slots in the Wii System Memory.[XENO:n ]\nIn Data Management on the Wii Menu,[XENO:n ]\nmove data to an SD Card[XENO:n ]\nor delete data."
     },
     {
       "$id": 72,
       "style": 117,
-      "name": "The file cannot be used[XENO:n ]\nbecause the data is corrupted."
+      "name": "The data is corrupted[XENO:n ]\nand this file cannot be used."
     },
     {
       "$id": 73,
@@ -388,47 +388,47 @@
     {
       "$id": 76,
       "style": 117,
-      "name": "The Wii System Memory has been damaged.[XENO:n ]\nRefer to the Wii Operations Manual[XENO:n ]\nfor details."
+      "name": "The Wii System Memory is corrupted.[XENO:n ]\nFor details, please consult[XENO:n ]\nthe Wii Operations Manual."
     },
     {
       "$id": 77,
       "style": 117,
-      "name": "Could not access the Wii System Memory.[XENO:n ]\nRefer to the Wii Operations Manual for details."
+      "name": "Could not write to the Wii System Memory.[XENO:n ]\nFor details, please consult the Wii Operations Manual."
     },
     {
       "$id": 78,
       "style": 117,
-      "name": "Could not access the Wii System Memory.[XENO:n ]\nRefer to the Wii Operations Manual for details."
+      "name": "Could not read from the Wii System Memory.[XENO:n ]\nFor details, please consult the Wii Operations Manual."
     },
     {
       "$id": 79,
       "style": 117,
-      "name": "An error occurred while accessing the[XENO:n ]\nWii System Memory.[XENO:n ]\nRefer to the Wii Operations Manual for details."
+      "name": "An error occurred while writing to the[XENO:n ]\nWii System Memory.\nFor details, please consult the Wii Operations Manual."
     },
     {
       "$id": 80,
       "style": 117,
-      "name": "An error occurred while accessing the[XENO:n ]\nWii System Memory.[XENO:n ]\nRefer to the Wii Operations Manual for details."
+      "name": "An error occurred while reading from the[XENO:n ]\nWii System Memory.\nFor details, please consult the Wii Operations Manual."
     },
     {
       "$id": 81,
       "style": 117,
-      "name": "File 1 cannot be used[XENO:n ]\nbecause the data is corrupted."
+      "name": "The data is corrupted[XENO:n ]\nand File 1 cannot be used."
     },
     {
       "$id": 82,
       "style": 117,
-      "name": "File 2 cannot be used[XENO:n ]\nbecause the data is corrupted."
+      "name": "The data is corrupted[XENO:n ]\nand File 2 cannot be used."
     },
     {
       "$id": 83,
       "style": 117,
-      "name": "File 3 cannot be used[XENO:n ]\nbecause the data is corrupted."
+      "name": "The data is corrupted[XENO:n ]\nand File 3 cannot be used."
     },
     {
       "$id": 84,
       "style": 117,
-      "name": "Start new game continuing[XENO:n ]\nfrom cleared data?"
+      "name": "Carry over[XENO:n ]\nclear data?"
     },
     {
       "$id": 85,
@@ -443,7 +443,7 @@
     {
       "$id": 87,
       "style": 117,
-      "name": "Are you sure you want to[XENO:n ]\nreturn to the Title Screen?"
+      "name": "You will return to the title screen.[XENO:n ]\nIs that OK?"
     },
     {
       "$id": 88,
@@ -458,82 +458,82 @@
     {
       "$id": 90,
       "style": 117,
-      "name": "Choose up to 30 weapons you would[XENO:n ]\nlike to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 weapons to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 91,
       "style": 117,
-      "name": "Choose up to 30 items of armour (head) you[XENO:n ]\nwould like to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 pieces of head armour to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 92,
       "style": 117,
-      "name": "Choose up to 30 items of armour (torso) you[XENO:n ]\nwould like to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 pieces of torso armour to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 93,
       "style": 117,
-      "name": "Choose up to 30 items of armour (arms) you[XENO:n ]\nwould like to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 pieces of arm armour to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 94,
       "style": 117,
-      "name": "Choose up to 30 items of armour (legs) you[XENO:n ]\nwould like to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 pieces of waist armour to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 95,
       "style": 117,
-      "name": "Choose up to 30 items of armour (feet) you[XENO:n ]\nwould like to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 30 pieces of leg armour to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 96,
       "style": 117,
-      "name": "Choose up to 60 materials you would[XENO:n ]\nlike to carry over when you continue.[XENO:n ]\nSelect CONFIRM to finish."
+      "name": "Select up to 60 types of materials to carry over,[XENO:n ]\nthen press Confirm.[XENO:n ]\n(You may also finish early.)"
     },
     {
       "$id": 97,
       "style": 117,
-      "name": "Confirmed items to carry over.[XENO:n ]\nAll Arts manuals, gems, ether crystals[XENO:n ]\nand collectables will be carried over.\n"
+      "name": "Finished selecting items to carry over.[XENO:n ]\n[XENO:n ]\nAll Arts Manuals, gems, ether crystals[XENO:n ]\nand Collection Items will be carried over."
     },
     {
       "$id": 98,
       "style": 117,
-      "name": "This quest is already active as your[XENO:n ]\nnext goal in the main story."
+      "name": "This is already tracked[XENO:n ]\nas part of the story,[XENO:n ]\nso it cannot be made active."
     },
     {
       "$id": 99,
       "style": 117,
-      "name": "This quest has already been completed."
+      "name": "This quest is already complete."
     },
     {
       "$id": 100,
       "style": 117,
-      "name": "You don't have enough free inventory space."
+      "name": "Your Item Box is full."
     },
     {
       "$id": 101,
       "style": 11,
-      "name": "Confirm level choice"
+      "name": "Confirm Level Selection"
     },
     {
       "$id": 102,
       "style": 117,
-      "name": "Set character to this level?"
+      "name": "Set the selected level?"
     },
     {
       "$id": 103,
       "style": 11,
-      "name": "Yes"
+      "name": "Confirm"
     },
     {
       "$id": 104,
       "style": 11,
-      "name": "No"
+      "name": "Cancel"
     },
     {
       "$id": 105,
       "style": 11,
-      "name": "Quit"
+      "name": "Exit"
     },
     {
       "$id": 106,
@@ -548,22 +548,22 @@
     {
       "$id": 108,
       "style": 19,
-      "name": "Current affinity"
+      "name": "Current Bonding"
     },
     {
       "$id": 109,
       "style": 29,
-      "name": "Needed in active party:"
+      "name": "Not in the battle party:"
     },
     {
       "$id": 110,
       "style": 29,
-      "name": "Only available at certain times of day."
+      "name": "The time requirement is not met."
     },
     {
       "$id": 111,
       "style": 29,
-      "name": "You've already watched this Bonding Talk."
+      "name": "You've already viewed this Bonding Talk."
     },
     {
       "$id": 112,
@@ -573,67 +573,67 @@
     {
       "$id": 113,
       "style": 19,
-      "name": "Area"
+      "name": "Area Name"
     },
     {
       "$id": 114,
       "style": 117,
-      "name": "イベントをスキップしますか？"
+      "name": "Skip this event?"
     },
     {
       "$id": 115,
       "style": 11,
-      "name": "スキップする"
+      "name": "Skip"
     },
     {
       "$id": 116,
       "style": 11,
-      "name": "Return"
+      "name": "Back"
     },
     {
       "$id": 117,
       "style": 117,
-      "name": "You must finish the story before\nyou can start New Game Plus."
+      "name": "Cannot start using data from a game\nwhose story has not been cleared."
     },
     {
       "$id": 118,
       "style": 117,
-      "name": "Do you want to carry over a part of\nthis data and start a new game?"
+      "name": "Start a new game, carrying over\npart of this data?"
     },
     {
       "$id": 119,
       "style": 19,
-      "name": "Quiet Moment"
+      "name": "Companion Talk"
     },
     {
       "$id": 120,
       "style": 29,
-      "name": "You haven't viewed the necessary Quiet Moments."
+      "name": "You need to view the prerequisite Companion Talk."
     },
     {
       "$id": 121,
       "style": 49,
-      "name": "No Bonding Talks found.[XENO:n ]\n(Categories may be filtered.)"
+      "name": "No Bonding Talks to display.[XENO:n ]\n(Check the display category.)"
     },
     {
       "$id": 122,
       "style": 49,
-      "name": "No Quiet Moments found.[XENO:n ]\n(Categories may be filtered.)"
+      "name": "No Companion Talks to display.[XENO:n ]\n(Check the display category.)"
     },
     {
       "$id": 123,
       "style": 29,
-      "name": "You've already seen this Quiet Moment."
+      "name": "You have already viewed this Companion Talk."
     },
     {
       "$id": 124,
       "style": 88,
-      "name": "These requirements will become visible[XENO:n ]\nin the Quiet Moments list later in the story."
+      "name": "As the story progresses, you'll be able to check[XENO:n ]\nthe requirements under Companion Talks."
     },
     {
       "$id": 125,
       "style": 25,
-      "name": "You can't view this Quiet Moment yet."
+      "name": "You cannot view this Companion Talk yet."
     },
     {
       "$id": 126,
@@ -648,62 +648,62 @@
     {
       "$id": 128,
       "style": 88,
-      "name": "You can't view this until you have viewed\nthe necessary Quiet Moments.[XENO:n ]\n"
+      "name": "You cannot view this Companion Talk yet.[XENO:n ]\nYou need to view the prerequisite Companion Talk."
     },
     {
       "$id": 129,
       "style": 9,
-      "name": "Paused"
+      "name": "Pause"
     },
     {
       "$id": 130,
       "style": 14,
-      "name": "Ponspectors Unite!"
+      "name": "More Noponjaa Recruits!"
     },
     {
       "$id": 131,
       "style": 19,
-      "name": "が仲間になりました（仮）"
+      "name": "has joined the party (temporary)."
     },
     {
       "$id": 132,
       "style": 29,
-      "name": "You'll need a special tool in order to mine here."
+      "name": "It seems you need a special tool to mine here."
     },
     {
       "$id": 133,
       "style": 117,
-      "name": "As a special bonus for having played\nXenoblade Chronicles 2, you can start\nthe game with [System:Color name=s2 ]100,000G[/System:Color].\n(You cannot collect this bonus after starting.)"
+      "name": "As a bonus for playing Xenoblade 2,\nyou can start with [System:Color name=s2 ]100,000G[/System:Color].\n\n* You cannot claim the bonus after the game starts."
     },
     {
       "$id": 134,
       "style": 11,
-      "name": "Collect"
+      "name": "Accept"
     },
     {
       "$id": 135,
       "style": 11,
-      "name": "Don't collect"
+      "name": "Decline"
     },
     {
       "$id": 136,
       "style": 15,
-      "name": "XC2 Player Bonus!"
+      "name": "Xenoblade 2 Player Bonus!"
     },
     {
       "$id": 137,
       "style": 15,
-      "name": "Before you proceed..."
+      "name": "Important Notice"
     },
     {
       "$id": 138,
       "style": 117,
-      "name": "The extra story takes place after the events of\nthe main story and assumes you are familiar with\nits events. [System:Color name=s1 ]For that reason, it is strongly\nrecommended to finish the main story first.[/System:Color]"
+      "name": "The additional story takes place after the main story.\n[System:Color name=s1 ]We recommend playing the main story first.[/System:Color]"
     },
     {
       "$id": 139,
       "style": 11,
-      "name": "Play extra story"
+      "name": "Start the Additional Story"
     },
     {
       "$id": 140,
@@ -713,17 +713,17 @@
     {
       "$id": 141,
       "style": 117,
-      "name": "The prized [System:Color name=item ]Nerthis Crown[/System:Color] that the Ponspectors\nhave given you is a headpiece specially for Melia.\nWear it in battle and you're sure to feel the\nPonspector spirit surging through you!"
+      "name": "The treasure from the Noponjaa,\n[System:Color name=item ]Nerthis Crown[/System:Color], is headgear exclusive to Melia.\nWear it into battle and the Noponjaa are\nsure to get fired up!"
     },
     {
       "$id": 142,
       "style": 117,
-      "name": "Casual mode has been enabled."
+      "name": "Casual Mode has been switched on."
     },
     {
       "$id": 143,
       "style": 117,
-      "name": "You cannot mine gems because[XENO:n ]\nyour inventory is full."
+      "name": "Your Item Box is full.[XENO:n ]\nYou cannot mine gems."
     }
   ]
 }

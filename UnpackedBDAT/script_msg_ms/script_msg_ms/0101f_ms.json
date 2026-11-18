@@ -43,27 +43,27 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "What should we do?[XENO:wait wait=key ][System:PageBreak ]I know![XENO:n ]\nWe'll go to Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "With things like this...[XENO:wait wait=key ][System:PageBreak ]That's it! If we[XENO:n ]\ngo to Dunban-san's![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 126,
-      "name": "We can't go this way![XENO:n ]\nWe can't beat the Mechon![XENO:wait wait=key ][System:PageBreak ]Looks like that's that![XENO:n ]\nWe have to go to Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Not this way! If it's Machine[XENO:n ]\nGod Soldiers we're up against...![XENO:wait wait=key ][System:PageBreak ]There's only one[XENO:n ]\nplace to go! Dunban's![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "I'm worried about my brother.[XENO:n ]\nI have to go home![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm worried about my older brother.[XENO:n ]\nI have to get back home first![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 126,
-      "name": "It's no good![XENO:n ]\nFiorung's still at home.[XENO:wait wait=key ][System:PageBreak ]We have to defeat the Mechon in[XENO:n ]\nfront of Dunban's house![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's no good![XENO:n ]\nFiorung's still at home.[XENO:wait wait=key ][System:PageBreak ]We have to defeat the Machine God Soldiers in[XENO:n ]\nfront of Dunban-san's house![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 126,
-      "name": "We can't leave Fiorung![XENO:wait wait=key ][System:PageBreak ]Let's trash that Mechon rust[XENO:n ]\nbucket in front of Dunban's House![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We can't leave Fiorung behind![XENO:wait wait=key ][System:PageBreak ]We're going to smash those Machine God[XENO:n ]\nSoldiers in front of Dunban's house![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -88,12 +88,12 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "We can't just run and hide! [XENO:n ]\nTake out that black Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm not running away now! I'll defeat [XENO:n ]\nthat black Machine God Soldier![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
       "style": 126,
-      "name": "That black Mechon will pay![XENO:n ]\nI swear I will destroy it![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "...You'll pay for this, black Machine[XENO:n ]\nGod Soldier! Just wait! I'll defeat you![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -1,0 +1,309 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Dunban? You look happy.[XENO:n ]\nI know! You're getting married![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "And to whom exactly?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "All right, that was just a wild[XENO:n ]\nguess. What's up?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Fiorung gave me the most[XENO:n ]\nremarkable present.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Oh, is that what's in[XENO:n ]\nyour hand?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "It is indeed. It's a rare insect,[XENO:n ]\nfound only around Colony 9.[XENO:wait wait=key ][System:PageBreak ]Take a closer look if you like.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Oooh. I hate creepy-crawlies![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:sel sel=・I think I'm fine right here./・I-I'd love to, thank you... ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Sorry, but I hate bugs. Eww...[XENO:n ]\nThey make my skin crawl...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "All right then. Not to worry.[XENO:n ]\nSorry I asked.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "So you're telling me Fiorung[XENO:n ]\ndoesn't mind them at all?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Actually, she likes them just[XENO:n ]\nas much as you do.[XENO:wait wait=key ][System:PageBreak ]I once put one in her pocket, as[XENO:n ]\na present, and she went berserk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Dunban? Newsflash here...[XENO:n ]\nNo one likes bugs in their clothes![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I realised that the hard way.[XENO:wait wait=key ][System:PageBreak ]Things were...more innocent then.[XENO:n ]\nTakes me back, you know?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:sel sel=・To when you were a weirdo./・I completely get what you mean. ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Hey! Collecting bugs[XENO:n ]\nis a great hobby![XENO:wait wait=key ][System:PageBreak ]What about Juujuu? I bet he[XENO:n ]\ncollects bugs.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Juujuu's more into animals.[XENO:n ]\nBugs aren't his thing.[XENO:wait wait=key ][System:PageBreak ]One day he brought home[XENO:n ]\na baby Hogs.[XENO:wait wait=key ][System:PageBreak ]Odama-san was so mad...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "Ah, yes. Those critters might[XENO:n ]\nlook innocent...[XENO:wait wait=key ][System:PageBreak ]But look the other way and[XENO:n ]\nthey'll have your finger.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "The other big nuisance with Juujuu[XENO:n ]\nis vegetables.[XENO:wait wait=key ][System:PageBreak ]He can't stand them. I've never[XENO:n ]\ngot him to eat the things.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Same as Shulk. His diet's[XENO:n ]\nnot healthy at all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "I've seen him eat vegetables.[XENO:wait wait=key ][System:PageBreak ]Fiorung usually cooks vegetables[XENO:n ]\nand I've seen him eat the lot.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "He's too embarrassed to tell her[XENO:n ]\nhe doesn't like them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "Haha. Those two... They must[XENO:n ]\nhave been a handful![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "They were and they still are.[XENO:wait wait=key ][System:PageBreak ]I'm Fiorung's guardian AND[XENO:n ]\nI have to keep an eye on Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "You've got a lot on your plate...[XENO:n ]\nbut you take good care of them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Hey, doesn't Rein like bugs?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I think he likes most things.[XENO:n ]\nHe's a bit of an animal lover too.[XENO:wait wait=key ][System:PageBreak ]I think I heard Melia is[XENO:n ]\nas well, actually.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "She is? How surprising![XENO:wait wait=key ][System:PageBreak ]I'd love to know more about her[XENO:n ]\ntastes. What about...erm...[XENO:wait wait=key ][System:PageBreak ]Fruit! Does she like fruit?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Nope, she definitely doesn't like[XENO:n ]\nfruit. She told me so herself.[XENO:wait wait=key ][System:PageBreak ]She might be like me. I don't[XENO:n ]\nlike sweet things at all really.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "That's a shame. I love fruit.[XENO:wait wait=key ][System:PageBreak ]Everyone's different, I guess.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "And it's good to learn things[XENO:n ]\nabout each other, right?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "It is. Thanks, Dunban.[XENO:wait wait=key ][System:PageBreak ]I think I might give Rein[XENO:n ]\nsome fruit as a present.[XENO:wait wait=key ][System:PageBreak ]You think he'd like it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "So that's who you wanted[XENO:n ]\nto find out about?![XENO:wait wait=key ][System:PageBreak ]Well...Rein likes basically[XENO:n ]\neverything, so you can't go wrong![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "Well, er... It does look unusual.[XENO:n ]\nWe don't get those at Colony 6.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "She remembered the exact[XENO:n ]\ntype I like.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "Ah, no wonder you're beaming![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "Wouldn't you be if someone gave[XENO:n ]\nyou something you liked?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Yes, getting presents always feels[XENO:n ]\nnice...if it's something I like![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Yeah, it can be annoying to get[XENO:n ]\nsomething you have no use for.[XENO:wait wait=key ][System:PageBreak ]Like...fruit. I don't like fruit.[XENO:wait wait=key ][System:PageBreak ]If someone gave me fruit,[XENO:n ]\nI wouldn't know what to do with it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:sel sel=・But the thought is still nice./・Like me and bugs! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "That's very true. But some people[XENO:n ]\nare particularly clueless...[XENO:wait wait=key ][System:PageBreak ]The other day Shulk gave Riki[XENO:n ]\nan old machine part, for instance.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "He did? What was he thinking?[XENO:wait wait=key ][System:PageBreak ]Everyone knows if it's not food,[XENO:n ]\nRiki's not going to be interested.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "I was there. Poor Riki.[XENO:n ]\nHe was so confused.[XENO:wait wait=key ][System:PageBreak ]I just stood and laughed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Shulk's a bit slow on the uptake.[XENO:wait wait=key ][System:PageBreak ]Maybe he'll get the hang of[XENO:n ]\nthese things someday.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "He certainly needs...refining.[XENO:wait wait=key ][System:PageBreak ]He hasn't been giving Fiorung[XENO:n ]\nanything ridiculous, has he?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "I hope not. If he did, Fiorung[XENO:n ]\nwould give him an earful.[XENO:wait wait=key ][System:PageBreak ]You really worry about[XENO:n ]\nthose two, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "Haha. That I do, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Because Shulk's the one[XENO:n ]\nto marry Fiorung. I know it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Hello? Giant God to Dunban?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "Oh. Sorry, Carna.[XENO:wait wait=key ][System:PageBreak ]I was thinking about...a present[XENO:n ]\nto give Fiorung in return.[XENO:wait wait=key ][System:PageBreak ]Any ideas?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Really? You don't like bugs?[XENO:wait wait=key ][System:PageBreak ]You should have said so earlier![XENO:n ]\nI wouldn't have showed it to you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "It's all right. I'll live![XENO:wait wait=key ][System:PageBreak ]But in case it helps, Melia's not[XENO:n ]\ntoo keen on them either.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Then I'll keep it out of sight[XENO:n ]\nwhen I'm around her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "What are you going to give[XENO:n ]\nFiorung in return? Any ideas?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "Hmm... I was thinking...[XENO:wait wait=key ][System:PageBreak ]Flowers, maybe? I'm struggling[XENO:n ]\nfor ideas, to be honest.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 56,
+      "style": 126,
+      "name": "Well, how about an exotic food?[XENO:n ]\nFiorung loves to cook.[XENO:wait wait=key ][System:PageBreak ]She always looking to try[XENO:n ]\nnew recipes for Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 57,
+      "style": 126,
+      "name": "That might be a good idea.[XENO:n ]\nThank you, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 58,
+      "style": 126,
+      "name": "Then we'd better get looking![XENO:n ]\nHow about we start around here?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 59,
+      "style": 126,
+      "name": "Agreed. Lead on![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Fancy meeting you[XENO:n ]\nhere-mo.[XENO:wait wait=key ][System:PageBreak ]Want to go up?[XENO:wait wait=key ][System:PageBreak ]Wait where the water gushes out-mo.[XENO:wait wait=key ][System:PageBreak ]Its force will launch you high-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "This is the only way forward-mo.[XENO:wait wait=key ][System:PageBreak ]Be brave and try it-mo![XENO:wait wait=key ][System:PageBreak ]I can't work up the courage myself-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "We've arrived inside the Giant God.[XENO:wait wait=key ][System:PageBreak ]Don't go getting hurt in here.[XENO:n ]\nYou're our hope after all.[XENO:wait wait=key ][System:PageBreak ]Turning back can be brave too.[XENO:n ]\nCome back if it gets dangerous.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Tell the chief if there's anything[XENO:n ]\nyou still need to do.[XENO:wait wait=key ][System:PageBreak ]Junks is ready to leave any time.[XENO:wait wait=key ][System:PageBreak ]We can go back to Colony 6[XENO:n ]\nat once.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "The Three Sages are probably waiting[XENO:n ]\nfor you up ahead.[XENO:wait wait=key ][System:PageBreak ]You don't know how they'll attack[XENO:n ]\nso just be as ready as you can.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "What is it?[XENO:n ]\nDo you want to return to Colony 6?[XENO:wait wait=key ][System:PageBreak ]In that case, just tell the chief.[XENO:n ]\nI will launch Junks right away.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Shall we return to Colony 6?[XENO:wait wait=key ][System:PageBreak ]This is the final battle.[XENO:n ]\nIt's best to be prepared.[XENO:wait wait=key ][System:PageBreak ]Do you want to go back?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Return to Colony 6/・Stay here ][XENO:del del=all ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Zanza underestimates what we are[XENO:n ]\ncapable of. That is our chance.[XENO:wait wait=key ][System:PageBreak ]Now all you need to do is...[XENO:n ]\nSorry. I know it won't be easy.[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "So close...[XENO:wait wait=key ][System:PageBreak ]I am near the answer to restoring[XENO:n ]\nHoms liberated from Faces.[XENO:wait wait=key ][System:PageBreak ]I'm only missing the final[XENO:n ]\npiece of the puzzle.[XENO:wait wait=key ][System:PageBreak ]I give my word that I will find the[XENO:n ]\nanswer. For Fiorung.[XENO:wait wait=key ][XENO:del del=this ]\n"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Please inform my father when you[XENO:n ]\nwant to return to Colony 6.[XENO:wait wait=key ][System:PageBreak ]We are ready to leave any time.[XENO:wait wait=key ][System:PageBreak ]May the power of Lady Maynus[XENO:n ]\nprotect us.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Shulk and my older brother came to understand each other[XENO:n ]\nwithout settling things by the sword.[XENO:wait wait=key ][System:PageBreak ]I believe people have potential.[XENO:n ]\nThat is what I think.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:shp shp=34 ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Thank you very much[XENO:n ]\nTake care.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:shp shp=35 ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "Thanks.[XENO:n ]\nCome back again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:qst_start ]Is the Monado Replica to[XENO:n ]\nyour satisfaction?[XENO:wait wait=key ][System:PageBreak ]There is something that I have not[XENO:n ]\nyet told you.[XENO:wait wait=key ][System:PageBreak ]There are five other prototypes in[XENO:n ]\naddition to the replica I gave you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "I could make them if you had[XENO:n ]\nthe time and necessary materials.[XENO:wait wait=key ][System:PageBreak ]What do you think?[XENO:n ]\nWould you like me to make them?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:qst qst=244 ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Please take these five designs.[XENO:wait wait=key ][System:PageBreak ]They are prototypes and may be[XENO:n ]\nsomewhat difficult to wield.[XENO:wait wait=key ][System:PageBreak ]They must be used correctly.[XENO:wait wait=key ][System:PageBreak ]But once mastered, they are truly[XENO:n ]\nformidable weapons indeed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:qst qst=245 ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:qst qst=246 ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:qst qst=247 ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:qst qst=248 ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "They are just prototypes. I do[XENO:n ]\nnot have to make them all.[XENO:wait wait=key ][System:PageBreak ]I can construct the replicas[XENO:n ]\nwhenever you wish.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I see you have gathered the[XENO:n ]\nnecessary materials.[XENO:wait wait=key ][System:PageBreak ]I will get to work immediately.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I have finished.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "The Monado R Rudra has been[XENO:n ]\ndesigned for attack stability.[XENO:wait wait=key ][System:PageBreak ]Its lightweight materials narrow[XENO:n ]\nthe range of the Attack power.[XENO:wait wait=key ][System:PageBreak ]The damage is more focused,[XENO:n ]\nmaking it a reliable weapon.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "The Monado R Agni provides a[XENO:n ]\nhigh Guard Rate.[XENO:wait wait=key ][System:PageBreak ]It is made from hard materials[XENO:n ]\nfor increased durability.[XENO:wait wait=key ][System:PageBreak ]Damage is somewhat unfocused[XENO:n ]\nbut Guard Rate is greatly increased.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "The Monado R Abyss has been[XENO:n ]\ndesigned for strong Attack power.[XENO:wait wait=key ][System:PageBreak ]The heavy materials used give it[XENO:n ]\na high maximum Attack power.[XENO:wait wait=key ][System:PageBreak ]Damage is somewhat unfocused[XENO:n ]\nbut it has immense strength.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "The Monado R Dogma offers a[XENO:n ]\na higher critical hit rate.[XENO:wait wait=key ][System:PageBreak ]The thin materials used increase[XENO:n ]\nthe blade output.[XENO:wait wait=key ][System:PageBreak ]The high critical hit rate comes at[XENO:n ]\nthe cost of lower defence.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "The Monado R Saga has been[XENO:n ]\ndesigned for superior defence.[XENO:wait wait=key ][System:PageBreak ]Its thick materials suppress[XENO:n ]\nthe blade output.[XENO:wait wait=key ][System:PageBreak ]Attack strength is greatly reduced[XENO:n ]\nbut it provides peerless Defence.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "I hope this weapon gives you the[XENO:n ]\nstrength and power to succeed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Make the Monado replica/・Not right now ][XENO:del del=all ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ]"
+    }
+  ]
+}

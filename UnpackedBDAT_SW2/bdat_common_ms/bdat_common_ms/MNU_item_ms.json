@@ -1,0 +1,949 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Items"
+    },
+    {
+      "$id": 2,
+      "style": 6,
+      "name": "Sort"
+    },
+    {
+      "$id": 3,
+      "style": 5,
+      "name": "Sell Price:"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Amount Carried Over"
+    },
+    {
+      "$id": 5,
+      "style": 6,
+      "name": "Confirm"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Attack"
+    },
+    {
+      "$id": 7,
+      "style": 1,
+      "name": "-"
+    },
+    {
+      "$id": 8,
+      "style": 7,
+      "name": "Ether Def"
+    },
+    {
+      "$id": 9,
+      "style": 7,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 10,
+      "style": 7,
+      "name": "Guard Rate"
+    },
+    {
+      "$id": 11,
+      "style": 7,
+      "name": "Physical Def"
+    },
+    {
+      "$id": 12,
+      "style": 7,
+      "name": "Weight"
+    },
+    {
+      "$id": 13,
+      "style": 11,
+      "name": "Weapon Strength"
+    },
+    {
+      "$id": 14,
+      "style": 12,
+      "name": "Shared Gem"
+    },
+    {
+      "$id": 15,
+      "style": 12,
+      "name": "Weapon-Only Gem"
+    },
+    {
+      "$id": 16,
+      "style": 12,
+      "name": "Armour-Only Gem"
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 18,
+      "style": 2,
+      "name": "[ML:space ]VI"
+    },
+    {
+      "$id": 19,
+      "style": 2,
+      "name": "[ML:space ]V"
+    },
+    {
+      "$id": 20,
+      "style": 2,
+      "name": "[ML:space ]IV"
+    },
+    {
+      "$id": 21,
+      "style": 2,
+      "name": "[ML:space ]III"
+    },
+    {
+      "$id": 22,
+      "style": 2,
+      "name": "[ML:space ]II"
+    },
+    {
+      "$id": 23,
+      "style": 2,
+      "name": "[ML:space ]I"
+    },
+    {
+      "$id": 24,
+      "style": 11,
+      "name": "Type"
+    },
+    {
+      "$id": 25,
+      "style": 11,
+      "name": "Origin"
+    },
+    {
+      "$id": 26,
+      "style": 5,
+      "name": "Owned"
+    },
+    {
+      "$id": 27,
+      "style": 2,
+      "name": "secs"
+    },
+    {
+      "$id": 28,
+      "style": 9,
+      "name": "Empty Slot"
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "Learnt"
+    },
+    {
+      "$id": 30,
+      "style": 9,
+      "name": "Not yet learnt"
+    },
+    {
+      "$id": 31,
+      "style": 39,
+      "name": "\\[ \\]"
+    },
+    {
+      "$id": 32,
+      "style": 11,
+      "name": "Machine Realm"
+    },
+    {
+      "$id": 33,
+      "style": 9,
+      "name": "Equipment Type"
+    },
+    {
+      "$id": 34,
+      "style": 11,
+      "name": "Light"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "Medium"
+    },
+    {
+      "$id": 36,
+      "style": 11,
+      "name": "Heavy"
+    },
+    {
+      "$id": 37,
+      "style": 12,
+      "name": "Weapons"
+    },
+    {
+      "$id": 38,
+      "style": 13,
+      "name": "Head"
+    },
+    {
+      "$id": 39,
+      "style": 13,
+      "name": "Torso"
+    },
+    {
+      "$id": 40,
+      "style": 13,
+      "name": "Arms"
+    },
+    {
+      "$id": 41,
+      "style": 13,
+      "name": "Waist"
+    },
+    {
+      "$id": 42,
+      "style": 13,
+      "name": "Legs"
+    },
+    {
+      "$id": 43,
+      "style": 13,
+      "name": "Materials"
+    },
+    {
+      "$id": 44,
+      "style": 13,
+      "name": "Arts Manuals"
+    },
+    {
+      "$id": 45,
+      "style": 13,
+      "name": "Key Items"
+    },
+    {
+      "$id": 46,
+      "style": 13,
+      "name": "Gems"
+    },
+    {
+      "$id": 47,
+      "style": 13,
+      "name": "Crystals"
+    },
+    {
+      "$id": 48,
+      "style": 13,
+      "name": "Collection"
+    },
+    {
+      "$id": 49,
+      "style": 11,
+      "name": "Learn"
+    },
+    {
+      "$id": 50,
+      "style": 11,
+      "name": "Present"
+    },
+    {
+      "$id": 51,
+      "style": 11,
+      "name": "Discard"
+    },
+    {
+      "$id": 52,
+      "style": 9,
+      "name": "Obtained"
+    },
+    {
+      "$id": 53,
+      "style": 9,
+      "name": "Sell Price"
+    },
+    {
+      "$id": 54,
+      "style": 9,
+      "name": "Attack"
+    },
+    {
+      "$id": 55,
+      "style": 9,
+      "name": "Empty Slot"
+    },
+    {
+      "$id": 56,
+      "style": 9,
+      "name": "Unique Weapons"
+    },
+    {
+      "$id": 57,
+      "style": 9,
+      "name": "Physical Def"
+    },
+    {
+      "$id": 58,
+      "style": 9,
+      "name": "Ether Def"
+    },
+    {
+      "$id": 59,
+      "style": 9,
+      "name": "Light"
+    },
+    {
+      "$id": 60,
+      "style": 9,
+      "name": "Medium"
+    },
+    {
+      "$id": 61,
+      "style": 9,
+      "name": "Heavy"
+    },
+    {
+      "$id": 62,
+      "style": 9,
+      "name": "With Slots"
+    },
+    {
+      "$id": 63,
+      "style": 9,
+      "name": "Unique Armour"
+    },
+    {
+      "$id": 64,
+      "style": 9,
+      "name": "Owned"
+    },
+    {
+      "$id": 65,
+      "style": 9,
+      "name": "Quest Items"
+    },
+    {
+      "$id": 66,
+      "style": 9,
+      "name": "Not Yet Learnt"
+    },
+    {
+      "$id": 67,
+      "style": 9,
+      "name": "Learnt"
+    },
+    {
+      "$id": 68,
+      "style": 9,
+      "name": "Weight"
+    },
+    {
+      "$id": 69,
+      "style": 9,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 70,
+      "style": 9,
+      "name": "Guard Rate"
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Colour"
+    },
+    {
+      "$id": 72,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 73,
+      "style": 9,
+      "name": "Weapon Only"
+    },
+    {
+      "$id": 74,
+      "style": 9,
+      "name": "Armour Only"
+    },
+    {
+      "$id": 75,
+      "style": 9,
+      "name": "Both"
+    },
+    {
+      "$id": 76,
+      "style": 9,
+      "name": "Parameters"
+    },
+    {
+      "$id": 77,
+      "style": 9,
+      "name": "Attack"
+    },
+    {
+      "$id": 78,
+      "style": 9,
+      "name": "Defence"
+    },
+    {
+      "$id": 79,
+      "style": 9,
+      "name": "Support"
+    },
+    {
+      "$id": 80,
+      "style": 9,
+      "name": "Field"
+    },
+    {
+      "$id": 81,
+      "style": 9,
+      "name": "Special"
+    },
+    {
+      "$id": 82,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 83,
+      "style": 9,
+      "name": "Parameters"
+    },
+    {
+      "$id": 84,
+      "style": 9,
+      "name": "Attack"
+    },
+    {
+      "$id": 85,
+      "style": 9,
+      "name": "Defence"
+    },
+    {
+      "$id": 86,
+      "style": 9,
+      "name": "Support"
+    },
+    {
+      "$id": 87,
+      "style": 9,
+      "name": "Field"
+    },
+    {
+      "$id": 88,
+      "style": 9,
+      "name": "Special"
+    },
+    {
+      "$id": 89,
+      "style": 9,
+      "name": "Type"
+    },
+    {
+      "$id": 90,
+      "style": 19,
+      "name": "Change Equipment"
+    },
+    {
+      "$id": 91,
+      "style": 9,
+      "name": "Switch"
+    },
+    {
+      "$id": 92,
+      "style": 1,
+      "name": "Lv"
+    },
+    {
+      "$id": 93,
+      "style": 2,
+      "name": "EXP"
+    },
+    {
+      "$id": 94,
+      "style": 1,
+      "name": "HP"
+    },
+    {
+      "$id": 95,
+      "style": 11,
+      "name": "Strength"
+    },
+    {
+      "$id": 96,
+      "style": 11,
+      "name": "Agility"
+    },
+    {
+      "$id": 97,
+      "style": 11,
+      "name": "Ether"
+    },
+    {
+      "$id": 98,
+      "style": 11,
+      "name": "Physical Def"
+    },
+    {
+      "$id": 99,
+      "style": 11,
+      "name": "Ether Def"
+    },
+    {
+      "$id": 100,
+      "style": 12,
+      "name": "Auto-Attack Damage"
+    },
+    {
+      "$id": 101,
+      "style": 30,
+      "name": "-"
+    },
+    {
+      "$id": 102,
+      "style": 11,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 103,
+      "style": 11,
+      "name": "Guard Rate"
+    },
+    {
+      "$id": 104,
+      "style": 1,
+      "name": "%"
+    },
+    {
+      "$id": 105,
+      "style": 4,
+      "name": "+　　 %"
+    },
+    {
+      "$id": 106,
+      "style": 2,
+      "name": "s"
+    },
+    {
+      "$id": 107,
+      "style": 116,
+      "name": "This gem cannot be removed."
+    },
+    {
+      "$id": 108,
+      "style": 116,
+      "name": "Choose which gem to mount in this slot."
+    },
+    {
+      "$id": 109,
+      "style": 116,
+      "name": "It is already in use.[XENO:n ]\nRemove and equip it here?"
+    },
+    {
+      "$id": 110,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 111,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 112,
+      "style": 117,
+      "name": "This character already uses the gem.[XENO:n ]\nRemove and attach it here?"
+    },
+    {
+      "$id": 113,
+      "style": 117,
+      "name": "The current equipment cannot be removed."
+    },
+    {
+      "$id": 114,
+      "style": 117,
+      "name": "It is already in use.[XENO:n ]\nRemove and attach it here?"
+    },
+    {
+      "$id": 115,
+      "style": 117,
+      "name": "It is attached to other equipment.[XENO:n ]\nRemove and attach it here?"
+    },
+    {
+      "$id": 116,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 118,
+      "style": 6,
+      "name": "Fire"
+    },
+    {
+      "$id": 119,
+      "style": 6,
+      "name": "Water"
+    },
+    {
+      "$id": 120,
+      "style": 6,
+      "name": "Electric"
+    },
+    {
+      "$id": 121,
+      "style": 6,
+      "name": "Ice"
+    },
+    {
+      "$id": 122,
+      "style": 6,
+      "name": "Wind"
+    },
+    {
+      "$id": 123,
+      "style": 6,
+      "name": "Earth"
+    },
+    {
+      "$id": 124,
+      "style": 6,
+      "name": "Small"
+    },
+    {
+      "$id": 125,
+      "style": 6,
+      "name": "Large"
+    },
+    {
+      "$id": 126,
+      "style": 6,
+      "name": "Pretty"
+    },
+    {
+      "$id": 127,
+      "style": 6,
+      "name": "Gleaming"
+    },
+    {
+      "$id": 128,
+      "style": 6,
+      "name": "Ultimate"
+    },
+    {
+      "$id": 129,
+      "style": 4,
+      "name": "Crystal"
+    },
+    {
+      "$id": 130,
+      "style": 5,
+      "name": "Cylinder"
+    },
+    {
+      "$id": 131,
+      "style": 19,
+      "name": "Cylinder with a refined effect"
+    },
+    {
+      "$id": 132,
+      "style": 19,
+      "name": "Crystal dropped by a monster"
+    },
+    {
+      "$id": 133,
+      "style": 19,
+      "name": "Cylinder of condensed ether"
+    },
+    {
+      "$id": 134,
+      "style": 115,
+      "name": "You cannot select any more."
+    },
+    {
+      "$id": 135,
+      "style": 5,
+      "name": "Slot(s)"
+    },
+    {
+      "$id": 136,
+      "style": 11,
+      "name": "Max. Attack"
+    },
+    {
+      "$id": 137,
+      "style": 11,
+      "name": "Min. Attack"
+    },
+    {
+      "$id": 138,
+      "style": 5,
+      "name": "Purchase Price"
+    },
+    {
+      "$id": 139,
+      "style": 5,
+      "name": "Trade Price"
+    },
+    {
+      "$id": 140,
+      "style": 5,
+      "name": "Money:[ML:space ]"
+    },
+    {
+      "$id": 141,
+      "style": 5,
+      "name": "Owned"
+    },
+    {
+      "$id": 142,
+      "style": 11,
+      "name": "Auto-attack Min."
+    },
+    {
+      "$id": 143,
+      "style": 11,
+      "name": "Auto-attack Max."
+    },
+    {
+      "$id": 144,
+      "style": 0,
+      "name": "/"
+    },
+    {
+      "$id": 145,
+      "style": 5,
+      "name": "Effect Value"
+    },
+    {
+      "$id": 146,
+      "style": 5,
+      "name": "Likes"
+    },
+    {
+      "$id": 147,
+      "style": 5,
+      "name": "Learnt?"
+    },
+    {
+      "$id": 148,
+      "style": 5,
+      "name": "Item Name"
+    },
+    {
+      "$id": 149,
+      "style": 11,
+      "name": "Equipment"
+    },
+    {
+      "$id": 150,
+      "style": 11,
+      "name": "Gems"
+    },
+    {
+      "$id": 151,
+      "style": 11,
+      "name": "Appearance"
+    },
+    {
+      "$id": 152,
+      "style": 11,
+      "name": "--------"
+    },
+    {
+      "$id": 153,
+      "style": 18,
+      "name": "Event Name"
+    },
+    {
+      "$id": 154,
+      "style": 10,
+      "name": "Participants"
+    },
+    {
+      "$id": 155,
+      "style": 15,
+      "name": "Target Map"
+    },
+    {
+      "$id": 156,
+      "style": 5,
+      "name": "Item Count"
+    },
+    {
+      "$id": 157,
+      "style": 11,
+      "name": "Owned/Max."
+    },
+    {
+      "$id": 158,
+      "style": 9,
+      "name": "Wanted Item"
+    },
+    {
+      "$id": 159,
+      "style": 9,
+      "name": "Item to Give"
+    },
+    {
+      "$id": 160,
+      "style": 9,
+      "name": "Barter"
+    },
+    {
+      "$id": 161,
+      "style": 9,
+      "name": "Trade"
+    },
+    {
+      "$id": 162,
+      "style": 9,
+      "name": "Cancel"
+    },
+    {
+      "$id": 163,
+      "style": 49,
+      "name": "No items to display.[XENO:n ]\n(Check display categories.)"
+    },
+    {
+      "$id": 164,
+      "style": 14,
+      "name": "Confirm"
+    },
+    {
+      "$id": 165,
+      "style": 19,
+      "name": "Discard these items?"
+    },
+    {
+      "$id": 166,
+      "style": 9,
+      "name": "Yes"
+    },
+    {
+      "$id": 167,
+      "style": 9,
+      "name": "No"
+    },
+    {
+      "$id": 168,
+      "style": 9,
+      "name": "See Gem Effects"
+    },
+    {
+      "$id": 169,
+      "style": 3,
+      "name": "On"
+    },
+    {
+      "$id": 170,
+      "style": 3,
+      "name": "Off"
+    },
+    {
+      "$id": 171,
+      "style": 7,
+      "name": "Stat Details"
+    },
+    {
+      "$id": 172,
+      "style": 7,
+      "name": "Item Details"
+    },
+    {
+      "$id": 173,
+      "style": 7,
+      "name": "Out of stock"
+    },
+    {
+      "$id": 174,
+      "style": 13,
+      "name": "Remove selected item"
+    },
+    {
+      "$id": 175,
+      "style": 13,
+      "name": "Remove all armour"
+    },
+    {
+      "$id": 176,
+      "style": 13,
+      "name": "Remove all gems"
+    },
+    {
+      "$id": 177,
+      "style": 13,
+      "name": "Remove weapon gems"
+    },
+    {
+      "$id": 178,
+      "style": 13,
+      "name": "Remove armour gems"
+    },
+    {
+      "$id": 179,
+      "style": 13,
+      "name": "Clear appearance"
+    },
+    {
+      "$id": 180,
+      "style": 13,
+      "name": "Swap gear and gems"
+    },
+    {
+      "$id": 181,
+      "style": 15,
+      "name": "Submenu"
+    },
+    {
+      "$id": 182,
+      "style": 15,
+      "name": "Current Equipment"
+    },
+    {
+      "$id": 183,
+      "style": 117,
+      "name": "You can't discard this because\nit's currently equipped."
+    },
+    {
+      "$id": 184,
+      "style": 117,
+      "name": "You can't discard this because\nit's set as a favourite."
+    },
+    {
+      "$id": 185,
+      "style": 117,
+      "name": "You can't discard this item."
+    },
+    {
+      "$id": 186,
+      "style": 9,
+      "name": "Compare"
+    },
+    {
+      "$id": 187,
+      "style": 13,
+      "name": "Remove equipped item"
+    }
+  ]
+}

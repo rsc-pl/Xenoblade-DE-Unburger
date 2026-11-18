@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Look-mo, a treasure chest-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "A treasure chest whose beauty[XENO:n ]\nrivals Tsukuku's pretty face-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Give me a moment and I'll open it-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "You still can't open it-mo?[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Wait a little longer-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Still, it's a bit anticlimactic that the[XENO:n ]\nmonster guarding the treasure mentioned[XENO:n ]\nin the memo isn't here-mo...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Mo-mo-mo-mo-mo-mo?![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "What's wrong, Shiishii-mo? You look[XENO:n ]\nlike a monster just appeared-mo...[XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:type type=anger ]It did-mo!![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:type type=anger ]It really did appear-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:type type=anger ]You guys, defeat that monster-mo! We[XENO:n ]\ncan't open the treasure chest with[XENO:n ]\nthat thing around-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+    }
+  ]
+}

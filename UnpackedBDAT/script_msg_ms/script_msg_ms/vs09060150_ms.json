@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Reyn. The Emperor's request was clear.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Rein. The Emperor's request was clear.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -68,22 +68,22 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Dundun right! Riki and friends visit Melly now![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]That's it! Riki will go see Melia-chan-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Hey! The adults are talking, pops![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Old man! Where did that come from?![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Riki want to see Melly.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Riki hasn't seen Melia-chan for a while-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 15,
       "style": 125,
-      "name": "Riki think Melly sad too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Melia-chan must be lonely without Riki too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Riki say yes![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]That's right-mo! Let's go-mo![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

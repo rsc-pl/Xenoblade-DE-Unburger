@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "Where's Dunban?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Where's Dunban-san?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]He's gone! I can't find him anywhere.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]My older brother's gone! I can't find him anywhere.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn! Let's get to the lab![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rein! Let's get to the lab![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 8,

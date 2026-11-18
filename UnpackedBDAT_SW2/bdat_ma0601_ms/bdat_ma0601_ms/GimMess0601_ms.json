@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Giants' Treasure Chest"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Tablet Seal"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "The engraved writing is worn and illegible."
+    },
+    {
+      "$id": 4,
+      "style": 16,
+      "name": "Ancient Door (Temporary)"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It appears to be sealed."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Agni's Coffin"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "It is too heavy to open."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Crude Wooden Fence"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "It is held in place with a bolt."
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "You must find some highly pure water crystals."
+    }
+  ]
+}

@@ -1,0 +1,1724 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Starting a Battle 1"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Starting a Battle 2"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Starting a Battle 3"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Using Arts 1"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Battle Information"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Using Arts 2"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Using Arts 3"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Talent Arts"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Treasure Chests"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Battle Lock"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Aggro and Positioning"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Your Destination"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Saving the Game"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "TIPS"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Shops"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Quests and Barter"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Changing Targets and Orders"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Camera Controls"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Story Quests"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Story Quests 2"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Bonding Talk"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Arts Settings"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Character Skills"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Party Gauge"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Changing the Party Leader"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Monster Types 1"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Hint: Luring Monsters"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Buffs and Debuffs"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Fighting Machine God Soldiers"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Escaping from Monsters"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Future Sight"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Communicating with Allies"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Gem Crafting"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Battle Strategy: Shulk"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Battle Strategy: Rein"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Hint: Quests"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Party Formation"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Camera Control Tips"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Battle Strategy: Fiorung"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Bonding Talk Tips"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Arts Settings Tips"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Character Skills Tips"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Chain Attacks"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Using the Monado"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Hint: Bonding Input"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Hint: Equipment"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Hint: Changing the Future"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Monster Types 2"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Climbing Walls"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Skill Links"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Monster Types 3"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Battle Strategy: Carna"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Fighting Faces"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Battle Strategy: Dunban"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Battle Strategy: Melia"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Battle Strategy: Riki"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Battle Strategy: Fiorung 2"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Bonding Chart"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Bonding Chart Tips"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Collection Items"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Item Future Sight"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Selling Items"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Bonding Talk List"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Unique Monsters"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Landmarks"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Story Memo"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "How to Barter"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Swapping Arts"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "How to Craft Gems"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Skill Link Tips"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Rebuilding Colony 6"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Fighting Solo as Melia"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "Gem Slots"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Incapacitation 2"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "A New Monado"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Gathering Crystals"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Levelling Up Monado Arts"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "How to Rebuild Colony 6"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "Hint: Recruiting Residents"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "Hint: Interfering Monsters"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "Hint: Gem Crafting 1"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "Chain Attack Effects"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "Buying Items"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "Carryover Play"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "Hint: Break, Topple and Daze"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "Incapacitation 1"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "Battle Strategy: Shulk 2"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "Hint: Monster Strength"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "Hint: Gem Crafting 2"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "Special Monsters"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "Monado Arts: Shield"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "Monado Arts: Breaker"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "Controls"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "Quest Tips"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "Menu Tips"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "Equipment Change Tips"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "Gift Tips"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "Advanced Settings"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "Gem Crafting Tips"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "Buff Tips"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Debuff Tips"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Event Theatre"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Time Attack 1"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Time Attack 2"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Time Attack 3"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Time Attack 4"
+    },
+    {
+      "$id": 109,
+      "style": 15,
+      "name": "Casual Mode"
+    },
+    {
+      "$id": 110,
+      "style": 15,
+      "name": "Advanced Settings Tips"
+    },
+    {
+      "$id": 111,
+      "style": 15,
+      "name": "New Content: Ether Jet"
+    },
+    {
+      "$id": 112,
+      "style": 15,
+      "name": "How to Control the Ether Jet"
+    },
+    {
+      "$id": 113,
+      "style": 15,
+      "name": "How to Start Nopon Grand Prix"
+    },
+    {
+      "$id": 114,
+      "style": 15,
+      "name": "How to Play Score Attack"
+    },
+    {
+      "$id": 115,
+      "style": 15,
+      "name": "How to Play Battle Race"
+    },
+    {
+      "$id": 116,
+      "style": 15,
+      "name": "Nopon Grand Prix Rewards"
+    },
+    {
+      "$id": 117,
+      "style": 15,
+      "name": "Characters and Performance"
+    },
+    {
+      "$id": 118,
+      "style": 15,
+      "name": "Nopon Grand Prix: New Course 1"
+    },
+    {
+      "$id": 119,
+      "style": 15,
+      "name": "Nopon Grand Prix: New Course 2"
+    },
+    {
+      "$id": 120,
+      "style": 15,
+      "name": "Nopon Grand Prix: New Course 3"
+    },
+    {
+      "$id": 121,
+      "style": 15,
+      "name": "Nopon Grand Prix: New Course 4"
+    },
+    {
+      "$id": 122,
+      "style": 29,
+      "name": "Clear a new quest to obtain the Ether Jet!"
+    },
+    {
+      "$id": 123,
+      "style": 109,
+      "name": "A [System:Color name=arts_sp ]new character[/System:Color] has appeared at Evac Ship Camp on the Giant God's Leg."
+    },
+    {
+      "$id": 124,
+      "style": 109,
+      "name": "Talk to her and accept the [System:Color name=arts_sp ]new quest[/System:Color]."
+    },
+    {
+      "$id": 125,
+      "style": 109,
+      "name": "Clear the quest and you will surely receive a [System:Color name=arts_sp ]wonderful\npresent[/System:Color]."
+    },
+    {
+      "$id": 126,
+      "style": 29,
+      "name": "Field Controls (Control Type 1)"
+    },
+    {
+      "$id": 127,
+      "style": 29,
+      "name": "Field Controls (Control Type 2)"
+    },
+    {
+      "$id": 128,
+      "style": 12,
+      "name": "Brake/Reverse"
+    },
+    {
+      "$id": 129,
+      "style": 12,
+      "name": "Turn"
+    },
+    {
+      "$id": 130,
+      "style": 12,
+      "name": "Toggle Minimap"
+    },
+    {
+      "$id": 131,
+      "style": 12,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 132,
+      "style": 12,
+      "name": "Mount/Dismount"
+    },
+    {
+      "$id": 133,
+      "style": 12,
+      "name": "Target Enemy"
+    },
+    {
+      "$id": 134,
+      "style": 12,
+      "name": "Navigate"
+    },
+    {
+      "$id": 135,
+      "style": 12,
+      "name": "System Menu"
+    },
+    {
+      "$id": 136,
+      "style": 12,
+      "name": "Boost"
+    },
+    {
+      "$id": 137,
+      "style": 12,
+      "name": "Accelerate"
+    },
+    {
+      "$id": 138,
+      "style": 12,
+      "name": "Main Menu"
+    },
+    {
+      "$id": 139,
+      "style": 12,
+      "name": "Area Map"
+    },
+    {
+      "$id": 140,
+      "style": 12,
+      "name": "Move Camera"
+    },
+    {
+      "$id": 141,
+      "style": 49,
+      "name": "※Drift: While turning above a certain speed,\nrelease the accelerator to improve turning performance."
+    },
+    {
+      "$id": 142,
+      "style": 29,
+      "name": "Watch out for forced dismounts caused by monster attacks!"
+    },
+    {
+      "$id": 143,
+      "style": 109,
+      "name": "Just as when traveling on foot, monsters may [System:Color name=arts_sp ]target and\nattack[/System:Color] you while you are riding the Ether Jet."
+    },
+    {
+      "$id": 144,
+      "style": 109,
+      "name": "If a monster attacks you or inflicts a debuff, you will be [System:Color name=arts_sp ]forcibly\ndismounted from the Ether Jet[/System:Color]."
+    },
+    {
+      "$id": 145,
+      "style": 109,
+      "name": "You cannot ride the Ether Jet while [System:Color name=arts_sp ]being targeted by a monster[/System:Color],\nso be careful."
+    },
+    {
+      "$id": 146,
+      "style": 29,
+      "name": "The Ether Jet can also be used in “Future Connected”!"
+    },
+    {
+      "$id": 147,
+      "style": 109,
+      "name": "After obtaining the Ether Jet in the main game,\nit will also become [System:Color name=arts_sp ]usable in “Future Connected”[/System:Color]."
+    },
+    {
+      "$id": 148,
+      "style": 109,
+      "name": "As in the main game, press [ML:icon icon=btn_zl ]＋[ML:icon icon=btn_zr ] in the field\nto mount or dismount."
+    },
+    {
+      "$id": 149,
+      "style": 29,
+      "name": "Controls During Score Attack/Battle Race (Control Type 1)"
+    },
+    {
+      "$id": 150,
+      "style": 29,
+      "name": "Controls During Score Attack/Battle Race (Control Type 2)"
+    },
+    {
+      "$id": 151,
+      "style": 12,
+      "name": "Brake/Reverse"
+    },
+    {
+      "$id": 152,
+      "style": 12,
+      "name": "Recover (Hold)"
+    },
+    {
+      "$id": 153,
+      "style": 12,
+      "name": "Turn"
+    },
+    {
+      "$id": 154,
+      "style": 12,
+      "name": "Pause Menu"
+    },
+    {
+      "$id": 155,
+      "style": 12,
+      "name": "Boost"
+    },
+    {
+      "$id": 156,
+      "style": 12,
+      "name": "Accelerate"
+    },
+    {
+      "$id": 157,
+      "style": 12,
+      "name": "Move Camera"
+    },
+    {
+      "$id": 158,
+      "style": 59,
+      "name": "※Drift: While turning above a certain speed,\nrelease the accelerator to improve turning performance."
+    },
+    {
+      "$id": 159,
+      "style": 29,
+      "name": "Take on the Nopon Grand Prix from the Main Menu!"
+    },
+    {
+      "$id": 160,
+      "style": 109,
+      "name": "[System:Color name=arts_sp ]Nopon Grand Prix[/System:Color] is now available.\n(It may be unavailable at certain points\ndepending on story progress.)"
+    },
+    {
+      "$id": 161,
+      "style": 109,
+      "name": "Open the [System:Color name=arts_sp ]Main Menu[/System:Color] and press [ML:icon icon=btn_y ] to enter.\n(You can also enter through the Nopon Assistant\nnear Raguel Bridge on the Giant God's Leg.)"
+    },
+    {
+      "$id": 162,
+      "style": 109,
+      "name": "There are [System:Color name=arts_sp ]Score Attack[/System:Color] and [System:Color name=arts_sp ]Battle Race[/System:Color] events.\nEarn excellent results in each to receive\n[System:Color name=arts_sp ]wonderful prizes[/System:Color]."
+    },
+    {
+      "$id": 163,
+      "style": 29,
+      "name": "Earn good results in the Nopon Grand Prix to obtain new equipment."
+    },
+    {
+      "$id": 164,
+      "style": 109,
+      "name": "Fulfill the various [System:Color name=arts_sp ]reward requirements[/System:Color] set for each course\nto obtain [System:Color name=arts_sp ]new equipment exclusive to each\ncharacter[/System:Color]."
+    },
+    {
+      "$id": 165,
+      "style": 109,
+      "name": "When your entire outfit uses [System:Color name=arts_sp ]the same series[/System:Color] of [System:Color name=arts_sp ]new equipment[/System:Color],\na special effect increases [System:Color name=arts_sp ]acceleration speed[/System:Color] and [System:Color name=arts_sp ]boost speed[/System:Color].\n[System:Color name=red_ex ]※This also applies in “Future Connected.”[/System:Color]"
+    },
+    {
+      "$id": 166,
+      "style": 29,
+      "name": "Basic Rules of Score Attack"
+    },
+    {
+      "$id": 167,
+      "style": 109,
+      "name": "In Score Attack, earn as much [System:Color name=arts_sp ]score[/System:Color] as possible\n[System:Color name=arts_sp ]within the time limit[/System:Color] while making your way to the GOAL."
+    },
+    {
+      "$id": 168,
+      "style": 109,
+      "name": "Touch the [System:Color name=arts_sp ]Ether Ore[/System:Color] scattered around the course\nto destroy it and add to your score."
+    },
+    {
+      "$id": 169,
+      "style": 109,
+      "name": "You must pass through every [System:Color name=arts_sp ]checkpoint[/System:Color] marked [System:Color name=arts_sp ]NEXT[/System:Color]\n[System:Color name=arts_sp ]in the correct order[/System:Color].\n(The time limit is extended slightly when you pass one.)"
+    },
+    {
+      "$id": 170,
+      "style": 29,
+      "name": "Reading the Score Attack Screen"
+    },
+    {
+      "$id": 171,
+      "style": 109,
+      "name": "Time Limit:\nScore Attack ends when the count reaches\n[System:Color name=arts_sp ]00:00.00[/System:Color]."
+    },
+    {
+      "$id": 172,
+      "style": 109,
+      "name": "Score:\nYour current [System:Color name=arts_sp ]total score[/System:Color]."
+    },
+    {
+      "$id": 173,
+      "style": 109,
+      "name": "Color Bonus:\nMatch three Ether Ore colors to trigger a Color Bonus\nand [System:Color name=arts_sp ]increase your score[/System:Color]."
+    },
+    {
+      "$id": 174,
+      "style": 29,
+      "name": "Aim for a high score with Color Bonus Chains!"
+    },
+    {
+      "$id": 175,
+      "style": 109,
+      "name": "Trigger Color Bonuses consecutively to start a\n[System:Color name=arts_sp ]Color Bonus Chain[/System:Color] and aim for an even higher score."
+    },
+    {
+      "$id": 176,
+      "style": 109,
+      "name": "Fail to trigger a Color Bonus even once and\nthe [System:Color name=arts_sp ]chain will reset[/System:Color], so be careful."
+    },
+    {
+      "$id": 177,
+      "style": 29,
+      "name": "Learn to judge the size of Ether Ore!"
+    },
+    {
+      "$id": 178,
+      "style": 109,
+      "name": "There are two types of Ether Ore, [System:Color name=arts_sp ]Small[/System:Color] and [System:Color name=arts_sp ]Large[/System:Color],\nand each behaves differently."
+    },
+    {
+      "$id": 179,
+      "style": 109,
+      "name": "[System:Color name=arts_sp ]Small Ether Ore[/System:Color] gives only a small amount of score\nand does not reappear once destroyed."
+    },
+    {
+      "$id": 180,
+      "style": 109,
+      "name": "[System:Color name=arts_sp ]Large Ether Ore[/System:Color] gives [System:Color name=arts_sp ]more score[/System:Color] than Small Ether Ore\nand [System:Color name=arts_sp ]reappears almost immediately after being destroyed[/System:Color]."
+    },
+    {
+      "$id": 181,
+      "style": 29,
+      "name": "Raise your score even further with Large Ether Ore near the GOAL!"
+    },
+    {
+      "$id": 182,
+      "style": 109,
+      "name": "In Score Attack, Large Ether Ore appears\n[System:Color name=arts_sp ]near the GOAL[/System:Color]."
+    },
+    {
+      "$id": 183,
+      "style": 109,
+      "name": "Reach the area near the GOAL as quickly as possible, then\n[System:Color name=arts_sp ]keep destroying Large Ether Ore until\nthe time limit runs out[/System:Color]. This is the quickest route to a higher score."
+    },
+    {
+      "$id": 184,
+      "style": 29,
+      "name": "Basic Rules of Battle Race"
+    },
+    {
+      "$id": 185,
+      "style": 109,
+      "name": "In Battle Race, up to seven characters compete to see\nwho can [System:Color name=arts_sp ]reach the GOAL fastest[/System:Color]."
+    },
+    {
+      "$id": 186,
+      "style": 109,
+      "name": "[System:Color name=arts_sp ]Ether Ore[/System:Color] is also placed throughout Battle Race courses.\nTouch and destroy it to earn [System:Color name=arts_sp ]score[/System:Color]\nand [System:Color name=arts_sp ]Color Bonuses[/System:Color]."
+    },
+    {
+      "$id": 187,
+      "style": 109,
+      "name": "You must pass through every [System:Color name=arts_sp ]checkpoint[/System:Color] marked [System:Color name=arts_sp ]NEXT[/System:Color]\n[System:Color name=arts_sp ]in the correct order[/System:Color]."
+    },
+    {
+      "$id": 188,
+      "style": 29,
+      "name": "Reading the Battle Race Screen"
+    },
+    {
+      "$id": 189,
+      "style": 109,
+      "name": "Elapsed Time:\nThe [System:Color name=arts_sp ]time elapsed[/System:Color] since the race started."
+    },
+    {
+      "$id": 190,
+      "style": 109,
+      "name": "Score:\nYour current [System:Color name=arts_sp ]total score[/System:Color]."
+    },
+    {
+      "$id": 191,
+      "style": 109,
+      "name": "Position and Time Gap:\nThe number to the left of the icon is your [System:Color name=arts_sp ]position[/System:Color],\nand the number to the right is your\n[System:Color name=arts_sp ]time gap from the character in first place[/System:Color]."
+    },
+    {
+      "$id": 192,
+      "style": 29,
+      "name": "Destroy Ether Ore to keep your boost gauge filled!"
+    },
+    {
+      "$id": 193,
+      "style": 109,
+      "name": "Boost Gauge Recovery:\nDestroying Large Ether Ore restores the boost gauge by\n[System:Color name=arts_sp ]30%[/System:Color]."
+    },
+    {
+      "$id": 194,
+      "style": 109,
+      "name": "Boost Bonus:\nTriggering a Color Bonus not only [System:Color name=arts_sp ]increases your score[/System:Color],\nit also [System:Color name=arts_sp ]fully restores the boost gauge and makes it\nunlimited for five seconds[/System:Color]."
+    },
+    {
+      "$id": 195,
+      "style": 29,
+      "name": "Gain an edge by choosing your route!"
+    },
+    {
+      "$id": 196,
+      "style": 109,
+      "name": "In Battle Race, the [System:Color name=arts_sp ]route is up to you[/System:Color]\nuntil you reach each checkpoint."
+    },
+    {
+      "$id": 197,
+      "style": 109,
+      "name": "Jump off cliffs to aim for shortcuts, search for routes\nthat let you destroy Ether Ore efficiently, and find\n[System:Color name=arts_sp ]your own route[/System:Color]."
+    },
+    {
+      "$id": 198,
+      "style": 29,
+      "name": "Fulfill each course's reward requirements to earn rewards!"
+    },
+    {
+      "$id": 199,
+      "style": 109,
+      "name": "[System:Color name=arts_sp ]Every course[/System:Color] in Score Attack and Battle Race\nhas [System:Color name=arts_sp ]reward requirements[/System:Color] and [System:Color name=arts_sp ]rewards[/System:Color]."
+    },
+    {
+      "$id": 200,
+      "style": 109,
+      "name": "The first time you fulfill a reward requirement, you receive\na [System:Color name=arts_sp ]first-time bonus reward[/System:Color]. From then on, you receive\nthe [System:Color name=arts_sp ]base reward[/System:Color]."
+    },
+    {
+      "$id": 201,
+      "style": 29,
+      "name": "Choose a character with the performance you prefer!"
+    },
+    {
+      "$id": 202,
+      "style": 109,
+      "name": "In Nopon Grand Prix, the main characters from the main game\ncan be selected as [System:Color name=arts_sp ]playable characters[/System:Color]."
+    },
+    {
+      "$id": 203,
+      "style": 109,
+      "name": "Each playable character has different characteristics\nand [System:Color name=arts_sp ]performance[/System:Color]."
+    },
+    {
+      "$id": 204,
+      "style": 109,
+      "name": "More playable characters become available as you progress\nthrough the [System:Color name=arts_sp ]main story[/System:Color]."
+    },
+    {
+      "$id": 205,
+      "style": 29,
+      "name": "Performance List"
+    },
+    {
+      "$id": 206,
+      "style": 11,
+      "name": "[System:Color name=arts_sp ]Speed[/System:Color]"
+    },
+    {
+      "$id": 207,
+      "style": 11,
+      "name": "[System:Color name=arts_sp ]Acceleration[/System:Color]"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "[System:Color name=arts_sp ]Boost Performance[/System:Color]"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "[System:Color name=arts_sp ]Turning Performance[/System:Color]"
+    },
+    {
+      "$id": 210,
+      "style": 11,
+      "name": "[System:Color name=arts_sp ]Weight[/System:Color]"
+    },
+    {
+      "$id": 211,
+      "style": 29,
+      "name": "Affects top speed."
+    },
+    {
+      "$id": 212,
+      "style": 29,
+      "name": "Affects acceleration."
+    },
+    {
+      "$id": 213,
+      "style": 29,
+      "name": "Affects boost-gauge recovery speed and consumption."
+    },
+    {
+      "$id": 214,
+      "style": 29,
+      "name": "Affects ease of turning and drifting."
+    },
+    {
+      "$id": 215,
+      "style": 29,
+      "name": "Affects how much you slow down when hitting monsters\nand your acceleration on slopes."
+    },
+    {
+      "$id": 216,
+      "style": 29,
+      "name": "New Courses Added: Makna Forest"
+    },
+    {
+      "$id": 217,
+      "style": 109,
+      "name": "The following [System:Color name=arts_sp ]new courses[/System:Color] set in Makna Forest have been added:\nScore Attack: [System:Color name=arts_sp ]Jungle Rumble\n[/System:Color]Battle Race: [System:Color name=arts_sp ]Midnight Forest[/System:Color]"
+    },
+    {
+      "$id": 218,
+      "style": 29,
+      "name": "New Courses Added: Imperial Capital Achamoth"
+    },
+    {
+      "$id": 219,
+      "style": 109,
+      "name": "The following [System:Color name=arts_sp ]new courses[/System:Color] set in Imperial Capital Achamoth have been added:\nScore Attack: [System:Color name=arts_sp ]Oval Achamoth[/System:Color]\nBattle Race: [System:Color name=arts_sp ]Dawn Achamoth[/System:Color]"
+    },
+    {
+      "$id": 220,
+      "style": 29,
+      "name": "New Courses Added: Valak Mountain"
+    },
+    {
+      "$id": 221,
+      "style": 109,
+      "name": "The following [System:Color name=arts_sp ]new courses[/System:Color] set on Valak Mountain have been added:\nScore Attack: [System:Color name=arts_sp ]Valak Slalom[/System:Color]\nBattle Race: [System:Color name=arts_sp ]Blizzard Enduro[/System:Color]"
+    },
+    {
+      "$id": 222,
+      "style": 29,
+      "name": "New Courses Added: Colony 9"
+    },
+    {
+      "$id": 223,
+      "style": 109,
+      "name": "The following [System:Color name=arts_sp ]new courses[/System:Color] set in Colony 9 have been added:\nScore Attack: [System:Color name=arts_sp ]Country Road\n[/System:Color]Battle Race: [System:Color name=arts_sp ]Excite Colony 9[/System:Color]"
+    },
+    {
+      "$id": 224,
+      "style": 109,
+      "name": "Once you fulfill the reward requirements for every course,\nthe special effect applies [System:Color name=arts_sp ]regardless of what armor you equip[/System:Color].\n[System:Color name=red_ex ]※This also applies in “Future Connected.”[/System:Color]"
+    },
+    {
+      "$id": 225,
+      "style": 15,
+      "name": "A New Adventure Begins"
+    },
+    {
+      "$id": 226,
+      "style": 29,
+      "name": "Differences in the Game Systems"
+    },
+    {
+      "$id": 227,
+      "style": 29,
+      "name": "About the Party Gauge"
+    },
+    {
+      "$id": 228,
+      "style": 29,
+      "name": "About Future Sight"
+    },
+    {
+      "$id": 229,
+      "style": 29,
+      "name": "Other Changes"
+    },
+    {
+      "$id": 230,
+      "style": 166,
+      "name": "This new adventure features [System:Color name=arts_sp ]major changes\nfrom your previous adventure.[/System:Color]\n\nThe following pages explain the most important ones."
+    },
+    {
+      "$id": 231,
+      "style": 166,
+      "name": "As you progress, you unlock [System:Color name=arts_sp ]a new special attack\nto use in place of Chain Attacks.[/System:Color]\n\nReviving an incapacitated ally costs one gauge segment."
+    },
+    {
+      "$id": 232,
+      "style": 166,
+      "name": "In this adventure, Shulk has already lost\n[System:Color name=arts_sp ]the power of Future Sight.[/System:Color]\n\nBe even more careful of monsters' powerful attacks."
+    },
+    {
+      "$id": 233,
+      "style": 166,
+      "name": "・Allies who fight [System:Color name=arts_sp ]in a different style[/System:Color]\n・Character Skills are disabled.\n\nThere are other changes too. Discover them as you play."
+    },
+    {
+      "$id": 234,
+      "style": 15,
+      "name": "Gather the Noponjaa"
+    },
+    {
+      "$id": 235,
+      "style": 29,
+      "name": "Special Attacks with the Noponjaa"
+    },
+    {
+      "$id": 236,
+      "style": 29,
+      "name": "Find the Noponjaa"
+    },
+    {
+      "$id": 237,
+      "style": 29,
+      "name": "Recruiting Noponjaa"
+    },
+    {
+      "$id": 238,
+      "style": 29,
+      "name": "Check Member Information"
+    },
+    {
+      "$id": 239,
+      "style": 166,
+      "name": "The Noponjaa are surveyors from Frontier Village, split into red,\nblue and yellow teams. [System:Color name=arts_sp ]Recruit members of all three colours[/System:Color]\nto let Shulk's party use [System:Color name=arts_sp ]new special attacks[/System:Color] with the Noponjaa.\nMake sure to recruit them!"
+    },
+    {
+      "$id": 240,
+      "style": 166,
+      "name": "There are [System:Color name=arts_sp ]12[/System:Color] Noponjaa members in all.\n\nRecruiting a member may reveal [System:Color name=arts_sp ]another member's whereabouts[/System:Color].\nKnown locations are marked on the map with [ML:icon icon=map01 ]."
+    },
+    {
+      "$id": 241,
+      "style": 166,
+      "name": "Noponjaa across the Giant God's Shoulder each seem to have\n[System:Color name=arts_sp ]a problem[/System:Color] of their own.\n\nSolve their problems and they'll join you on your adventure."
+    },
+    {
+      "$id": 242,
+      "style": 166,
+      "name": "Under Collection in the main menu, the \"[System:Color name=arts_sp ]Noponjaa Report[/System:Color]\"\nshows profiles of the Noponjaa you have recruited."
+    },
+    {
+      "$id": 243,
+      "style": 15,
+      "name": "Noponjaa in Battle"
+    },
+    {
+      "$id": 244,
+      "style": 29,
+      "name": "Noponjaa Assistance"
+    },
+    {
+      "$id": 245,
+      "style": 29,
+      "name": "High Noponjaa Tension 1"
+    },
+    {
+      "$id": 246,
+      "style": 29,
+      "name": "High Noponjaa Tension 2"
+    },
+    {
+      "$id": 247,
+      "style": 166,
+      "name": "Noponjaa assist Shulk's party in battle as they please.\n\nEach has a [System:Color name=arts_sp ]Speciality[/System:Color], such as restoring the party's HP\nor inflicting debuffs on monsters."
+    },
+    {
+      "$id": 248,
+      "style": 166,
+      "name": "Press [ML:icon icon=btn_b ] at the right time during Battle Start Bonding or\nBurst Bonding to potentially raise Noponjaa to [System:Color name=arts_sp ]High Tension[/System:Color]."
+    },
+    {
+      "$id": 249,
+      "style": 166,
+      "name": "Members with [System:Color name=arts_sp ]High Tension[/System:Color] fight hard without slacking off.\n\nAfter a while, their Tension returns to normal."
+    },
+    {
+      "$id": 250,
+      "style": 15,
+      "name": "Noponjaa Teams"
+    },
+    {
+      "$id": 251,
+      "style": 29,
+      "name": "Noponjaa Teams and Their Hidden Power"
+    },
+    {
+      "$id": 252,
+      "style": 29,
+      "name": "Each Team's Specialities"
+    },
+    {
+      "$id": 253,
+      "style": 166,
+      "name": "The Noponjaa have three teams: [System:Color name=arts_sp ]Red Team[/System:Color], [System:Color name=arts_sp ]Blue Team[/System:Color], [System:Color name=arts_sp ]Yellow Team[/System:Color].\n\nIf members of all three colours meet in one place,\nrumour has it [System:Color name=arts_sp ]the Noponjaa's hidden power[/System:Color] will be unleashed..."
+    },
+    {
+      "$id": 254,
+      "style": 166,
+      "name": "Red Team has [System:Color name=arts_sp ]offensive[/System:Color] Specialities.\nBlue Team has [System:Color name=arts_sp ]healing[/System:Color] Specialities, with some unusual members.\nYellow Team has [System:Color name=arts_sp ]debuff[/System:Color] Specialities."
+    },
+    {
+      "$id": 255,
+      "style": 15,
+      "name": "Noponjaa Team Specials"
+    },
+    {
+      "$id": 256,
+      "style": 29,
+      "name": "What Are Team Specials?"
+    },
+    {
+      "$id": 257,
+      "style": 29,
+      "name": "Additional Team Special Effects"
+    },
+    {
+      "$id": 258,
+      "style": 29,
+      "name": "Boosting Team Special Power"
+    },
+    {
+      "$id": 259,
+      "style": 29,
+      "name": "Extra Chance 1"
+    },
+    {
+      "$id": 260,
+      "style": 29,
+      "name": "Extra Chance 2"
+    },
+    {
+      "$id": 261,
+      "style": 166,
+      "name": "Recruiting Noponjaa from all three teams unlocks [System:Color name=arts_sp ]Team Specials[/System:Color].\n\nThey cost three Party Gauge segments, damage monsters in a\nwide area, and trigger a [System:Color name=arts_sp ]special additional effect[/System:Color]."
+    },
+    {
+      "$id": 262,
+      "style": 166,
+      "name": "Choose one of three additional effects when using a Team Special:\nRed Meteoroid: [System:Color name=arts_sp ]Heavy damage[/System:Color] to one monster.\nBlue Comfort: All allies gain [System:Color name=arts_sp ]HP recovery[/System:Color], [System:Color name=arts_sp ]Regenerate[/System:Color] [ML:icon icon=enh06 ], [System:Color name=arts_sp ]Debuff Immunity[/System:Color] [ML:icon icon=enh14 ].\nYellow Runaway: [System:Color name=arts_sp ]Force Daze[/System:Color] [ML:icon icon=enh39 ] and [System:Color name=arts_sp ]Strength Down[/System:Color] [ML:icon icon=enh27 ] in a wide area."
+    },
+    {
+      "$id": 263,
+      "style": 166,
+      "name": "After recruiting a certain number of Noponjaa,\n[System:Color name=arts_sp ]Team Specials become more powerful.[/System:Color]"
+    },
+    {
+      "$id": 264,
+      "style": 166,
+      "name": "If all three allies can act freely when using a Team Special,\nthere's a small chance of an [System:Color name=arts_sp ]Extra Chance[/System:Color]. This lets you\n[System:Color name=arts_sp ]use another Team Special[/System:Color] without spending the Party Gauge.\n(You cannot choose the same additional effect as before.)"
+    },
+    {
+      "$id": 265,
+      "style": 166,
+      "name": "Extra Chance is more likely [System:Color name=arts_sp ]the more Noponjaa are at High Tension[/System:Color].\n\nAfter a Team Special, Shulk's party gains Tension,\nbut Noponjaa at High Tension return to normal."
+    },
+    {
+      "$id": 266,
+      "style": 15,
+      "name": "Fogbeasts"
+    },
+    {
+      "$id": 267,
+      "style": 29,
+      "name": "Fogbeast Surges"
+    },
+    {
+      "$id": 268,
+      "style": 29,
+      "name": "Rioting Monsters"
+    },
+    {
+      "$id": 269,
+      "style": 166,
+      "name": "Fogbeasts are stronger versions of ordinary monsters.\nThey also periodically emit [System:Color name=arts_sp ]riot surges[/System:Color] that draw in nearby monsters."
+    },
+    {
+      "$id": 270,
+      "style": 166,
+      "name": "A riot surge forces affected monsters to attack Shulk's party.\n\nThey also gain the [System:Color name=arts_sp ]Riot[/System:Color] aura [ML:icon icon=enh35 ],\nwhich [System:Color name=arts_sp ]raises their level based on the Fogbeast's strength.[/System:Color]"
+    },
+    {
+      "$id": 271,
+      "style": 15,
+      "name": "Hint: Countering Fogbeasts 1"
+    },
+    {
+      "$id": 272,
+      "style": 29,
+      "name": "Riot Aura Effects"
+    },
+    {
+      "$id": 273,
+      "style": 29,
+      "name": "Removing Auras with Arts"
+    },
+    {
+      "$id": 274,
+      "style": 29,
+      "name": "Removing Auras with Daze"
+    },
+    {
+      "$id": 275,
+      "style": 166,
+      "name": "The [System:Color name=arts_sp ]Riot[/System:Color] aura [ML:icon icon=enh35 ] granted to monsters by Fogbeasts\ncan be removed like any other aura [ML:icon icon=enh35 ].\n\nRemove the Riot aura's [ML:icon icon=enh35 ] level boost to get out of trouble."
+    },
+    {
+      "$id": 276,
+      "style": 166,
+      "name": "Shulk's [System:Color name=arts_sp ]Monado Breaker[/System:Color] and Melia's [System:Color name=arts_sp ]Mind Blast[/System:Color] remove\nmonster auras [ML:icon icon=enh35 ], making them highly effective counters."
+    },
+    {
+      "$id": 277,
+      "style": 166,
+      "name": "Inflicting [System:Color name=arts_sp ]Daze[/System:Color][ML:icon icon=enh39 ] on a monster also removes its aura [ML:icon icon=enh35 ]."
+    },
+    {
+      "$id": 278,
+      "style": 15,
+      "name": "Hint: Countering Fogbeasts 2"
+    },
+    {
+      "$id": 279,
+      "style": 29,
+      "name": "Removing Auras with Team Specials"
+    },
+    {
+      "$id": 280,
+      "style": 166,
+      "name": "If many monsters gain the Riot aura [ML:icon icon=enh35 ],\nthe Team Special [System:Color name=arts_sp ]Yellow Runaway[/System:Color] is especially effective.\n\nIt forces Daze [ML:icon icon=enh39 ] on monsters in a wide area, removing auras [ML:icon icon=enh35 ]."
+    },
+    {
+      "$id": 281,
+      "style": 15,
+      "name": "Arts Manual Shop"
+    },
+    {
+      "$id": 282,
+      "style": 29,
+      "name": "The Arts Manual Shop Is Open!"
+    },
+    {
+      "$id": 283,
+      "style": 29,
+      "name": "Obtaining Arts Coins"
+    },
+    {
+      "$id": 284,
+      "style": 29,
+      "name": "What About Previous Arts Coins?"
+    },
+    {
+      "$id": 285,
+      "style": 166,
+      "name": "At the Arts Manual Shop, exchange [System:Color name=arts_sp ]Arts Coins[/System:Color] for\nAdvanced Arts Manuals of your choice."
+    },
+    {
+      "$id": 286,
+      "style": 166,
+      "name": "[System:Color name=arts_sp ]Defeating Unique Monsters or Fogbeasts[/System:Color] may earn Arts Coins.\n(You always obtain one the first time you defeat a monster.)"
+    },
+    {
+      "$id": 287,
+      "style": 166,
+      "name": "For Unique Monsters and Fogbeasts defeated before opening,\n[System:Color name=arts_sp ]their Arts Coins are already yours.[/System:Color]\n\nCheck your coin total at the Arts Manual Shop."
+    },
+    {
+      "$id": 288,
+      "style": 15,
+      "name": "Companion Talk"
+    },
+    {
+      "$id": 289,
+      "style": 29,
+      "name": "Deepen Bonds with Companion Talks"
+    },
+    {
+      "$id": 290,
+      "style": 29,
+      "name": "Checking the Companion Talks List"
+    },
+    {
+      "$id": 291,
+      "style": 166,
+      "name": "Examine [ML:icon icon=map02 ] to watch a [System:Color name=arts_sp ]Companion Talk[/System:Color].\n\nIf you haven't met the conditions for viewing it,\ncome back once you've met them."
+    },
+    {
+      "$id": 292,
+      "style": 166,
+      "name": "Once examined, a Companion Talk is added to \"[System:Color name=arts_sp ]Companion Talks[/System:Color]\"\nunder Collection in the main menu.\n\nUse it to check the conditions for each Talk."
+    },
+    {
+      "$id": 293,
+      "style": 15,
+      "name": "Ether Deposits"
+    },
+    {
+      "$id": 294,
+      "style": 29,
+      "name": "Getting Gems from Ether Deposits"
+    },
+    {
+      "$id": 295,
+      "style": 29,
+      "name": "Upgrading the Ether Pick"
+    },
+    {
+      "$id": 296,
+      "style": 166,
+      "name": "On the Giant God's Shoulder, the [System:Color name=arts_sp ]Ether Pick[/System:Color] lets you\nmine [System:Color name=arts_sp ]gems directly instead of crystals[/System:Color] from ether deposits.\n\nIf you exhaust a deposit, come back after a while."
+    },
+    {
+      "$id": 297,
+      "style": 166,
+      "name": "As the story progresses, you may obtain\n[System:Color name=arts_sp ]a more powerful Ether Pick[/System:Color].\n\nA better Ether Pick lets you mine higher-rank gems."
+    },
+    {
+      "$id": 298,
+      "style": 15,
+      "name": "Congratulations on Clearing the Game!"
+    },
+    {
+      "$id": 299,
+      "style": 29,
+      "name": "Additional Features Unlocked"
+    },
+    {
+      "$id": 300,
+      "style": 166,
+      "name": "・Future Connected: Appearance now applies to Shulk's weapons.\n・The main game's eighth Time Attack challenge is unlocked.\n・The main game's Time Attack exchange adds [System:Color name=arts_sp ]Master-level Arts Manuals[/System:Color].\n  Obtaining one raises the Art's level cap to XII."
+    },
+    {
+      "$id": 301,
+      "style": 15,
+      "name": "Advanced Settings"
+    },
+    {
+      "$id": 302,
+      "style": 29,
+      "name": "Stockpiling EXP"
+    },
+    {
+      "$id": 303,
+      "style": 29,
+      "name": "Enabling Advanced Settings"
+    },
+    {
+      "$id": 304,
+      "style": 166,
+      "name": "[System:Color name=arts_sp ]Advanced Settings[/System:Color] lets you stockpile some earned EXP rather\nthan applying it to characters immediately.[System:Color name=arts_sp ]\n[/System:Color]Open the System menu with [ML:icon icon=btn_plus ] and toggle [System:Color name=arts_sp ]Advanced Settings[/System:Color].\nIt is [System:Color name=arts_sp ]off by default[/System:Color]."
+    },
+    {
+      "$id": 305,
+      "style": 166,
+      "name": "Turn it on with [ML:icon icon=btn_r_stick_on ] to stockpile EXP from subsequent quest\ncompletions and discoveries of Landmarks and Locations."
+    },
+    {
+      "$id": 306,
+      "style": 15,
+      "name": "Casual Mode"
+    },
+    {
+      "$id": 307,
+      "style": 29,
+      "name": "When Enemies Feel Too Strong"
+    },
+    {
+      "$id": 308,
+      "style": 166,
+      "name": "[System:Color name=arts_sp ]Casual Mode[/System:Color] lowers battle difficulty. Open the System menu\nwith [ML:icon icon=btn_plus ], then go to [System:Color name=arts_sp ]Options[/System:Color] > Game Settings to toggle Casual Mode.\nIf a recommendation to switch appears, press [ML:icon icon=btn_minus ]\nto bring up the choice."
+    },
+    {
+      "$id": 309,
+      "style": 15,
+      "name": "Event Theatre"
+    },
+    {
+      "$id": 310,
+      "style": 29,
+      "name": "About Event Theatre 1"
+    },
+    {
+      "$id": 311,
+      "style": 29,
+      "name": "About Event Theatre 2"
+    },
+    {
+      "$id": 312,
+      "style": 166,
+      "name": "[System:Color name=arts_sp ]Event Theatre[/System:Color] has been added to the title screen.\nYou can rewatch events you have already seen."
+    },
+    {
+      "$id": 313,
+      "style": 166,
+      "name": "You can change the following when watching events:\n\n・Weather and time of day (some cannot be changed)\n・Appearance equipment (already obtained)"
+    },
+    {
+      "$id": 314,
+      "style": 15,
+      "name": "Advanced Settings Tips"
+    },
+    {
+      "$id": 315,
+      "style": 29,
+      "name": "Adjusting Levels 1"
+    },
+    {
+      "$id": 316,
+      "style": 29,
+      "name": "Adjusting Levels 2"
+    },
+    {
+      "$id": 317,
+      "style": 29,
+      "name": "Adjusting Levels 3"
+    },
+    {
+      "$id": 318,
+      "style": 166,
+      "name": "Open the System menu with [ML:icon icon=btn_plus ] and adjust character levels in\n[System:Color name=arts_sp ]Advanced Settings[/System:Color]. Levelling up consumes stockpiled EXP.\nLevelling down returns the lost levels' EXP to your stockpile.\nAny EXP exceeding the stockpile limit is discarded."
+    },
+    {
+      "$id": 319,
+      "style": 166,
+      "name": "Levels are adjusted for each character individually.\nSelect the character and confirm with [ML:icon icon=btn_a ].\n\nChoose a level with [ML:icon icon=btn_left ][ML:icon icon=btn_right ] and press [ML:icon icon=btn_a ] to adjust it."
+    },
+    {
+      "$id": 320,
+      "style": 166,
+      "name": "When levelling up, the maximum available level based on your\nstockpiled EXP is displayed. When levelling down, you cannot\ngo below the character's original level at the story's start."
+    },
+    {
+      "$id": 321,
+      "style": 15,
+      "name": "Interacting with People"
+    },
+    {
+      "$id": 322,
+      "style": 29,
+      "name": "Try Using Shops"
+    },
+    {
+      "$id": 323,
+      "style": 29,
+      "name": "Try Taking on Quests"
+    },
+    {
+      "$id": 324,
+      "style": 166,
+      "name": "Shops sell weapons and armour to help you on your adventure.\n\nIn this adventure, monsters do not drop armour as loot,\nbut you may obtain weapons different from those sold in shops."
+    },
+    {
+      "$id": 325,
+      "style": 166,
+      "name": "People in this land also seem to have all sorts of troubles.\n\nCompleting quests earns money and rewards such as new equipment\ncolour variations suitable for Appearance."
+    },
+    {
+      "$id": 326,
+      "style": 15,
+      "name": "About Save Data Transfer"
+    },
+    {
+      "$id": 327,
+      "style": 29,
+      "name": "Transferring Save Data from Nintendo Switch 2 Edition"
+    },
+    {
+      "$id": 328,
+      "style": 109,
+      "name": "If you return to the original version and play using\nNintendo Switch 2 Edition save data,\n[System:Color name=arts_sp ]the added content will no longer be playable[/System:Color]."
+    },
+    {
+      "$id": 329,
+      "style": 29,
+      "name": "About the Ether Jet"
+    },
+    {
+      "$id": 330,
+      "style": 109,
+      "name": "If you return to the original version,\nthe Ether Jet becomes [System:Color name=arts_sp ]unusable[/System:Color]."
+    },
+    {
+      "$id": 331,
+      "style": 109,
+      "name": "However, progress in related quests and the Ether Jet you obtained\nare retained. If you [System:Color name=arts_sp ]return to Nintendo Switch 2 Edition,\nyou can continue from where you left off[/System:Color]."
+    },
+    {
+      "$id": 332,
+      "style": 29,
+      "name": "About New Equipment"
+    },
+    {
+      "$id": 333,
+      "style": 109,
+      "name": "If you return to the original version, new equipment becomes\n[System:Color name=arts_sp ]unusable[/System:Color]. If it was set as equipment or fashion gear,\nboth will be [System:Color name=arts_sp ]unequipped[/System:Color]."
+    },
+    {
+      "$id": 334,
+      "style": 109,
+      "name": "However, the items remain obtained. If you [System:Color name=arts_sp ]return to\nNintendo Switch 2 Edition, you can equip them again[/System:Color]."
+    },
+    {
+      "$id": 335,
+      "style": 29,
+      "name": "Pick Up Collection Items!"
+    },
+    {
+      "$id": 336,
+      "style": 109,
+      "name": "While riding the Ether Jet, picking up collection items\nin the field [System:Color name=arts_sp ]restores a small amount of the boost gauge[/System:Color]."
+    },
+    {
+      "$id": 337,
+      "style": 109,
+      "name": "Pick them up [System:Color name=arts_sp ]before the boost gauge is depleted[/System:Color]\nto make exploration more comfortable."
+    },
+    {
+      "$id": 338,
+      "style": 109,
+      "name": "Open the [System:Color name=arts_sp ]Main Menu[/System:Color] and press [ML:icon icon=btn_y ] to enter.\n(You can also enter through the Nopon Assistant\nnear Bridge One in Makna Forest.)"
+    },
+    {
+      "$id": 339,
+      "style": 109,
+      "name": "Open the [System:Color name=arts_sp ]Main Menu[/System:Color] and press [ML:icon icon=btn_y ] to enter.\n(You can also enter through the Nopon Assistant\nnear the front gate of Imperial Capital Achamoth, or near\nCentre Gate in Eryth Sea.)"
+    },
+    {
+      "$id": 340,
+      "style": 109,
+      "name": "Open the [System:Color name=arts_sp ]Main Menu[/System:Color] and press [ML:icon icon=btn_y ] to enter.\n(You can also enter through the Nopon Assistant\nnear Zokhed Pass on Valak Mountain.)"
+    },
+    {
+      "$id": 341,
+      "style": 109,
+      "name": "Open the [System:Color name=arts_sp ]Main Menu[/System:Color] and press [ML:icon icon=btn_y ] to enter.\n(You can also enter through the Nopon Assistant\nnear Machine Soldier Wreckage in Colony 9.)"
+    },
+    {
+      "$id": 342,
+      "style": 109,
+      "name": "If you find the reward requirements difficult to fulfill,\ntry visiting the [System:Color name=arts_sp ]Nopon Great Sage[/System:Color], who is said to be somewhere out there."
+    }
+  ]
+}

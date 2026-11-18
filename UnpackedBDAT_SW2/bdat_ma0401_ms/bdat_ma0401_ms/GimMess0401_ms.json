@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Call Button"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Activation Button"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "It doesn't look like it will activate."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "Colony 6 Gate"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It is closed tightly."
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "Check on Fiorung."
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "Return to Junks to investigate the alarm."
+    }
+  ]
+}

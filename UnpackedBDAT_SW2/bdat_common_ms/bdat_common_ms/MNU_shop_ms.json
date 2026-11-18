@@ -1,0 +1,224 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 19,
+      "name": "Shop: Buy"
+    },
+    {
+      "$id": 2,
+      "style": 19,
+      "name": "Shop: Sell"
+    },
+    {
+      "$id": 3,
+      "style": 9,
+      "name": "Shop"
+    },
+    {
+      "$id": 4,
+      "style": 5,
+      "name": "Money:"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Sell:"
+    },
+    {
+      "$id": 6,
+      "style": 11,
+      "name": "Buy"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Sell"
+    },
+    {
+      "$id": 8,
+      "style": 11,
+      "name": "Quit"
+    },
+    {
+      "$id": 9,
+      "style": 6,
+      "name": "Buy:"
+    },
+    {
+      "$id": 10,
+      "style": 6,
+      "name": "Sell:"
+    },
+    {
+      "$id": 11,
+      "style": 5,
+      "name": "Total:"
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "The attached gems[XENO:n ]\nhave been removed."
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "Your inventory is full."
+    },
+    {
+      "$id": 14,
+      "style": 117,
+      "name": "You can't carry any more gems."
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "Unequip this item and sell it?"
+    },
+    {
+      "$id": 16,
+      "style": 11,
+      "name": "Sell"
+    },
+    {
+      "$id": 17,
+      "style": 11,
+      "name": "Quit"
+    },
+    {
+      "$id": 18,
+      "style": 117,
+      "name": "You cannot sell weapons that are in use."
+    },
+    {
+      "$id": 19,
+      "style": 117,
+      "name": "You cannot sell this item."
+    },
+    {
+      "$id": 20,
+      "style": 117,
+      "name": "You already know the Art in this manual.[XENO:n ]\nBuy it?"
+    },
+    {
+      "$id": 21,
+      "style": 117,
+      "name": "You do not know the Art in this manual.[XENO:n ]\nSell it?"
+    },
+    {
+      "$id": 22,
+      "style": 19,
+      "name": "Barter"
+    },
+    {
+      "$id": 23,
+      "style": 5,
+      "name": "Homs"
+    },
+    {
+      "$id": 24,
+      "style": 5,
+      "name": "Nopon"
+    },
+    {
+      "$id": 25,
+      "style": 5,
+      "name": "High Entia"
+    },
+    {
+      "$id": 26,
+      "style": 5,
+      "name": "Machina"
+    },
+    {
+      "$id": 27,
+      "style": 19,
+      "name": "Proceed with barter?"
+    },
+    {
+      "$id": 28,
+      "style": 9,
+      "name": "Trade"
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "Quit"
+    },
+    {
+      "$id": 30,
+      "style": 115,
+      "name": "No items available to barter."
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Confirm purchase"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Confirm sale"
+    },
+    {
+      "$id": 33,
+      "style": 3,
+      "name": "??"
+    },
+    {
+      "$id": 34,
+      "style": 1,
+      "name": "G"
+    },
+    {
+      "$id": 35,
+      "style": 11,
+      "name": "------"
+    },
+    {
+      "$id": 36,
+      "style": 29,
+      "name": "Choose the item you'd like."
+    },
+    {
+      "$id": 37,
+      "style": 29,
+      "name": "Select the item to give."
+    },
+    {
+      "$id": 38,
+      "style": 117,
+      "name": "This item is set as a favourite.\nAre you sure you want to sell it?"
+    },
+    {
+      "$id": 39,
+      "style": 11,
+      "name": "Yes"
+    },
+    {
+      "$id": 40,
+      "style": 11,
+      "name": "No"
+    },
+    {
+      "$id": 41,
+      "style": 19,
+      "name": "Regular Barter Items"
+    },
+    {
+      "$id": 42,
+      "style": 117,
+      "name": "This favourite is currently equipped.\nUnequip and sell it?"
+    }
+  ]
+}

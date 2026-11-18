@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Thick Ice Wall"
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "You need something to melt the ice."
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Ancient Insignia"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It appears to be sealed."
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "You must find the ruins mentioned by Alviss."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Ancient Giants' Door"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "It appears to be sealed."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Giants' Treasure Chest"
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "You must defeat Mumca."
+    }
+  ]
+}

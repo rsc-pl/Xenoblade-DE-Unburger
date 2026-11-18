@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Ancient Insignia"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Activation Device"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "It appears to be sealed."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "High Entia Chest"
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Adulthood Emblem"
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "The path to enlightenment opens to those who[XENO:n ]\nundergo the Coming-of-Age Ceremony.[XENO:n ]\nPresent four offerings to initiate the ceremony."
+    },
+    {
+      "$id": 7,
+      "style": 14,
+      "name": "Ancient Insignia"
+    },
+    {
+      "$id": 8,
+      "style": 117,
+      "name": "It appears to be sealed."
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Fortress Rear Door"
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "It is locked."
+    },
+    {
+      "$id": 11,
+      "style": 14,
+      "name": "Wall of Sin"
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "It bears deep claw marks."
+    },
+    {
+      "$id": 13,
+      "style": 14,
+      "name": "Adulthood Emblem"
+    },
+    {
+      "$id": 14,
+      "style": 117,
+      "name": "The path to enlightenment opens to those who[XENO:n ]\nundergo the Coming-of-Age Ceremony.[XENO:n ]\nPresent four offerings to initiate the ceremony."
+    }
+  ]
+}

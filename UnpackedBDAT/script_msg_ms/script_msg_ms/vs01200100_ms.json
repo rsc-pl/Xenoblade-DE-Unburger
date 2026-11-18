@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT42 ]Reyn, Fiorung...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT42 ]Rein, Fiorung...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Reyn, when you held the Monado,[XENO:n ]\ndid you see anything?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, when you held the Monado,[XENO:n ]\ndid you see anything?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -98,12 +98,12 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]I won't let my brother use it ever again![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I won't let my older brother use it ever again![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 19,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Not after what it did to him.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Not after what it did to my older brother.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "Anyway, Reyn, what did you want to ask me about?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Anyway, Rein, what did you want to ask me about?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "The Mag Mell Ruins are in Tephra Cave, right?[XENO:n ]\nI heard that there's a Mell Lizard nest there.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "The Mag Mell Ruins are in Tephra Cave, right?[XENO:n ]\nI heard that there's a Meld Lizard nest there.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]I couldn't take it if anything happened to Shulk.[XENO:n ]\nHe's delicate - not like you, Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I couldn't take it if anything happened to Shulk.[XENO:n ]\nHe's delicate - not like you, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 48,

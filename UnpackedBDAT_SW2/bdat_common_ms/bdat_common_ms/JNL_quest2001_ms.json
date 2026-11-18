@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 17,
+      "name": "Take Out the Standby Unit!"
+    },
+    {
+      "$id": 2,
+      "style": 17,
+      "name": "Force a Breakthrough!"
+    },
+    {
+      "$id": 3,
+      "style": 17,
+      "name": "Decisive Battle on the Roof!"
+    },
+    {
+      "$id": 4,
+      "style": 17,
+      "name": "New Weapon for Fiorung"
+    },
+    {
+      "$id": 5,
+      "style": 17,
+      "name": "Head for the Central Tower"
+    },
+    {
+      "$id": 6,
+      "style": 17,
+      "name": "Pass Through Maintenance Wing"
+    },
+    {
+      "$id": 7,
+      "style": 17,
+      "name": "Find the Path to Upper Levels"
+    },
+    {
+      "$id": 8,
+      "style": 17,
+      "name": "Gather Materials for a Bomb"
+    },
+    {
+      "$id": 9,
+      "style": 17,
+      "name": "The Central Tower Barrier"
+    }
+  ]
+}

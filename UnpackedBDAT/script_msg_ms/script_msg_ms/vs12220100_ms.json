@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]So, are you Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]So, are you Machine God Soldiers?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "It is a fact that the weapons you call the Mechon[XENO:n ]\nwere created by our civilisation.[XENO:wait wait=key ]"
+      "name": "It is a fact that the weapons you call the Machine God Soldiers[XENO:n ]\nwere created by our civilisation.[XENO:wait wait=key ]"
     },
     {
       "$id": 4,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "Dunban, please hear her out.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Onii-chan, please hear her out.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,

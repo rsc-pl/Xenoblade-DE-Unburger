@@ -1,0 +1,289 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Achamoth is a wonderful city.[XENO:n ]\nDon't you think, Dunban?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "It is indeed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "My heart belongs in Colony 9, but[XENO:n ]\nI'd love to live here someday.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "It feels a little...spacious for you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "What are you talking about?[XENO:n ]\nI like big places![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・But you're bad with directions./・I could get used to it too. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "What did you just say?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Remember when you were little?[XENO:n ]\nYou were constantly getting lost.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "That was when I was little! Why'd[XENO:n ]\nyou bring that up, anyway?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "Sorry, Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Onii-chan, do you really think I'm that bad[XENO:n ]\nat finding my way around?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・Of course! Don't you remember?/・No, I take it back. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "I waited for you on Tephra Slope[XENO:n ]\nthat time.[XENO:wait wait=key ][System:PageBreak ]And somehow you got lost[XENO:n ]\nby the waterfront.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "That was on purpose, Dunban![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "You meant to get lost?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Of course I meant to get lost![XENO:wait wait=key ][System:PageBreak ]But you needn't worry anymore.[XENO:n ]\nNow I have a radar built in.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "What is it, Onii-chan?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "No... I'm fine...[XENO:wait wait=key ][System:PageBreak ]It's...amazing, isn't it?[XENO:n ]\nThis Machina technology...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "It's sooooo cool, Dunban![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]I mustn't let her see me[XENO:n ]\ngetting upset...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "We should try an experiment![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "An experiment...?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "You see, this new body I have[XENO:n ]\nhas a tracking radar built in.[XENO:wait wait=key ][System:PageBreak ]I'll never get lost now![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Wherever you go in this place, Onii-chan,[XENO:n ]\nI can see where you are![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I see...[XENO:wait wait=key ][System:PageBreak ]That is amazing technology. Those[XENO:n ]\nMachina are very resourceful...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "And that's not all I can do! I have[XENO:n ]\nloads of built-in features![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Fiorung... You're taking all[XENO:n ]\nthis far too well.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "The technology is incredible, for[XENO:n ]\ninstance. Especially the weapons![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "You never change, Onii-chan![XENO:n ]\nAlways on about fighting.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "That's me. A born and bred[XENO:n ]\nkilling machine.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "You know there's more to you[XENO:n ]\nthan that, Onii-chan![XENO:wait wait=key ][System:PageBreak ]I heard you saved everyone's[XENO:n ]\nlife, and more than once.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "It's nice to know I'm appreciated[XENO:n ]\naround here.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "I wonder if I should try and[XENO:n ]\nmove here one day...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "You were serious about that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "I can hardly go back to the colony[XENO:n ]\nlooking like this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:sel sel=・You worry too much./・You certainly look...different. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "Those are good people back home.[XENO:n ]\nIt'll be like you never left.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Are you sure? 'Cos I'm not...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Of course I'm sure, Fiorung.[XENO:wait wait=key ][System:PageBreak ]They owe you. When times were[XENO:n ]\nbad, your smile saved them all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Hehe. That's nice of you to say.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "I'm sorry about all this. I should[XENO:n ]\nhave done more that day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "It's not your fault, really.[XENO:wait wait=key ][System:PageBreak ]And I've gotten used to this body.[XENO:n ]\nFor better or worse...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "I'm the one who should be doing[XENO:n ]\nmore to reassure you.[XENO:wait wait=key ][System:PageBreak ]You really don't need to worry![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "It's fine, Fiorung.[XENO:wait wait=key ][System:PageBreak ]Hey... When we get back home,[XENO:n ]\nwill you make my favourite dish?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "One 'Onii-chan Special' coming up![XENO:wait wait=key ][System:PageBreak ]But you and Shulk need to work[XENO:n ]\non your vocabulary![XENO:wait wait=key ][System:PageBreak ]If I hear 'Yeah, great, thanks!'[XENO:n ]\none more time...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "People will stare to begin with,[XENO:n ]\nbut I guess we can't blame them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "You're right...[XENO:wait wait=key ][System:PageBreak ]I'll probably remind everyone[XENO:n ]\nof the Machine Soldier attack.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "Oh![XENO:wait wait=key ][System:PageBreak ]I am so sorry, Fiorung. I can't[XENO:n ]\nbelieve I said that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "Teehee. Don't pull that silly face![XENO:wait wait=key ][System:PageBreak ]I'm tougher than I look.[XENO:n ]\nIt'll be like I never left.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "You don't need to worry.[XENO:wait wait=key ][System:PageBreak ]Shulk and the others will come[XENO:n ]\nhome with us to the colony.[XENO:wait wait=key ][System:PageBreak ]And whatever the residents say,[XENO:n ]\nI'll be there to shut them up![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "Yay! You're the best[XENO:n ]\nbig brother ever![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 54,
+      "style": 126,
+      "name": "I promise you, Fiorung.[XENO:wait wait=key ][System:PageBreak ]I may look like this, but I'm still[XENO:n ]\nyour older brother. Leave it to me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 55,
+      "style": 126,
+      "name": "Thank you, Onii-chan.[XENO:wait wait=key ][System:PageBreak ]With you around, I'll never need[XENO:n ]\nto be afraid again.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

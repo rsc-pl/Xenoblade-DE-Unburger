@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]It wasn't a dream.[XENO:n ]\nWas it a vision?[XENO:wait wait=key ]"
+    },
+    {
+      "$id": 2,
+      "style": 125,
+      "name": "[XENO:jaw jaw=off ]What should I do? I could tell Rein.[XENO:n ]\nBut... I don't know...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

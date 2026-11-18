@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "But that's also pretty scary.[XENO:wait wait=key ][System:PageBreak ]Reyn, how about it? Won't ya help[XENO:n ]\nout a Defence Force buddy?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "...That takes courage, too.[XENO:wait wait=key ][System:PageBreak ]You'll go and have a look for us, Rein,[XENO:n ]\nas a fellow Defence Force member, won't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 126,
-      "name": "It look like thing buried here![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Something looks buried here-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 126,
-      "name": "Yucky yuck yuck![XENO:n ]\nRiki no want to eat that![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ugh, that[XENO:n ]\nlooks disgusting-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 57,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 126,
-      "name": "Riki no cute little thing![XENO:wait wait=key ][System:PageBreak ]Riki big! Riki have 11 littlepon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki's not a little kid-mo.[XENO:wait wait=key ][System:PageBreak ]Riki's a proper adult with eleven children-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 59,
@@ -378,7 +378,7 @@
     {
       "$id": 74,
       "style": 81,
-      "name": "It's the Path of Absolution...[XENO:wait wait=key ][System:PageBreak ]The path walked when offering a[XENO:n ]\nsacrifice to the White Spiders.[XENO:wait wait=key ][System:PageBreak ]It is dark, narrow and long...[XENO:wait wait=key ][System:PageBreak ]Makes me think of[XENO:n ]\nwalking to my death![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Path of Purification...[XENO:wait wait=key ][System:PageBreak ]Apparently, long ago, people used this path when[XENO:n ]\nthey offered sacrifices to the White Spider.[XENO:wait wait=key ][System:PageBreak ]Dark, narrow and long...[XENO:wait wait=key ][System:PageBreak ]It makes me think[XENO:n ]\nof a path to death.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 75,
@@ -398,27 +398,27 @@
     {
       "$id": 78,
       "style": 81,
-      "name": "I see. It's the Path of Absolution...[XENO:wait wait=key ][System:PageBreak ]The path walked when offering a[XENO:n ]\nsacrifice to the White Spiders.[XENO:wait wait=key ][System:PageBreak ]It is lined by the memorial tablets[XENO:n ]\nof those offered up as sacrifices.[XENO:wait wait=key ][System:PageBreak ]It's all written in this book.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see, the Path of Purification...[XENO:wait wait=key ][System:PageBreak ]Apparently, long ago, people used this path when[XENO:n ]\nthey offered sacrifices to the White Spider.[XENO:wait wait=key ][System:PageBreak ]The memorial tablets of those who were sacrificed[XENO:n ]\nseem to be enshrined on either side of the path.[XENO:wait wait=key ][System:PageBreak ]It was all written in this book, though...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 79,
       "style": 81,
-      "name": "Enter the Path of Absolution and[XENO:n ]\nbring me back a tablet.[XENO:wait wait=key ][System:PageBreak ]It will serve as the key that opens[XENO:n ]\nthe next door.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Anyway, go to the Path of Purification[XENO:n ]\nnext and bring back the Sacrificial Tablet.[XENO:wait wait=key ][System:PageBreak ]It'll be the key that[XENO:n ]\nopens the next door.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 80,
       "style": 81,
-      "name": "I can't read what it says.[XENO:wait wait=key ][System:PageBreak ]We should take a rubbing[XENO:n ]\nand have Shura decipher it.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There's something written here, but I can't read it.[XENO:wait wait=key ][System:PageBreak ]Let's copy it down[XENO:n ]\nand show it to Shura-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 81,
       "style": 81,
-      "name": "There's something written here[XENO:n ]\nbut I can't understand it.[XENO:wait wait=key ][System:PageBreak ]Let's make a copy and[XENO:n ]\nshow it to Shura.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There's something written here[XENO:n ]\nbut I can't understand it.[XENO:wait wait=key ][System:PageBreak ]Let's make a copy and[XENO:n ]\nshow it to Shura-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 82,
       "style": 81,
-      "name": "There words written here, but[XENO:n ]\nRiki not able to read them![XENO:wait wait=key ][System:PageBreak ]Riki make copy and show it[XENO:n ]\nto strange lady![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Something is written here-mo![XENO:n ]\nBut Riki can't read it-mo!![XENO:wait wait=key ][System:PageBreak ]Riki will copy it down and have[XENO:n ]\nthat lady look at it-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 83,
@@ -543,7 +543,7 @@
     {
       "$id": 107,
       "style": 81,
-      "name": "I only need one more thing.[XENO:wait wait=key ][System:PageBreak ]1 lot of Brog Smelling Salts.[XENO:n ]\nCan you get it for me?[XENO:wait wait=key ][System:PageBreak ]A lot of people were injured when[XENO:n ]\nColony 9 was attacked.[XENO:wait wait=key ][System:PageBreak ]We need to stockpile as much[XENO:n ]\nmedicine as we can.[XENO:wait wait=key ][System:PageBreak ]Will you help us out?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I have one last favour to ask.[XENO:wait wait=key ][System:PageBreak ]Could you get me one dose[XENO:n ]\nof Grog Smelling Salts?[XENO:wait wait=key ][System:PageBreak ]A lot of people were injured when[XENO:n ]\nColony 9 was attacked, you see.[XENO:wait wait=key ][System:PageBreak ]It's better to have plenty[XENO:n ]\nof medicine on hand.[XENO:wait wait=key ][System:PageBreak ]Could you do that for me?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 108,
@@ -613,7 +613,7 @@
     {
       "$id": 121,
       "style": 81,
-      "name": "I...[XENO:wait wait=key ][System:PageBreak ]Until we came here, Pepii and[XENO:n ]\nI had fun together. I was happy.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Well...[XENO:wait wait=key ][System:PageBreak ]I enjoyed travelling here with Papii,[XENO:n ]\njust the two of us. I was happy.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 122,
@@ -623,7 +623,7 @@
     {
       "$id": 123,
       "style": 81,
-      "name": "You're...right.[XENO:wait wait=key ][System:PageBreak ]Yes, I will try that.[XENO:wait wait=key ][System:PageBreak ]If I can do it, I will go back to[XENO:n ]\nColony 6 with Pepii.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's... right.[XENO:wait wait=key ][System:PageBreak ]Yes, I'll do that.[XENO:wait wait=key ][System:PageBreak ]Now that's settled, I'll go right[XENO:n ]\nback to Colony 6 with Papii.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 124,
@@ -643,7 +643,7 @@
     {
       "$id": 127,
       "style": 81,
-      "name": "What is it, Pepii?[XENO:wait wait=key ][System:PageBreak ]You're ready, aren't you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What is it, Papii?[XENO:wait wait=key ][System:PageBreak ]You're ready, aren't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 128,
@@ -673,7 +673,7 @@
     {
       "$id": 133,
       "style": 81,
-      "name": "Free Colony 6 from the threat of[XENO:n ]\nthe Mechon! Yeah! That's it![XENO:wait wait=key ][System:PageBreak ]Looks like Colony 9 and Colony 6[XENO:n ]\nare gonna be joining forces.[XENO:wait wait=key ][System:PageBreak ]It feels good.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You took Colony 6 back from the Machine[XENO:n ]\nGod Soldiers! That's amazing![XENO:wait wait=key ][System:PageBreak ]I wonder if Colony 9 and Colony 6[XENO:n ]\nwill be able to help each other now.[XENO:wait wait=key ][System:PageBreak ]I'm really glad...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 134,
@@ -688,7 +688,7 @@
     {
       "$id": 136,
       "style": 81,
-      "name": "Dunban alone shouldered a heavy[XENO:n ]\nburden in the war a year ago.[XENO:wait wait=key ][System:PageBreak ]But this time it is each and every[XENO:n ]\none of us who will seize victory![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "In the battle a year ago, we made[XENO:n ]\nDunban-san shoulder the burden alone.[XENO:wait wait=key ][System:PageBreak ]This time, let's join[XENO:n ]\nforces and win together![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 137,
@@ -728,12 +728,12 @@
     {
       "$id": 144,
       "style": 81,
-      "name": "Colonel Vangarre'll be back soon.[XENO:wait wait=key ][System:PageBreak ]I bet there'll be a major reshuffle[XENO:n ]\nof the Colony 9 Defence Force.[XENO:wait wait=key ][System:PageBreak ]It'll probably be after we join[XENO:n ]\nforces with the others.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Once Captain Vandham returns...[XENO:wait wait=key ][System:PageBreak ]I think we'll be able to rebuild[XENO:n ]\nColony 9's Defence Force somehow.[XENO:wait wait=key ][System:PageBreak ]It'll be after that[XENO:n ]\nthat we can join forces.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 145,
       "style": 81,
-      "name": "I wish the allied force of all three[XENO:n ]\nraces could've been...[XENO:wait wait=key ][System:PageBreak ]Nah, I'd better not say that.[XENO:wait wait=key ][System:PageBreak ]At any rate, those Mechon don't[XENO:n ]\nstand a chance now![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "An allied army of the three races, huh?[XENO:n ]\nIf only it had happened a little sooner...[XENO:wait wait=key ][System:PageBreak ]No, I shouldn't say that.[XENO:wait wait=key ][System:PageBreak ]At any rate, we might be able to strike[XENO:n ]\nback at the Machine God Soldiers now![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 146,
@@ -753,12 +753,12 @@
     {
       "$id": 149,
       "style": 81,
-      "name": "The Arachno nest is up ahead.[XENO:wait wait=key ][System:PageBreak ]If I make even the slightest sound,[XENO:n ]\nthey'll hear it and come to attack.[XENO:wait wait=key ][System:PageBreak ]Make sure you be careful.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "From here on, it's a den of Spides.[XENO:wait wait=key ][System:PageBreak ]Even the slightest sound will[XENO:n ]\nalert them, and they'll attack.[XENO:wait wait=key ][System:PageBreak ]Be very careful, all right?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 150,
       "style": 81,
-      "name": "It's better to walk than run when[XENO:n ]\nyou're near Arachnos.[XENO:wait wait=key ][System:PageBreak ]That way you won't have to get[XENO:n ]\ndrawn into a fight. Got me?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's better to walk than run when[XENO:n ]\nyou're near Spides.[XENO:wait wait=key ][System:PageBreak ]That way you won't have to get[XENO:n ]\ndrawn into a fight. Got me?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 151,
@@ -778,7 +778,7 @@
     {
       "$id": 154,
       "style": 81,
-      "name": "First we have to establish contact[XENO:n ]\nwith Colony 6.[XENO:wait wait=key ][System:PageBreak ]We need to warn them about[XENO:n ]\na possible Mechon attack.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "First, we have to get[XENO:n ]\nin touch with Colony 6.[XENO:wait wait=key ][System:PageBreak ]We must warn them of the danger of a Machine[XENO:n ]\nGod Soldier attack as soon as possible...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 155,
@@ -793,12 +793,12 @@
     {
       "$id": 157,
       "style": 81,
-      "name": "The rebuilding of Colony 6 is[XENO:n ]\nlooking good thanks to you.[XENO:wait wait=key ][System:PageBreak ]A Nopon Merchant told me.[XENO:wait wait=key ][System:PageBreak ]It's amazing how fast those little[XENO:n ]\nguys pass on information.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I hear Rein and the others have[XENO:n ]\nhelped Colony 6 get back on its feet.[XENO:wait wait=key ][System:PageBreak ]I heard about it from the Nopon Merchant Company.[XENO:wait wait=key ][System:PageBreak ]The speed at which news travels through[XENO:n ]\ntheir ranks is really something.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 158,
       "style": 81,
-      "name": "Another Nopon Merchant told[XENO:n ]\nme something else.[XENO:wait wait=key ][System:PageBreak ]There're some people who'll only[XENO:n ]\nask certain people for favours.[XENO:wait wait=key ][System:PageBreak ]For example, there are some jobs[XENO:n ]\nthat people'd only ask Reyn to do.[XENO:wait wait=key ][System:PageBreak ]You might run into some people[XENO:n ]\nwho just won't open up.[XENO:wait wait=key ][System:PageBreak ]If that happens, try letting them[XENO:n ]\nspeak to someone else.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I heard something else from[XENO:n ]\nthe Nopon Merchant Company.[XENO:wait wait=key ][System:PageBreak ]Apparently, some people have favours[XENO:n ]\nthey'd only ask of one particular person.[XENO:wait wait=key ][System:PageBreak ]For example, a job they'd[XENO:n ]\nentrust only to Rein.[XENO:wait wait=key ][System:PageBreak ]If someone's reluctant to tell[XENO:n ]\nyou what's bothering them...[XENO:wait wait=key ][System:PageBreak ]You might try having[XENO:n ]\nsomeone else talk to them.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 159,
@@ -833,12 +833,12 @@
     {
       "$id": 165,
       "style": 81,
-      "name": "Colony 6 has really been occupied[XENO:n ]\nby the Mechon.[XENO:wait wait=key ][System:PageBreak ]It's hard to believe...[XENO:wait wait=key ][System:PageBreak ]They were even better equipped[XENO:n ]\nthan Colony 9...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Colony 6, occupied by[XENO:n ]\nthe Machine God Soldiers...[XENO:wait wait=key ][System:PageBreak ]I don't want to believe it...[XENO:wait wait=key ][System:PageBreak ]Their equipment was supposed to be[XENO:n ]\neven better than ours in Colony 9...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 166,
       "style": 81,
-      "name": "It looks like no matter how well[XENO:n ]\nequipped we are, it's not enough.[XENO:wait wait=key ][System:PageBreak ]If we're gonna take down the[XENO:n ]\nMechon, we need the Monado.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "No matter how well equipped we are,[XENO:n ]\nis our own strength not enough?[XENO:wait wait=key ][System:PageBreak ]We really do need the Monado[XENO:n ]\nto defeat the Machine God Soldiers...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 167,
@@ -883,7 +883,7 @@
     {
       "$id": 175,
       "style": 81,
-      "name": "*sniff* *sniff*[XENO:n ]\nIt smelly flower![XENO:wait wait=key ][System:PageBreak ]Riki want to eat![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What a beautiful[XENO:n ]\nflower-mo![XENO:wait wait=key ][System:PageBreak ]I can't help admiring it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

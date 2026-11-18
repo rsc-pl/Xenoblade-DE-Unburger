@@ -13,12 +13,12 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki? Why are you the Heropon?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki, why did you become a hero?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Why? Because Chief Donga choose Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Donga chose me-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Friend wrong. Chief choose by instinct![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]No-mo. It was Donga's intuition-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,12 +38,12 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Why friend surprised? Chief have[XENO:n ]\nsharp instinct. Chief be village seer![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Why are you surprised-mo? His[XENO:n ]\nintuition is right, so he's a prophet-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]So that's how you became the Heropon?[XENO:n ]\nCan't argue with that.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]I see. Maybe that's how heroes and[XENO:n ]\nchampions come to be.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,17 +53,17 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Riki owe lots of monies to village.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Riki owes the village a lot of money-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "If Riki defeat Dinobeast, village[XENO:n ]\npromise to forget my debts.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ]"
+      "name": "But the village promised to clear Riki's debt[XENO:n ]\nif Riki defeats the great dinosaur-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ]"
     },
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]So Riki like being Heropon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]So Riki doesn't mind being chosen as the hero-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

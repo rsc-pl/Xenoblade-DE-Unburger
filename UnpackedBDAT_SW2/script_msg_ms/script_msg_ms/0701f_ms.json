@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:qst qst=460 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Where are you going-mo!? Come[XENO:n ]\nback-mo! Get Riki's weapons[XENO:wait wait=key ][System:PageBreak ]and armour in the village-mo.[XENO:n ]\nThat's a companion's job-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:qst qst=399 ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:qst qst=422 ]"
+    }
+  ]
+}

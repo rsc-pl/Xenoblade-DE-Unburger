@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "If only we could find Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "If only we could find Dunban-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]I'm OK. I want to see my brother.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]I'm OK. I want to see my older brother.[XENO:wait wait=key ]"
     },
     {
       "$id": 12,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "Reyn, you really looked after Shulk for me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, you really looked after Shulk for me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -133,12 +133,12 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "Reyn, you...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, you...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
       "style": 125,
-      "name": "Reyn, you're like a whole new person.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, you're like a whole new person.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Right, let's go. You wanna see[XENO:n ]\nmy brother cry, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Right, let's go. You wanna see[XENO:n ]\nmy older brother cry, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,

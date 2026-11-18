@@ -1,0 +1,279 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Dunban! There are strings hanging[XENO:n ]\ndown from the sky-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]They are quite remarkable.[XENO:n ]\nIt's an amazing sight,[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Riki knows what these strings are-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "You do? Well, what are they?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・Riki won't tell you for free-mo!/・Riki will make an exception and tell you-mo! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]It's 'give and take'-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]That's 'quid pro quo', Riki.[XENO:n ]\nAnd where did you learn that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Rein taught Riki-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Did he now? I suggest thinking[XENO:n ]\ntwice before listening to him, Riki.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]So then, what can I do for you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・Tell Riki your best-kept secret-mo!/・Be the guarantor for Riki's debt-mo! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki wants to know[XENO:n ]\nDunban better-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "Why of course. I'd be happy to.[XENO:n ]\nBut I'm really not that interesting.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]So then...[XENO:wait wait=key ][System:PageBreak ]What is it that[XENO:n ]\nDunban can't stand-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Let me see... Something I dislike.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][System:PageBreak ]Sweet Wasabi![XENO:wait wait=key ][System:PageBreak ]The sweetness evokes tears and[XENO:n ]\ninduces terrible bowel movements.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Puhuhu-mo![XENO:wait wait=key ][System:PageBreak ]Dunban doesn't like Sweet Wasabi?[XENO:n ]\nYou're like a little kid-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]I see. You find this funny, do you?[XENO:wait wait=key ][System:PageBreak ]Well, back to the point at hand.[XENO:wait wait=key ][System:PageBreak ]What do you know about[XENO:n ]\nthese 'strings'?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]It's the power of ether-mo![XENO:n ]\nThat's all-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I could have told you that, Riki.[XENO:n ]\nYou tricked me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Riki wanted to know Dunban's secret-mo.[XENO:n ]\nI wanted us to get along better-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Well, if you put it so nicely,[XENO:n ]\nhow can I refuse?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Do we have a deal-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "Never.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]I'm so sad-mo...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]You see, Riki, I am not Melia.[XENO:n ]\nCuteness alone won't win me over.[XENO:wait wait=key ][System:PageBreak ]You'll just have to try harder.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Mo~!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If you run[XENO:n ]\noff on me,[XENO:wait wait=key ][System:PageBreak ]I'll have[XENO:n ]\nto work[XENO:wait wait=key ][System:PageBreak ]in that[XENO:n ]\nvillage![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "I just pictured it-mo.[XENO:wait wait=key ][System:PageBreak ]Dunban working[XENO:n ]\nat the pollen factory.[XENO:wait wait=key ][System:PageBreak ]I think it'd really suit you-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]We must prevent this from[XENO:n ]\nhappening at all costs.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Mo~?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]This is the power of ether-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "I see. And what else?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "Mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Even I know more than that, Riki.[XENO:wait wait=key ][System:PageBreak ]Do they even have schools[XENO:n ]\nwhere you're from?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ]Dunban is amazing-mo. You know[XENO:n ]\neven more than Riki-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "Riki, are you all right?[XENO:n ]\nYou seem to be taken aback.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:sel sel=・Riki gives up-mo/・These are fishing lines-mo! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki, my friend...[XENO:wait wait=key ][System:PageBreak ]It is not the end of the world[XENO:n ]\nif you don't know something.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "Riki doesn't get it.[XENO:wait wait=key ][System:PageBreak ]Not[XENO:n ]\nat all-mo.[XENO:wait wait=key ][System:PageBreak ]I haven't studied enough-mo...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "There is much I do not know[XENO:n ]\nas well, Riki.[XENO:wait wait=key ][System:PageBreak ]Giant God is a rich and diverse place.[XENO:n ]\nEven I have much to learn.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]It's strange that they[XENO:n ]\nonly appear at night-mo...[XENO:wait wait=key ][System:PageBreak ]Did the Giant God[XENO:n ]\nmake these-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki, you are the funniest Nopon[XENO:n ]\nI know. And you know what?[XENO:wait wait=key ][System:PageBreak ]I believe the Giant God itself may[XENO:n ]\nhave forgotten the reason.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Riki and everyone were[XENO:n ]\nlucky to come here-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Why thank you, Riki.[XENO:wait wait=key ][System:PageBreak ]I enjoy visiting the mysterious[XENO:n ]\nwonders of Giant God as much as you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT3 ]Riki will come along too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Fishing line, you say? That's quite[XENO:n ]\nthe conclusion to draw, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Uh... Th-then it's[XENO:n ]\nspider silk-mo![XENO:wait wait=key ][System:PageBreak ]A huge spider's letting[XENO:n ]\ndown its silk-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "I cannot tell if you're joking or you[XENO:n ]\nactually believe this nonsense.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "Mo~! Dunban's angry-mo! He's[XENO:n ]\nfurrowing his brow so much-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "I am not angry with you, Riki.[XENO:wait wait=key ][System:PageBreak ]If you don't know the answer,[XENO:n ]\njust tell the truth.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Sorry-mo. Riki was pretending[XENO:n ]\nto know-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]We should never be embarrassed[XENO:n ]\nby what we do not know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 52,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ]Dunban, you've got a good point-mo![XENO:n ]\nRiki wants you to teach him lots more-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 53,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]I'd be happy to.[XENO:wait wait=key ][System:PageBreak ]There is much we can learn from[XENO:n ]\neach other on our journey.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

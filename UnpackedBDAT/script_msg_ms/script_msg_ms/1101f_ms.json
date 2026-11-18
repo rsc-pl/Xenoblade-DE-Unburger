@@ -68,12 +68,12 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "Riki get lost if he go here.[XENO:n ]\nWe should go back.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We'll get lost if we go this[XENO:n ]\nway-mo. Let's turn back-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
       "style": 126,
-      "name": "I don't need to go down here.[XENO:n ]\nI should find Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I don't need to go down here.[XENO:n ]\nI should find Dunban-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "We got kicked out...[XENO:n ]\nThey no let us go in.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We got kicked out-mo. Looks[XENO:n ]\nlike they won't let us inside-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

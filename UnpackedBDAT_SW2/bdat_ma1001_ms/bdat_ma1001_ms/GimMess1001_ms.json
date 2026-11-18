@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "High Entia Treasure"
+    },
+    {
+      "$id": 2,
+      "style": 14,
+      "name": "Khatorl Seal Release"
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "There appears to be no response."
+    },
+    {
+      "$id": 4,
+      "style": 14,
+      "name": "Transport Device"
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "It appears to be broken."
+    },
+    {
+      "$id": 6,
+      "style": 14,
+      "name": "Soltnar Seal Release"
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "There appears to be no response."
+    },
+    {
+      "$id": 8,
+      "style": 14,
+      "name": "Prison Island Seal Release"
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Windmill 4 Control Panel"
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "It appears to be broken."
+    },
+    {
+      "$id": 11,
+      "style": 14,
+      "name": "Ancient Insignia"
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "It appears to be sealed."
+    }
+  ]
+}

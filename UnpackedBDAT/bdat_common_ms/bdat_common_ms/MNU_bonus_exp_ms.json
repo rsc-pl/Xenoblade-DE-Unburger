@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 14,
-      "name": "ボーナスＥＸＰ：ON"
+      "name": "Bonus EXP: ON"
     },
     {
       "$id": 8,
       "style": 14,
-      "name": "ボーナスＥＸＰ：ＯＦＦ"
+      "name": "Bonus EXP: OFF"
     },
     {
       "$id": 9,
@@ -58,32 +58,32 @@
     {
       "$id": 10,
       "style": 79,
-      "name": "All experience points will be put\ntowards gaining levels. Manual level\nadjustment will not be possible."
+      "name": "All EXP is converted into levels\nimmediately. Manual level adjustment\nis unavailable."
     },
     {
       "$id": 11,
       "style": 7,
-      "name": "ＯＮにする"
+      "name": "Turn ON"
     },
     {
       "$id": 12,
       "style": 7,
-      "name": "ＯＦＦにする"
+      "name": "Turn OFF"
     },
     {
       "$id": 13,
       "style": 14,
-      "name": "On"
+      "name": "ON"
     },
     {
       "$id": 14,
       "style": 14,
-      "name": "Off"
+      "name": "OFF"
     },
     {
       "$id": 15,
       "style": 5,
-      "name": "Toggle"
+      "name": "Advanced"
     },
     {
       "$id": 16,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 136,
-      "name": "Expert mode is currently disabled."
+      "name": "Advanced Settings is currently disabled."
     }
   ]
 }

@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・When we had that big fight?/・When Dunban told us off? ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・When we had that big fight?/・When Dunban-san told us off? ][XENO:del del=all ]"
     },
     {
       "$id": 5,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You know, I don't say this enough.[XENO:n ]\nThanks, Reyn.[XENO:wait wait=key ][System:PageBreak ]I couldn't ask for a better friend.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=all ]"
+      "name": "[XENO:act act=EVT_EXT1 ]That's why I'm so grateful[XENO:n ]\nto you, Rein. Thank you.[XENO:wait wait=key ][System:PageBreak ]Let's keep looking out for each other.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=all ]"
     },
     {
       "$id": 18,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Reyn! How can you have[XENO:n ]\nforgotten already?[XENO:wait wait=key ][System:PageBreak ]You're the one who was[XENO:n ]\nreminding me![XENO:wait wait=key ][System:PageBreak ]Anyway, if I think back...[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Weren't we having a massive[XENO:n ]\nargument?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Hey,[XENO:n ]\nRein![XENO:wait wait=key ][System:PageBreak ]Have you[XENO:n ]\nforgotten?[XENO:wait wait=key ][System:PageBreak ]It was because[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]you and I had a huge[XENO:n ]\nfight, wasn't it?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 36,

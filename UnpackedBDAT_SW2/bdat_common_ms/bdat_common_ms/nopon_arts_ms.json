@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "Red Meteoroid"
+    },
+    {
+      "$id": 2,
+      "style": 25,
+      "name": "Area attack + major damage to one enemy"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "タンクアーツ"
+    },
+    {
+      "$id": 4,
+      "style": 25,
+      "name": "範囲攻撃を実行【ダミー】"
+    },
+    {
+      "$id": 5,
+      "style": 11,
+      "name": "Blue Comfort"
+    },
+    {
+      "$id": 6,
+      "style": 25,
+      "name": "Area atk / Heal + Debuff Immu. ([ML:icon icon=enh14 ]) to party"
+    },
+    {
+      "$id": 7,
+      "style": 11,
+      "name": "Yellow Runaway"
+    },
+    {
+      "$id": 8,
+      "style": 25,
+      "name": "Area atk with Daze ([ML:icon icon=enh39 ]) + Strength Down ([ML:icon icon=enh27 ])"
+    }
+  ]
+}

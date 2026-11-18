@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:sel sel=・I invited you./・You and Dunban... ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I invited you./・You and Dunban-san... ][XENO:del del=all ]"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]No, silly![XENO:wait wait=key ][System:PageBreak ]I had a big fight with Dunban[XENO:n ]\nand ran out of the house.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Remember?[XENO:wait wait=key ][System:PageBreak ]My older brother and I[XENO:n ]\nhad a huge fight...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You really had him shaken up.[XENO:n ]\nHe was worried about you.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dunban-san was really[XENO:n ]\nworried, you know?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]So we went the next day.[XENO:n ]\nYou, me and Reyn.[XENO:wait wait=key ][System:PageBreak ]You caught the biggest fish![XENO:n ]\nI'll never forget the size of it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]The next day, we took Rein along,[XENO:n ]\nand Fiorung caught an enormous fish.[XENO:wait wait=key ][System:PageBreak ]It really took me by surprise.[XENO:n ]\nI'll never forget it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 33,

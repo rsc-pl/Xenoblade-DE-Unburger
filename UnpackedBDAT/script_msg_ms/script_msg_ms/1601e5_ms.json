@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki and friends camp here once![XENO:n ]\nRiki talked to Dundun for ages![XENO:wait wait=key ][System:PageBreak ]Riki catch fish for Dundun and[XENO:n ]\nDundun say, 'Yum yum!'[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]When Riki camped here, he[XENO:n ]\ntalked with Dunban a lot-mo.[XENO:wait wait=key ][System:PageBreak ]Dunban said the fish Riki[XENO:n ]\ncaught was delicious-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Melly right![XENO:wait wait=key ][System:PageBreak ]But Melly shut eyes very early[XENO:n ]\nso Melly not eat any grill fish.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]That's right-mo![XENO:wait wait=key ][System:PageBreak ]Melia-chan slept right away.[XENO:n ]\nYou missed the grilled fish-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Melly not know?[XENO:wait wait=key ][System:PageBreak ]Grill fish so yum yum that[XENO:n ]\nDundun's eyes pop out![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]You don't know-mo?[XENO:wait wait=key ][System:PageBreak ]It's so delicious your cheeks[XENO:n ]\ncould fall off-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Melly must eat! Melly not[XENO:n ]\nforget taste later![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]You absolutely have to try[XENO:n ]\nit at least once-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Yay! Melly be very happy![XENO:wait wait=key ][System:PageBreak ]Riki find yum yum fish for[XENO:n ]\nMelly to eat.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's right, that's right-mo!?[XENO:wait wait=key ][System:PageBreak ]Riki will catch a delicious fish[XENO:n ]\nfor Melia-chan-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Boooring! Riki catch it now![XENO:n ]\nGrill fish tastier than tasty![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]What a waste-mo! The fish[XENO:n ]\nhere are really delicious-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Leave it to Riki![XENO:wait wait=key ][System:PageBreak ]Riki splish splash in water[XENO:n ]\nand get fish really quick![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]It'll be fiiine-mo![XENO:wait wait=key ][System:PageBreak ]If Riki splashes around, he[XENO:n ]\ncan catch one in no time-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "Melly wrong! Splish splash[XENO:n ]\nnot easy![XENO:wait wait=key ][System:PageBreak ]But Riki has bestest flip flap[XENO:n ]\nwings in all of village![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's not[XENO:n ]\neasy-mo![XENO:wait wait=key ][System:PageBreak ]But Riki is skilled, so he can[XENO:n ]\ncatch one quickly-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Riki will set ground on fire too![XENO:wait wait=key ][System:PageBreak ]Melly can sit and wait for[XENO:n ]\nRiki's special grill fish.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Riki will make the fire too-mo![XENO:wait wait=key ][System:PageBreak ]So Melia-chan should wait and[XENO:n ]\nlook forward to it-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "Melly will love fish![XENO:n ]\nRiki return very soon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Wait and look forward to it-mo![XENO:n ]\nRiki will be right back-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Riki know Melly want to eat![XENO:n ]\nMelly MUST eat![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]You don't have to hold back-mo![XENO:n ]\nMelia-chan wants to eat it too-mo!?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]Important things wait! Riki[XENO:n ]\nvery quick at catching fish![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]That's true, but Riki really[XENO:n ]\nwill catch one right away-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]But...but...but... OK.[XENO:n ]\nSo Melly have it later?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Then, then... Will you[XENO:n ]\neat one someday-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki promise![XENO:wait wait=key ][System:PageBreak ]Riki catch lots and lots of fish[XENO:n ]\nand bring them all to Melly![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki promises-mo![XENO:wait wait=key ][System:PageBreak ]He'll bring lots of[XENO:n ]\nfish to Melia-chan-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Melly mean! Why Melly so mean?![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Why would you say that-mo...?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "Melly not want to eat fish?[XENO:n ]\nFish not yum yum?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Why aren't you[XENO:n ]\ninterested-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]But that why it tastes yum yum![XENO:wait wait=key ][System:PageBreak ]Melly should close her eyes[XENO:n ]\nand then eat fish![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]It really is delicious-mo![XENO:wait wait=key ][System:PageBreak ]Riki wants you to try it, even if you[XENO:n ]\nthink he might be tricking you-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Oooh. Melly shout at Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Ugh... Melia-chan got mad at Riki-mo...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki sorry. Riki just want[XENO:n ]\nMelly to eat fish...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Melia-chan did nothing wrong-mo.[XENO:n ]\nBut Riki wanted you to eat it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki think so too. In that case[XENO:n ]\nMelly should not eat fish![XENO:wait wait=key ][System:PageBreak ]Next time Riki find food[XENO:n ]\nMelly like lots and lots.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Mm-hmm. In that case, it[XENO:n ]\ncan't be helped-mo.[XENO:wait wait=key ][System:PageBreak ]Next time Riki will give you[XENO:n ]\nsomething delicious to eat-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki can't wait to cook for Melly![XENO:wait wait=key ][System:PageBreak ]Heropon always learn[XENO:n ]\nfrom mistakes.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Leave it to Riki-mo![XENO:wait wait=key ][System:PageBreak ]A Nopon Hero never makes the[XENO:n ]\nsame mistake twice-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Melly not like Riki's idea?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]So it really is no good-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 126,
-      "name": "Riki only grill fish, Melly.[XENO:n ]\nMelly gobble it all up fast![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It only needs grilling, so it'll[XENO:n ]\nbe ready to eat right away-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 46,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki sorry. Riki just want[XENO:n ]\nMelly to eat fish...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Melia-chan did nothing wrong-mo.[XENO:n ]\nBut Riki wanted you to eat it-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki understand.[XENO:n ]\nMelly not upset now?[XENO:wait wait=key ][System:PageBreak ]Riki sorry for blindfold idea.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]That's true-mo.[XENO:n ]\nSorry, Melia-chan.[XENO:wait wait=key ][System:PageBreak ]Riki will be careful next time-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -263,7 +263,7 @@
     {
       "$id": 51,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]OK, Melly! Riki cook a storm![XENO:wait wait=key ][System:PageBreak ]Riki make Melly's stomach big[XENO:n ]\nand round with yum yum food![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Leave it to Riki-mo![XENO:wait wait=key ][System:PageBreak ]Next time, Riki will make sure[XENO:n ]\nMelia-chan is satisfied-mo![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

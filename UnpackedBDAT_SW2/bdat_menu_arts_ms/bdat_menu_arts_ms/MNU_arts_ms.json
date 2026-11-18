@@ -1,0 +1,809 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 50,
+      "name": "Release the Monado's power[XENO:n ]\nto enable Monado Arts."
+    },
+    {
+      "$id": 2,
+      "style": 50,
+      "name": "Strike the enemy with the weapon[XENO:n ]\nto inflict Break."
+    },
+    {
+      "$id": 3,
+      "style": 50,
+      "name": "Unleash the Monado's full power[XENO:n ]\non enemies in a straight line."
+    },
+    {
+      "$id": 4,
+      "style": 50,
+      "name": "Attacks pierce Machine God Soldier armour[XENO:n ]\nand deal additional damage."
+    },
+    {
+      "$id": 5,
+      "style": 50,
+      "name": "Blocks enemy Talent Arts at or below[XENO:n ]\nShield's Art level."
+    },
+    {
+      "$id": 6,
+      "style": 50,
+      "name": "Envelops allies in the Monado's wind[XENO:n ]\nto greatly boost physical evasion."
+    },
+    {
+      "$id": 7,
+      "style": 50,
+      "name": "The Monado's shock wave destroys auras[XENO:n ]\nand temporarily seals them."
+    },
+    {
+      "$id": 8,
+      "style": 50,
+      "name": "The Monado's power devours the enemy[XENO:n ]\nand their buffs as well."
+    },
+    {
+      "$id": 9,
+      "style": 50,
+      "name": "Imbues allies with the Monado's power,[XENO:n ]\nreducing physical and ether damage."
+    },
+    {
+      "$id": 10,
+      "style": 50,
+      "name": "Unleash the Monado's full power[XENO:n ]\non enemies in a circle."
+    },
+    {
+      "$id": 11,
+      "style": 50,
+      "name": "Strike an enemy from the side[XENO:n ]\nto lower their physical resistance."
+    },
+    {
+      "$id": 12,
+      "style": 50,
+      "name": "Deals heavy damage when used[XENO:n ]\nfrom behind the enemy."
+    },
+    {
+      "$id": 13,
+      "style": 50,
+      "name": "Gather ether from the air[XENO:n ]\nto restore one ally's HP."
+    },
+    {
+      "$id": 14,
+      "style": 50,
+      "name": "Strike the enemy with the weapon[XENO:n ]\nto inflict Daze."
+    },
+    {
+      "$id": 15,
+      "style": 50,
+      "name": "Inflicts Break and[XENO:n ]\nslows enemies when used from the side."
+    },
+    {
+      "$id": 16,
+      "style": 50,
+      "name": "Reduces aggro and increases[XENO:n ]\nphysical Art damage."
+    },
+    {
+      "$id": 17,
+      "style": 50,
+      "name": "Halves current HP in exchange[XENO:n ]\nfor a Talent Gauge increase."
+    },
+    {
+      "$id": 18,
+      "style": 50,
+      "name": "Sweep the weapon in a wide arc[XENO:n ]\nto damage multiple enemies ahead."
+    },
+    {
+      "$id": 19,
+      "style": 50,
+      "name": "Taunt the enemy to draw aggro[XENO:n ]\nand direct their attacks at you."
+    },
+    {
+      "$id": 20,
+      "style": 50,
+      "name": "Draw attention with a sweeping blow[XENO:n ]\nto gain aggro from nearby enemies."
+    },
+    {
+      "$id": 21,
+      "style": 50,
+      "name": "Thrust the weapon at an enemy's feet[XENO:n ]\nto inflict Topple."
+    },
+    {
+      "$id": 22,
+      "style": 50,
+      "name": "Deploy the weapon like a shield[XENO:n ]\nand take a defensive stance."
+    },
+    {
+      "$id": 23,
+      "style": 50,
+      "name": "Spin with the weapon extended[XENO:n ]\nto damage nearby enemies."
+    },
+    {
+      "$id": 24,
+      "style": 50,
+      "name": "Fire the tip of the weapon[XENO:n ]\nto deal heavy damage."
+    },
+    {
+      "$id": 25,
+      "style": 50,
+      "name": "An aura that sacrifices defence[XENO:n ]\nto focus on offence."
+    },
+    {
+      "$id": 26,
+      "style": 50,
+      "name": "Slam the deployed shield into an enemy[XENO:n ]\nto inflict Daze."
+    },
+    {
+      "$id": 27,
+      "style": 50,
+      "name": "An aura that generates heavy aggro[XENO:n ]\nto draw enemies' attention."
+    },
+    {
+      "$id": 28,
+      "style": 50,
+      "name": "An aura that lets you rise once[XENO:n ]\nby sheer will before defeat."
+    },
+    {
+      "$id": 29,
+      "style": 50,
+      "name": "An aura that reduces physical damage[XENO:n ]\nand raises the Talent Gauge over time."
+    },
+    {
+      "$id": 30,
+      "style": 50,
+      "name": "Channel pent-up energy into an Art[XENO:n ]\nto increase its damage."
+    },
+    {
+      "$id": 31,
+      "style": 50,
+      "name": "Put all your strength into a punch[XENO:n ]\nto send the enemy flying."
+    },
+    {
+      "$id": 32,
+      "style": 50,
+      "name": "A roundhouse kick that paralyses.[XENO:n ]\nLowers Agility after Bone Upper."
+    },
+    {
+      "$id": 33,
+      "style": 50,
+      "name": "Usable while an aura is active.[XENO:n ]\nDeals damage and lowers Strength."
+    },
+    {
+      "$id": 34,
+      "style": 50,
+      "name": "An aura that prevents knockback,[XENO:n ]\nbeing launched and loss of aggro."
+    },
+    {
+      "$id": 35,
+      "style": 50,
+      "name": "Hit multiple enemies ahead[XENO:n ]\nwith a lariat."
+    },
+    {
+      "$id": 36,
+      "style": 50,
+      "name": "Four rapid strikes with the weapon."
+    },
+    {
+      "$id": 37,
+      "style": 50,
+      "name": "Spin and slash with both blades.[XENO:n ]\nDeals heavy damage from behind."
+    },
+    {
+      "$id": 38,
+      "style": 50,
+      "name": "Thrust upwards from below[XENO:n ]\nto inflict Break."
+    },
+    {
+      "$id": 39,
+      "style": 50,
+      "name": "Charge up a mighty blow[XENO:n ]\nto inflict Daze."
+    },
+    {
+      "$id": 40,
+      "style": 50,
+      "name": "Slash sharply upwards to deal[XENO:n ]\ndamage and inflict Bleed."
+    },
+    {
+      "$id": 41,
+      "style": 50,
+      "name": "Release the power within and keep[XENO:n ]\nslashing as long as focus holds."
+    },
+    {
+      "$id": 42,
+      "style": 50,
+      "name": "Chain Slash 2 description"
+    },
+    {
+      "$id": 43,
+      "style": 50,
+      "name": "Chain Slash 3 description"
+    },
+    {
+      "$id": 44,
+      "style": 50,
+      "name": "Chain Slash 4 description"
+    },
+    {
+      "$id": 45,
+      "style": 50,
+      "name": "Thrust deep into the enemy[XENO:n ]\nwith a quick strike to inflict Bleed."
+    },
+    {
+      "$id": 46,
+      "style": 50,
+      "name": "Drive a straight kick into the enemy.[XENO:n ]\nInflicts Break after Gale Slash."
+    },
+    {
+      "$id": 47,
+      "style": 50,
+      "name": "An aura that raises Strength[XENO:n ]\nand cures allies' Panic."
+    },
+    {
+      "$id": 48,
+      "style": 50,
+      "name": "Two strikes lower physical resistance.[XENO:n ]\nLowers Strength after Gale Slash."
+    },
+    {
+      "$id": 49,
+      "style": 50,
+      "name": "An aura that taunts the enemy[XENO:n ]\nwith an unrelenting stare."
+    },
+    {
+      "$id": 50,
+      "style": 50,
+      "name": "Charge into the enemy with full force[XENO:n ]\nto inflict Topple."
+    },
+    {
+      "$id": 51,
+      "style": 50,
+      "name": "An aura of perfectly calm focus[XENO:n ]\nthat raises accuracy and evasion."
+    },
+    {
+      "$id": 52,
+      "style": 50,
+      "name": "Sacrifice your own HP[XENO:n ]\nto raise the Talent Gauge with sheer will."
+    },
+    {
+      "$id": 53,
+      "style": 50,
+      "name": "An aura that restores HP before defeat,[XENO:n ]\noffering a narrow escape from death."
+    },
+    {
+      "$id": 54,
+      "style": 50,
+      "name": "Deal damage with a vacuum wave.[XENO:n ]\nRemoves one buff after Gale Slash."
+    },
+    {
+      "$id": 55,
+      "style": 50,
+      "name": "An elusive stance that clears aggro[XENO:n ]\nand boosts critical rate."
+    },
+    {
+      "$id": 56,
+      "style": 50,
+      "name": "An aura that clears your debuffs[XENO:n ]\nand lets you slash at incredible speed."
+    },
+    {
+      "$id": 57,
+      "style": 50,
+      "name": "Spin into the air and attack[XENO:n ]\nnearby enemies with the resulting wave."
+    },
+    {
+      "$id": 58,
+      "style": 50,
+      "name": "Send a wave at enemies behind you.[XENO:n ]\nInflicts Daze if an aura is active."
+    },
+    {
+      "$id": 59,
+      "style": 50,
+      "name": "Pour everything into one blow[XENO:n ]\nand make all other enemies tremble."
+    },
+    {
+      "$id": 60,
+      "style": 50,
+      "name": "Draw attention with a flashy display[XENO:n ]\nto absorb battle members' aggro."
+    },
+    {
+      "$id": 61,
+      "style": 50,
+      "name": "Cool the ether rifle after it heats up[XENO:n ]\nfrom using Arts."
+    },
+    {
+      "$id": 62,
+      "style": 50,
+      "name": "Overdrive description"
+    },
+    {
+      "$id": 63,
+      "style": 50,
+      "name": "Fire a healing ether round[XENO:n ]\nto restore one ally's HP."
+    },
+    {
+      "$id": 64,
+      "style": 50,
+      "name": "Two consecutive attacks that land[XENO:n ]\ncritical hits on flying enemies."
+    },
+    {
+      "$id": 65,
+      "style": 50,
+      "name": "Deploy a special ether barrier[XENO:n ]\nthat negates a set amount of damage."
+    },
+    {
+      "$id": 66,
+      "style": 50,
+      "name": "Cure one ally's debuffs and[XENO:n ]\ngrant temporary debuff immunity."
+    },
+    {
+      "$id": 67,
+      "style": 50,
+      "name": "An aura that speeds up Art recast[XENO:n ]\nexcept for Drive Boost itself."
+    },
+    {
+      "$id": 68,
+      "style": 50,
+      "name": "Fire a healing ether round[XENO:n ]\nto greatly restore one ally's HP."
+    },
+    {
+      "$id": 69,
+      "style": 50,
+      "name": "Fire healing ether rounds into the air[XENO:n ]\nto restore nearby allies' HP."
+    },
+    {
+      "$id": 70,
+      "style": 50,
+      "name": "Always lands a critical hit and[XENO:n ]\ninstantly kills Dazed enemies."
+    },
+    {
+      "$id": 71,
+      "style": 50,
+      "name": "Fire a powerful ether round[XENO:n ]\nto Break enemies in a line ahead."
+    },
+    {
+      "$id": 72,
+      "style": 50,
+      "name": "Fire a special ether round[XENO:n ]\nthat extends aura duration."
+    },
+    {
+      "$id": 73,
+      "style": 50,
+      "name": "Fire a special ether round[XENO:n ]\nthat raises an ally's Tension."
+    },
+    {
+      "$id": 74,
+      "style": 50,
+      "name": "Land a powerful blow with the rifle butt[XENO:n ]\nto inflict Daze."
+    },
+    {
+      "$id": 75,
+      "style": 50,
+      "name": "An aura that stops aggro buildup,[XENO:n ]\nmaking enemies less likely to target you."
+    },
+    {
+      "$id": 76,
+      "style": 50,
+      "name": "Deploy a special ether barrier[XENO:n ]\nthat restores HP each time you're hit."
+    },
+    {
+      "$id": 77,
+      "style": 50,
+      "name": "Fire a hypnotic ether round[XENO:n ]\nto put the target to sleep."
+    },
+    {
+      "$id": 78,
+      "style": 50,
+      "name": "Cure nearby allies' debuffs and[XENO:n ]\ngrant temporary debuff immunity."
+    },
+    {
+      "$id": 79,
+      "style": 50,
+      "name": "Take \"something\" from the enemy.[XENO:n ]\nWhat Riki takes depends on his mood."
+    },
+    {
+      "$id": 80,
+      "style": 50,
+      "name": "Ostentatiously cheer on allies[XENO:n ]\nto raise the Party Gauge."
+    },
+    {
+      "$id": 81,
+      "style": 50,
+      "name": "Make the weapon bite and inflict Bleed.[XENO:n ]\nBleed lasts longer from behind."
+    },
+    {
+      "$id": 82,
+      "style": 50,
+      "name": "Deals heavy damage from behind,[XENO:n ]\nRiki's favourite spot to attack."
+    },
+    {
+      "$id": 83,
+      "style": 50,
+      "name": "An aura that lets Riki play dead[XENO:n ]\nand ambush unsuspecting enemies."
+    },
+    {
+      "$id": 84,
+      "style": 50,
+      "name": "Take poisonous Makna herbs in the mouth[XENO:n ]\nand spray them as mist ahead."
+    },
+    {
+      "$id": 85,
+      "style": 50,
+      "name": "An aura for a hero who faces the foe[XENO:n ]\nwith power bestowed by the heavens."
+    },
+    {
+      "$id": 86,
+      "style": 50,
+      "name": "Any enemy, in any state,[XENO:n ]\nmay suddenly trip and fall."
+    },
+    {
+      "$id": 87,
+      "style": 50,
+      "name": "Calm enemies with Makna flowers.[XENO:n ]\nMay even calm Crazed enemies."
+    },
+    {
+      "$id": 88,
+      "style": 50,
+      "name": "An aura that deals heavy damage[XENO:n ]\nwhen Riki suddenly loses his temper."
+    },
+    {
+      "$id": 89,
+      "style": 50,
+      "name": "Spin the weapon around[XENO:n ]\nto put nearby enemies to sleep."
+    },
+    {
+      "$id": 90,
+      "style": 50,
+      "name": "Cheer allies on to heal them.[XENO:n ]\nMore debuffs mean more healing."
+    },
+    {
+      "$id": 91,
+      "style": 50,
+      "name": "Joyfully whack an enemy.[XENO:n ]\nPanics Machine God Soldiers from the side."
+    },
+    {
+      "$id": 92,
+      "style": 50,
+      "name": "More debuffs mean greater damage,[XENO:n ]\nbut the enemy's debuffs are removed."
+    },
+    {
+      "$id": 93,
+      "style": 50,
+      "name": "Riki can finally breathe fire![XENO:n ]\nBurn all nearby enemies."
+    },
+    {
+      "$id": 94,
+      "style": 50,
+      "name": "Instantly freeze saliva from Riki's pouch[XENO:n ]\nand hurl it at the enemy."
+    },
+    {
+      "$id": 95,
+      "style": 50,
+      "name": "Three strikes that show Riki means it.[XENO:n ]\nAlso inflicts Break."
+    },
+    {
+      "$id": 96,
+      "style": 50,
+      "name": "Discharge a summoned element at the enemy.[XENO:n ]\nActivates an aura during Element Burst."
+    },
+    {
+      "$id": 97,
+      "style": 50,
+      "name": "Lightning element discharge description"
+    },
+    {
+      "$id": 98,
+      "style": 50,
+      "name": "Fire element discharge description"
+    },
+    {
+      "$id": 99,
+      "style": 50,
+      "name": "Ice element discharge description"
+    },
+    {
+      "$id": 100,
+      "style": 50,
+      "name": "Wind element discharge description"
+    },
+    {
+      "$id": 101,
+      "style": 50,
+      "name": "Earth element discharge description"
+    },
+    {
+      "$id": 102,
+      "style": 50,
+      "name": "Water element discharge description"
+    },
+    {
+      "$id": 103,
+      "style": 50,
+      "name": "Summon lightning to raise Ether.[XENO:n ]\nDischarge it to deal heavy damage."
+    },
+    {
+      "$id": 104,
+      "style": 50,
+      "name": "Summon fire to raise Strength.[XENO:n ]\nDischarge it to inflict Blaze."
+    },
+    {
+      "$id": 105,
+      "style": 50,
+      "name": "Summon ice to reduce ether damage.[XENO:n ]\nDischarge it to inflict Chill."
+    },
+    {
+      "$id": 106,
+      "style": 50,
+      "name": "Surround the enemy with a little ether[XENO:n ]\nto induce Sleep."
+    },
+    {
+      "$id": 107,
+      "style": 50,
+      "name": "A physical staff technique[XENO:n ]\nthat knocks the enemy back."
+    },
+    {
+      "$id": 108,
+      "style": 50,
+      "name": "Use ether from the earth[XENO:n ]\nto restrict nearby enemies' movement."
+    },
+    {
+      "$id": 109,
+      "style": 50,
+      "name": "Scan the last summoned element[XENO:n ]\nto create a duplicate."
+    },
+    {
+      "$id": 110,
+      "style": 50,
+      "name": "Deploy a special ether barrier[XENO:n ]\nthat reflects enemy attacks."
+    },
+    {
+      "$id": 111,
+      "style": 50,
+      "name": "Summon wind to raise Agility.[XENO:n ]\nDischarge it to deal area damage."
+    },
+    {
+      "$id": 112,
+      "style": 50,
+      "name": "Summon earth to reduce physical damage.[XENO:n ]\nDischarge it to inflict Poison."
+    },
+    {
+      "$id": 113,
+      "style": 50,
+      "name": "Summon water to restore HP.[XENO:n ]\nDischarge it to absorb enemy HP."
+    },
+    {
+      "$id": 114,
+      "style": 50,
+      "name": "Sacrifice your own HP[XENO:n ]\nto restore an ally's HP."
+    },
+    {
+      "$id": 115,
+      "style": 50,
+      "name": "A physical martial arts technique[XENO:n ]\nthat delivers a precise, powerful kick."
+    },
+    {
+      "$id": 116,
+      "style": 50,
+      "name": "An aura that calls forth the elements[XENO:n ]\nand expands their area of effect."
+    },
+    {
+      "$id": 117,
+      "style": 50,
+      "name": "Release hidden power to lower[XENO:n ]\nnearby enemies' damage resistance."
+    },
+    {
+      "$id": 118,
+      "style": 50,
+      "name": "Release the power within[XENO:n ]\nto seal enemy Arts."
+    },
+    {
+      "$id": 119,
+      "style": 50,
+      "name": "Form the flaps into a cannon[XENO:n ]\nand fire a huge beam straight ahead."
+    },
+    {
+      "$id": 120,
+      "style": 50,
+      "name": "Deploy the flaps in all directions[XENO:n ]\nto fire beams at nearby enemies."
+    },
+    {
+      "$id": 121,
+      "style": 50,
+      "name": "Turn the flaps into four arms[XENO:n ]\nand repeatedly slash the enemy ahead."
+    },
+    {
+      "$id": 122,
+      "style": 50,
+      "name": "Deploy the flaps as a barrier[XENO:n ]\nto apply Shield."
+    },
+    {
+      "$id": 123,
+      "style": 50,
+      "name": "Form the flaps into a cannon[XENO:n ]\nand fire a huge beam straight ahead."
+    },
+    {
+      "$id": 124,
+      "style": 50,
+      "name": "Deploy the flaps in all directions[XENO:n ]\nto fire beams at nearby enemies."
+    },
+    {
+      "$id": 125,
+      "style": 50,
+      "name": "Turn the flaps into four arms[XENO:n ]\nand repeatedly slash the enemy ahead."
+    },
+    {
+      "$id": 126,
+      "style": 50,
+      "name": "Deploy the flaps as a barrier to cure[XENO:n ]\ndebuffs and grant temporary immunity."
+    },
+    {
+      "$id": 127,
+      "style": 50,
+      "name": "Turn the flaps into four arms[XENO:n ]\nand repeatedly slash the enemy ahead."
+    },
+    {
+      "$id": 128,
+      "style": 50,
+      "name": "Deals heavy damage when used[XENO:n ]\nfrom behind the enemy."
+    },
+    {
+      "$id": 129,
+      "style": 50,
+      "name": "An aura that clears debuffs[XENO:n ]\nand grants Regenerate on activation."
+    },
+    {
+      "$id": 130,
+      "style": 50,
+      "name": "Deals heavy damage[XENO:n ]\nto Toppled enemies."
+    },
+    {
+      "$id": 131,
+      "style": 50,
+      "name": "Deliver a cross-shaped kick[XENO:n ]\nto inflict Daze."
+    },
+    {
+      "$id": 132,
+      "style": 50,
+      "name": "An aura that speeds up auto-attacks[XENO:n ]\nand gives a chance for double attacks."
+    },
+    {
+      "$id": 133,
+      "style": 50,
+      "name": "Deploy a special field[XENO:n ]\nto inflict Paralysis."
+    },
+    {
+      "$id": 134,
+      "style": 50,
+      "name": "An aura that taunts the enemy[XENO:n ]\nby locking on with your sights."
+    },
+    {
+      "$id": 135,
+      "style": 50,
+      "name": "Deploy a special field[XENO:n ]\nto absorb Ether."
+    },
+    {
+      "$id": 136,
+      "style": 50,
+      "name": "Unleash a single cross-blade slash[XENO:n ]\nat enemies ahead."
+    },
+    {
+      "$id": 137,
+      "style": 50,
+      "name": "Emit an ether wave nearby[XENO:n ]\nto Daze Machine God Soldiers."
+    },
+    {
+      "$id": 138,
+      "style": 50,
+      "name": "Strike the enemy to put them to sleep."
+    },
+    {
+      "$id": 139,
+      "style": 50,
+      "name": "Attack with crossed upper and lower fangs[XENO:n ]\nto inflict Break."
+    },
+    {
+      "$id": 140,
+      "style": 50,
+      "name": "Deploy a special field[XENO:n ]\nto absorb Strength."
+    },
+    {
+      "$id": 141,
+      "style": 50,
+      "name": "An aura that shifts from offence[XENO:n ]\nto defence to protect yourself."
+    },
+    {
+      "$id": 142,
+      "style": 50,
+      "name": "Build up power in all four limbs[XENO:n ]\nto increase physical Art damage."
+    },
+    {
+      "$id": 143,
+      "style": 50,
+      "name": "Open the ultimate chest weapon[XENO:n ]\nand rout enemies with an ether wave."
+    },
+    {
+      "$id": 144,
+      "style": 50,
+      "name": "Calm your nerves after using\ntoo many Arts and growing flustered."
+    },
+    {
+      "$id": 145,
+      "style": 50,
+      "name": "Release healing ether\nto restore one ally's HP."
+    },
+    {
+      "$id": 146,
+      "style": 50,
+      "name": "An aura that speeds up Art recast\nexcept for Boo-Boo Boost itself."
+    },
+    {
+      "$id": 147,
+      "style": 50,
+      "name": "Release healing ether\nto greatly restore one ally's HP."
+    },
+    {
+      "$id": 148,
+      "style": 50,
+      "name": "Release healing ether into the air\nto restore nearby allies' HP."
+    },
+    {
+      "$id": 149,
+      "style": 50,
+      "name": "Unleash a powerful attack\nto Break enemies in a line ahead."
+    },
+    {
+      "$id": 150,
+      "style": 50,
+      "name": "Release special ether\nthat extends aura duration."
+    },
+    {
+      "$id": 151,
+      "style": 50,
+      "name": "Release special ether\nthat raises an ally's Tension."
+    },
+    {
+      "$id": 152,
+      "style": 50,
+      "name": "Deliver a precise, powerful blow\nto inflict Daze."
+    },
+    {
+      "$id": 153,
+      "style": 50,
+      "name": "Release hypnotic ether\nto put the target to sleep."
+    },
+    {
+      "$id": 154,
+      "style": 50,
+      "name": "Hold the weapon in front\nand take a defensive stance."
+    },
+    {
+      "$id": 155,
+      "style": 50,
+      "name": "Slam the weapon down with full force\nto deal heavy damage."
+    },
+    {
+      "$id": 156,
+      "style": 50,
+      "name": "Leap and slam the weapon down\nto inflict Daze."
+    },
+    {
+      "$id": 157,
+      "style": 50,
+      "name": "Strike with all your might\nto send the enemy flying."
+    },
+    {
+      "$id": 158,
+      "style": 50,
+      "name": "A strike that paralyses the enemy.\nLowers Agility after Bone Upper."
+    },
+    {
+      "$id": 159,
+      "style": 50,
+      "name": "Strike quickly in front\nto damage multiple enemies."
+    }
+  ]
+}

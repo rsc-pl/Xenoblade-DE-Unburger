@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 12,
-      "name": "Area Maps"
+      "name": "Area Map"
     },
     {
       "$id": 2,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 12,
-      "name": "Arts and Skills"
+      "name": "Battle Settings"
     },
     {
       "$id": 6,
       "style": 27,
-      "name": "Manage Arts and Skill Trees."
+      "name": "Set Arts and Skill Lines."
     },
     {
       "$id": 7,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 27,
-      "name": "Set up party members."
+      "name": "Change battle members."
     },
     {
       "$id": 9,
@@ -58,12 +58,12 @@
     {
       "$id": 10,
       "style": 27,
-      "name": "View quests and other information."
+      "name": "View various logs."
     },
     {
       "$id": 11,
       "style": 12,
-      "name": "Other"
+      "name": "Options"
     },
     {
       "$id": 12,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 27,
-      "name": "Save or load progress and change settings."
+      "name": "Manage game data."
     },
     {
       "$id": 15,
       "style": 12,
-      "name": "Inventory"
+      "name": "Item Box"
     },
     {
       "$id": 16,
@@ -98,22 +98,22 @@
     {
       "$id": 18,
       "style": 27,
-      "name": "Craft gems from crystals."
+      "name": "Craft gems from crystals with companions."
     },
     {
       "$id": 19,
       "style": 12,
-      "name": "Collectopaedia"
+      "name": "Collepedia"
     },
     {
       "$id": 20,
       "style": 27,
-      "name": "Keep track of collectables."
+      "name": "Register collection items."
     },
     {
       "$id": 21,
       "style": 12,
-      "name": "Arts"
+      "name": "Arts Settings"
     },
     {
       "$id": 22,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 27,
-      "name": "Manage Skill Trees and set up Skill Links."
+      "name": "Set Skill Lines and Skill Links."
     },
     {
       "$id": 25,
@@ -138,42 +138,42 @@
     {
       "$id": 26,
       "style": 27,
-      "name": "Check quest details."
+      "name": "View details of accepted quests."
     },
     {
       "$id": 27,
       "style": 12,
-      "name": "Bonding Graph"
+      "name": "Bonding Chart"
     },
     {
       "$id": 28,
       "style": 27,
-      "name": "Check bonding."
+      "name": "View bonds with townspeople and companions."
     },
     {
       "$id": 29,
       "style": 12,
-      "name": "Bonding Talks"
+      "name": "Bonding Talk List"
     },
     {
       "$id": 30,
       "style": 27,
-      "name": "View list of Bonding Talks."
+      "name": "View Bonding Talks you've seen."
     },
     {
       "$id": 31,
       "style": 12,
-      "name": "Achievements"
+      "name": "Play Awards"
     },
     {
       "$id": 32,
       "style": 27,
-      "name": "Check achievements."
+      "name": "View records of your gameplay achievements."
     },
     {
       "$id": 33,
       "style": 12,
-      "name": "Change Time"
+      "name": "Time Settings"
     },
     {
       "$id": 34,
@@ -258,7 +258,7 @@
     {
       "$id": 50,
       "style": 11,
-      "name": "Items"
+      "name": "Acquired Items"
     },
     {
       "$id": 51,
@@ -333,12 +333,12 @@
     {
       "$id": 65,
       "style": 144,
-      "name": "Display button information in-game."
+      "name": "Set the display of HUD button instructions."
     },
     {
       "$id": 66,
       "style": 17,
-      "name": "Art Descriptions"
+      "name": "Battle Arts Descriptions"
     },
     {
       "$id": 67,
@@ -353,7 +353,7 @@
     {
       "$id": 69,
       "style": 144,
-      "name": "Display monsters' strength and type icons."
+      "name": "Show icons for enemy strength[XENO:n ]\nand detection methods."
     },
     {
       "$id": 70,
@@ -368,12 +368,12 @@
     {
       "$id": 72,
       "style": 17,
-      "name": "Buff/Debuff Info"
+      "name": "Buff/Debuff Notifications"
     },
     {
       "$id": 73,
       "style": 144,
-      "name": "Show information on buffs and debuffs."
+      "name": "Set how buff and debuff descriptions appear[XENO:n ]\nwhen they are applied."
     },
     {
       "$id": 74,
@@ -383,7 +383,7 @@
     {
       "$id": 75,
       "style": 11,
-      "name": "First Time"
+      "name": "First Time Only"
     },
     {
       "$id": 76,
@@ -398,7 +398,7 @@
     {
       "$id": 78,
       "style": 144,
-      "name": "Set how to manipulate the camera on the Y-axis."
+      "name": "Set the free camera's vertical input direction."
     },
     {
       "$id": 79,
@@ -408,7 +408,7 @@
     {
       "$id": 80,
       "style": 144,
-      "name": "Set how to manipulate the camera on the X-axis."
+      "name": "Set the free camera's horizontal input direction."
     },
     {
       "$id": 81,
@@ -428,7 +428,7 @@
     {
       "$id": 84,
       "style": 144,
-      "name": "Set the movement speed when manipulating[XENO:n ]\nthe camera on the Y-axis."
+      "name": "Set the speed of vertical movement[XENO:n ]\nof the free camera."
     },
     {
       "$id": 85,
@@ -438,7 +438,7 @@
     {
       "$id": 86,
       "style": 144,
-      "name": "Set the movement speed when manipulating[XENO:n ]\nthe camera on the X-axis."
+      "name": "Set the speed of horizontal movement[XENO:n ]\nof the free camera."
     },
     {
       "$id": 87,
@@ -508,7 +508,7 @@
     {
       "$id": 100,
       "style": 144,
-      "name": "Set whether the camera will correct itself[XENO:n ]\nin relation to the ground."
+      "name": "Set whether the camera automatically tilts up or down[XENO:n ]\naccording to the slope of the ground."
     },
     {
       "$id": 101,
@@ -573,12 +573,12 @@
     {
       "$id": 113,
       "style": 17,
-      "name": "Event Scrolling"
+      "name": "Event Page Advance"
     },
     {
       "$id": 114,
       "style": 144,
-      "name": "Set whether the dialogue scrolls automatically[XENO:n ]\nduring story events."
+      "name": "Set whether message pages advance automatically[XENO:n ]\nafter voices finish playing in events."
     },
     {
       "$id": 115,
@@ -633,27 +633,27 @@
     {
       "$id": 125,
       "style": 115,
-      "name": "Apply these settings?\n\n[System:Color name=item ](Settings other than the Casual Mode option\nwill be applied to all save data simultaneously.)[/System:Color]"
+      "name": "Exit game settings.[XENO:n ]\nApply changed settings?\n[System:Color name=item ]* Settings other than Casual Mode apply\nto all save data.[/System:Color]"
     },
     {
       "$id": 126,
       "style": 11,
-      "name": "Yes"
+      "name": "Apply"
     },
     {
       "$id": 127,
       "style": 11,
-      "name": "No"
+      "name": "Do Not Apply"
     },
     {
       "$id": 128,
       "style": 17,
-      "name": "Buff/Debuff Indicator"
+      "name": "Buff/Debuff Effects"
     },
     {
       "$id": 129,
       "style": 144,
-      "name": "Set whether a message is displayed to show that[XENO:n ]\na buff, debuff or skill has been applied."
+      "name": "Set whether buff, debuff and skill activation effects[XENO:n ]\nare shown."
     },
     {
       "$id": 130,
@@ -673,7 +673,7 @@
     {
       "$id": 133,
       "style": 144,
-      "name": "Set whether the next location is indicated."
+      "name": "Set whether the next destination is shown."
     },
     {
       "$id": 134,
@@ -693,7 +693,7 @@
     {
       "$id": 137,
       "style": 144,
-      "name": "Set camera correction in battles with large enemies."
+      "name": "Set camera correction during battles[XENO:n ]\nwith large enemies."
     },
     {
       "$id": 138,
@@ -708,12 +708,12 @@
     {
       "$id": 140,
       "style": 17,
-      "name": "Subtitles"
+      "name": "Cutscene Subtitles"
     },
     {
       "$id": 141,
       "style": 144,
-      "name": "Set whether subtitles are displayed or not."
+      "name": "Set whether subtitles are shown during events."
     },
     {
       "$id": 142,
@@ -728,7 +728,7 @@
     {
       "$id": 144,
       "style": 11,
-      "name": "Gamma"
+      "name": "Screen Adjustment"
     },
     {
       "$id": 145,
@@ -798,12 +798,12 @@
     {
       "$id": 158,
       "style": 23,
-      "name": "Adjust your party members' equipment."
+      "name": "Change character equipment."
     },
     {
       "$id": 159,
       "style": 12,
-      "name": "Collectables"
+      "name": "Collection"
     },
     {
       "$id": 160,
@@ -853,7 +853,7 @@
     {
       "$id": 169,
       "style": 23,
-      "name": "Set which notifications are shown."
+      "name": "Set notices and pop-ups."
     },
     {
       "$id": 170,
@@ -863,7 +863,7 @@
     {
       "$id": 171,
       "style": 23,
-      "name": "Set auto-scroll and subtitle display."
+      "name": "Set auto-advance and subtitle display."
     },
     {
       "$id": 172,
@@ -903,12 +903,12 @@
     {
       "$id": 179,
       "style": 144,
-      "name": "Set whether the mini-map rotates."
+      "name": "Set whether the mini-map rotates or stays fixed."
     },
     {
       "$id": 180,
       "style": 17,
-      "name": "Travel Guidance"
+      "name": "Navigation Route"
     },
     {
       "$id": 181,
@@ -938,12 +938,12 @@
     {
       "$id": 186,
       "style": 17,
-      "name": "Vision Animations"
+      "name": "Future Sight Effects"
     },
     {
       "$id": 187,
       "style": 144,
-      "name": "Set whether vision animations are played."
+      "name": "Set whether Future Sight effects are played."
     },
     {
       "$id": 188,
@@ -958,7 +958,7 @@
     {
       "$id": 190,
       "style": 17,
-      "name": "Update Notification Icons"
+      "name": "Attention Marks"
     },
     {
       "$id": 191,
@@ -968,12 +968,12 @@
     {
       "$id": 192,
       "style": 17,
-      "name": "Other Notifications"
+      "name": "All Notification Settings"
     },
     {
       "$id": 193,
       "style": 144,
-      "name": "Show other on-screen notifications."
+      "name": "Set the following HUD notifications together."
     },
     {
       "$id": 194,
@@ -983,7 +983,7 @@
     {
       "$id": 195,
       "style": 144,
-      "name": "Show buff/debuff effects and skill names\nover characters' heads on activation."
+      "name": "Show effect names above characters when buffs, debuffs[XENO:n ]\nor skills activate."
     },
     {
       "$id": 196,
@@ -1003,17 +1003,17 @@
     {
       "$id": 199,
       "style": 144,
-      "name": "Show notifications when you pick up items."
+      "name": "Show notifications for items picked up in the field."
     },
     {
       "$id": 200,
       "style": 17,
-      "name": "Achievements"
+      "name": "Play Award Notifications"
     },
     {
       "$id": 201,
       "style": 144,
-      "name": "Show notifications when earning an achievement."
+      "name": "Show notifications when earning Play Awards."
     },
     {
       "$id": 202,
@@ -1023,7 +1023,7 @@
     {
       "$id": 203,
       "style": 144,
-      "name": "Show notifications when Riki's \"Yoink!\" is successful."
+      "name": "Notify when Riki succeeds with \"I'll Take This-mo\"."
     },
     {
       "$id": 204,
@@ -1033,7 +1033,7 @@
     {
       "$id": 205,
       "style": 144,
-      "name": "Show notifications when a quest is updated."
+      "name": "Show notifications when quest tasks are updated."
     },
     {
       "$id": 206,
@@ -1063,12 +1063,12 @@
     {
       "$id": 211,
       "style": 144,
-      "name": "Show notifications when party/location affinity changes."
+      "name": "Notify when bonds among companions or with towns[XENO:n ]\nchange."
     },
     {
       "$id": 212,
       "style": 17,
-      "name": "Invert Y-axis"
+      "name": "Invert Up/Down"
     },
     {
       "$id": 213,
@@ -1078,7 +1078,7 @@
     {
       "$id": 214,
       "style": 17,
-      "name": "Invert X-axis"
+      "name": "Invert Left/Right"
     },
     {
       "$id": 215,
@@ -1088,27 +1088,27 @@
     {
       "$id": 216,
       "style": 17,
-      "name": "オートカメラ時の補間速度"
+      "name": "Auto Camera Interp. Speed"
     },
     {
       "$id": 217,
       "style": 144,
-      "name": "オートカメラ時の補間速度の説明"
+      "name": "Description of auto camera interpolation speed"
     },
     {
       "$id": 218,
       "style": 17,
-      "name": "Camera Reset Speed"
+      "name": "Camera Reset Interp Speed"
     },
     {
       "$id": 219,
       "style": 144,
-      "name": "Set the speed at which the camera resets its position."
+      "name": "Set the camera reset interpolation speed."
     },
     {
       "$id": 220,
       "style": 17,
-      "name": "Camera Pan Speed"
+      "name": "Camera Rotation Speed"
     },
     {
       "$id": 221,
@@ -1128,12 +1128,12 @@
     {
       "$id": 224,
       "style": 17,
-      "name": "Gradient Correction"
+      "name": "Angle Correction"
     },
     {
       "$id": 225,
       "style": 144,
-      "name": "Set whether the camera adjusts when scaling a slope."
+      "name": "Set whether the camera auto-adjusts on slopes."
     },
     {
       "$id": 226,
@@ -1148,17 +1148,17 @@
     {
       "$id": 228,
       "style": 17,
-      "name": "BGM切替"
+      "name": "BGM Switching"
     },
     {
       "$id": 229,
       "style": 144,
-      "name": "BGM切替の説明"
+      "name": "Description of BGM selection"
     },
     {
       "$id": 230,
       "style": 17,
-      "name": "Cutscene Voice Volume"
+      "name": "Cutscene Volume"
     },
     {
       "$id": 231,
@@ -1208,7 +1208,7 @@
     {
       "$id": 240,
       "style": 11,
-      "name": "Custom"
+      "name": "Individual"
     },
     {
       "$id": 241,
@@ -1218,7 +1218,7 @@
     {
       "$id": 242,
       "style": 11,
-      "name": "Expert Mode"
+      "name": "Advanced Settings"
     },
     {
       "$id": 243,
@@ -1238,12 +1238,12 @@
     {
       "$id": 246,
       "style": 11,
-      "name": "Bonus Rewards"
+      "name": "Bonus"
     },
     {
       "$id": 247,
       "style": 11,
-      "name": "時間変更"
+      "name": "Change Time"
     },
     {
       "$id": 248,
@@ -1253,7 +1253,7 @@
     {
       "$id": 249,
       "style": 11,
-      "name": "Target Time"
+      "name": "New Time"
     },
     {
       "$id": 250,
@@ -1283,32 +1283,32 @@
     {
       "$id": 255,
       "style": 12,
-      "name": "Quiet Moments"
+      "name": "Companion Talks"
     },
     {
       "$id": 256,
       "style": 27,
-      "name": "A list of the Quiet Moments you've found so far."
+      "name": "View Companion Talks you've seen so far."
     },
     {
       "$id": 257,
       "style": 12,
-      "name": "Ponspector Report"
+      "name": "Noponjaa Report"
     },
     {
       "$id": 258,
       "style": 27,
-      "name": "Ponspector survey records."
+      "name": "Noponjaa survey records."
     },
     {
       "$id": 259,
       "style": 17,
-      "name": "Ponspectors"
+      "name": "Noponjaa Display"
     },
     {
       "$id": 260,
       "style": 57,
-      "name": "Set whether Ponspectors appear behind you\non the field. (In battle, they are always visible.)"
+      "name": "Show Noponjaa following you in the field.[XENO:n ]\n(Always displayed during battle.)"
     },
     {
       "$id": 261,

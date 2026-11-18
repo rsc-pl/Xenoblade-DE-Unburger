@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Friends stop for Riki![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Both of you, stop-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT15 ]Riki very hungry! And Riki sleepy![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT15 ]Riki is hungry-mo! And really sleepy-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]If Riki not rest now, Riki not keep going![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rest now, or Riki can't move anymore-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Good! Break time![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Then it's settled-mo![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

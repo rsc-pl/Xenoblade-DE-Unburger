@@ -103,12 +103,12 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "This is just a wild guess, but...[XENO:n ]\nMelia, can you swim?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, Melia,[XENO:n ]\ncan't you swim?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
       "style": 126,
-      "name": "That is not why I refuse![XENO:wait wait=key ][System:PageBreak ]Have you any reason to doubt[XENO:n ]\nthat I can swim?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "N-no![XENO:wait wait=key ][System:PageBreak ]You've seen me swim,[XENO:n ]\nhaven't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -123,27 +123,27 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "It's OK. No one's watching.[XENO:wait wait=key ][System:PageBreak ]I even brought swimsuits for us![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's all right. No one's watching.[XENO:wait wait=key ][System:PageBreak ]You have a swimsuit with you, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 126,
-      "name": "All right then...[XENO:n ]\nIf you think it's safe...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Y-yes,[XENO:n ]\nall right.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
       "style": 126,
-      "name": "Great! Let's go swimming, Melia![XENO:wait wait=key ][System:PageBreak ]We'll both keep a look out[XENO:n ]\nfor Reyn and Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Settled! Come on, let's go![XENO:wait wait=key ][System:PageBreak ]Before the men[XENO:n ]\nnotice...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
       "style": 126,
-      "name": "W-wait, Carna![XENO:wait wait=key ][System:PageBreak ]I feel certain this isn't[XENO:n ]\ngoing to end well...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "N-no![XENO:wait wait=key ][System:PageBreak ]Wait a moment,[XENO:n ]\nCarna![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "Don't get your knickers in a twist![XENO:n ]\nI'm just worried about you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You don't have to get[XENO:n ]\nso worked up about it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -188,57 +188,57 @@
     {
       "$id": 36,
       "style": 126,
-      "name": "An ether river? I have heard[XENO:n ]\nof this phenomenon.[XENO:wait wait=key ][System:PageBreak ]When ether particles collide,[XENO:n ]\nit causes a chain reaction.[XENO:wait wait=key ][System:PageBreak ]The heat produced by all those[XENO:n ]\nreactions can be extraordinary.[XENO:wait wait=key ][System:PageBreak ]I did not realise you lived[XENO:n ]\nso close to such a place.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see. I've[XENO:n ]\nheard about that.[XENO:wait wait=key ][System:PageBreak ]When large quantities of identical[XENO:n ]\nether particles gather,[XENO:wait wait=key ][System:PageBreak ]it triggers[XENO:n ]\na chain reaction[XENO:wait wait=key ][System:PageBreak ]that generates very[XENO:n ]\nhigh temperatures.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
       "style": 126,
-      "name": "Thinking back, the Central Pit[XENO:n ]\nwas far hotter than Makna.[XENO:wait wait=key ][System:PageBreak ]I wish I could have shown you...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thinking back, the Central[XENO:n ]\nPit was even hotter.[XENO:wait wait=key ][System:PageBreak ]I wish I could have taken you there too, Melia.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
       "style": 126,
-      "name": "I may have had to decline[XENO:n ]\nin any case.[XENO:wait wait=key ][System:PageBreak ]I don't think I'd have lasted[XENO:n ]\na minute in there.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "No, I'd[XENO:n ]\nrather not.[XENO:wait wait=key ][System:PageBreak ]I doubt I could stay[XENO:n ]\non my feet there.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
       "style": 126,
-      "name": "Hehehe. Shame we'll never know![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hehe, you may be right about that.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
       "style": 126,
-      "name": "I'm from Colony 6, which is home[XENO:n ]\nto a gigantic ether crystal mine.[XENO:wait wait=key ][System:PageBreak ]An ether river runs through[XENO:n ]\nthe very deepest point.[XENO:wait wait=key ][System:PageBreak ]It's scorching down there![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "My home, Colony 6, had[XENO:n ]\nan enormous ether crystal mine.[XENO:wait wait=key ][System:PageBreak ]A searing flow of ether[XENO:n ]\nsurged underground.[XENO:wait wait=key ][System:PageBreak ]It generated tremendous heat.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
       "style": 126,
-      "name": "An ether river? I have heard[XENO:n ]\nof this phenomenon.[XENO:wait wait=key ][System:PageBreak ]When ether particles collide,[XENO:n ]\nit causes a chain reaction.[XENO:wait wait=key ][System:PageBreak ]The heat produced by all those[XENO:n ]\nreactions can be extraordinary.[XENO:wait wait=key ][System:PageBreak ]I did not realise you lived[XENO:n ]\nso close to such a place.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see. I've[XENO:n ]\nheard about that.[XENO:wait wait=key ][System:PageBreak ]When large quantities of identical[XENO:n ]\nether particles gather,[XENO:wait wait=key ][System:PageBreak ]it triggers[XENO:n ]\na chain reaction[XENO:wait wait=key ][System:PageBreak ]that generates very[XENO:n ]\nhigh temperatures.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
       "style": 126,
-      "name": "Looking back, this place is a cool[XENO:n ]\nbreeze next to the Central Pit.[XENO:wait wait=key ][System:PageBreak ]I wish I could have shown you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thinking back, the Central[XENO:n ]\nPit was even hotter.[XENO:wait wait=key ][System:PageBreak ]I wish I could have taken you there too, Melia.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
       "style": 126,
-      "name": "Perhaps you could show me some[XENO:n ]\nof your colony's other sights.[XENO:wait wait=key ][System:PageBreak ]Ones that don't involve me[XENO:n ]\nfainting from heat exhaustion.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm interested[XENO:n ]\nin the place,[XENO:wait wait=key ][System:PageBreak ]since it's[XENO:n ]\nyour homeland, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,
       "style": 126,
-      "name": "I'd love to, but most of them were[XENO:n ]\ndestroyed by the Mechon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "But it's gone now. The Machine[XENO:n ]\nGod Soldiers destroyed the mine.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,
       "style": 126,
-      "name": "That's awful.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 46,
       "style": 126,
-      "name": "The colony was built on top[XENO:n ]\nof the mine.[XENO:wait wait=key ][System:PageBreak ]And the mine's still there,[XENO:n ]\nmore or less.[XENO:wait wait=key ][System:PageBreak ]With any luck, we can rebuild our[XENO:n ]\nhome bigger and better than ever.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thanks[XENO:n ]\nto the mine,[XENO:wait wait=key ][System:PageBreak ]Colony 6 was able[XENO:n ]\nto develop into a town.[XENO:wait wait=key ][System:PageBreak ]I hope we can[XENO:n ]\nrebuild it someday.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,

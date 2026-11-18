@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Friends act strange![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Everyone, what's wrong-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Are friends sad? Riki sad too[XENO:n ]\nbecause of empty belly.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Something's strange-mo. Really strange-mo. Are you[XENO:n ]\nsad because your tummy is rumbling-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki, we already ate.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Old man, we just ate.[XENO:wait wait=key ]"
     },
     {
       "$id": 4,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Not hungry?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Is that so-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
     },
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Hom Hom must have small[XENO:n ]\nbellies. Riki jealous![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Hom Hom are very patient-mo.[XENO:n ]\nRiki respects you-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Is it because of the girl who was operating that Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Is it because of the girl who was operating that Machine Soldier?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,

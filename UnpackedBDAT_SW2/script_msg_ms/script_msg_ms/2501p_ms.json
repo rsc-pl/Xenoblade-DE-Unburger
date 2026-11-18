@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:shp shp=37 ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Do come again![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:shp shp=38 ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "Come back soon![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Times being what they are, I figured\nI might as well open my shop...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:shp shp=39 ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Thanks for your custom.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:shp shp=200 ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Fare well now.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "The soldiers from the Cape are here...\nWe'll fight arm in arm to drive back\nthe monsters![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "msg_2501t2am_NP290008_04_006"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "So the Companions will fight alongside us?\nNow that's what I'm talking about! All right,\nlet's give those beasts a taste of steel![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "msg_2501t2am_NP290007_05_006"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Now that the warriors from the cape\nhave joined our ranks, victory is within\nour grasp![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "msg_2501t2am_NP290009_04_006"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "If the beasts get inside the town, it's over!\nThat's exactly why I'm keeping guard here![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "msg_2501t2am_NP290010_04_006"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "With the Cape's soldiers bolstering our\nforces, we'll show the enemy what-for![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "msg_2501t2am_NP290006_05_006"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Thanks for bringing the Companions!\nIt'll let us turn the tables for sure![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "msg_2501t2am_NP290012_05_006"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "We're grateful for the added manpower.\nIt's really given us a second wind.[XENO:wait wait=key ][System:PageBreak ]Now that we've got the numbers,\nwe should be able to repel the Fogbeasts.\nSo let's get to it![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "msg_2501t2am_NP290042_07_006"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Warriors from the Cape!\nLet's slay us some Fogbeasts![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "msg_2501t2am_NP290013_05_006"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I'm hard at work setting up a very special\nkind of shop here. I'd love it if you could\ncome back later![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "Weapons! Armour!\nSee anything you like?[XENO:wait wait=key ][System:PageBreak ]...Just kidding, heheh.\nFooled you, didn't I?[XENO:wait wait=key ][System:PageBreak ]I did sell those sorts of things back when\nwe were at Companions' Cape, mind...[XENO:wait wait=key ][System:PageBreak ]But here in Gran Dell, there's already\na well-stocked store like that, so I didn't\nfeel like dealing with the competition.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I don't think I'm cut out for slacking off\nlike this for too long. Maybe the vendor\nhere could use an assistant...?[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

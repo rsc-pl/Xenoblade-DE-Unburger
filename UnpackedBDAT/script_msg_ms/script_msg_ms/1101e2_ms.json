@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]I have to say that sounds[XENO:n ]\njust like you, Reyn.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]I have to say that sounds[XENO:n ]\njust like you, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]I cannot believe that Shulk[XENO:n ]\nis anything like you, Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I cannot believe that Shulk[XENO:n ]\nis anything like you, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "I somewhat get your point, Reyn.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]I am jealous, in a way.[XENO:wait wait=key ][System:PageBreak ]I have spent my life constrained[XENO:n ]\nby the expectations of my peers.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I somewhat get your point, Rein.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]I am jealous, in a way.[XENO:wait wait=key ][System:PageBreak ]I have spent my life constrained[XENO:n ]\nby the expectations of my peers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I heard he even argued[XENO:n ]\nwith my brother.[XENO:wait wait=key ][System:PageBreak ]He sensed I was in danger and[XENO:n ]\npersuaded him to let you find me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I heard he even argued[XENO:n ]\nwith my older brother.[XENO:wait wait=key ][System:PageBreak ]He sensed I was in danger and[XENO:n ]\npersuaded him to let you find me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -148,12 +148,12 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Wh-what is it, Reyn?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Wh-what is it, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I'm the one who stood up to[XENO:n ]\nKallian, not Shulk![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I'm the one who stood up to[XENO:n ]\nKallian-san, not Shulk![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Everyone has a story or two[XENO:n ]\nto tell. This is mine.[XENO:wait wait=key ][System:PageBreak ]Now come on, Reyn. Time to go.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Everyone has a story or two[XENO:n ]\nto tell. This is mine.[XENO:wait wait=key ][System:PageBreak ]Now come on, Rein. Time to go.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]Carna was right! Reyn can be[XENO:n ]\nsweet...every now and then.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]Carna was right! Rein can be[XENO:n ]\nsweet...every now and then.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -263,7 +263,7 @@
     {
       "$id": 51,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]And how is it, Reyn?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]And how is it, Rein?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 52,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 126,
-      "name": "Are you all right, Reyn?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Are you all right, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I told you so, Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I told you so, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 56,

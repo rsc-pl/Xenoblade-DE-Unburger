@@ -1,0 +1,499 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 117,
+      "name": "\\[Strength Up\\][XENO:n ]\nIncreases Strength."
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "\\[Chill Defence\\][XENO:n ]\nReduces Chill damage."
+    },
+    {
+      "$id": 3,
+      "style": 117,
+      "name": "\\[Sleep Resist\\][XENO:n ]\nGrants resistance to Sleep."
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "\\[Slow Resist\\][XENO:n ]\nGrants resistance to Slow."
+    },
+    {
+      "$id": 5,
+      "style": 117,
+      "name": "\\[Bind Resist\\][XENO:n ]\nGrants resistance to Bind."
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "\\[Buff Duration\\][XENO:n ]\nExtends the duration of gem buffs."
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "\\[Weapon Proc Up\\][XENO:n ]\nRaises weapon gem activation rate."
+    },
+    {
+      "$id": 8,
+      "style": 117,
+      "name": "\\[Strength Down\\][XENO:n ]\nHits may lower the target's Strength."
+    },
+    {
+      "$id": 9,
+      "style": 117,
+      "name": "\\[Blaze Boost\\][XENO:n ]\nIncreases Blaze damage dealt."
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "\\[Blaze Attack\\][XENO:n ]\nHits have a chance to deal[XENO:n ]\nadditional Blaze damage."
+    },
+    {
+      "$id": 11,
+      "style": 117,
+      "name": "\\[Spike\\][XENO:n ]\nDeals damage when you are attacked."
+    },
+    {
+      "$id": 12,
+      "style": 117,
+      "name": "\\[Revival HP Up\\][XENO:n ]\nRestores more HP on revival in battle."
+    },
+    {
+      "$id": 13,
+      "style": 117,
+      "name": "\\[Initial Tension\\][XENO:n ]\nRaises Tension at the start of battle."
+    },
+    {
+      "$id": 14,
+      "style": 117,
+      "name": "\\[Aggro Up\\][XENO:n ]\nMore aggro when dealing damage."
+    },
+    {
+      "$id": 15,
+      "style": 117,
+      "name": "\\[EXP Up\\][XENO:n ]\nEarn more EXP for defeating monsters."
+    },
+    {
+      "$id": 16,
+      "style": 117,
+      "name": "\\[Strength Weaken\\][XENO:n ]\nReduces Strength."
+    },
+    {
+      "$id": 17,
+      "style": 117,
+      "name": "\\[HP Up\\][XENO:n ]\nIncreases max HP."
+    },
+    {
+      "$id": 18,
+      "style": 117,
+      "name": "\\[Poison Defence\\][XENO:n ]\nReduces Poison damage."
+    },
+    {
+      "$id": 19,
+      "style": 117,
+      "name": "\\[Spike Defence\\][XENO:n ]\nReduces spike damage."
+    },
+    {
+      "$id": 20,
+      "style": 117,
+      "name": "\\[Paralysis Resist\\][XENO:n ]\nGrants resistance to Paralysis."
+    },
+    {
+      "$id": 21,
+      "style": 117,
+      "name": "\\[Debuff Res: All\\][XENO:n ]\nGrants resistance to all debuffs."
+    },
+    {
+      "$id": 22,
+      "style": 117,
+      "name": "\\[Recovery Up\\][XENO:n ]\nIncreases HP recovery received."
+    },
+    {
+      "$id": 23,
+      "style": 117,
+      "name": "\\[Aura Heal\\][XENO:n ]\nRestores HP periodically during an aura."
+    },
+    {
+      "$id": 24,
+      "style": 117,
+      "name": "\\[Damage Heal\\][XENO:n ]\nMay restore HP when attacked."
+    },
+    {
+      "$id": 25,
+      "style": 117,
+      "name": "\\[Arts Heal\\][XENO:n ]\nRestores HP when using Arts."
+    },
+    {
+      "$id": 26,
+      "style": 117,
+      "name": "\\[HP Absorb\\][XENO:n ]\nHits may restore HP."
+    },
+    {
+      "$id": 27,
+      "style": 117,
+      "name": "\\[Incap. Resist\\][XENO:n ]\nMay survive otherwise fatal damage."
+    },
+    {
+      "$id": 28,
+      "style": 117,
+      "name": "\\[AP Up\\][XENO:n ]\nEarn more AP for defeating monsters."
+    },
+    {
+      "$id": 29,
+      "style": 117,
+      "name": "\\[Aquatic Cloak\\][XENO:n ]\nShorter aquatic monster detection range."
+    },
+    {
+      "$id": 30,
+      "style": 117,
+      "name": "\\[Auto-Heal Up\\][XENO:n ]\nIncreases natural HP recovery."
+    },
+    {
+      "$id": 31,
+      "style": 117,
+      "name": "\\[Terrain Defence\\][XENO:n ]\nReduces damage from terrain."
+    },
+    {
+      "$id": 32,
+      "style": 117,
+      "name": "\\[HP Weaken\\][XENO:n ]\nReduces max HP."
+    },
+    {
+      "$id": 33,
+      "style": 117,
+      "name": "\\[Ether Up\\][XENO:n ]\nIncreases Ether."
+    },
+    {
+      "$id": 34,
+      "style": 117,
+      "name": "\\[Double Attack\\][XENO:n ]\nRaises the double attack rate."
+    },
+    {
+      "$id": 35,
+      "style": 117,
+      "name": "\\[Daze Resist\\][XENO:n ]\nGrants resistance to Daze."
+    },
+    {
+      "$id": 36,
+      "style": 117,
+      "name": "\\[Pierce Resist\\][XENO:n ]\nGrants resistance to Pierce."
+    },
+    {
+      "$id": 37,
+      "style": 117,
+      "name": "\\[Daze Duration\\][XENO:n ]\nExtends the target's Daze duration."
+    },
+    {
+      "$id": 38,
+      "style": 117,
+      "name": "\\[Phys. Resist Down\\][XENO:n ]\nHits may lower the target's[XENO:n ]\nphysical resistance."
+    },
+    {
+      "$id": 39,
+      "style": 117,
+      "name": "\\[Paralysis\\][XENO:n ]\nHits may inflict Paralysis."
+    },
+    {
+      "$id": 40,
+      "style": 117,
+      "name": "\\[Lightning Attack\\][XENO:n ]\nHits deal additional[XENO:n ]\nElectric damage."
+    },
+    {
+      "$id": 41,
+      "style": 117,
+      "name": "\\[Electric Boost\\][XENO:n ]\nIncreases Electric damage dealt."
+    },
+    {
+      "$id": 42,
+      "style": 117,
+      "name": "\\[Back Atk Boost\\][XENO:n ]\nIncreases damage dealt from behind."
+    },
+    {
+      "$id": 43,
+      "style": 117,
+      "name": "\\[First Atk Boost\\][XENO:n ]\nBoosts the first hit after drawing."
+    },
+    {
+      "$id": 44,
+      "style": 117,
+      "name": "\\[Daze Damage Up\\][XENO:n ]\nBoosts damage to dazed monsters."
+    },
+    {
+      "$id": 45,
+      "style": 117,
+      "name": "\\[Cast Time Down\\][XENO:n ]\nShortens your cast time."
+    },
+    {
+      "$id": 46,
+      "style": 117,
+      "name": "\\[Tension Swing\\][XENO:n ]\nReduces how much Tension fluctuates."
+    },
+    {
+      "$id": 47,
+      "style": 117,
+      "name": "\\[Daze Tension\\][XENO:n ]\nRaises Tension each time[XENO:n ]\nyou attack a dazed monster."
+    },
+    {
+      "$id": 48,
+      "style": 117,
+      "name": "\\[Ether Weaken\\][XENO:n ]\nReduces Ether."
+    },
+    {
+      "$id": 49,
+      "style": 117,
+      "name": "\\[Ether Def Up\\][XENO:n ]\nIncreases ether defence."
+    },
+    {
+      "$id": 50,
+      "style": 117,
+      "name": "\\[Blaze Defence\\][XENO:n ]\nReduces Blaze damage."
+    },
+    {
+      "$id": 51,
+      "style": 117,
+      "name": "\\[Lock On Resist\\][XENO:n ]\nGrants resistance to Lock On."
+    },
+    {
+      "$id": 52,
+      "style": 117,
+      "name": "\\[Panic Resist\\][XENO:n ]\nGrants resistance to Panic."
+    },
+    {
+      "$id": 53,
+      "style": 117,
+      "name": "\\[Critical Resist\\][XENO:n ]\nLess likely to receive critical hits."
+    },
+    {
+      "$id": 54,
+      "style": 117,
+      "name": "\\[Ether Barrier\\][XENO:n ]\nActivates at the start of battle.[XENO:n ]\nReduces ether damage."
+    },
+    {
+      "$id": 55,
+      "style": 117,
+      "name": "\\[Slow\\][XENO:n ]\nHits may inflict Slow."
+    },
+    {
+      "$id": 56,
+      "style": 117,
+      "name": "\\[Bind\\][XENO:n ]\nHits may inflict Bind."
+    },
+    {
+      "$id": 57,
+      "style": 117,
+      "name": "\\[Ether Resist Down\\][XENO:n ]\nHits may lower the target's[XENO:n ]\nether resistance."
+    },
+    {
+      "$id": 58,
+      "style": 117,
+      "name": "\\[Chill Boost\\][XENO:n ]\nIncreases Chill damage dealt."
+    },
+    {
+      "$id": 59,
+      "style": 117,
+      "name": "\\[Chill Attack\\][XENO:n ]\nHits have a chance to deal[XENO:n ]\nadditional Chill damage."
+    },
+    {
+      "$id": 60,
+      "style": 117,
+      "name": "\\[Auto-Atk Aggro -\\][XENO:n ]\nReduces aggro generated by auto-attacks."
+    },
+    {
+      "$id": 61,
+      "style": 117,
+      "name": "\\[Art Aggro Down\\][XENO:n ]\nReduces aggro generated by Arts."
+    },
+    {
+      "$id": 62,
+      "style": 117,
+      "name": "\\[Talent Boost\\][XENO:n ]\nHalves auto-attack damage,[XENO:n ]\nbut increases the Talent Gauge on hits."
+    },
+    {
+      "$id": 63,
+      "style": 117,
+      "name": "\\[Heat Sink\\][XENO:n ]\nReduces heat buildup in the Ether Rifle."
+    },
+    {
+      "$id": 64,
+      "style": 117,
+      "name": "\\[Ether Def Weaken\\][XENO:n ]\nIncreases ether damage received."
+    },
+    {
+      "$id": 65,
+      "style": 117,
+      "name": "\\[Agility Up\\][XENO:n ]\nIncreases Agility."
+    },
+    {
+      "$id": 66,
+      "style": 117,
+      "name": "\\[Topple Resist\\][XENO:n ]\nGrants resistance to Topple."
+    },
+    {
+      "$id": 67,
+      "style": 117,
+      "name": "\\[Launch Resist\\][XENO:n ]\nGrants resistance to launch."
+    },
+    {
+      "$id": 68,
+      "style": 117,
+      "name": "\\[Arts Seal Resist\\][XENO:n ]\nGrants resistance to Arts Seal."
+    },
+    {
+      "$id": 69,
+      "style": 117,
+      "name": "\\[Accuracy Up\\][XENO:n ]\nRaises physical attack accuracy."
+    },
+    {
+      "$id": 70,
+      "style": 117,
+      "name": "\\[Haste\\][XENO:n ]\nIncreases auto-attack speed."
+    },
+    {
+      "$id": 71,
+      "style": 117,
+      "name": "\\[Topple Duration\\][XENO:n ]\nExtends the target's Topple duration."
+    },
+    {
+      "$id": 72,
+      "style": 117,
+      "name": "\\[Bleed Attack\\][XENO:n ]\nHits have a chance to deal[XENO:n ]\nadditional Bleed damage."
+    },
+    {
+      "$id": 73,
+      "style": 117,
+      "name": "\\[Bleed Boost\\][XENO:n ]\nIncreases Bleed damage dealt."
+    },
+    {
+      "$id": 74,
+      "style": 117,
+      "name": "\\[Topple Damage Up\\][XENO:n ]\nBoosts damage to toppled monsters."
+    },
+    {
+      "$id": 75,
+      "style": 117,
+      "name": "\\[Agility Down\\][XENO:n ]\nHits may lower the target's Agility."
+    },
+    {
+      "$id": 76,
+      "style": 117,
+      "name": "\\[Break\\][XENO:n ]\nHits may inflict Break."
+    },
+    {
+      "$id": 77,
+      "style": 117,
+      "name": "\\[Move Speed Up\\][XENO:n ]\nIncreases movement speed."
+    },
+    {
+      "$id": 78,
+      "style": 117,
+      "name": "\\[Fall Defence\\][XENO:n ]\nReduces fall damage."
+    },
+    {
+      "$id": 79,
+      "style": 117,
+      "name": "\\[Aerial Cloak\\][XENO:n ]\nReduces flying monsters' detection range."
+    },
+    {
+      "$id": 80,
+      "style": 117,
+      "name": "\\[Agility Weaken\\][XENO:n ]\nReduces Agility."
+    },
+    {
+      "$id": 81,
+      "style": 117,
+      "name": "\\[Physical Def Up\\][XENO:n ]\nIncreases physical defence."
+    },
+    {
+      "$id": 82,
+      "style": 117,
+      "name": "\\[Attack Stability\\][XENO:n ]\nRaises minimum weapon attack power."
+    },
+    {
+      "$id": 83,
+      "style": 117,
+      "name": "\\[Attack Boost\\][XENO:n ]\nRaises maximum weapon attack power."
+    },
+    {
+      "$id": 84,
+      "style": 117,
+      "name": "\\[Critical Up\\][XENO:n ]\nRaises the weapon's critical rate."
+    },
+    {
+      "$id": 85,
+      "style": 117,
+      "name": "\\[Bleed Defence\\][XENO:n ]\nReduces Bleed damage."
+    },
+    {
+      "$id": 86,
+      "style": 117,
+      "name": "\\[Instant KO Res\\][XENO:n ]\nGrants resistance to Instant Death."
+    },
+    {
+      "$id": 87,
+      "style": 117,
+      "name": "\\[Physical Barrier\\][XENO:n ]\nActivates at the start of battle.[XENO:n ]\nReduces physical damage."
+    },
+    {
+      "$id": 88,
+      "style": 117,
+      "name": "\\[Night Accuracy\\][XENO:n ]\nRaises physical attack accuracy at night."
+    },
+    {
+      "$id": 89,
+      "style": 117,
+      "name": "\\[Debuff Duration\\][XENO:n ]\nExtends the duration of gem debuffs."
+    },
+    {
+      "$id": 90,
+      "style": 117,
+      "name": "\\[Armour Proc Up\\][XENO:n ]\nRaises armour gem activation rate."
+    },
+    {
+      "$id": 91,
+      "style": 117,
+      "name": "\\[Ether Down\\][XENO:n ]\nHits have a chance to lower[XENO:n ]\nthe target's Ether."
+    },
+    {
+      "$id": 92,
+      "style": 117,
+      "name": "\\[Poison Boost\\][XENO:n ]\nIncreases Poison damage dealt."
+    },
+    {
+      "$id": 93,
+      "style": 117,
+      "name": "\\[Poison Attack\\][XENO:n ]\nHits have a chance to deal[XENO:n ]\nadditional Poison damage."
+    },
+    {
+      "$id": 94,
+      "style": 117,
+      "name": "\\[Aggro Down\\][XENO:n ]\nReduces aggro."
+    },
+    {
+      "$id": 95,
+      "style": 117,
+      "name": "\\[Ground Cloak\\][XENO:n ]\nReduces land monsters' detection range."
+    },
+    {
+      "$id": 96,
+      "style": 117,
+      "name": "\\[Phys Def Weaken\\][XENO:n ]\nIncreases physical damage received."
+    },
+    {
+      "$id": 97,
+      "style": 117,
+      "name": "\\[Incap. Resist\\][XENO:n ]\nMay survive otherwise fatal damage."
+    }
+  ]
+}

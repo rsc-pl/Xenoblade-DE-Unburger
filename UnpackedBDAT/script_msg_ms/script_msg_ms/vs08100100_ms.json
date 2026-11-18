@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]And what is your conclusion, Seer?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]And what is your conclusion, Seer-dono?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "First Consort, such a ritual has not been[XENO:n ]\nconducted for generations.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Consort of Light, such a ritual has not been[XENO:n ]\nconducted for generations.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]No, no, no... The First Consort is right.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Indeed, that is true.[XENO:wait wait=key ]"
     },
     {
       "$id": 32,

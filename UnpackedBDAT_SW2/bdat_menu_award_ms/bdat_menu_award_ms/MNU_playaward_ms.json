@@ -1,0 +1,2014 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 130,
+      "name": "Deal a fair amount of damage with a single attack."
+    },
+    {
+      "$id": 2,
+      "style": 130,
+      "name": "Dealt 3000 damage or more in a single attack."
+    },
+    {
+      "$id": 3,
+      "style": 130,
+      "name": "Do a staggering amount of damage with a single attack."
+    },
+    {
+      "$id": 4,
+      "style": 130,
+      "name": "Dealt 25,000 damage or more in a single attack."
+    },
+    {
+      "$id": 5,
+      "style": 130,
+      "name": "Deal an unbelievable amount of damage in one attack."
+    },
+    {
+      "$id": 6,
+      "style": 130,
+      "name": "Dealt 50,000 damage or more in a single attack."
+    },
+    {
+      "$id": 7,
+      "style": 130,
+      "name": "Defeat a lot of enemies."
+    },
+    {
+      "$id": 8,
+      "style": 130,
+      "name": "Defeated a total of 50 monsters."
+    },
+    {
+      "$id": 9,
+      "style": 130,
+      "name": "Defeat even more enemies."
+    },
+    {
+      "$id": 10,
+      "style": 130,
+      "name": "Defeated a total of 200 monsters."
+    },
+    {
+      "$id": 11,
+      "style": 130,
+      "name": "Defeat many, many more enemies."
+    },
+    {
+      "$id": 12,
+      "style": 130,
+      "name": "Defeated a total of 1,000 monsters."
+    },
+    {
+      "$id": 13,
+      "style": 130,
+      "name": "Keep defeating enemies, again and again!"
+    },
+    {
+      "$id": 14,
+      "style": 130,
+      "name": "Defeated a total of 5,000 monsters."
+    },
+    {
+      "$id": 15,
+      "style": 130,
+      "name": "Beat a ferocious monster with a unique name."
+    },
+    {
+      "$id": 16,
+      "style": 130,
+      "name": "Defeated your first unique monster."
+    },
+    {
+      "$id": 17,
+      "style": 130,
+      "name": "Take down a fair few unique monsters."
+    },
+    {
+      "$id": 18,
+      "style": 130,
+      "name": "Defeated 10 different Unique Monsters."
+    },
+    {
+      "$id": 19,
+      "style": 130,
+      "name": "Defeat enough Unique Monsters to know them inside out."
+    },
+    {
+      "$id": 20,
+      "style": 130,
+      "name": "Defeated 100 different Unique Monsters."
+    },
+    {
+      "$id": 21,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 22,
+      "style": 130,
+      "name": "Missed with 100 attacks."
+    },
+    {
+      "$id": 23,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 24,
+      "style": 130,
+      "name": "The battle ended before you did anything."
+    },
+    {
+      "$id": 25,
+      "style": 130,
+      "name": "Defeat a lot of Machine God Soldiers."
+    },
+    {
+      "$id": 26,
+      "style": 130,
+      "name": "Defeated a total of 30 Machine God Soldiers."
+    },
+    {
+      "$id": 27,
+      "style": 130,
+      "name": "Defeat even more Machine God Soldiers."
+    },
+    {
+      "$id": 28,
+      "style": 130,
+      "name": "Defeated a total of 100 Machine God Soldiers."
+    },
+    {
+      "$id": 29,
+      "style": 130,
+      "name": "Wipe out Machine God Soldiers! Search & destroy!"
+    },
+    {
+      "$id": 30,
+      "style": 130,
+      "name": "Defeated a total of 250 Machine God Soldiers."
+    },
+    {
+      "$id": 31,
+      "style": 130,
+      "name": "Defeat lots of land creatures."
+    },
+    {
+      "$id": 32,
+      "style": 130,
+      "name": "Defeated 30 land creatures."
+    },
+    {
+      "$id": 33,
+      "style": 130,
+      "name": "Defeat even more land creatures."
+    },
+    {
+      "$id": 34,
+      "style": 130,
+      "name": "Defeated 100 land creatures."
+    },
+    {
+      "$id": 35,
+      "style": 130,
+      "name": "Wipe out land creatures! Search & destroy!"
+    },
+    {
+      "$id": 36,
+      "style": 130,
+      "name": "Defeated 250 land creatures."
+    },
+    {
+      "$id": 37,
+      "style": 130,
+      "name": "Defeat lots of flying creatures."
+    },
+    {
+      "$id": 38,
+      "style": 130,
+      "name": "Defeated 30 flying creatures."
+    },
+    {
+      "$id": 39,
+      "style": 130,
+      "name": "Defeat even more flying creatures."
+    },
+    {
+      "$id": 40,
+      "style": 130,
+      "name": "Defeated 100 flying creatures."
+    },
+    {
+      "$id": 41,
+      "style": 130,
+      "name": "Wipe out flying creatures! Search & destroy!"
+    },
+    {
+      "$id": 42,
+      "style": 130,
+      "name": "Defeated 250 flying creatures."
+    },
+    {
+      "$id": 43,
+      "style": 130,
+      "name": "Wipe out tons of insect monsters."
+    },
+    {
+      "$id": 44,
+      "style": 130,
+      "name": "Defeated a total of 30 insect-type creatures."
+    },
+    {
+      "$id": 45,
+      "style": 130,
+      "name": "Keep wiping out insect monsters!"
+    },
+    {
+      "$id": 46,
+      "style": 130,
+      "name": "Defeated a total of 100 insect-type creatures."
+    },
+    {
+      "$id": 47,
+      "style": 130,
+      "name": "Defeat lots of monsters whose source of life is ether."
+    },
+    {
+      "$id": 48,
+      "style": 130,
+      "name": "Defeated a total of 30 ether lifeforms."
+    },
+    {
+      "$id": 49,
+      "style": 130,
+      "name": "Keep wiping out monsters that draw life from ether!"
+    },
+    {
+      "$id": 50,
+      "style": 130,
+      "name": "Defeated a total of 100 ether lifeforms."
+    },
+    {
+      "$id": 51,
+      "style": 130,
+      "name": "Wipe out tons of Telethia."
+    },
+    {
+      "$id": 52,
+      "style": 130,
+      "name": "Defeated a total of 30 Telethia-type creatures."
+    },
+    {
+      "$id": 53,
+      "style": 130,
+      "name": "Keep wiping out Telethia!"
+    },
+    {
+      "$id": 54,
+      "style": 130,
+      "name": "Defeated a total of 100 Telethia-type creatures."
+    },
+    {
+      "$id": 55,
+      "style": 130,
+      "name": "Defeat lots of fish monsters."
+    },
+    {
+      "$id": 56,
+      "style": 130,
+      "name": "Defeated 30 surface-dwelling aquatic creatures."
+    },
+    {
+      "$id": 57,
+      "style": 130,
+      "name": "Avert an unfavourable future."
+    },
+    {
+      "$id": 58,
+      "style": 130,
+      "name": "Smashed a Future Sight Tag for the first time."
+    },
+    {
+      "$id": 59,
+      "style": 130,
+      "name": "Break even more Future Sight Tags."
+    },
+    {
+      "$id": 60,
+      "style": 130,
+      "name": "Broke Future Sight Tags 100 times."
+    },
+    {
+      "$id": 61,
+      "style": 130,
+      "name": "Break innumerable Future Sight Tags."
+    },
+    {
+      "$id": 62,
+      "style": 130,
+      "name": "Broke Future Sight Tags 1,000 times."
+    },
+    {
+      "$id": 63,
+      "style": 130,
+      "name": "Defeat enemies to prevent an unfavourable future."
+    },
+    {
+      "$id": 64,
+      "style": 130,
+      "name": "Prevented a foreseen enemy action for the first time."
+    },
+    {
+      "$id": 65,
+      "style": 130,
+      "name": "Prevent more foreseen actions."
+    },
+    {
+      "$id": 66,
+      "style": 130,
+      "name": "Prevented foreseen actions 20 times."
+    },
+    {
+      "$id": 67,
+      "style": 130,
+      "name": "Prevent countless foreseen actions."
+    },
+    {
+      "$id": 68,
+      "style": 130,
+      "name": "Prevented foreseen actions 50 times."
+    },
+    {
+      "$id": 69,
+      "style": 130,
+      "name": "Revive Incapacitated party members several times."
+    },
+    {
+      "$id": 70,
+      "style": 130,
+      "name": "Revived Incapacitated party members 10 times."
+    },
+    {
+      "$id": 71,
+      "style": 130,
+      "name": "Revive Incapacitated party members many times."
+    },
+    {
+      "$id": 72,
+      "style": 130,
+      "name": "Revived Incapacitated party members 100 times."
+    },
+    {
+      "$id": 73,
+      "style": 130,
+      "name": "Revive Incapacitated party members countless times."
+    },
+    {
+      "$id": 74,
+      "style": 130,
+      "name": "Revived Incapacitated party members 500 times."
+    },
+    {
+      "$id": 75,
+      "style": 130,
+      "name": "Deliver lots of critical hits."
+    },
+    {
+      "$id": 76,
+      "style": 130,
+      "name": "Delivered 50 critical hits."
+    },
+    {
+      "$id": 77,
+      "style": 130,
+      "name": "Deliver even more critical hits."
+    },
+    {
+      "$id": 78,
+      "style": 130,
+      "name": "Landed 1,500 critical hits."
+    },
+    {
+      "$id": 79,
+      "style": 130,
+      "name": "Land countless critical hits."
+    },
+    {
+      "$id": 80,
+      "style": 130,
+      "name": "Landed 5,000 critical hits."
+    },
+    {
+      "$id": 81,
+      "style": 130,
+      "name": "Successfully achieve Battle Start Bonding."
+    },
+    {
+      "$id": 82,
+      "style": 130,
+      "name": "Achieved Battle Start Bonding for the first time."
+    },
+    {
+      "$id": 83,
+      "style": 130,
+      "name": "Achieve Battle Start Bonding numerous times."
+    },
+    {
+      "$id": 84,
+      "style": 130,
+      "name": "Achieved Battle Start Bonding 100 times."
+    },
+    {
+      "$id": 85,
+      "style": 130,
+      "name": "Succeed at Battle Start Bonding countless times."
+    },
+    {
+      "$id": 86,
+      "style": 130,
+      "name": "Succeeded at Battle Start Bonding 1,000 times."
+    },
+    {
+      "$id": 87,
+      "style": 130,
+      "name": "Raise your Tension until you're fired up!"
+    },
+    {
+      "$id": 88,
+      "style": 130,
+      "name": "Entered a state of High Tension for the first time."
+    },
+    {
+      "$id": 89,
+      "style": 130,
+      "name": "Reach High Tension repeatedly."
+    },
+    {
+      "$id": 90,
+      "style": 130,
+      "name": "Entered a state of High Tension 50 times."
+    },
+    {
+      "$id": 91,
+      "style": 130,
+      "name": "Reach High Tension countless times."
+    },
+    {
+      "$id": 92,
+      "style": 130,
+      "name": "Entered a state of High Tension 200 times."
+    },
+    {
+      "$id": 93,
+      "style": 130,
+      "name": "Launch a Chain Attack with your allies."
+    },
+    {
+      "$id": 94,
+      "style": 130,
+      "name": "Performed your first Chain Attack."
+    },
+    {
+      "$id": 95,
+      "style": 130,
+      "name": "Perform lots of Chain Attacks."
+    },
+    {
+      "$id": 96,
+      "style": 130,
+      "name": "Performed 50 Chain Attacks."
+    },
+    {
+      "$id": 97,
+      "style": 130,
+      "name": "Perform even more Chain Attacks."
+    },
+    {
+      "$id": 98,
+      "style": 130,
+      "name": "Performed 200 Chain Attacks."
+    },
+    {
+      "$id": 99,
+      "style": 130,
+      "name": "Perform countless Chain Attacks."
+    },
+    {
+      "$id": 100,
+      "style": 130,
+      "name": "Performed 1,000 Chain Attacks."
+    },
+    {
+      "$id": 101,
+      "style": 130,
+      "name": "Exceed 3,000 damage in a single Chain Attack."
+    },
+    {
+      "$id": 102,
+      "style": 130,
+      "name": "Dealt 3,000 or more total damage in a Chain Attack."
+    },
+    {
+      "$id": 103,
+      "style": 130,
+      "name": "Exceed 30,000 damage in a single Chain Attack."
+    },
+    {
+      "$id": 104,
+      "style": 130,
+      "name": "Dealt 30,000 or more total damage in a Chain Attack."
+    },
+    {
+      "$id": 105,
+      "style": 130,
+      "name": "Exceed 100,000 damage in a single Chain Attack."
+    },
+    {
+      "$id": 106,
+      "style": 130,
+      "name": "Dealt 100,000 or more total damage in a Chain Attack."
+    },
+    {
+      "$id": 107,
+      "style": 130,
+      "name": "Link 4 or more attacks in a Chain Attack."
+    },
+    {
+      "$id": 108,
+      "style": 130,
+      "name": "Linked 4 or more attacks in a Chain Attack."
+    },
+    {
+      "$id": 109,
+      "style": 130,
+      "name": "Link 5 or more attacks in a Chain Attack."
+    },
+    {
+      "$id": 110,
+      "style": 130,
+      "name": "Linked 5 or more attacks in a Chain Attack."
+    },
+    {
+      "$id": 111,
+      "style": 130,
+      "name": "Open a battle by attacking an enemy from behind."
+    },
+    {
+      "$id": 112,
+      "style": 130,
+      "name": "Performed a Back Attack for the first time."
+    },
+    {
+      "$id": 113,
+      "style": 130,
+      "name": "Perform Back Attacks repeatedly."
+    },
+    {
+      "$id": 114,
+      "style": 130,
+      "name": "Performed 50 Back Attacks."
+    },
+    {
+      "$id": 115,
+      "style": 130,
+      "name": "Attack from behind, and with one blow[XENO:line ]"
+    },
+    {
+      "$id": 116,
+      "style": 130,
+      "name": "Defeated an enemy with one blow from behind."
+    },
+    {
+      "$id": 117,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 118,
+      "style": 130,
+      "name": "Won a battle while on the verge of death."
+    },
+    {
+      "$id": 119,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 120,
+      "style": 130,
+      "name": "Your entire party was wiped out for the first time."
+    },
+    {
+      "$id": 121,
+      "style": 130,
+      "name": "Use Arts again and again."
+    },
+    {
+      "$id": 122,
+      "style": 130,
+      "name": "Used Arts 1000 times between the entire party."
+    },
+    {
+      "$id": 123,
+      "style": 130,
+      "name": "Use Arts countless times."
+    },
+    {
+      "$id": 124,
+      "style": 130,
+      "name": "Used Arts 10,000 times between the entire party."
+    },
+    {
+      "$id": 125,
+      "style": 130,
+      "name": "Keep using Shulk's Arts."
+    },
+    {
+      "$id": 126,
+      "style": 130,
+      "name": "Used Shulk's Arts 100 times."
+    },
+    {
+      "$id": 127,
+      "style": 130,
+      "name": "Keep using Rein's Arts."
+    },
+    {
+      "$id": 128,
+      "style": 130,
+      "name": "Used Rein's Arts 100 times."
+    },
+    {
+      "$id": 129,
+      "style": 130,
+      "name": "Keep using Fiorung's Arts."
+    },
+    {
+      "$id": 130,
+      "style": 130,
+      "name": "Used Fiorung's Arts 100 times."
+    },
+    {
+      "$id": 131,
+      "style": 130,
+      "name": "Keep using Dunban's Arts."
+    },
+    {
+      "$id": 132,
+      "style": 130,
+      "name": "Used Dunban's Arts 100 times."
+    },
+    {
+      "$id": 133,
+      "style": 130,
+      "name": "Keep using Carna's Arts."
+    },
+    {
+      "$id": 134,
+      "style": 130,
+      "name": "Used Carna's Arts 100 times."
+    },
+    {
+      "$id": 135,
+      "style": 130,
+      "name": "Keep using Riki's Arts."
+    },
+    {
+      "$id": 136,
+      "style": 130,
+      "name": "Used Riki's Arts 100 times."
+    },
+    {
+      "$id": 137,
+      "style": 130,
+      "name": "Keep using Melia's Arts."
+    },
+    {
+      "$id": 138,
+      "style": 130,
+      "name": "Used Melia's Arts 100 times."
+    },
+    {
+      "$id": 139,
+      "style": 130,
+      "name": "Unlock the next stage of Art upgrades."
+    },
+    {
+      "$id": 140,
+      "style": 130,
+      "name": "Unlocked the ability to level up your Arts even further."
+    },
+    {
+      "$id": 141,
+      "style": 130,
+      "name": "Unlock the final stage of Art upgrades."
+    },
+    {
+      "$id": 142,
+      "style": 130,
+      "name": "Unlocked the ability to level up your Arts completely."
+    },
+    {
+      "$id": 143,
+      "style": 130,
+      "name": "Upgrade an Art."
+    },
+    {
+      "$id": 144,
+      "style": 130,
+      "name": "Levelled up an Art for the first time."
+    },
+    {
+      "$id": 145,
+      "style": 130,
+      "name": "Raise one of your Arts to a pretty decent level."
+    },
+    {
+      "$id": 146,
+      "style": 130,
+      "name": "Raised an Art to level 5."
+    },
+    {
+      "$id": 147,
+      "style": 130,
+      "name": "Bring one of your Arts up to the maximum level."
+    },
+    {
+      "$id": 148,
+      "style": 130,
+      "name": "Raised an Art to the maximum level."
+    },
+    {
+      "$id": 149,
+      "style": 130,
+      "name": "Upgrade several Arts to their limits."
+    },
+    {
+      "$id": 150,
+      "style": 130,
+      "name": "Maxed out 5 different Arts."
+    },
+    {
+      "$id": 151,
+      "style": 130,
+      "name": "Upgrade even more Arts to their limits."
+    },
+    {
+      "$id": 152,
+      "style": 130,
+      "name": "Maxed out 10 different Arts."
+    },
+    {
+      "$id": 153,
+      "style": 130,
+      "name": "Max out all the Arts of one character."
+    },
+    {
+      "$id": 154,
+      "style": 130,
+      "name": "Raised all of one character's Arts to the maximum level."
+    },
+    {
+      "$id": 155,
+      "style": 130,
+      "name": "Borrow Skills from everyone."
+    },
+    {
+      "$id": 156,
+      "style": 130,
+      "name": "Received shared skills from every character."
+    },
+    {
+      "$id": 157,
+      "style": 130,
+      "name": "Master one Skill Line."
+    },
+    {
+      "$id": 158,
+      "style": 130,
+      "name": "Fully developed one Skill Line."
+    },
+    {
+      "$id": 159,
+      "style": 130,
+      "name": "Develop Shulk's Skill Lines."
+    },
+    {
+      "$id": 160,
+      "style": 130,
+      "name": "Fully developed three of Shulk's Skill Lines."
+    },
+    {
+      "$id": 161,
+      "style": 130,
+      "name": "Develop Rein's Skill Lines."
+    },
+    {
+      "$id": 162,
+      "style": 130,
+      "name": "Fully developed three of Rein's Skill Lines."
+    },
+    {
+      "$id": 163,
+      "style": 130,
+      "name": "Develop Fiorung's Skill Lines."
+    },
+    {
+      "$id": 164,
+      "style": 130,
+      "name": "Fully developed three of Fiorung's Skill Lines."
+    },
+    {
+      "$id": 165,
+      "style": 130,
+      "name": "Develop Dunban's Skill Lines."
+    },
+    {
+      "$id": 166,
+      "style": 130,
+      "name": "Fully developed three of Dunban's Skill Lines."
+    },
+    {
+      "$id": 167,
+      "style": 130,
+      "name": "Develop Carna's Skill Lines."
+    },
+    {
+      "$id": 168,
+      "style": 130,
+      "name": "Fully developed three of Carna's Skill Lines."
+    },
+    {
+      "$id": 169,
+      "style": 130,
+      "name": "Develop Riki's Skill Lines."
+    },
+    {
+      "$id": 170,
+      "style": 130,
+      "name": "Fully developed three of Riki's Skill Lines."
+    },
+    {
+      "$id": 171,
+      "style": 130,
+      "name": "Develop Melia's Skill Lines."
+    },
+    {
+      "$id": 172,
+      "style": 130,
+      "name": "Fully developed three of Melia's Skill Lines."
+    },
+    {
+      "$id": 173,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 174,
+      "style": 130,
+      "name": "Your party was wiped out 50 or more times."
+    },
+    {
+      "$id": 175,
+      "style": 130,
+      "name": "Fully develop one character's Skill Lines."
+    },
+    {
+      "$id": 176,
+      "style": 130,
+      "name": "Completed all Skill Lines for 1 character."
+    },
+    {
+      "$id": 177,
+      "style": 130,
+      "name": "Master everyone's Skill Lines completely."
+    },
+    {
+      "$id": 178,
+      "style": 130,
+      "name": "Fully developed every character's Skill Lines."
+    },
+    {
+      "$id": 179,
+      "style": 130,
+      "name": "Successfully achieve Burst Bonding."
+    },
+    {
+      "$id": 180,
+      "style": 130,
+      "name": "Successfully achieved Burst Bonding."
+    },
+    {
+      "$id": 181,
+      "style": 130,
+      "name": "Achieve Burst Bonding numerous times."
+    },
+    {
+      "$id": 182,
+      "style": 130,
+      "name": "Succeeded at Burst Bonding 300 times."
+    },
+    {
+      "$id": 183,
+      "style": 130,
+      "name": "Succeed at Burst Bonding countless times."
+    },
+    {
+      "$id": 184,
+      "style": 130,
+      "name": "Succeeded at Burst Bonding 2,000 times."
+    },
+    {
+      "$id": 185,
+      "style": 130,
+      "name": "Fight an enemy stronger than you."
+    },
+    {
+      "$id": 186,
+      "style": 130,
+      "name": "Defeated an enemy at least 5 levels above you."
+    },
+    {
+      "$id": 187,
+      "style": 130,
+      "name": "Fight an enemy far stronger than you."
+    },
+    {
+      "$id": 188,
+      "style": 130,
+      "name": "Defeated an enemy at least 10 levels above you."
+    },
+    {
+      "$id": 189,
+      "style": 130,
+      "name": "When your damage value turns out unlucky[XENO:line ]"
+    },
+    {
+      "$id": 190,
+      "style": 130,
+      "name": "Happened to deal exactly 666 damage."
+    },
+    {
+      "$id": 191,
+      "style": 130,
+      "name": "When your damage value turns out lucky[XENO:line ]"
+    },
+    {
+      "$id": 192,
+      "style": 130,
+      "name": "Happened to deal exactly 777 damage."
+    },
+    {
+      "$id": 193,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 194,
+      "style": 130,
+      "name": "Discovered a Landmark for the first time."
+    },
+    {
+      "$id": 195,
+      "style": 130,
+      "name": "Find lots of Landmarks."
+    },
+    {
+      "$id": 196,
+      "style": 130,
+      "name": "Discovered 10 Landmarks."
+    },
+    {
+      "$id": 197,
+      "style": 130,
+      "name": "Find even more Landmarks."
+    },
+    {
+      "$id": 198,
+      "style": 130,
+      "name": "Discovered 40 Landmarks."
+    },
+    {
+      "$id": 199,
+      "style": 130,
+      "name": "Find many more Landmarks."
+    },
+    {
+      "$id": 200,
+      "style": 130,
+      "name": "Discovered 80 Landmarks."
+    },
+    {
+      "$id": 201,
+      "style": 130,
+      "name": "Find nearly every Landmark."
+    },
+    {
+      "$id": 202,
+      "style": 130,
+      "name": "Discovered 150 Landmarks."
+    },
+    {
+      "$id": 203,
+      "style": 130,
+      "name": "Find a special place known as a Secret Area."
+    },
+    {
+      "$id": 204,
+      "style": 130,
+      "name": "Discovered a Secret Area for the first time."
+    },
+    {
+      "$id": 205,
+      "style": 130,
+      "name": "Find lots of Secret Areas."
+    },
+    {
+      "$id": 206,
+      "style": 130,
+      "name": "Discovered 6 Secret Areas."
+    },
+    {
+      "$id": 207,
+      "style": 130,
+      "name": "Find even more Secret Areas."
+    },
+    {
+      "$id": 208,
+      "style": 130,
+      "name": "Discovered 12 Secret Areas."
+    },
+    {
+      "$id": 209,
+      "style": 130,
+      "name": "Use Skip Travel to get around easily."
+    },
+    {
+      "$id": 210,
+      "style": 130,
+      "name": "Used Skip Travel for the first time."
+    },
+    {
+      "$id": 211,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 212,
+      "style": 130,
+      "name": "Used Skip Travel 50 times."
+    },
+    {
+      "$id": 213,
+      "style": 130,
+      "name": "Obtain lots of silver treasure chests."
+    },
+    {
+      "$id": 214,
+      "style": 130,
+      "name": "Obtained 10 Rare Treasure Chests."
+    },
+    {
+      "$id": 215,
+      "style": 130,
+      "name": "Obtain even more silver treasure chests."
+    },
+    {
+      "$id": 216,
+      "style": 130,
+      "name": "Obtained 50 Rare Treasure Chests."
+    },
+    {
+      "$id": 217,
+      "style": 130,
+      "name": "Obtain a golden treasure chest."
+    },
+    {
+      "$id": 218,
+      "style": 130,
+      "name": "Obtained a Super Rare Treasure Chest for the first time."
+    },
+    {
+      "$id": 219,
+      "style": 130,
+      "name": "Obtain lots of golden treasure chests."
+    },
+    {
+      "$id": 220,
+      "style": 130,
+      "name": "Obtained 10 Super Rare Treasure Chests."
+    },
+    {
+      "$id": 221,
+      "style": 130,
+      "name": "Obtain even more golden treasure chests."
+    },
+    {
+      "$id": 222,
+      "style": 130,
+      "name": "Obtained 50 Super Rare Treasure Chests."
+    },
+    {
+      "$id": 223,
+      "style": 130,
+      "name": "Harvest some ether crystals."
+    },
+    {
+      "$id": 224,
+      "style": 130,
+      "name": "Harvested an ether crystal for the first time."
+    },
+    {
+      "$id": 225,
+      "style": 130,
+      "name": "Harvest ether crystals repeatedly."
+    },
+    {
+      "$id": 226,
+      "style": 130,
+      "name": "Harvested ether crystals 50 times."
+    },
+    {
+      "$id": 227,
+      "style": 130,
+      "name": "Harvest ether crystals again and again."
+    },
+    {
+      "$id": 228,
+      "style": 130,
+      "name": "Harvested ether crystals 500 times."
+    },
+    {
+      "$id": 229,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 230,
+      "style": 130,
+      "name": "Obtained a Rare Crystal for the first time."
+    },
+    {
+      "$id": 231,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 232,
+      "style": 130,
+      "name": "Obtained rare crystals 7 times."
+    },
+    {
+      "$id": 233,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 234,
+      "style": 130,
+      "name": "Obtained rare crystals 77 times."
+    },
+    {
+      "$id": 235,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 236,
+      "style": 130,
+      "name": "Mined a rank V ether crystal."
+    },
+    {
+      "$id": 237,
+      "style": 130,
+      "name": "Fit gems into weapons and armour."
+    },
+    {
+      "$id": 238,
+      "style": 130,
+      "name": "Filled a gem slot for the first time."
+    },
+    {
+      "$id": 239,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 240,
+      "style": 130,
+      "name": "Filled all 8 gem slots."
+    },
+    {
+      "$id": 241,
+      "style": 130,
+      "name": "Practise Gem Crafting and get a Synthesis Bonus."
+    },
+    {
+      "$id": 242,
+      "style": 130,
+      "name": "Practised Gem Crafting and received a Synthesis Bonus."
+    },
+    {
+      "$id": 243,
+      "style": 130,
+      "name": "Get a lot of Synthesis Bonuses."
+    },
+    {
+      "$id": 244,
+      "style": 130,
+      "name": "Triggered 250 or more Synthesis Bonuses."
+    },
+    {
+      "$id": 245,
+      "style": 130,
+      "name": "Get even more Synthesis Bonuses."
+    },
+    {
+      "$id": 246,
+      "style": 130,
+      "name": "Triggered 500 or more Synthesis Bonuses."
+    },
+    {
+      "$id": 247,
+      "style": 130,
+      "name": "Let the atmosphere heat up during Gem Crafting."
+    },
+    {
+      "$id": 248,
+      "style": 130,
+      "name": "Entered a Fever state while Gem Crafting."
+    },
+    {
+      "$id": 249,
+      "style": 130,
+      "name": "Trigger Fever repeatedly during gem crafting."
+    },
+    {
+      "$id": 250,
+      "style": 130,
+      "name": "Triggered Fever 3 or more times."
+    },
+    {
+      "$id": 251,
+      "style": 130,
+      "name": "Have a friend lend a hand while Gem Crafting."
+    },
+    {
+      "$id": 252,
+      "style": 130,
+      "name": "Received a Support Bonus."
+    },
+    {
+      "$id": 253,
+      "style": 130,
+      "name": "Get everyone to lend their support during Gem Crafting."
+    },
+    {
+      "$id": 254,
+      "style": 130,
+      "name": "Received a Support Bonus for every character."
+    },
+    {
+      "$id": 255,
+      "style": 130,
+      "name": "Raise the Cylinder Gauge to its limit."
+    },
+    {
+      "$id": 256,
+      "style": 130,
+      "name": "Maxed out the Cylinder Gauge 9 times."
+    },
+    {
+      "$id": 257,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 258,
+      "style": 130,
+      "name": "Saw the 366th sunrise."
+    },
+    {
+      "$id": 259,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 260,
+      "style": 130,
+      "name": "Fell to your death."
+    },
+    {
+      "$id": 261,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 262,
+      "style": 130,
+      "name": "Fell 200m and plunged into water."
+    },
+    {
+      "$id": 263,
+      "style": 130,
+      "name": "Register a collectible in the Collepedia."
+    },
+    {
+      "$id": 264,
+      "style": 130,
+      "name": "Registered your first collectible."
+    },
+    {
+      "$id": 265,
+      "style": 130,
+      "name": "Reach 100% on 1 Collepedia page."
+    },
+    {
+      "$id": 266,
+      "style": 130,
+      "name": "Completed a page in the Collepedia."
+    },
+    {
+      "$id": 267,
+      "style": 130,
+      "name": "Complete every page of the Collepedia."
+    },
+    {
+      "$id": 268,
+      "style": 130,
+      "name": "Completed every page in the Collepedia."
+    },
+    {
+      "$id": 269,
+      "style": 130,
+      "name": "Give Shulk gifts he likes repeatedly."
+    },
+    {
+      "$id": 270,
+      "style": 130,
+      "name": "Gave Shulk machine items 20 times."
+    },
+    {
+      "$id": 271,
+      "style": 130,
+      "name": "Give Rein a vegetable that makes him stronger."
+    },
+    {
+      "$id": 272,
+      "style": 130,
+      "name": "Gave Rein a Stamin-Nass as a gift."
+    },
+    {
+      "$id": 273,
+      "style": 130,
+      "name": "If Fiorung keeps giving gifts to a certain someone[XENO:line ]"
+    },
+    {
+      "$id": 274,
+      "style": 130,
+      "name": "Fiorung gave Shulk gifts 20 times."
+    },
+    {
+      "$id": 275,
+      "style": 130,
+      "name": "Go ahead and give Dunban some sweet fruit."
+    },
+    {
+      "$id": 276,
+      "style": 130,
+      "name": "Gave Dunban his least favourite thing."
+    },
+    {
+      "$id": 277,
+      "style": 130,
+      "name": "Give Carna gifts she likes repeatedly."
+    },
+    {
+      "$id": 278,
+      "style": 130,
+      "name": "Gave Carna fruit as a gift 20 times."
+    },
+    {
+      "$id": 279,
+      "style": 130,
+      "name": "Have Melia give gifts repeatedly."
+    },
+    {
+      "$id": 280,
+      "style": 130,
+      "name": "Melia gave gifts 30 times."
+    },
+    {
+      "$id": 281,
+      "style": 130,
+      "name": "Foist Riki's favourite things on someone as gifts."
+    },
+    {
+      "$id": 282,
+      "style": 130,
+      "name": "Riki gave insects as gifts 30 times."
+    },
+    {
+      "$id": 283,
+      "style": 130,
+      "name": "If you give someone a love potion as a gift[XENO:line ]"
+    },
+    {
+      "$id": 284,
+      "style": 130,
+      "name": "Gave Horerugen as a present."
+    },
+    {
+      "$id": 285,
+      "style": 130,
+      "name": "Talk to townspeople repeatedly."
+    },
+    {
+      "$id": 286,
+      "style": 130,
+      "name": "Talked to people 100 times."
+    },
+    {
+      "$id": 287,
+      "style": 130,
+      "name": "Talk to townspeople many more times."
+    },
+    {
+      "$id": 288,
+      "style": 130,
+      "name": "Talked to people 1000 times."
+    },
+    {
+      "$id": 289,
+      "style": 130,
+      "name": "While talking to someone in trouble[XENO:line ]"
+    },
+    {
+      "$id": 290,
+      "style": 130,
+      "name": "An ally chimed in for the first time."
+    },
+    {
+      "$id": 291,
+      "style": 130,
+      "name": "Have your allies speak up more often."
+    },
+    {
+      "$id": 292,
+      "style": 130,
+      "name": "Had party members step into conversations 50 times."
+    },
+    {
+      "$id": 293,
+      "style": 130,
+      "name": "Have your allies speak up many more times."
+    },
+    {
+      "$id": 294,
+      "style": 130,
+      "name": "Had party members step into conversations 300 times."
+    },
+    {
+      "$id": 295,
+      "style": 130,
+      "name": "Talk to named townspeople and get to know them."
+    },
+    {
+      "$id": 296,
+      "style": 130,
+      "name": "Became acquainted with your first townsperson."
+    },
+    {
+      "$id": 297,
+      "style": 130,
+      "name": "Go around chatting to people and making acquaintances."
+    },
+    {
+      "$id": 298,
+      "style": 130,
+      "name": "Registered 10 people on the Bonding Chart."
+    },
+    {
+      "$id": 299,
+      "style": 130,
+      "name": "Talk to even more people and make more acquaintances."
+    },
+    {
+      "$id": 300,
+      "style": 130,
+      "name": "Registered 50 people on the Bonding Chart."
+    },
+    {
+      "$id": 301,
+      "style": 130,
+      "name": "Get to know nearly everyone in the world."
+    },
+    {
+      "$id": 302,
+      "style": 130,
+      "name": "Registered 120 people on the Bonding Chart."
+    },
+    {
+      "$id": 303,
+      "style": 130,
+      "name": "Get to know the Colony 9 Defence Force members."
+    },
+    {
+      "$id": 304,
+      "style": 130,
+      "name": "Got to know many Defence Force members in Colony 9."
+    },
+    {
+      "$id": 305,
+      "style": 130,
+      "name": "Get to know the Nopon outside the towns."
+    },
+    {
+      "$id": 306,
+      "style": 130,
+      "name": "Got to know many Nopon outside the towns."
+    },
+    {
+      "$id": 307,
+      "style": 130,
+      "name": "Get to know the residents of Colony 6."
+    },
+    {
+      "$id": 308,
+      "style": 130,
+      "name": "Got to know a lot of people in Colony 6."
+    },
+    {
+      "$id": 309,
+      "style": 130,
+      "name": "Get to know the Nopon in Frontier Village."
+    },
+    {
+      "$id": 310,
+      "style": 130,
+      "name": "Got to know many Nopon in Frontier Village."
+    },
+    {
+      "$id": 311,
+      "style": 130,
+      "name": "Get to know the short-winged High Entia."
+    },
+    {
+      "$id": 312,
+      "style": 130,
+      "name": "Got to know many High Entia with small headwings."
+    },
+    {
+      "$id": 313,
+      "style": 130,
+      "name": "Get to know the Machina in Hidden Machina Village."
+    },
+    {
+      "$id": 314,
+      "style": 130,
+      "name": "Got to know many Machina in Hidden Machina Village."
+    },
+    {
+      "$id": 315,
+      "style": 130,
+      "name": "Help townspeople form a strong bond with each other."
+    },
+    {
+      "$id": 316,
+      "style": 130,
+      "name": "A strong bond was formed."
+    },
+    {
+      "$id": 317,
+      "style": 130,
+      "name": "Help townspeople form lots of bonds with each other."
+    },
+    {
+      "$id": 318,
+      "style": 130,
+      "name": "Connected people through 10 bonds."
+    },
+    {
+      "$id": 319,
+      "style": 130,
+      "name": "Help townspeople form even more bonds with each other."
+    },
+    {
+      "$id": 320,
+      "style": 130,
+      "name": "Connected people through 50 bonds."
+    },
+    {
+      "$id": 321,
+      "style": 130,
+      "name": "Help townspeople form many, many more bonds."
+    },
+    {
+      "$id": 322,
+      "style": 130,
+      "name": "Connected people through 100 bonds."
+    },
+    {
+      "$id": 323,
+      "style": 130,
+      "name": "Connect nearly all townspeople through bonds."
+    },
+    {
+      "$id": 324,
+      "style": 130,
+      "name": "Nearly everyone is connected through bonds."
+    },
+    {
+      "$id": 325,
+      "style": 130,
+      "name": "Gain the support of people in and around Colony 9."
+    },
+    {
+      "$id": 326,
+      "style": 130,
+      "name": "Reached a 3-star or higher Bonding rating around Colony 9."
+    },
+    {
+      "$id": 327,
+      "style": 130,
+      "name": "Gain the support of people in and around Colony 6."
+    },
+    {
+      "$id": 328,
+      "style": 130,
+      "name": "Reached a 3-star or higher Bonding rating around Colony 6."
+    },
+    {
+      "$id": 329,
+      "style": 130,
+      "name": "Gain the support of people around Frontier Village."
+    },
+    {
+      "$id": 330,
+      "style": 130,
+      "name": "Reached 3+ Bonding stars around Frontier Village."
+    },
+    {
+      "$id": 331,
+      "style": 130,
+      "name": "Gain the support of people in and around Achamoth."
+    },
+    {
+      "$id": 332,
+      "style": 130,
+      "name": "Reached a 3-star or higher Bonding rating around Achamoth."
+    },
+    {
+      "$id": 333,
+      "style": 130,
+      "name": "Gain the support of people around Hidden Machina Village."
+    },
+    {
+      "$id": 334,
+      "style": 130,
+      "name": "Reached 3+ Bonding stars around Hidden Machina Village."
+    },
+    {
+      "$id": 335,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 336,
+      "style": 130,
+      "name": "Reached a 5-star Bonding rating in any region."
+    },
+    {
+      "$id": 337,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 338,
+      "style": 130,
+      "name": "Reached a 5-star Bonding rating in every region."
+    },
+    {
+      "$id": 339,
+      "style": 130,
+      "name": "If you reach the best outcome in a Bonding Talk[XENO:line ]"
+    },
+    {
+      "$id": 340,
+      "style": 130,
+      "name": "Had a Bonding Talk go as smoothly as possible."
+    },
+    {
+      "$id": 341,
+      "style": 130,
+      "name": "If you reach the worst outcome in a Bonding Talk[XENO:line ]"
+    },
+    {
+      "$id": 342,
+      "style": 130,
+      "name": "Had a Bonding Talk go as badly as possible."
+    },
+    {
+      "$id": 343,
+      "style": 130,
+      "name": "Watch lots of Bonding Talks."
+    },
+    {
+      "$id": 344,
+      "style": 130,
+      "name": "Had 20 Bonding Talks."
+    },
+    {
+      "$id": 345,
+      "style": 130,
+      "name": "Watch even more Bonding Talks."
+    },
+    {
+      "$id": 346,
+      "style": 130,
+      "name": "Had 40 Bonding Talks."
+    },
+    {
+      "$id": 347,
+      "style": 130,
+      "name": "Watch every Bonding Talk."
+    },
+    {
+      "$id": 348,
+      "style": 130,
+      "name": "Had every possible Bonding Talk."
+    },
+    {
+      "$id": 349,
+      "style": 130,
+      "name": "Deepen the bond between two characters."
+    },
+    {
+      "$id": 350,
+      "style": 130,
+      "name": "The bond between two characters grew fairly strong."
+    },
+    {
+      "$id": 351,
+      "style": 130,
+      "name": "Deepen the bond between two characters further."
+    },
+    {
+      "$id": 352,
+      "style": 130,
+      "name": "The bond between two characters grew very strong."
+    },
+    {
+      "$id": 353,
+      "style": 130,
+      "name": "Deepen the bond between two characters to its limit."
+    },
+    {
+      "$id": 354,
+      "style": 130,
+      "name": "The bond between two characters reached its maximum."
+    },
+    {
+      "$id": 355,
+      "style": 130,
+      "name": "Deepen everyone's bonds."
+    },
+    {
+      "$id": 356,
+      "style": 130,
+      "name": "Everyone's bonds grew very strong."
+    },
+    {
+      "$id": 357,
+      "style": 130,
+      "name": "Deepen everyone's bonds even further."
+    },
+    {
+      "$id": 358,
+      "style": 130,
+      "name": "Everyone's bonds reached their maximum."
+    },
+    {
+      "$id": 359,
+      "style": 130,
+      "name": "Accept and complete a quest."
+    },
+    {
+      "$id": 360,
+      "style": 130,
+      "name": "Completed a quest for the first time."
+    },
+    {
+      "$id": 361,
+      "style": 130,
+      "name": "Complete several quests."
+    },
+    {
+      "$id": 362,
+      "style": 130,
+      "name": "Completed 10 quests (excluding story quests)."
+    },
+    {
+      "$id": 363,
+      "style": 130,
+      "name": "Complete even more quests."
+    },
+    {
+      "$id": 364,
+      "style": 130,
+      "name": "Completed 100 quests (excluding story quests)."
+    },
+    {
+      "$id": 365,
+      "style": 130,
+      "name": "Complete many more quests."
+    },
+    {
+      "$id": 366,
+      "style": 130,
+      "name": "Completed 200 quests (excluding story quests)."
+    },
+    {
+      "$id": 367,
+      "style": 130,
+      "name": "Complete nearly every quest."
+    },
+    {
+      "$id": 368,
+      "style": 130,
+      "name": "Completed 300 quests (excluding story quests)."
+    },
+    {
+      "$id": 369,
+      "style": 130,
+      "name": "????"
+    },
+    {
+      "$id": 370,
+      "style": 130,
+      "name": "Your decision changed a townsperson's life."
+    },
+    {
+      "$id": 371,
+      "style": 130,
+      "name": "Collect as many treasure chests as you can!"
+    },
+    {
+      "$id": 372,
+      "style": 130,
+      "name": "Obtained 1,000 Rare or Super Rare Treasure Chests in total."
+    },
+    {
+      "$id": 373,
+      "style": 130,
+      "name": "Try bartering with someone."
+    },
+    {
+      "$id": 374,
+      "style": 130,
+      "name": "Successfully bartered for the first time."
+    },
+    {
+      "$id": 375,
+      "style": 130,
+      "name": "Barter repeatedly."
+    },
+    {
+      "$id": 376,
+      "style": 130,
+      "name": "Bartered items 20 times."
+    },
+    {
+      "$id": 377,
+      "style": 130,
+      "name": "Barter even more often."
+    },
+    {
+      "$id": 378,
+      "style": 130,
+      "name": "Bartered items 100 times."
+    },
+    {
+      "$id": 379,
+      "style": 130,
+      "name": "Barter to get a 77 Stick Insect."
+    },
+    {
+      "$id": 380,
+      "style": 130,
+      "name": "Obtained a 77 Stick Insect through bartering."
+    },
+    {
+      "$id": 381,
+      "style": 130,
+      "name": "Barter to get a Golden Cog."
+    },
+    {
+      "$id": 382,
+      "style": 130,
+      "name": "Obtained a Golden Cog through bartering."
+    },
+    {
+      "$id": 383,
+      "style": 130,
+      "name": "Barter to get a Love Tiger Beetle."
+    },
+    {
+      "$id": 384,
+      "style": 130,
+      "name": "Obtained a Love Tiger Beetle through bartering."
+    },
+    {
+      "$id": 385,
+      "style": 130,
+      "name": "Barter to get a Thunder Compass."
+    },
+    {
+      "$id": 386,
+      "style": 130,
+      "name": "Obtained a Thunder Compass through bartering."
+    },
+    {
+      "$id": 387,
+      "style": 130,
+      "name": "Barter to get an Angel Engine B."
+    },
+    {
+      "$id": 388,
+      "style": 130,
+      "name": "Obtained an Angel Engine B through bartering."
+    },
+    {
+      "$id": 389,
+      "style": 130,
+      "name": "Keep increasing Colony 6's population."
+    },
+    {
+      "$id": 390,
+      "style": 130,
+      "name": "Colony 6's population reached at least 50."
+    },
+    {
+      "$id": 391,
+      "style": 130,
+      "name": "Bring Colony 6's population to a major milestone."
+    },
+    {
+      "$id": 392,
+      "style": 130,
+      "name": "Colony 6's population reached at least 100."
+    },
+    {
+      "$id": 393,
+      "style": 130,
+      "name": "Fill Colony 6 to capacity."
+    },
+    {
+      "$id": 394,
+      "style": 130,
+      "name": "Colony 6's population reached 150. It's full!"
+    },
+    {
+      "$id": 395,
+      "style": 130,
+      "name": "Start work on reconstructing Colony 6."
+    },
+    {
+      "$id": 396,
+      "style": 130,
+      "name": "Colony 6's reconstruction began."
+    },
+    {
+      "$id": 397,
+      "style": 130,
+      "name": "Make further progress on Colony 6's reconstruction."
+    },
+    {
+      "$id": 398,
+      "style": 130,
+      "name": "Made good progress in reconstructing Colony 6."
+    },
+    {
+      "$id": 399,
+      "style": 130,
+      "name": "Bring Colony 6's reconstruction to a splendid finish."
+    },
+    {
+      "$id": 400,
+      "style": 130,
+      "name": "Finished reconstructing Colony 6. Amazing!"
+    }
+  ]
+}

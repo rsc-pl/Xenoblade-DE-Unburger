@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Pressure Control Device"
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "It appears to be locked."
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Exhaust System Wall"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It appears to be locked."
+    },
+    {
+      "$id": 5,
+      "style": 14,
+      "name": "Rotating Bulkhead"
+    },
+    {
+      "$id": 6,
+      "style": 117,
+      "name": "It appears to be locked."
+    },
+    {
+      "$id": 7,
+      "style": 117,
+      "name": "You must hurry to save Fiorung."
+    },
+    {
+      "$id": 8,
+      "style": 117,
+      "name": "You must find some water for Fiorung."
+    },
+    {
+      "$id": 9,
+      "style": 14,
+      "name": "Access Door"
+    },
+    {
+      "$id": 10,
+      "style": 117,
+      "name": "You must listen to Linada."
+    }
+  ]
+}

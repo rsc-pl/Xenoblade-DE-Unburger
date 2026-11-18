@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]I know Vanea said she'll try to persuade him,[XENO:n ]\nbut she didn't sound confident.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]I know Vanea-san said she'll try to persuade him,[XENO:n ]\nbut she didn't sound confident.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]How Fiorung know that?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Fiorung, how do you know that-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Meyneth's memories...[XENO:n ]\nShe tells me these things.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Maynus's memories...[XENO:n ]\nShe tells me these things.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,

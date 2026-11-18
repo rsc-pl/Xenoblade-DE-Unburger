@@ -1,0 +1,259 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Incredible.[XENO:wait wait=key ][System:PageBreak ]To think this was all rubble not[XENO:n ]\nso long ago.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]That it was. The reconstruction[XENO:n ]\nis progressing very rapidly indeed.[XENO:wait wait=key ][System:PageBreak ]And the population is growing[XENO:n ]\nday by day.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]It just goes to show...[XENO:wait wait=key ][System:PageBreak ]People can achieve anything when[XENO:n ]\nthey really work together.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Teamwork can fell insurmountable[XENO:n ]\nobstacles.[XENO:wait wait=key ][System:PageBreak ]Looking back on the[XENO:n ]\nBattle of Sword Valley...[XENO:wait wait=key ][System:PageBreak ]Well, it's a miracle I survived.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・I've realised something./・It's because you're Dunban-san. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Sometimes you have to depend[XENO:n ]\non other people for support.[XENO:wait wait=key ][System:PageBreak ]No one can do everything[XENO:n ]\non their own.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I agree. Strength in numbers.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]So I'm going to do whatever I can,[XENO:n ]\nhowever I can, to support you all.[XENO:wait wait=key ][System:PageBreak ]If we work together, we can[XENO:n ]\nmake it through anything.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I hear you, Shulk.[XENO:n ]\nThat is a sound plan.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:sel sel=・I can't do this alone./・No man is an island. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]If I'd left Colony 9 on my own,[XENO:n ]\nI never would've made it this far.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I think you're right, Shulk. And[XENO:n ]\nI would have fared the same.[XENO:wait wait=key ][System:PageBreak ]Having companions with us means[XENO:n ]\nmore than we realise sometimes.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]Yes, Rein and the others[XENO:n ]\nhave helped me many times.[XENO:wait wait=key ][System:PageBreak ]From now on, I want[XENO:n ]\nto help them too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Don't diminish your achievements.[XENO:n ]\nYou've done great things already.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT3 ]I can vouch for that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]That's nice of you to say, Dunban.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]But I feel like I've got a long way[XENO:n ]\nto go. And I still need you.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I know, Shulk.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]We all need each other in tough[XENO:n ]\ntimes. I'm no different.[XENO:wait wait=key ][System:PageBreak ]So let's keep looking out for each[XENO:n ]\nother, and we'll all stay safe.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If it hadn't been for you guys,[XENO:n ]\nI'd have been completely lost.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I know exactly what you mean.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT16 ]Alone we fall, but together[XENO:n ]\nwe can achieve anything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I feel like all I ever achieve is[XENO:n ]\nwaiting for everyone to save me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If anything I'd say the opposite[XENO:n ]\nis true! But you know what?[XENO:wait wait=key ][System:PageBreak ]You wouldn't be you if you weren't[XENO:n ]\nfretting about these things.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Hmm.[XENO:wait wait=key ][System:PageBreak ]People say I'm a nice guy, but[XENO:n ]\nI just do what comes naturally.[XENO:wait wait=key ][System:PageBreak ]What feels right.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]That is what makes you special.[XENO:n ]\nNever lose that, Shulk.[XENO:wait wait=key ][System:PageBreak ]Now, how about we rejoin[XENO:n ]\nthe others?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]OK, Dunban.[XENO:wait wait=key ][System:PageBreak ]Thank you, by the way.[XENO:n ]\nFor everything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Because I'm a hero, you mean?[XENO:wait wait=key ][System:PageBreak ]I am no hero. I'm not strong[XENO:n ]\nenough to be called that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT13 ]Huh?[XENO:n ]\nYou mean[XENO:wait wait=key ][System:PageBreak ]Dunban-san, who's known as a hero...?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Shulk, tell me something.[XENO:wait wait=key ][System:PageBreak ]What do you think of when you[XENO:n ]\ntalk about strength?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:sel sel=・Physical strength./・Strength of the heart. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]You're not wrong.[XENO:wait wait=key ][System:PageBreak ]Without the brute force to repel[XENO:n ]\nyour enemies, you are never safe.[XENO:wait wait=key ][System:PageBreak ]But is that the only meaning?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:act act=EVT4 ]What do you mean?[XENO:wait wait=key ][System:PageBreak ]Dunban-san really is strong.[XENO:n ]\nThat's why you could protect us,[XENO:wait wait=key ][System:PageBreak ]isn't it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]It's plenty. In fact, it might[XENO:n ]\neven be too much.[XENO:wait wait=key ][System:PageBreak ]The truth about power is this:[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]All power corrupts, and those who[XENO:n ]\ncrave it will be corrupted by it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Corrupted? I don't understand.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]It was once explained to me[XENO:n ]\nas I explain it to you now.[XENO:wait wait=key ][System:PageBreak ]Those who crave ultimate power[XENO:n ]\nlose all else in their pursuit of it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Oh...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]If you were to seek such power,[XENO:n ]\nyou might lose all of us.[XENO:wait wait=key ][System:PageBreak ]And I'm sure you don't want that.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]That's not right![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]You can't just cast aside Rein,[XENO:n ]\nDunban-san and the others![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]It's all right, Shulk.[XENO:wait wait=key ][System:PageBreak ]I don't really think that would[XENO:n ]\nhappen to someone like you.[XENO:wait wait=key ][System:PageBreak ]Let's just call it food for thought.[XENO:wait wait=key ][System:PageBreak ]Come on. Let's head back.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yeah, the others are waiting.[XENO:wait wait=key ][System:PageBreak ]Thanks for the lesson, Dunban.[XENO:n ]\nIt was a real eye-opener![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Good answer, Shulk. I'd expect[XENO:n ]\nnothing less from you.[XENO:wait wait=key ][System:PageBreak ]The weak of heart eventually[XENO:n ]\nlose all they have gained.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]The only problem is, I don't know[XENO:n ]\nhow to get stronger in that sense.[XENO:wait wait=key ][System:PageBreak ]I can't exactly do exercises for it.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]You raise a valid point.[XENO:wait wait=key ][System:PageBreak ]It all depends on how firm[XENO:n ]\nyour convictions are.[XENO:wait wait=key ][System:PageBreak ]If you have firm convictions,[XENO:n ]\nyou are strong of heart.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]What kind of resolve do[XENO:n ]\nyou have, Dunban-san?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]During my days as a soldier, I did[XENO:n ]\nanything I could to protect you all.[XENO:wait wait=key ][System:PageBreak ]So...I'd like to think so, I suppose.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Then that means you're strong[XENO:n ]\nof heart. You said so yourself.[XENO:wait wait=key ][System:PageBreak ]So you're a hero after all.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Maybe, maybe not.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT2 ]I guess that's not for me to say.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]Well, you'll always be a hero[XENO:n ]\nto me, Dunban.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Remember, this is just my[XENO:n ]\ndefinition of strength.[XENO:wait wait=key ][System:PageBreak ]There must be countless other[XENO:n ]\npossible definitions out there.[XENO:wait wait=key ][System:PageBreak ]I bet everyone has their own.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Either way, I'm glad you told me.[XENO:n ]\nIt all makes sense to me somehow.[XENO:wait wait=key ][System:PageBreak ]True strength...it comes from[XENO:n ]\nwillpower, right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]No need to be thanking me. You[XENO:n ]\nfigured that one out yourself.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]In truth, choosing not to fight[XENO:n ]\nis the nobler path.[XENO:wait wait=key ][System:PageBreak ]And that's something you realise[XENO:n ]\nalready, isn't it?[XENO:wait wait=key ][System:PageBreak ]Anyway, I think it's time[XENO:n ]\nto head back.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Good idea. Let's join the others.[XENO:n ]\nThey'll be waiting.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

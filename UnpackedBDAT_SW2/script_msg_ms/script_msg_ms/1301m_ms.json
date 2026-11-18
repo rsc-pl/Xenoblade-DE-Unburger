@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "We have collected both pieces of[XENO:n ]\nFrost Glass that Galba requested.[XENO:wait wait=key ][System:PageBreak ]Can these be used to repair the[XENO:n ]\nEther Furnace Controls?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "We've got two Ice Cabbages-mo![XENO:wait wait=key ][System:PageBreak ]This will really help rebuild[XENO:n ]\nColony 6-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Is this a Silver Lexos Heart?[XENO:n ]\nIt wasn't easy finding these two.[XENO:wait wait=key ][System:PageBreak ]Can these really help Rei[XENO:n ]\nbecome like us Homs?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "We have collected the two Lucky[XENO:n ]\nChilkin Rings for Orkhong.[XENO:wait wait=key ][System:PageBreak ]Perhaps he and Zel can now be[XENO:n ]\nhappy at last.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "Is this Sorobosu Ice Stone-mo?[XENO:wait wait=key ][System:PageBreak ]We got two, just as asked-mo. Papii[XENO:n ]\nand the others will be happy-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

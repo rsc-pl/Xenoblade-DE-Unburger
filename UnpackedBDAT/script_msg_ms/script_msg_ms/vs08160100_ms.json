@@ -38,12 +38,12 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Wait. This is His Highness Kallian.[XENO:n ]\nBrother to Her Highness Melia.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Wait. This is His Highness Kallian.[XENO:n ]\nOlder brother to Her Highness Melia.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "Melia's brother?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Melia's older brother?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "Seer Alvis.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Seer-dono.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "I am presuming they are Inquisitors of the Bionite Order.[XENO:wait wait=key ]"
+      "name": "I am presuming they are Inquisitors of the Giant God Order.[XENO:wait wait=key ]"
     },
     {
       "$id": 14,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Ridiculous. The Bionite Order are a mere...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Ridiculous. The Giant God Order is a mere...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "Never revealing their true faces.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I've heard that's how the inquisitors[XENO:n ]\nof the Giant God Order operate.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Kallian! Melia is in danger![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Kallian-san! Melia is in danger![XENO:wait wait=key ]"
     },
     {
       "$id": 27,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Another seer? Which would mean that...[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]With Seer-dono? Which would mean that...[XENO:wait wait=key ]"
     },
     {
       "$id": 31,

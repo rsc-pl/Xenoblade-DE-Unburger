@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 127,
-      "name": "Unleashes the power of the Monado. ([ML:icon icon=enh35 ])"
+      "name": "Unlocks the Monado's Arts. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 3,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 127,
-      "name": "Increased damage against [System:Color name=arts_sp ]Mechon[/System:Color]."
+      "name": "Increases damage against [System:Color name=arts_sp ]Machine Soldiers[/System:Color]."
     },
     {
       "$id": 7,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 127,
-      "name": "Allows ordinary weapons to damage Mechon ([ML:icon icon=enh02 ])."
+      "name": "No deflection; extra damage vs Machine Soldiers ([ML:icon icon=enh02 ])."
     },
     {
       "$id": 9,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 127,
-      "name": "Increases chance of dodging physical attacks ([ML:icon icon=enh03 ])."
+      "name": "Greatly increases physical attack evasion ([ML:icon icon=enh03 ])."
     },
     {
       "$id": 13,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 127,
-      "name": "Removes auras ([ML:icon icon=enh35 ]) and inflicts Aura Seal ([ML:icon icon=enh24 ])."
+      "name": "Removes enemy Aura ([ML:icon icon=enh35 ]); temporarily seals it ([ML:icon icon=enh24 ])."
     },
     {
       "$id": 15,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 127,
-      "name": "Attack [System:Color name=arts_sp ]from the side[/System:Color] to lower physical defence ([ML:icon icon=enh25 ])."
+      "name": "Inflicts Phys. Resist Down ([ML:icon icon=enh25 ]) [System:Color name=arts_sp ]from the side[/System:Color]."
     },
     {
       "$id": 23,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 127,
-      "name": "Reduces aggro. Improves Physical Arts ([ML:icon icon=enh15 ])."
+      "name": "Reduces aggro; boosts physical Art damage ([ML:icon icon=enh15 ])."
     },
     {
       "$id": 33,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 127,
-      "name": "Halves current HP and fills Talent Gauge."
+      "name": "Halves current HP to raise the Talent Gauge."
     },
     {
       "$id": 35,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 127,
-      "name": "Inflicts Break ([ML:icon icon=enh36 ]) on enemies in front."
+      "name": "Inflicts Break ([ML:icon icon=enh36 ]) on enemies in an area ahead."
     },
     {
       "$id": 37,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 127,
-      "name": "Temporarily increases aggro."
+      "name": "Temporarily gains aggro to draw enemy attacks."
     },
     {
       "$id": 39,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 127,
-      "name": "Attacks and temporarily increases aggro."
+      "name": "Temporarily gains aggro on attack."
     },
     {
       "$id": 41,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 127,
-      "name": "Block enemy attacks. Use again to deactivate."
+      "name": "Enters Guard. Use again to cancel."
     },
     {
       "$id": 45,
@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 127,
-      "name": "Fills Talent Gauge when attack connects."
+      "name": "Raises Talent Gauge on hit."
     },
     {
       "$id": 47,
       "style": 12,
-      "name": "Sword Drive"
+      "name": "Sword Pile"
     },
     {
       "$id": 48,
@@ -258,7 +258,7 @@
     {
       "$id": 50,
       "style": 127,
-      "name": "Improves attack ([ML:icon icon=enh11 ]) but reduces phys. def. ([ML:icon icon=enh25 ]). ([ML:icon icon=enh35 ])"
+      "name": "Attack Up ([ML:icon icon=enh11 ]); Phys. Resist Down ([ML:icon icon=enh25 ]). ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 51,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 127,
-      "name": "Locks On ([ML:icon icon=enh20 ]) to the target. ([ML:icon icon=enh35 ])"
+      "name": "Inflicts Lock On ([ML:icon icon=enh20 ]) on target. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 55,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 127,
-      "name": "Restores HP just before Incapacitation. ([ML:icon icon=enh35 ])"
+      "name": "Emergency HP recovery upon incapacitation. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 57,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 127,
-      "name": "Grants Spike; lowers phys. damage ([ML:icon icon=enh08 ]) and attack. ([ML:icon icon=enh35 ])"
+      "name": "Reduces phys. damage taken ([ML:icon icon=enh08 ]); Spike, attack down. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 59,
@@ -308,7 +308,7 @@
     {
       "$id": 60,
       "style": 127,
-      "name": "Exchanges the Talent Gauge for Arts damage."
+      "name": "Converts Talent Gauge into damage for the next Art."
     },
     {
       "$id": 61,
@@ -318,7 +318,7 @@
     {
       "$id": 62,
       "style": 127,
-      "name": "Fills Talent Gauge when attack connects."
+      "name": "Raises Talent Gauge on hit."
     },
     {
       "$id": 63,
@@ -348,7 +348,7 @@
     {
       "$id": 68,
       "style": 127,
-      "name": "Protects against Knock-Back and Blow-Down. ([ML:icon icon=enh35 ])"
+      "name": "Prevents knockback and launch. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 69,
@@ -393,7 +393,7 @@
     {
       "$id": 77,
       "style": 12,
-      "name": "Hidden Spike"
+      "name": "Hide Spike"
     },
     {
       "$id": 78,
@@ -413,17 +413,17 @@
     {
       "$id": 81,
       "style": 12,
-      "name": "Blossom Dance"
+      "name": "Wild Sakura Dance"
     },
     {
       "$id": 82,
       "style": 127,
-      "name": "Chance of delivering a combo attack."
+      "name": "Gain a chance to perform consecutive attacks."
     },
     {
       "$id": 83,
       "style": 12,
-      "name": "Cutting Petal"
+      "name": "Chain Slash 2"
     },
     {
       "$id": 84,
@@ -433,7 +433,7 @@
     {
       "$id": 85,
       "style": 12,
-      "name": "Twisting Petal"
+      "name": "Chain Slash 3"
     },
     {
       "$id": 86,
@@ -443,7 +443,7 @@
     {
       "$id": 87,
       "style": 12,
-      "name": "Falling Petal"
+      "name": "Chain Slash 4"
     },
     {
       "$id": 88,
@@ -463,7 +463,7 @@
     {
       "$id": 91,
       "style": 12,
-      "name": "Electric Gutbuster"
+      "name": "Thunderblade Kick"
     },
     {
       "$id": 92,
@@ -478,17 +478,17 @@
     {
       "$id": 94,
       "style": 127,
-      "name": "Grants Str. Up buff ([ML:icon icon=enh11 ]) and removes Confuse ([ML:icon icon=enh21 ]). ([ML:icon icon=enh35 ])"
+      "name": "Grants Str. Up buff ([ML:icon icon=enh11 ]) and removes Panic ([ML:icon icon=enh21 ]). ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 95,
       "style": 12,
-      "name": "Worldly Slash"
+      "name": "Heaven-Earth Sword"
     },
     {
       "$id": 96,
       "style": 127,
-      "name": "Lowers phys. def. ([ML:icon icon=enh25 ]) [System:Color name=arts_sp ]After Gale Slash[/System:Color], lowers str. ([ML:icon icon=enh27 ])"
+      "name": "Phys. Resist Down ([ML:icon icon=enh25 ]); Str. Down ([ML:icon icon=enh27 ]) [System:Color name=arts_sp ]after Gale Slash[/System:Color]."
     },
     {
       "$id": 97,
@@ -498,12 +498,12 @@
     {
       "$id": 98,
       "style": 127,
-      "name": "Locks On ([ML:icon icon=enh20 ]) to the target. ([ML:icon icon=enh35 ])"
+      "name": "Inflicts Lock On ([ML:icon icon=enh20 ]) on target. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 99,
       "style": 12,
-      "name": "Steel Strike"
+      "name": "Iron Power Bullet"
     },
     {
       "$id": 100,
@@ -523,32 +523,32 @@
     {
       "$id": 103,
       "style": 12,
-      "name": "Final Flicker"
+      "name": "Last-Stand Shadow"
     },
     {
       "$id": 104,
       "style": 127,
-      "name": "Sacrifices HP to fill Talent Gauge."
+      "name": "Sacrifices HP to raise the Talent Gauge."
     },
     {
       "$id": 105,
       "style": 12,
-      "name": "Jaws of Death"
+      "name": "9 Deaths, 1 Kill"
     },
     {
       "$id": 106,
       "style": 127,
-      "name": "Restores HP just before Incapacitation. ([ML:icon icon=enh35 ])"
+      "name": "Emergency HP recovery upon incapacitation. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 107,
       "style": 12,
-      "name": "Tempest Kick"
+      "name": "Windblade Spin Kick"
     },
     {
       "$id": 108,
       "style": 127,
-      "name": "Use [System:Color name=arts_sp ]after Gale Slash[/System:Color] to remove a buff."
+      "name": "Removes one buff [System:Color name=arts_sp ]after Gale Slash[/System:Color]."
     },
     {
       "$id": 109,
@@ -563,7 +563,7 @@
     {
       "$id": 111,
       "style": 12,
-      "name": "Spirit Breath"
+      "name": "Divine Breath"
     },
     {
       "$id": 112,
@@ -573,17 +573,17 @@
     {
       "$id": 113,
       "style": 12,
-      "name": "Soaring Tempest"
+      "name": "1000 Blades Soar"
     },
     {
       "$id": 114,
       "style": 127,
-      "name": "Fills Talent Gauge when attack connects."
+      "name": "Raises Talent Gauge on hit."
     },
     {
       "$id": 115,
       "style": 12,
-      "name": "Thunder"
+      "name": "Heavenly Thunder"
     },
     {
       "$id": 116,
@@ -593,17 +593,17 @@
     {
       "$id": 117,
       "style": 12,
-      "name": "Demon Slayer"
+      "name": "Demon-Cutting Blade"
     },
     {
       "$id": 118,
       "style": 127,
-      "name": "As a [System:Color name=arts_sp ]final blow[/System:Color], forces Topple ([ML:icon icon=enh37 ]) on other enemies."
+      "name": "On a [System:Color name=arts_sp ]finishing blow[/System:Color], Topples ([ML:icon icon=enh37 ]) enemies in combat."
     },
     {
       "$id": 119,
       "style": 12,
-      "name": "Blinding Blossom"
+      "name": "Sakura Splendor"
     },
     {
       "$id": 120,
@@ -698,7 +698,7 @@
     {
       "$id": 138,
       "style": 127,
-      "name": "Restores HP to all party members."
+      "name": "Restores HP to allies in range."
     },
     {
       "$id": 139,
@@ -708,7 +708,7 @@
     {
       "$id": 140,
       "style": 127,
-      "name": "May inflict Instant Death on [System:Color name=arts_sp ]Dazed [/System:Color]([ML:icon icon=enh39 ]) [System:Color name=arts_sp ]enemies[/System:Color]."
+      "name": "Chance of Instant Death on [System:Color name=arts_sp ]Dazed[/System:Color] ([ML:icon icon=enh39 ]) enemies."
     },
     {
       "$id": 141,
@@ -728,7 +728,7 @@
     {
       "$id": 144,
       "style": 127,
-      "name": "Extends duration of an active Aura."
+      "name": "Extends allies' active Auras."
     },
     {
       "$id": 145,
@@ -738,7 +738,7 @@
     {
       "$id": 146,
       "style": 127,
-      "name": "Raises tension of party members around target."
+      "name": "Raises tension of allies in range."
     },
     {
       "$id": 147,
@@ -788,7 +788,7 @@
     {
       "$id": 156,
       "style": 127,
-      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to all party members."
+      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to allies in range."
     },
     {
       "$id": 157,
@@ -803,17 +803,17 @@
     {
       "$id": 159,
       "style": 12,
-      "name": "Rejoice-meh"
+      "name": "Rejoice-mo"
     },
     {
       "$id": 160,
       "style": 127,
-      "name": "Fills the Party Gauge."
+      "name": "Raises the Party Gauge."
     },
     {
       "$id": 161,
       "style": 12,
-      "name": "Chomp Chomp-mmeh"
+      "name": "Chomp-Chomp-mo"
     },
     {
       "$id": 162,
@@ -823,7 +823,7 @@
     {
       "$id": 163,
       "style": 12,
-      "name": "Got It-meh"
+      "name": "Got It-mo"
     },
     {
       "$id": 164,
@@ -833,17 +833,17 @@
     {
       "$id": 165,
       "style": 12,
-      "name": "Leave It To Me-meh"
+      "name": "Over to You-mo"
     },
     {
       "$id": 166,
       "style": 127,
-      "name": "Enemies will not attack. ([ML:icon icon=enh35 ])"
+      "name": "Plays dead, avoiding enemy targeting. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 167,
       "style": 12,
-      "name": "Toxic Toxic-mmeh"
+      "name": "Poison-Poison-mo"
     },
     {
       "$id": 168,
@@ -853,7 +853,7 @@
     {
       "$id": 169,
       "style": 12,
-      "name": "Courage-mmeh"
+      "name": "Courage-mo"
     },
     {
       "$id": 170,
@@ -863,17 +863,17 @@
     {
       "$id": 171,
       "style": 12,
-      "name": "Roll Over-meh"
+      "name": "Fall Over-mo"
     },
     {
       "$id": 172,
       "style": 127,
-      "name": "Inflicts Bind ([ML:icon icon=enh19 ]); sometimes forces Topple ([ML:icon icon=enh37 ]) instead."
+      "name": "Inflicts Bind ([ML:icon icon=enh19 ]), sometimes Topple too ([ML:icon icon=enh37 ])."
     },
     {
       "$id": 173,
       "style": 12,
-      "name": "Gonna Do It-mmeh"
+      "name": "Calm Down-mo"
     },
     {
       "$id": 174,
@@ -883,67 +883,67 @@
     {
       "$id": 175,
       "style": 12,
-      "name": "Riki is Angry"
+      "name": "Angry-mo"
     },
     {
       "$id": 176,
       "style": 127,
-      "name": "Multiplies and returns damage as Spike damage. ([ML:icon icon=enh35 ])"
+      "name": "Returns double the damage taken as Spike. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 177,
       "style": 12,
-      "name": "Spinning-mmeh"
+      "name": "Spin-Spin-mo"
     },
     {
       "$id": 178,
       "style": 127,
-      "name": "Inflicts Sleep ([ML:icon icon=enh38 ]) on Riki and enemies in range."
+      "name": "Puts self and nearby enemies to Sleep ([ML:icon icon=enh38 ])."
     },
     {
       "$id": 179,
       "style": 12,
-      "name": "Do Your Best-meh"
+      "name": "Do My Best-mo"
     },
     {
       "$id": 180,
       "style": 127,
-      "name": "Restores HP to party members in front of Riki."
+      "name": "Restores HP to allies ahead."
     },
     {
       "$id": 181,
       "style": 12,
-      "name": "Here-meh"
+      "name": "Here-mo"
     },
     {
       "$id": 182,
       "style": 127,
-      "name": "[System:Color name=arts_sp ]Attack Mechon from the side[/System:Color] to inflict Confuse ([ML:icon icon=enh21 ])."
+      "name": "[System:Color name=arts_sp ]Attack Machine Soldiers from side[/System:Color] to inflict Panic ([ML:icon icon=enh21 ])."
     },
     {
       "$id": 183,
       "style": 12,
-      "name": "Quick Recovery-meh"
+      "name": "Repent-mo"
     },
     {
       "$id": 184,
       "style": 127,
-      "name": "Damage increases with enemy debuffs."
+      "name": "Damage increases with the number of enemy debuffs."
     },
     {
       "$id": 185,
       "style": 12,
-      "name": "Burning Burning-mmeh"
+      "name": "Burn-Burn-mo"
     },
     {
       "$id": 186,
       "style": 127,
-      "name": "Inflicts Blaze ([ML:icon icon=enh32 ]) on enemies in range."
+      "name": "Inflicts Blaze ([ML:icon icon=enh32 ]) on enemies around the user."
     },
     {
       "$id": 187,
       "style": 12,
-      "name": "Chilly Chilly-mmeh"
+      "name": "Chill-Chill-mo"
     },
     {
       "$id": 188,
@@ -953,7 +953,7 @@
     {
       "$id": 189,
       "style": 12,
-      "name": "Gonna Do It-meh"
+      "name": "I'll Do It-mo"
     },
     {
       "$id": 190,
@@ -968,7 +968,7 @@
     {
       "$id": 192,
       "style": 127,
-      "name": "Attack using a summoned Elemental."
+      "name": "Discharges a summoned Elemental."
     },
     {
       "$id": 193,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 127,
-      "name": "Chill damage to enemies in range."
+      "name": "Deals Chill damage around the user."
     },
     {
       "$id": 199,
@@ -1008,7 +1008,7 @@
     {
       "$id": 200,
       "style": 127,
-      "name": "Ether damage to enemies in range."
+      "name": "Deals ether damage around the target."
     },
     {
       "$id": 201,
@@ -1018,7 +1018,7 @@
     {
       "$id": 202,
       "style": 127,
-      "name": "Inflicts Poison on one enemy."
+      "name": "Deals Poison damage to one enemy."
     },
     {
       "$id": 203,
@@ -1038,7 +1038,7 @@
     {
       "$id": 206,
       "style": 127,
-      "name": "Electric Elemental. Ether Up ([ML:icon icon=enh13 ]) to nearby allies."
+      "name": "Summons Electric Elemental; nearby Ether Up ([ML:icon icon=enh13 ])."
     },
     {
       "$id": 207,
@@ -1048,7 +1048,7 @@
     {
       "$id": 208,
       "style": 127,
-      "name": "Fire Elemental. Strength Up ([ML:icon icon=enh11 ]) to nearby allies."
+      "name": "Summons Fire Elemental; nearby Strength Up ([ML:icon icon=enh11 ])."
     },
     {
       "$id": 209,
@@ -1058,7 +1058,7 @@
     {
       "$id": 210,
       "style": 127,
-      "name": "Ice Elemental. Ether Protect ([ML:icon icon=enh09 ]) to nearby allies."
+      "name": "Summons Ice Elemental; nearby Ether Barrier ([ML:icon icon=enh09 ])."
     },
     {
       "$id": 211,
@@ -1088,12 +1088,12 @@
     {
       "$id": 216,
       "style": 127,
-      "name": "Inflicts Bind ([ML:icon icon=enh19 ]) on enemies in range."
+      "name": "Inflicts Bind ([ML:icon icon=enh19 ]) on enemies around the user."
     },
     {
       "$id": 217,
       "style": 12,
-      "name": "Summon Copy"
+      "name": "Summoning Copy"
     },
     {
       "$id": 218,
@@ -1118,7 +1118,7 @@
     {
       "$id": 222,
       "style": 127,
-      "name": "Wind Elemental. Agility Up ([ML:icon icon=enh12 ]) to nearby allies."
+      "name": "Summons Wind Elemental; nearby Agility Up ([ML:icon icon=enh12 ])."
     },
     {
       "$id": 223,
@@ -1128,7 +1128,7 @@
     {
       "$id": 224,
       "style": 127,
-      "name": "Earth Elemental. Phys. Protect ([ML:icon icon=enh08 ]) to nearby allies."
+      "name": "Summons Earth Elemental; nearby Physical Barrier ([ML:icon icon=enh08 ])."
     },
     {
       "$id": 225,
@@ -1138,7 +1138,7 @@
     {
       "$id": 226,
       "style": 127,
-      "name": "Water Elemental. Regenerate ([ML:icon icon=enh06 ]) to nearby allies."
+      "name": "Summons Water Elemental; nearby Regenerate ([ML:icon icon=enh06 ])."
     },
     {
       "$id": 227,
@@ -1153,7 +1153,7 @@
     {
       "$id": 229,
       "style": 12,
-      "name": "Starlight Kick"
+      "name": "Starlight Knee"
     },
     {
       "$id": 230,
@@ -1178,7 +1178,7 @@
     {
       "$id": 234,
       "style": 127,
-      "name": "Reduces defence ([ML:icon icon=enh25 ]) of enemies in range."
+      "name": "Lowers physical resistance of nearby enemies ([ML:icon icon=enh25 ])."
     },
     {
       "$id": 235,
@@ -1188,7 +1188,7 @@
     {
       "$id": 236,
       "style": 127,
-      "name": "Inflicts Arts Seal ([ML:icon icon=enh23 ]) and removes Auras."
+      "name": "Removes Auras; inflicts Arts Seal ([ML:icon icon=enh23 ]) on foes ahead."
     },
     {
       "$id": 237,
@@ -1208,7 +1208,7 @@
     {
       "$id": 240,
       "style": 127,
-      "name": "Beams that attack enemies in range."
+      "name": "Beam attack on enemies around the user."
     },
     {
       "$id": 241,
@@ -1228,7 +1228,7 @@
     {
       "$id": 244,
       "style": 127,
-      "name": "Grants Shield ([ML:icon icon=enh01 ]) to Fiorung."
+      "name": "Grants Shield ([ML:icon icon=enh01 ]) to self."
     },
     {
       "$id": 245,
@@ -1248,7 +1248,7 @@
     {
       "$id": 248,
       "style": 127,
-      "name": "Beam that attacks enemies in range."
+      "name": "Beam attack on enemies around the user."
     },
     {
       "$id": 249,
@@ -1268,7 +1268,7 @@
     {
       "$id": 252,
       "style": 127,
-      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to Fiorung."
+      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to self."
     },
     {
       "$id": 253,
@@ -1298,7 +1298,7 @@
     {
       "$id": 258,
       "style": 127,
-      "name": "Removes debuffs and grants Regenerate ([ML:icon icon=enh06 ]). ([ML:icon icon=enh35 ])"
+      "name": "Cures own debuffs; grants Regenerate ([ML:icon icon=enh06 ]). ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 259,
@@ -1328,7 +1328,7 @@
     {
       "$id": 264,
       "style": 127,
-      "name": "Grants Haste ([ML:icon icon=enh05 ]) but reduces phys. def. ([ML:icon icon=enh25 ]). ([ML:icon icon=enh35 ])"
+      "name": "Grants Haste ([ML:icon icon=enh05 ]); Phys. Resist Down ([ML:icon icon=enh25 ]) to self. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 265,
@@ -1338,17 +1338,17 @@
     {
       "$id": 266,
       "style": 127,
-      "name": "Inflicts Paralysis ([ML:icon icon=enh18 ]). Fill Talent Gauge with [System:Color name=arts_sp ]Topple[/System:Color] ([ML:icon icon=enh37 ])."
+      "name": "Inflicts Paralysis ([ML:icon icon=enh18 ]). [System:Color name=arts_sp ]Effective against Topple[/System:Color]."
     },
     {
       "$id": 267,
       "style": 12,
-      "name": "Lock-On"
+      "name": "Lock On"
     },
     {
       "$id": 268,
       "style": 127,
-      "name": "Locks-On ([ML:icon icon=enh20 ]) to a target. ([ML:icon icon=enh35 ])"
+      "name": "Inflicts Lock On ([ML:icon icon=enh20 ]) on target. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 269,
@@ -1358,7 +1358,7 @@
     {
       "$id": 270,
       "style": 127,
-      "name": "Absorbs ether ([ML:icon icon=enh13 ]) from enemies."
+      "name": "Absorbs ether power ([ML:icon icon=enh13 ]) from enemies."
     },
     {
       "$id": 271,
@@ -1378,7 +1378,7 @@
     {
       "$id": 274,
       "style": 127,
-      "name": "Inflicts Daze ([ML:icon icon=enh39 ]) on [System:Color name=arts_sp ]Mechon[/System:Color] suffering Topple ([ML:icon icon=enh37 ])."
+      "name": "Dazes ([ML:icon icon=enh39 ]) [System:Color name=arts_sp ]Machine Soldiers[/System:Color] suffering Topple ([ML:icon icon=enh37 ])."
     },
     {
       "$id": 275,
@@ -1388,7 +1388,7 @@
     {
       "$id": 276,
       "style": 127,
-      "name": "Attack inflicts Sleep ([ML:icon icon=enh38 ]). Clears [System:Color name=arts_sp ]Mechon[/System:Color] buff/debuff."
+      "name": "Inflicts Sleep ([ML:icon icon=enh38 ]). [System:Color name=arts_sp ]Effective vs Machine Soldiers[/System:Color]."
     },
     {
       "$id": 277,
@@ -1418,7 +1418,7 @@
     {
       "$id": 282,
       "style": 127,
-      "name": "Increases block rate but reduces attack power. ([ML:icon icon=enh35 ])"
+      "name": "Increases Guard Rate but reduces attack power. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 283,
@@ -1438,7 +1438,7 @@
     {
       "$id": 286,
       "style": 127,
-      "name": "Forces Topple ([ML:icon icon=enh37 ]) on enemies in front."
+      "name": "Topples enemies without requiring Break ([ML:icon icon=enh37 ])."
     },
     {
       "$id": 287,
@@ -1478,7 +1478,7 @@
     {
       "$id": 294,
       "style": 127,
-      "name": "Temporarily draws aggro from party in range."
+      "name": "Temporarily gains nearby enemy aggro to draw attacks."
     },
     {
       "$id": 295,
@@ -1508,7 +1508,7 @@
     {
       "$id": 300,
       "style": 127,
-      "name": "Increased damage against [System:Color name=arts_sp ]Mechon[/System:Color]."
+      "name": "Increases damage against [System:Color name=arts_sp ]Machine Soldiers[/System:Color]."
     },
     {
       "$id": 301,
@@ -1518,7 +1518,7 @@
     {
       "$id": 302,
       "style": 127,
-      "name": "Allows ordinary weapons to damage Mechon. ([ML:icon icon=enh02 ])"
+      "name": "No deflection; extra damage vs Machine Soldiers ([ML:icon icon=enh02 ])."
     },
     {
       "$id": 303,
@@ -1528,17 +1528,17 @@
     {
       "$id": 304,
       "style": 127,
-      "name": "Unleashes the power of the Monado. ([ML:icon icon=enh35 ])"
+      "name": "Unlocks the Monado's Arts. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 305,
       "style": 12,
-      "name": "Mehmehmeh Down"
+      "name": "Mo-Mo-Mo Down"
     },
     {
       "$id": 306,
       "style": 127,
-      "name": "Reduces Talent Gauge build-up."
+      "name": "Reduces the accumulated Talent Gauge."
     },
     {
       "$id": 307,
@@ -1608,7 +1608,7 @@
     {
       "$id": 320,
       "style": 127,
-      "name": "Restores HP to all party members."
+      "name": "Restores HP to allies in range."
     },
     {
       "$id": 321,
@@ -1618,7 +1618,7 @@
     {
       "$id": 322,
       "style": 127,
-      "name": "May inflict Instant Death on [System:Color name=arts_sp ]Dazed [/System:Color]([ML:icon icon=enh39 ]) [System:Color name=arts_sp ]enemies[/System:Color]."
+      "name": "Chance of Instant Death on [System:Color name=arts_sp ]Dazed[/System:Color] ([ML:icon icon=enh39 ]) enemies."
     },
     {
       "$id": 323,
@@ -1638,7 +1638,7 @@
     {
       "$id": 326,
       "style": 127,
-      "name": "Extends duration of an active Aura."
+      "name": "Extends allies' active Auras."
     },
     {
       "$id": 327,
@@ -1648,7 +1648,7 @@
     {
       "$id": 328,
       "style": 127,
-      "name": "Raises tension of party members around target."
+      "name": "Raises tension of allies in range."
     },
     {
       "$id": 329,
@@ -1698,17 +1698,17 @@
     {
       "$id": 338,
       "style": 127,
-      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to all party members."
+      "name": "Grants Debuff Immunity ([ML:icon icon=enh14 ]) to allies in range."
     },
     {
       "$id": 339,
       "style": 12,
-      "name": "Momomo Taunt"
+      "name": "Mo-Mo-Mo Taunt"
     },
     {
       "$id": 340,
       "style": 127,
-      "name": "Temporarily increases aggro."
+      "name": "Temporarily gains aggro to draw enemy attacks."
     },
     {
       "$id": 341,
@@ -1718,7 +1718,7 @@
     {
       "$id": 342,
       "style": 127,
-      "name": "Attacks and temporarily increases aggro."
+      "name": "Temporarily gains aggro on attack."
     },
     {
       "$id": 343,
@@ -1738,7 +1738,7 @@
     {
       "$id": 346,
       "style": 127,
-      "name": "Block enemy attacks. Use again to deactivate."
+      "name": "Enters Guard. Use again to cancel."
     },
     {
       "$id": 347,
@@ -1748,7 +1748,7 @@
     {
       "$id": 348,
       "style": 127,
-      "name": "Fills Talent Gauge when attack connects."
+      "name": "Raises Talent Gauge on hit."
     },
     {
       "$id": 349,
@@ -1768,7 +1768,7 @@
     {
       "$id": 352,
       "style": 127,
-      "name": "Improves attack ([ML:icon icon=enh11 ]) but reduces phys. def. ([ML:icon icon=enh25 ]). ([ML:icon icon=enh35 ])"
+      "name": "Attack Up ([ML:icon icon=enh11 ]); Phys. Resist Down ([ML:icon icon=enh25 ]). ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 353,
@@ -1788,7 +1788,7 @@
     {
       "$id": 356,
       "style": 127,
-      "name": "Locks On ([ML:icon icon=enh20 ]) to the target. ([ML:icon icon=enh35 ])"
+      "name": "Inflicts Lock On ([ML:icon icon=enh20 ]) on target. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 357,
@@ -1798,17 +1798,17 @@
     {
       "$id": 358,
       "style": 127,
-      "name": "Restores HP just before Incapacitation. ([ML:icon icon=enh35 ])"
+      "name": "Emergency HP recovery upon incapacitation. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 359,
       "style": 12,
-      "name": "Hangry"
+      "name": "Mo-Rage"
     },
     {
       "$id": 360,
       "style": 127,
-      "name": "Grants Spike; lowers phys. damage ([ML:icon icon=enh08 ]) and attack. ([ML:icon icon=enh35 ])"
+      "name": "Reduces phys. damage taken ([ML:icon icon=enh08 ]); Spike, attack down. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 361,
@@ -1818,7 +1818,7 @@
     {
       "$id": 362,
       "style": 127,
-      "name": "Exchanges the Talent Gauge for Arts damage."
+      "name": "Converts Talent Gauge into damage for the next Art."
     },
     {
       "$id": 363,
@@ -1828,7 +1828,7 @@
     {
       "$id": 364,
       "style": 127,
-      "name": "Fills Talent Gauge when attack connects."
+      "name": "Raises Talent Gauge on hit."
     },
     {
       "$id": 365,
@@ -1858,7 +1858,7 @@
     {
       "$id": 370,
       "style": 127,
-      "name": "Protects against Knock-Back and Blow-Down. ([ML:icon icon=enh35 ])"
+      "name": "Prevents knockback and launch. ([ML:icon icon=enh35 ])"
     },
     {
       "$id": 371,

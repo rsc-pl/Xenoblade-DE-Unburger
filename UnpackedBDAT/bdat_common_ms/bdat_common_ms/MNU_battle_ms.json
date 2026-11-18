@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 11,
-      "name": "Attack"
+      "name": "Fight"
     },
     {
       "$id": 2,
       "style": 25,
-      "name": "Initiate a battle."
+      "name": "Begin attacking."
     },
     {
       "$id": 3,
       "style": 11,
-      "name": "Flee"
+      "name": "Retreat"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 25,
-      "name": "Lure enemy from a distance."
+      "name": "Lure an enemy with a ranged attack."
     },
     {
       "$id": 7,
@@ -73,12 +73,12 @@
     {
       "$id": 13,
       "style": 9,
-      "name": "BLOCK"
+      "name": "GUARD"
     },
     {
       "$id": 14,
       "style": 9,
-      "name": "IMMUNE"
+      "name": "NO EFFECT"
     },
     {
       "$id": 15,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 19,
-      "name": "Arts Setting"
+      "name": "Arts Settings"
     },
     {
       "$id": 18,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 8,
-      "name": "Required AP"
+      "name": "AP Cost"
     },
     {
       "$id": 32,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 116,
-      "name": "This Art has reached its maximum level.[XENO:n ]\nTo level up further you will need an[XENO:n ]\nAdvanced Arts Manual."
+      "name": "This Art has reached its level limit.[XENO:n ]\nAn Advanced Arts Manual is needed."
     },
     {
       "$id": 38,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 116,
-      "name": "This Arts Manual has already been studied."
+      "name": "Already learnt."
     },
     {
       "$id": 44,
@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 30,
-      "name": "x"
+      "name": "×"
     },
     {
       "$id": 47,
       "style": 1,
-      "name": "sec"
+      "name": "s"
     },
     {
       "$id": 48,
@@ -313,7 +313,7 @@
     {
       "$id": 61,
       "style": 13,
-      "name": "Bonding Coin!"
+      "name": "Bonding Coin Acquired!"
     },
     {
       "$id": 62,
@@ -328,7 +328,7 @@
     {
       "$id": 64,
       "style": 13,
-      "name": "Art Level Up Reqs"
+      "name": "Art Level Up"
     },
     {
       "$id": 65,
@@ -368,17 +368,17 @@
     {
       "$id": 72,
       "style": 11,
-      "name": "Union Strike"
+      "name": "Team Special"
     },
     {
       "$id": 73,
       "style": 25,
-      "name": "Team up with Ponspectors for a fierce attack"
+      "name": "Use a special attack with Noponjaa."
     },
     {
       "$id": 74,
       "style": 11,
-      "name": "Setting"
+      "name": "Settings"
     },
     {
       "$id": 75,
@@ -388,7 +388,7 @@
     {
       "$id": 76,
       "style": 26,
-      "name": "が究極レベルになりました"
+      "name": "is now ultimate level."
     },
     {
       "$id": 77,
@@ -398,12 +398,12 @@
     {
       "$id": 78,
       "style": 13,
-      "name": "Max Art Level Increased"
+      "name": "Art Level Cap Unlocked"
     },
     {
       "$id": 79,
       "style": 136,
-      "name": "New Arts Manuals have allowed you to attain a new level of Arts!"
+      "name": "Obtaining an Arts Manual has enabled further level ups."
     },
     {
       "$id": 80,
@@ -428,7 +428,7 @@
     {
       "$id": 84,
       "style": 9,
-      "name": "BONUS DAMAGE"
+      "name": "DAMAGE BONUS"
     },
     {
       "$id": 85,
@@ -458,7 +458,7 @@
     {
       "$id": 90,
       "style": 136,
-      "name": "You have learnt a new Monado Art from the records!"
+      "name": "Obtaining Monado Records unlocks a new Monado Art."
     },
     {
       "$id": 91,

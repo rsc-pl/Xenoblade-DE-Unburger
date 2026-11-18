@@ -18,12 +18,12 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Riki's friend Melly![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ah, Melia-chan![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Melly look amazing before! Riki so proud![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Melia-chan, you were splendid-mo! Riki was moved-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Her Highness the First Consort is not my birth mother.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Her Highness the Consort of Light is not my birth mother.[XENO:wait wait=key ]"
     },
     {
       "$id": 10,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT12 ]My mother is the Second Consort.[XENO:n ]\nI am half Homs, half High Entia.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]My mother is the Consort of Shadow.[XENO:n ]\nI am half Homs, half High Entia.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Melly live here?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Melia-chan, do you live here-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "Riki so hungry he could even eat smelly Orluga![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Can Riki eat yummy things-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "Expectations lead to disappointment.[XENO:n ]\nWe are talking about Reyn here.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Expectations lead to disappointment.[XENO:n ]\nWe are talking about Rein here.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,

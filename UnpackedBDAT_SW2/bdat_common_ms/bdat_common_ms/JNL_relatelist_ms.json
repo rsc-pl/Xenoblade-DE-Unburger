@@ -1,0 +1,2544 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 39,
+      "name": "Fellow Researchers"
+    },
+    {
+      "$id": 2,
+      "style": 39,
+      "name": "Healer's Successor"
+    },
+    {
+      "$id": 3,
+      "style": 39,
+      "name": "Old Friends"
+    },
+    {
+      "$id": 4,
+      "style": 39,
+      "name": "Close Friends"
+    },
+    {
+      "$id": 5,
+      "style": 39,
+      "name": "Admiration"
+    },
+    {
+      "$id": 6,
+      "style": 39,
+      "name": "Admired Person"
+    },
+    {
+      "$id": 7,
+      "style": 39,
+      "name": "Close"
+    },
+    {
+      "$id": 8,
+      "style": 39,
+      "name": "Feuding Parent/Child"
+    },
+    {
+      "$id": 9,
+      "style": 39,
+      "name": "Close Parent/Child"
+    },
+    {
+      "$id": 10,
+      "style": 39,
+      "name": "Feuding Sis & Bro"
+    },
+    {
+      "$id": 11,
+      "style": 39,
+      "name": "Close Sis & Bro"
+    },
+    {
+      "$id": 12,
+      "style": 39,
+      "name": "On Good Terms"
+    },
+    {
+      "$id": 13,
+      "style": 39,
+      "name": "Proud of Grandchild"
+    },
+    {
+      "$id": 14,
+      "style": 39,
+      "name": "Bitter Brothers"
+    },
+    {
+      "$id": 15,
+      "style": 39,
+      "name": "Brothers"
+    },
+    {
+      "$id": 16,
+      "style": 39,
+      "name": "Close Brothers"
+    },
+    {
+      "$id": 17,
+      "style": 39,
+      "name": "Best Brothers"
+    },
+    {
+      "$id": 18,
+      "style": 39,
+      "name": "Hostile"
+    },
+    {
+      "$id": 19,
+      "style": 39,
+      "name": "Reconciled"
+    },
+    {
+      "$id": 20,
+      "style": 39,
+      "name": "Senpai/Kouhai"
+    },
+    {
+      "$id": 21,
+      "style": 39,
+      "name": "Good Senpai"
+    },
+    {
+      "$id": 22,
+      "style": 39,
+      "name": "Parting"
+    },
+    {
+      "$id": 23,
+      "style": 39,
+      "name": "One-Sided Feelings"
+    },
+    {
+      "$id": 24,
+      "style": 39,
+      "name": "Mutual Love?"
+    },
+    {
+      "$id": 25,
+      "style": 39,
+      "name": "Feuding Parent/Child"
+    },
+    {
+      "$id": 26,
+      "style": 39,
+      "name": "Ordinary Parent/Child"
+    },
+    {
+      "$id": 27,
+      "style": 39,
+      "name": "Close Parent/Child"
+    },
+    {
+      "$id": 28,
+      "style": 39,
+      "name": "Interested"
+    },
+    {
+      "$id": 29,
+      "style": 39,
+      "name": "Cute Girl"
+    },
+    {
+      "$id": 30,
+      "style": 39,
+      "name": "Tea Friends"
+    },
+    {
+      "$id": 31,
+      "style": 39,
+      "name": "Best Friends as Ever"
+    },
+    {
+      "$id": 32,
+      "style": 39,
+      "name": "Aunt/Nephew"
+    },
+    {
+      "$id": 33,
+      "style": 39,
+      "name": "Farewell"
+    },
+    {
+      "$id": 34,
+      "style": 39,
+      "name": "Secret Feelings"
+    },
+    {
+      "$id": 35,
+      "style": 39,
+      "name": "Madly in Love"
+    },
+    {
+      "$id": 36,
+      "style": 39,
+      "name": "Diligence vs Laziness"
+    },
+    {
+      "$id": 37,
+      "style": 39,
+      "name": "Complete Fool"
+    },
+    {
+      "$id": 38,
+      "style": 39,
+      "name": "Mutual Understanding"
+    },
+    {
+      "$id": 39,
+      "style": 39,
+      "name": "Old Friends"
+    },
+    {
+      "$id": 40,
+      "style": 39,
+      "name": "Close Ties"
+    },
+    {
+      "$id": 41,
+      "style": 39,
+      "name": "Trust"
+    },
+    {
+      "$id": 42,
+      "style": 39,
+      "name": "Hostile Atmosphere"
+    },
+    {
+      "$id": 43,
+      "style": 39,
+      "name": "Senpai/Kouhai"
+    },
+    {
+      "$id": 44,
+      "style": 39,
+      "name": "Friendly Rivals"
+    },
+    {
+      "$id": 45,
+      "style": 39,
+      "name": "Late-Blooming Sakura?"
+    },
+    {
+      "$id": 46,
+      "style": 39,
+      "name": "Former Suitor"
+    },
+    {
+      "$id": 47,
+      "style": 39,
+      "name": "Longtime Best Friends"
+    },
+    {
+      "$id": 48,
+      "style": 39,
+      "name": "Reverence"
+    },
+    {
+      "$id": 49,
+      "style": 39,
+      "name": "Dissatisfaction"
+    },
+    {
+      "$id": 50,
+      "style": 39,
+      "name": "Patience"
+    },
+    {
+      "$id": 51,
+      "style": 39,
+      "name": "Newfound Respect"
+    },
+    {
+      "$id": 52,
+      "style": 39,
+      "name": "Confidence"
+    },
+    {
+      "$id": 53,
+      "style": 39,
+      "name": "Trust"
+    },
+    {
+      "$id": 54,
+      "style": 39,
+      "name": "High Regard"
+    },
+    {
+      "$id": 55,
+      "style": 39,
+      "name": "Trusted Companion"
+    },
+    {
+      "$id": 56,
+      "style": 39,
+      "name": "Displeasure"
+    },
+    {
+      "$id": 57,
+      "style": 39,
+      "name": "Distrust"
+    },
+    {
+      "$id": 58,
+      "style": 39,
+      "name": "Sympathy"
+    },
+    {
+      "$id": 59,
+      "style": 39,
+      "name": "Impressed"
+    },
+    {
+      "$id": 60,
+      "style": 39,
+      "name": "Trust"
+    },
+    {
+      "$id": 61,
+      "style": 39,
+      "name": "Capable Man"
+    },
+    {
+      "$id": 62,
+      "style": 39,
+      "name": "Promising Fighter"
+    },
+    {
+      "$id": 63,
+      "style": 39,
+      "name": "Never Give Up"
+    },
+    {
+      "$id": 64,
+      "style": 39,
+      "name": "Hardworking Bro & Sis"
+    },
+    {
+      "$id": 65,
+      "style": 39,
+      "name": "Rival Bro & Sis"
+    },
+    {
+      "$id": 66,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 67,
+      "style": 39,
+      "name": "Promising Pupil"
+    },
+    {
+      "$id": 68,
+      "style": 39,
+      "name": "Traitor"
+    },
+    {
+      "$id": 69,
+      "style": 39,
+      "name": "Estranged Friends"
+    },
+    {
+      "$id": 70,
+      "style": 39,
+      "name": "Irreplaceable Friend"
+    },
+    {
+      "$id": 71,
+      "style": 39,
+      "name": "One True Best Friend"
+    },
+    {
+      "$id": 72,
+      "style": 39,
+      "name": "Confusion"
+    },
+    {
+      "$id": 73,
+      "style": 39,
+      "name": "Big Fan"
+    },
+    {
+      "$id": 74,
+      "style": 39,
+      "name": "Passionate Fan"
+    },
+    {
+      "$id": 75,
+      "style": 39,
+      "name": "Scepticism"
+    },
+    {
+      "$id": 76,
+      "style": 39,
+      "name": "Big Success"
+    },
+    {
+      "$id": 77,
+      "style": 39,
+      "name": "Casual Fan"
+    },
+    {
+      "$id": 78,
+      "style": 39,
+      "name": "Dedicated Fan"
+    },
+    {
+      "$id": 79,
+      "style": 39,
+      "name": "Fanatical Fan"
+    },
+    {
+      "$id": 80,
+      "style": 39,
+      "name": "Near Divorce"
+    },
+    {
+      "$id": 81,
+      "style": 39,
+      "name": "Separated Couple"
+    },
+    {
+      "$id": 82,
+      "style": 39,
+      "name": "Round Couple"
+    },
+    {
+      "$id": 83,
+      "style": 39,
+      "name": "Stuck Together"
+    },
+    {
+      "$id": 84,
+      "style": 39,
+      "name": "Friend to Learn From"
+    },
+    {
+      "$id": 85,
+      "style": 39,
+      "name": "Contempt"
+    },
+    {
+      "$id": 86,
+      "style": 39,
+      "name": "Disregard"
+    },
+    {
+      "$id": 87,
+      "style": 39,
+      "name": "Late Friend's Child"
+    },
+    {
+      "$id": 88,
+      "style": 39,
+      "name": "Teacher/Pupil"
+    },
+    {
+      "$id": 89,
+      "style": 39,
+      "name": "Still a Novice"
+    },
+    {
+      "$id": 90,
+      "style": 39,
+      "name": "Teacher/Pupil"
+    },
+    {
+      "$id": 91,
+      "style": 39,
+      "name": "Talent in Bloom"
+    },
+    {
+      "$id": 92,
+      "style": 39,
+      "name": "Regular Customer"
+    },
+    {
+      "$id": 93,
+      "style": 39,
+      "name": "Notable Regular"
+    },
+    {
+      "$id": 94,
+      "style": 39,
+      "name": "Indifferent"
+    },
+    {
+      "$id": 95,
+      "style": 39,
+      "name": "Wonderful"
+    },
+    {
+      "$id": 96,
+      "style": 39,
+      "name": "The Best"
+    },
+    {
+      "$id": 97,
+      "style": 39,
+      "name": "Marital Bliss"
+    },
+    {
+      "$id": 98,
+      "style": 39,
+      "name": "Doting Parent"
+    },
+    {
+      "$id": 99,
+      "style": 39,
+      "name": "Annoying"
+    },
+    {
+      "$id": 100,
+      "style": 39,
+      "name": "Normal"
+    },
+    {
+      "$id": 101,
+      "style": 39,
+      "name": "Ordinary Friends"
+    },
+    {
+      "$id": 102,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 103,
+      "style": 39,
+      "name": "Best Friends Forever"
+    },
+    {
+      "$id": 104,
+      "style": 39,
+      "name": "Scary Friend"
+    },
+    {
+      "$id": 105,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 106,
+      "style": 39,
+      "name": "Best Friends Forever"
+    },
+    {
+      "$id": 107,
+      "style": 39,
+      "name": "Kind Friend"
+    },
+    {
+      "$id": 108,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 109,
+      "style": 39,
+      "name": "Best Friends Forever"
+    },
+    {
+      "$id": 110,
+      "style": 39,
+      "name": "Unreliable Grandchild"
+    },
+    {
+      "$id": 111,
+      "style": 39,
+      "name": "Nice Grandson"
+    },
+    {
+      "$id": 112,
+      "style": 39,
+      "name": "Proud of Grandchild"
+    },
+    {
+      "$id": 113,
+      "style": 39,
+      "name": "Unhappy with Dad"
+    },
+    {
+      "$id": 114,
+      "style": 39,
+      "name": "Play with Dad"
+    },
+    {
+      "$id": 115,
+      "style": 39,
+      "name": "Close Parent/Child"
+    },
+    {
+      "$id": 116,
+      "style": 39,
+      "name": "Trusting Family"
+    },
+    {
+      "$id": 117,
+      "style": 39,
+      "name": "Got Revenge"
+    },
+    {
+      "$id": 118,
+      "style": 39,
+      "name": "Complicated"
+    },
+    {
+      "$id": 119,
+      "style": 39,
+      "name": "Lender/Customer"
+    },
+    {
+      "$id": 120,
+      "style": 39,
+      "name": "Awkward"
+    },
+    {
+      "$id": 121,
+      "style": 39,
+      "name": "Intimate Lovers"
+    },
+    {
+      "$id": 122,
+      "style": 39,
+      "name": "Perfect Lovers"
+    },
+    {
+      "$id": 123,
+      "style": 39,
+      "name": "Envy"
+    },
+    {
+      "$id": 124,
+      "style": 39,
+      "name": "Strained Parent/Child"
+    },
+    {
+      "$id": 125,
+      "style": 39,
+      "name": "Close Parent/Child"
+    },
+    {
+      "$id": 126,
+      "style": 39,
+      "name": "Neighbours"
+    },
+    {
+      "$id": 127,
+      "style": 39,
+      "name": "That Kid on My Mind"
+    },
+    {
+      "$id": 128,
+      "style": 39,
+      "name": "That Kid on My Mind"
+    },
+    {
+      "$id": 129,
+      "style": 39,
+      "name": "Nice Kid"
+    },
+    {
+      "$id": 130,
+      "style": 39,
+      "name": "Grandkid's Best Friend"
+    },
+    {
+      "$id": 131,
+      "style": 39,
+      "name": "Accomplices?"
+    },
+    {
+      "$id": 132,
+      "style": 39,
+      "name": "Dastardly Duo"
+    },
+    {
+      "$id": 133,
+      "style": 39,
+      "name": "Rivals"
+    },
+    {
+      "$id": 134,
+      "style": 39,
+      "name": "Best Friends"
+    },
+    {
+      "$id": 135,
+      "style": 39,
+      "name": "Heartbroken"
+    },
+    {
+      "$id": 136,
+      "style": 39,
+      "name": "Disgust"
+    },
+    {
+      "$id": 137,
+      "style": 39,
+      "name": "Curious Relationship"
+    },
+    {
+      "$id": 138,
+      "style": 39,
+      "name": "Likes"
+    },
+    {
+      "$id": 139,
+      "style": 39,
+      "name": "Kind Person"
+    },
+    {
+      "$id": 140,
+      "style": 39,
+      "name": "Really Nice Person"
+    },
+    {
+      "$id": 141,
+      "style": 39,
+      "name": "Kind Person"
+    },
+    {
+      "$id": 142,
+      "style": 39,
+      "name": "Really Nice Person"
+    },
+    {
+      "$id": 143,
+      "style": 39,
+      "name": "Distrust"
+    },
+    {
+      "$id": 144,
+      "style": 39,
+      "name": "Mutual Understanding"
+    },
+    {
+      "$id": 145,
+      "style": 39,
+      "name": "Princess/Servant"
+    },
+    {
+      "$id": 146,
+      "style": 39,
+      "name": "Princess/Prince"
+    },
+    {
+      "$id": 147,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 148,
+      "style": 39,
+      "name": "Grandpa/Grandkid"
+    },
+    {
+      "$id": 149,
+      "style": 39,
+      "name": "Grandpa/Grandkid"
+    },
+    {
+      "$id": 150,
+      "style": 39,
+      "name": "Close Family"
+    },
+    {
+      "$id": 151,
+      "style": 39,
+      "name": "Fighting"
+    },
+    {
+      "$id": 152,
+      "style": 39,
+      "name": "Best Friends Again"
+    },
+    {
+      "$id": 153,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 154,
+      "style": 39,
+      "name": "Slight Interest"
+    },
+    {
+      "$id": 155,
+      "style": 39,
+      "name": "Princess/Soldier"
+    },
+    {
+      "$id": 156,
+      "style": 39,
+      "name": "Princess/Prince"
+    },
+    {
+      "$id": 157,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 158,
+      "style": 39,
+      "name": "Mom's Friend"
+    },
+    {
+      "$id": 159,
+      "style": 39,
+      "name": "Valued Customer"
+    },
+    {
+      "$id": 160,
+      "style": 39,
+      "name": "Great Engineer"
+    },
+    {
+      "$id": 161,
+      "style": 39,
+      "name": "Former Spouses"
+    },
+    {
+      "$id": 162,
+      "style": 39,
+      "name": "Cares About"
+    },
+    {
+      "$id": 163,
+      "style": 39,
+      "name": "Really Nice Person"
+    },
+    {
+      "$id": 164,
+      "style": 39,
+      "name": "Suspicious"
+    },
+    {
+      "$id": 165,
+      "style": 39,
+      "name": "Butterfly Fans"
+    },
+    {
+      "$id": 166,
+      "style": 39,
+      "name": "Really Nice Person"
+    },
+    {
+      "$id": 167,
+      "style": 39,
+      "name": "Excellent Chef"
+    },
+    {
+      "$id": 168,
+      "style": 39,
+      "name": "Passable Chef"
+    },
+    {
+      "$id": 169,
+      "style": 39,
+      "name": "Good Chef"
+    },
+    {
+      "$id": 170,
+      "style": 39,
+      "name": "Unrivalled Chef"
+    },
+    {
+      "$id": 171,
+      "style": 39,
+      "name": "Terrible Chef"
+    },
+    {
+      "$id": 172,
+      "style": 39,
+      "name": "OK Chef"
+    },
+    {
+      "$id": 173,
+      "style": 39,
+      "name": "Good Chef"
+    },
+    {
+      "$id": 174,
+      "style": 39,
+      "name": "Unrivalled Chef"
+    },
+    {
+      "$id": 175,
+      "style": 39,
+      "name": "Superb Person"
+    },
+    {
+      "$id": 176,
+      "style": 39,
+      "name": "Not Tasty"
+    },
+    {
+      "$id": 177,
+      "style": 39,
+      "name": "Slight Hostility"
+    },
+    {
+      "$id": 178,
+      "style": 39,
+      "name": "Rival?"
+    },
+    {
+      "$id": 179,
+      "style": 39,
+      "name": "Worthy Rival"
+    },
+    {
+      "$id": 180,
+      "style": 39,
+      "name": "Rivals & Best Friends"
+    },
+    {
+      "$id": 181,
+      "style": 39,
+      "name": "Satisfaction"
+    },
+    {
+      "$id": 182,
+      "style": 39,
+      "name": "Merchant Union"
+    },
+    {
+      "$id": 183,
+      "style": 39,
+      "name": "Don't Want to Eat It"
+    },
+    {
+      "$id": 184,
+      "style": 39,
+      "name": "Favourite Food"
+    },
+    {
+      "$id": 185,
+      "style": 39,
+      "name": "Likes"
+    },
+    {
+      "$id": 186,
+      "style": 39,
+      "name": "Likes a Lot"
+    },
+    {
+      "$id": 187,
+      "style": 39,
+      "name": "Love"
+    },
+    {
+      "$id": 188,
+      "style": 39,
+      "name": "Will Never Accept It"
+    },
+    {
+      "$id": 189,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 190,
+      "style": 39,
+      "name": "Trusts Both"
+    },
+    {
+      "$id": 191,
+      "style": 39,
+      "name": "High Hopes"
+    },
+    {
+      "$id": 192,
+      "style": 39,
+      "name": "Trust"
+    },
+    {
+      "$id": 193,
+      "style": 39,
+      "name": "Hostility"
+    },
+    {
+      "$id": 194,
+      "style": 39,
+      "name": "Researcher's Friend"
+    },
+    {
+      "$id": 195,
+      "style": 39,
+      "name": "Old Friends"
+    },
+    {
+      "$id": 196,
+      "style": 39,
+      "name": "Competing"
+    },
+    {
+      "$id": 197,
+      "style": 39,
+      "name": "Ceasefire"
+    },
+    {
+      "$id": 198,
+      "style": 39,
+      "name": "Friends for Life"
+    },
+    {
+      "$id": 199,
+      "style": 39,
+      "name": "Like Friends"
+    },
+    {
+      "$id": 200,
+      "style": 39,
+      "name": "Teacher/Pupil"
+    },
+    {
+      "$id": 201,
+      "style": 39,
+      "name": "Fussy"
+    },
+    {
+      "$id": 202,
+      "style": 39,
+      "name": "Cut Ties"
+    },
+    {
+      "$id": 203,
+      "style": 39,
+      "name": "Exasperation"
+    },
+    {
+      "$id": 204,
+      "style": 39,
+      "name": "Friends"
+    },
+    {
+      "$id": 205,
+      "style": 39,
+      "name": "Very Close Friends"
+    },
+    {
+      "$id": 206,
+      "style": 39,
+      "name": "One True Best Friend"
+    },
+    {
+      "$id": 207,
+      "style": 39,
+      "name": "High Regard"
+    },
+    {
+      "$id": 208,
+      "style": 39,
+      "name": "I'm Free!"
+    },
+    {
+      "$id": 209,
+      "style": 39,
+      "name": "This Is a Prison"
+    },
+    {
+      "$id": 210,
+      "style": 39,
+      "name": "I'm Not a Pet!"
+    },
+    {
+      "$id": 211,
+      "style": 39,
+      "name": "Wishes Good Luck"
+    },
+    {
+      "$id": 212,
+      "style": 39,
+      "name": "Promising Pupil"
+    },
+    {
+      "$id": 213,
+      "style": 39,
+      "name": "Respected Senpai"
+    },
+    {
+      "$id": 214,
+      "style": 39,
+      "name": "Wants to Support"
+    },
+    {
+      "$id": 215,
+      "style": 39,
+      "name": "Long-Parted Bro & Sis"
+    },
+    {
+      "$id": 216,
+      "style": 39,
+      "name": "Lady's Tutor"
+    },
+    {
+      "$id": 217,
+      "style": 39,
+      "name": "Fighting"
+    },
+    {
+      "$id": 218,
+      "style": 39,
+      "name": "Parent/Child Reunited"
+    },
+    {
+      "$id": 219,
+      "style": 39,
+      "name": "Foolish Parent/Child"
+    },
+    {
+      "$id": 220,
+      "style": 39,
+      "name": "Dear Family"
+    },
+    {
+      "$id": 221,
+      "style": 39,
+      "name": "Separated Parent/Child"
+    },
+    {
+      "$id": 222,
+      "style": 39,
+      "name": "Separated Parent/Child"
+    },
+    {
+      "$id": 223,
+      "style": 39,
+      "name": "Fighting"
+    },
+    {
+      "$id": 224,
+      "style": 39,
+      "name": "Parent/Child Reunited"
+    },
+    {
+      "$id": 225,
+      "style": 39,
+      "name": "Foolish Parent/Child"
+    },
+    {
+      "$id": 226,
+      "style": 39,
+      "name": "Dear Family"
+    },
+    {
+      "$id": 227,
+      "style": 39,
+      "name": "Will Never Accept It"
+    },
+    {
+      "$id": 228,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 229,
+      "style": 39,
+      "name": "Trusts Both"
+    },
+    {
+      "$id": 230,
+      "style": 39,
+      "name": "Twin Sisters"
+    },
+    {
+      "$id": 231,
+      "style": 39,
+      "name": "Prove Them Wrong"
+    },
+    {
+      "$id": 232,
+      "style": 39,
+      "name": "Dependable Ally"
+    },
+    {
+      "$id": 233,
+      "style": 39,
+      "name": "Odd Mentor/Pupil"
+    },
+    {
+      "$id": 234,
+      "style": 39,
+      "name": "Battered Mentor/Pupil"
+    },
+    {
+      "$id": 235,
+      "style": 39,
+      "name": "Lady's Tutor"
+    },
+    {
+      "$id": 236,
+      "style": 39,
+      "name": "Adviser"
+    },
+    {
+      "$id": 237,
+      "style": 39,
+      "name": "Good Friends"
+    },
+    {
+      "$id": 238,
+      "style": 39,
+      "name": "Someone on My Mind"
+    },
+    {
+      "$id": 239,
+      "style": 39,
+      "name": "Longed-for Lover"
+    },
+    {
+      "$id": 240,
+      "style": 39,
+      "name": "Trustworthy"
+    },
+    {
+      "$id": 241,
+      "style": 39,
+      "name": "Twin Sisters"
+    },
+    {
+      "$id": 242,
+      "style": 39,
+      "name": "Likes"
+    },
+    {
+      "$id": 243,
+      "style": 39,
+      "name": "Likes a Lot"
+    },
+    {
+      "$id": 244,
+      "style": 39,
+      "name": "Most Precious of All"
+    },
+    {
+      "$id": 245,
+      "style": 39,
+      "name": "Good Friends"
+    },
+    {
+      "$id": 246,
+      "style": 39,
+      "name": "Someone on My Mind"
+    },
+    {
+      "$id": 247,
+      "style": 39,
+      "name": "Precious Lover"
+    },
+    {
+      "$id": 248,
+      "style": 39,
+      "name": "Gone Missing"
+    },
+    {
+      "$id": 249,
+      "style": 39,
+      "name": "Glad They're Safe"
+    },
+    {
+      "$id": 250,
+      "style": 39,
+      "name": "Carry On Their Wishes"
+    },
+    {
+      "$id": 251,
+      "style": 39,
+      "name": "Supports"
+    },
+    {
+      "$id": 252,
+      "style": 39,
+      "name": "From Friendship"
+    },
+    {
+      "$id": 253,
+      "style": 39,
+      "name": "Mysterious"
+    },
+    {
+      "$id": 254,
+      "style": 39,
+      "name": "Future Family?"
+    },
+    {
+      "$id": 255,
+      "style": 39,
+      "name": "Supports"
+    },
+    {
+      "$id": 256,
+      "style": 39,
+      "name": "Promised a Future"
+    },
+    {
+      "$id": 257,
+      "style": 39,
+      "name": "Blessing"
+    },
+    {
+      "$id": 258,
+      "style": 39,
+      "name": "Supports"
+    },
+    {
+      "$id": 259,
+      "style": 39,
+      "name": "Shared Hardships"
+    },
+    {
+      "$id": 260,
+      "style": 39,
+      "name": "Very Worried"
+    },
+    {
+      "$id": 261,
+      "style": 39,
+      "name": "Hands Full"
+    },
+    {
+      "$id": 262,
+      "style": 39,
+      "name": "Close Bro & Sis"
+    },
+    {
+      "$id": 263,
+      "style": 39,
+      "name": "Interested"
+    },
+    {
+      "$id": 264,
+      "style": 39,
+      "name": "Hopes for the Future"
+    },
+    {
+      "$id": 265,
+      "style": 39,
+      "name": "Sweets Buddies"
+    },
+    {
+      "$id": 266,
+      "style": 39,
+      "name": "Starting Afresh"
+    },
+    {
+      "$id": 267,
+      "style": 39,
+      "name": "Cooperating"
+    },
+    {
+      "$id": 268,
+      "style": 39,
+      "name": "Clumsy"
+    },
+    {
+      "$id": 269,
+      "style": 39,
+      "name": "Cooperating"
+    },
+    {
+      "$id": 270,
+      "style": 39,
+      "name": "Reliable"
+    },
+    {
+      "$id": 271,
+      "style": 39,
+      "name": "Trust"
+    },
+    {
+      "$id": 272,
+      "style": 39,
+      "name": "Teacher/Pupil"
+    },
+    {
+      "$id": 273,
+      "style": 39,
+      "name": "Reliable Pupil"
+    },
+    {
+      "$id": 274,
+      "style": 39,
+      "name": "Precious Pupil"
+    },
+    {
+      "$id": 275,
+      "style": 39,
+      "name": "Admiration"
+    },
+    {
+      "$id": 276,
+      "style": 39,
+      "name": "Friends"
+    },
+    {
+      "$id": 277,
+      "style": 39,
+      "name": "Unreliable"
+    },
+    {
+      "$id": 278,
+      "style": 39,
+      "name": "Reliable Pupil"
+    },
+    {
+      "$id": 279,
+      "style": 39,
+      "name": "Precious Pupil"
+    },
+    {
+      "$id": 280,
+      "style": 39,
+      "name": "Old Friends"
+    },
+    {
+      "$id": 281,
+      "style": 39,
+      "name": "Can't Believe It"
+    },
+    {
+      "$id": 282,
+      "style": 39,
+      "name": "Insect Fans"
+    },
+    {
+      "$id": 283,
+      "style": 39,
+      "name": "Insect Lovers"
+    },
+    {
+      "$id": 284,
+      "style": 39,
+      "name": "Respect"
+    },
+    {
+      "$id": 285,
+      "style": 39,
+      "name": "Colleagues"
+    },
+    {
+      "$id": 286,
+      "style": 39,
+      "name": "Boss/Subordinate"
+    },
+    {
+      "$id": 287,
+      "style": 39,
+      "name": "Worried About Safety"
+    },
+    {
+      "$id": 288,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 289,
+      "style": 39,
+      "name": "Worried Dad"
+    },
+    {
+      "$id": 290,
+      "style": 39,
+      "name": "Relieved Dad"
+    },
+    {
+      "$id": 291,
+      "style": 39,
+      "name": "Reliable Dad"
+    },
+    {
+      "$id": 292,
+      "style": 39,
+      "name": "Brat"
+    },
+    {
+      "$id": 293,
+      "style": 39,
+      "name": "Good Guy"
+    },
+    {
+      "$id": 294,
+      "style": 39,
+      "name": "In the Way"
+    },
+    {
+      "$id": 295,
+      "style": 39,
+      "name": "Annoying"
+    },
+    {
+      "$id": 296,
+      "style": 39,
+      "name": "Meddlesome"
+    },
+    {
+      "$id": 297,
+      "style": 39,
+      "name": "Mother Figure"
+    },
+    {
+      "$id": 298,
+      "style": 39,
+      "name": "Expendable Pawn"
+    },
+    {
+      "$id": 299,
+      "style": 39,
+      "name": "High Hopes"
+    },
+    {
+      "$id": 300,
+      "style": 39,
+      "name": "10-Year Friend"
+    },
+    {
+      "$id": 301,
+      "style": 39,
+      "name": "Grandpa/Grandkid"
+    },
+    {
+      "$id": 302,
+      "style": 39,
+      "name": "Good Grandkid"
+    },
+    {
+      "$id": 303,
+      "style": 39,
+      "name": "Hopeless"
+    },
+    {
+      "$id": 304,
+      "style": 39,
+      "name": "Very Reliable"
+    },
+    {
+      "$id": 305,
+      "style": 39,
+      "name": "Chief's Aide"
+    },
+    {
+      "$id": 306,
+      "style": 39,
+      "name": "Vital Role"
+    },
+    {
+      "$id": 307,
+      "style": 39,
+      "name": "Potential Heir"
+    },
+    {
+      "$id": 308,
+      "style": 39,
+      "name": "Finally Acknowledged"
+    },
+    {
+      "$id": 309,
+      "style": 39,
+      "name": "Shared Hardships"
+    },
+    {
+      "$id": 310,
+      "style": 39,
+      "name": "Doctor/Patient"
+    },
+    {
+      "$id": 311,
+      "style": 39,
+      "name": "No Doctor Needed"
+    },
+    {
+      "$id": 312,
+      "style": 39,
+      "name": "Worried Parent/Child"
+    },
+    {
+      "$id": 313,
+      "style": 39,
+      "name": "Relieved Parent/Child"
+    },
+    {
+      "$id": 314,
+      "style": 39,
+      "name": "Roly-Poly"
+    },
+    {
+      "$id": 315,
+      "style": 39,
+      "name": "Want to See It for Real"
+    },
+    {
+      "$id": 316,
+      "style": 39,
+      "name": "Slight Interest"
+    },
+    {
+      "$id": 317,
+      "style": 39,
+      "name": "Want to See It for Real"
+    },
+    {
+      "$id": 318,
+      "style": 39,
+      "name": "Dear Best Friend"
+    },
+    {
+      "$id": 319,
+      "style": 39,
+      "name": "Old Friend"
+    },
+    {
+      "$id": 320,
+      "style": 39,
+      "name": "Grandma/Grandkid"
+    },
+    {
+      "$id": 321,
+      "style": 39,
+      "name": "Grandpa/Grandkid"
+    },
+    {
+      "$id": 322,
+      "style": 39,
+      "name": "Unreliable"
+    },
+    {
+      "$id": 323,
+      "style": 39,
+      "name": "Improved"
+    },
+    {
+      "$id": 324,
+      "style": 39,
+      "name": "Unrequited Love"
+    },
+    {
+      "$id": 325,
+      "style": 39,
+      "name": "Material Supplier"
+    },
+    {
+      "$id": 326,
+      "style": 39,
+      "name": "Material Supplier"
+    },
+    {
+      "$id": 327,
+      "style": 39,
+      "name": "Disappointed"
+    },
+    {
+      "$id": 328,
+      "style": 39,
+      "name": "Not Half Bad"
+    },
+    {
+      "$id": 329,
+      "style": 39,
+      "name": "Distrust"
+    },
+    {
+      "$id": 330,
+      "style": 39,
+      "name": "Business Partner"
+    },
+    {
+      "$id": 331,
+      "style": 39,
+      "name": "Trusted Trading Partner"
+    },
+    {
+      "$id": 332,
+      "style": 39,
+      "name": "Mutual Disapproval"
+    },
+    {
+      "$id": 333,
+      "style": 39,
+      "name": "Rivals"
+    },
+    {
+      "$id": 334,
+      "style": 39,
+      "name": "Good Rivals"
+    },
+    {
+      "$id": 335,
+      "style": 39,
+      "name": "Beginner"
+    },
+    {
+      "$id": 336,
+      "style": 39,
+      "name": "Sizing Up"
+    },
+    {
+      "$id": 337,
+      "style": 39,
+      "name": "Good Doctor"
+    },
+    {
+      "$id": 338,
+      "style": 39,
+      "name": "The Best Doctor"
+    },
+    {
+      "$id": 339,
+      "style": 39,
+      "name": "Doting Parent/Child"
+    },
+    {
+      "$id": 340,
+      "style": 39,
+      "name": "Doting Parent/Child"
+    },
+    {
+      "$id": 341,
+      "style": 39,
+      "name": "Friends"
+    },
+    {
+      "$id": 342,
+      "style": 39,
+      "name": "Strange Song"
+    },
+    {
+      "$id": 343,
+      "style": 39,
+      "name": "Jealous"
+    },
+    {
+      "$id": 344,
+      "style": 39,
+      "name": "Rocky Marriage"
+    },
+    {
+      "$id": 345,
+      "style": 39,
+      "name": "Ordinary Couple"
+    },
+    {
+      "$id": 346,
+      "style": 39,
+      "name": "Happily Married"
+    },
+    {
+      "$id": 347,
+      "style": 39,
+      "name": "Hopes for the Future"
+    },
+    {
+      "$id": 348,
+      "style": 39,
+      "name": "Friends"
+    },
+    {
+      "$id": 349,
+      "style": 39,
+      "name": "Coward"
+    },
+    {
+      "$id": 350,
+      "style": 39,
+      "name": "Reliable Lover"
+    },
+    {
+      "$id": 351,
+      "style": 39,
+      "name": "Odd Couple"
+    },
+    {
+      "$id": 352,
+      "style": 39,
+      "name": "Old-Fashioned"
+    },
+    {
+      "$id": 353,
+      "style": 39,
+      "name": "Sizing Up"
+    },
+    {
+      "$id": 354,
+      "style": 39,
+      "name": "Keeps Tradition"
+    },
+    {
+      "$id": 355,
+      "style": 39,
+      "name": "The Best Doctor"
+    },
+    {
+      "$id": 356,
+      "style": 39,
+      "name": "Working Couple"
+    },
+    {
+      "$id": 357,
+      "style": 39,
+      "name": "Someone to Admire"
+    },
+    {
+      "$id": 358,
+      "style": 39,
+      "name": "Elusive Figure"
+    },
+    {
+      "$id": 359,
+      "style": 39,
+      "name": "Worried About Son"
+    },
+    {
+      "$id": 360,
+      "style": 39,
+      "name": "Supports Son"
+    },
+    {
+      "$id": 361,
+      "style": 39,
+      "name": "Master/Disciple"
+    },
+    {
+      "$id": 362,
+      "style": 39,
+      "name": "Best Disciple"
+    },
+    {
+      "$id": 363,
+      "style": 39,
+      "name": "Kind Person"
+    },
+    {
+      "$id": 364,
+      "style": 39,
+      "name": "Worried About That Kid"
+    },
+    {
+      "$id": 365,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 366,
+      "style": 39,
+      "name": "Daughter's Pal"
+    },
+    {
+      "$id": 367,
+      "style": 39,
+      "name": "Daughter's Best Friend"
+    },
+    {
+      "$id": 368,
+      "style": 39,
+      "name": "Former Best Friends"
+    },
+    {
+      "$id": 369,
+      "style": 39,
+      "name": "Making Up?"
+    },
+    {
+      "$id": 370,
+      "style": 39,
+      "name": "Friends Again"
+    },
+    {
+      "$id": 371,
+      "style": 39,
+      "name": "Disgust"
+    },
+    {
+      "$id": 372,
+      "style": 39,
+      "name": "Newfound Respect"
+    },
+    {
+      "$id": 373,
+      "style": 39,
+      "name": "Close Friends"
+    },
+    {
+      "$id": 374,
+      "style": 39,
+      "name": "Master/Disciple"
+    },
+    {
+      "$id": 375,
+      "style": 39,
+      "name": "Best Disciple"
+    },
+    {
+      "$id": 376,
+      "style": 39,
+      "name": "Someone to Admire"
+    },
+    {
+      "$id": 377,
+      "style": 39,
+      "name": "Little Comrade"
+    },
+    {
+      "$id": 378,
+      "style": 39,
+      "name": "Parents' Friend"
+    },
+    {
+      "$id": 379,
+      "style": 39,
+      "name": "Warmhearted Person"
+    },
+    {
+      "$id": 380,
+      "style": 39,
+      "name": "Worried About Daughter"
+    },
+    {
+      "$id": 381,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 382,
+      "style": 39,
+      "name": "Work Buddy"
+    },
+    {
+      "$id": 383,
+      "style": 39,
+      "name": "Dependable Ally"
+    },
+    {
+      "$id": 384,
+      "style": 39,
+      "name": "Informant"
+    },
+    {
+      "$id": 385,
+      "style": 39,
+      "name": "Pen Pal"
+    },
+    {
+      "$id": 386,
+      "style": 39,
+      "name": "Informant"
+    },
+    {
+      "$id": 387,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 388,
+      "style": 39,
+      "name": "Lifesaver"
+    },
+    {
+      "$id": 389,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 390,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 391,
+      "style": 39,
+      "name": "Old Friends"
+    },
+    {
+      "$id": 392,
+      "style": 39,
+      "name": "Someone on My Mind"
+    },
+    {
+      "$id": 393,
+      "style": 39,
+      "name": "Someone I Know Well"
+    },
+    {
+      "$id": 394,
+      "style": 39,
+      "name": "Beloved Lover"
+    },
+    {
+      "$id": 395,
+      "style": 39,
+      "name": "Childhood Pals"
+    },
+    {
+      "$id": 396,
+      "style": 39,
+      "name": "Someone I Know Well"
+    },
+    {
+      "$id": 397,
+      "style": 39,
+      "name": "Beloved Lover"
+    },
+    {
+      "$id": 398,
+      "style": 39,
+      "name": "Complete Fool"
+    },
+    {
+      "$id": 399,
+      "style": 39,
+      "name": "Good Adviser"
+    },
+    {
+      "$id": 400,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 401,
+      "style": 39,
+      "name": "Regretful"
+    },
+    {
+      "$id": 402,
+      "style": 39,
+      "name": "Closest Friend"
+    },
+    {
+      "$id": 403,
+      "style": 39,
+      "name": "Jealousy"
+    },
+    {
+      "$id": 404,
+      "style": 39,
+      "name": "Colleagues"
+    },
+    {
+      "$id": 405,
+      "style": 39,
+      "name": "Fellow Researchers"
+    },
+    {
+      "$id": 406,
+      "style": 39,
+      "name": "Research Partner"
+    },
+    {
+      "$id": 407,
+      "style": 39,
+      "name": "Fellow Researchers"
+    },
+    {
+      "$id": 408,
+      "style": 39,
+      "name": "Pupil"
+    },
+    {
+      "$id": 409,
+      "style": 39,
+      "name": "Best Successor"
+    },
+    {
+      "$id": 410,
+      "style": 39,
+      "name": "Cute Child"
+    },
+    {
+      "$id": 411,
+      "style": 39,
+      "name": "Acquaintance"
+    },
+    {
+      "$id": 412,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 413,
+      "style": 39,
+      "name": "One True Best Friend"
+    },
+    {
+      "$id": 414,
+      "style": 39,
+      "name": "Precious Friend"
+    },
+    {
+      "$id": 415,
+      "style": 39,
+      "name": "Research Partner"
+    },
+    {
+      "$id": 416,
+      "style": 39,
+      "name": "Fellow Researchers"
+    },
+    {
+      "$id": 417,
+      "style": 39,
+      "name": "Drunkard"
+    },
+    {
+      "$id": 418,
+      "style": 39,
+      "name": "Relatives"
+    },
+    {
+      "$id": 419,
+      "style": 39,
+      "name": "Close Parent/Child"
+    },
+    {
+      "$id": 420,
+      "style": 39,
+      "name": "Worried About Nephew"
+    },
+    {
+      "$id": 421,
+      "style": 39,
+      "name": "Relieved About Nephew"
+    },
+    {
+      "$id": 422,
+      "style": 39,
+      "name": "Ordinary Bro & Sis"
+    },
+    {
+      "$id": 423,
+      "style": 39,
+      "name": "Close Bro & Sis"
+    },
+    {
+      "$id": 424,
+      "style": 39,
+      "name": "Dear Family"
+    },
+    {
+      "$id": 425,
+      "style": 39,
+      "name": "Doting"
+    },
+    {
+      "$id": 426,
+      "style": 39,
+      "name": "Uncle/Niece"
+    },
+    {
+      "$id": 427,
+      "style": 39,
+      "name": "Very Worried"
+    },
+    {
+      "$id": 428,
+      "style": 39,
+      "name": "Too Kind"
+    },
+    {
+      "$id": 429,
+      "style": 39,
+      "name": "Problem Sorted"
+    },
+    {
+      "$id": 430,
+      "style": 39,
+      "name": "Dear Family"
+    },
+    {
+      "$id": 431,
+      "style": 39,
+      "name": "Doting"
+    },
+    {
+      "$id": 432,
+      "style": 39,
+      "name": "Normal Relatives"
+    },
+    {
+      "$id": 433,
+      "style": 39,
+      "name": "Dear Relatives"
+    },
+    {
+      "$id": 434,
+      "style": 39,
+      "name": "Awful Partner"
+    },
+    {
+      "$id": 435,
+      "style": 39,
+      "name": "Ordinary Partner"
+    },
+    {
+      "$id": 436,
+      "style": 39,
+      "name": "Best Partner"
+    },
+    {
+      "$id": 437,
+      "style": 39,
+      "name": "Someone to Admire"
+    },
+    {
+      "$id": 438,
+      "style": 39,
+      "name": "Classmates"
+    },
+    {
+      "$id": 439,
+      "style": 39,
+      "name": "Son's Teacher"
+    },
+    {
+      "$id": 440,
+      "style": 39,
+      "name": "Day & Night Colleagues"
+    },
+    {
+      "$id": 441,
+      "style": 39,
+      "name": "Kind Child"
+    },
+    {
+      "$id": 442,
+      "style": 39,
+      "name": "Troublesome Kin"
+    },
+    {
+      "$id": 443,
+      "style": 39,
+      "name": "Fighting Friends"
+    },
+    {
+      "$id": 444,
+      "style": 39,
+      "name": "Dear Elder Bro-in-Law"
+    },
+    {
+      "$id": 445,
+      "style": 39,
+      "name": "Work Comrades"
+    },
+    {
+      "$id": 446,
+      "style": 39,
+      "name": "Fellow Healers"
+    },
+    {
+      "$id": 447,
+      "style": 39,
+      "name": "Deserves Respect"
+    },
+    {
+      "$id": 448,
+      "style": 39,
+      "name": "Close Sisters"
+    },
+    {
+      "$id": 449,
+      "style": 39,
+      "name": "Perfect Sisters"
+    },
+    {
+      "$id": 450,
+      "style": 39,
+      "name": "Longtime Acquaintances"
+    },
+    {
+      "$id": 451,
+      "style": 39,
+      "name": "Cares for Their People"
+    },
+    {
+      "$id": 452,
+      "style": 39,
+      "name": "Worries About Conduct"
+    },
+    {
+      "$id": 453,
+      "style": 39,
+      "name": "Mutual Worry"
+    },
+    {
+      "$id": 454,
+      "style": 39,
+      "name": "Total Opposites"
+    },
+    {
+      "$id": 455,
+      "style": 39,
+      "name": "For the Village"
+    },
+    {
+      "$id": 456,
+      "style": 39,
+      "name": "Understands Feelings"
+    },
+    {
+      "$id": 457,
+      "style": 39,
+      "name": "Grateful"
+    },
+    {
+      "$id": 458,
+      "style": 39,
+      "name": "Lifesaver"
+    },
+    {
+      "$id": 459,
+      "style": 39,
+      "name": "Lifesaver"
+    },
+    {
+      "$id": 460,
+      "style": 39,
+      "name": "Mutual Worry"
+    },
+    {
+      "$id": 461,
+      "style": 39,
+      "name": "Beloved Mother/Child"
+    },
+    {
+      "$id": 462,
+      "style": 39,
+      "name": "Childhood Pals"
+    },
+    {
+      "$id": 463,
+      "style": 39,
+      "name": "Very Happy"
+    },
+    {
+      "$id": 464,
+      "style": 39,
+      "name": "Together Forever"
+    },
+    {
+      "$id": 465,
+      "style": 39,
+      "name": "Arguing"
+    },
+    {
+      "$id": 466,
+      "style": 39,
+      "name": "Made-Up Couple"
+    },
+    {
+      "$id": 467,
+      "style": 39,
+      "name": "Boundless Love"
+    },
+    {
+      "$id": 468,
+      "style": 39,
+      "name": "Very Happy"
+    },
+    {
+      "$id": 469,
+      "style": 39,
+      "name": "Together Forever"
+    },
+    {
+      "$id": 470,
+      "style": 39,
+      "name": "A Bit Scary"
+    },
+    {
+      "$id": 471,
+      "style": 39,
+      "name": "Somewhat Reliable"
+    },
+    {
+      "$id": 472,
+      "style": 39,
+      "name": "Both Survivors"
+    },
+    {
+      "$id": 473,
+      "style": 39,
+      "name": "Future Together"
+    },
+    {
+      "$id": 474,
+      "style": 39,
+      "name": "Pretty Amazing"
+    },
+    {
+      "$id": 475,
+      "style": 39,
+      "name": "Gave Me My Name"
+    },
+    {
+      "$id": 476,
+      "style": 39,
+      "name": "Reminiscence"
+    },
+    {
+      "$id": 477,
+      "style": 39,
+      "name": "Good Person"
+    },
+    {
+      "$id": 478,
+      "style": 39,
+      "name": "Looks After"
+    },
+    {
+      "$id": 479,
+      "style": 39,
+      "name": "Informant"
+    },
+    {
+      "$id": 480,
+      "style": 39,
+      "name": "Comrades"
+    },
+    {
+      "$id": 481,
+      "style": 39,
+      "name": "Odd Pair"
+    },
+    {
+      "$id": 482,
+      "style": 39,
+      "name": "Dear Companion"
+    },
+    {
+      "$id": 483,
+      "style": 39,
+      "name": "Uncle/Niece"
+    },
+    {
+      "$id": 484,
+      "style": 39,
+      "name": "Former Lodger"
+    },
+    {
+      "$id": 485,
+      "style": 39,
+      "name": "Two of a Kind"
+    },
+    {
+      "$id": 486,
+      "style": 39,
+      "name": "Unspoken Trust"
+    },
+    {
+      "$id": 487,
+      "style": 39,
+      "name": "Younger Bro's Friend"
+    },
+    {
+      "$id": 488,
+      "style": 39,
+      "name": "Pity"
+    },
+    {
+      "$id": 489,
+      "style": 39,
+      "name": "Relief"
+    },
+    {
+      "$id": 490,
+      "style": 39,
+      "name": "Expendable Duo"
+    },
+    {
+      "$id": 491,
+      "style": 39,
+      "name": "Valued Customer"
+    },
+    {
+      "$id": 492,
+      "style": 39,
+      "name": "Expendable Pawn"
+    },
+    {
+      "$id": 493,
+      "style": 39,
+      "name": "Like Parent and Child"
+    },
+    {
+      "$id": 494,
+      "style": 39,
+      "name": "Bright Future"
+    },
+    {
+      "$id": 495,
+      "style": 39,
+      "name": "Get On Well"
+    },
+    {
+      "$id": 496,
+      "style": 39,
+      "name": "Ruin Lovers"
+    },
+    {
+      "$id": 497,
+      "style": 39,
+      "name": "Ex-Colleague"
+    },
+    {
+      "$id": 498,
+      "style": 39,
+      "name": "Newfound Respect"
+    },
+    {
+      "$id": 499,
+      "style": 39,
+      "name": "Soldier I've Heard Of"
+    },
+    {
+      "$id": 500,
+      "style": 39,
+      "name": "Caring Buddies"
+    },
+    {
+      "$id": 501,
+      "style": 39,
+      "name": "Forbidden Love?"
+    },
+    {
+      "$id": 502,
+      "style": 39,
+      "name": "Restless"
+    },
+    {
+      "$id": 503,
+      "style": 39,
+      "name": "Heart Racing"
+    },
+    {
+      "$id": 504,
+      "style": 39,
+      "name": "Long-Distance Love"
+    },
+    {
+      "$id": 505,
+      "style": 39,
+      "name": "Lovey Dovey"
+    },
+    {
+      "$id": 506,
+      "style": 39,
+      "name": "Lookout Mates"
+    }
+  ]
+}

@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I'm all right.[XENO:n ]\nThanks to you and Reyn.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'm all right.[XENO:n ]\nThanks to you and Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Could they have been Mechon?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Could they have been Machine God Soldiers?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT22 ]They didn't seem like Mechon to me.[XENO:n ]\nBut why did they only show up now?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]They didn't seem like Machine God Soldiers to me.[XENO:n ]\nBut why did they only show up now?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,

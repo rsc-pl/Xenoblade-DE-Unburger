@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "Five Lemon Stones[XENO:n ]\nshould be plenty, right?[XENO:wait wait=key ][System:PageBreak ]We have to get them to Zazadan-san[XENO:n ]\nquickly or he'll be in trouble.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "So this is a Wool Rock?[XENO:wait wait=key ][System:PageBreak ]Three of them would be[XENO:n ]\nwarm indeed.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "We're collecting three[XENO:n ]\nWhite Grog Livers?[XENO:wait wait=key ][System:PageBreak ]Is this really edible?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "She said we can trade four pieces[XENO:n ]\nof Bunnia Scent Wood for it.[XENO:wait wait=key ][System:PageBreak ]We only need a few more.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "That's all three Rogul Axe[XENO:n ]\nCrests.[XENO:wait wait=key ][System:PageBreak ]Now they should be able to fix[XENO:n ]\nthe bridge.[XENO:wait wait=key ][System:PageBreak ]They can investigate the ruins as[XENO:n ]\nwell. Exciting stuff, all this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "Is that Gogol guarding the statue?[XENO:n ]\nI never imagined there'd be a guardian...[XENO:wait wait=key ][System:PageBreak ]That's as far as[XENO:n ]\nour research goes...[XENO:wait wait=key ][System:PageBreak ]Natori-san, Russ-san,[XENO:n ]\nI'm sorry...[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

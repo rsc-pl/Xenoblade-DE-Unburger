@@ -1,0 +1,269 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "It's horrible to think of what the[XENO:n ]\nMechon did to Colony 6.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yes. The devastation here was[XENO:n ]\nfar worse than in Colony 9.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]There were two things we had that[XENO:n ]\nthey didn't: Shulk and the Monado.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]Yes. Not that their Defence Force[XENO:n ]\nwas anything to sneeze at...[XENO:wait wait=key ][System:PageBreak ]But in the end, the Mechon just[XENO:n ]\noverwhelmed them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "[XENO:sel sel=・It makes me sad./・We should say sorry. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]So many lives lost.[XENO:wait wait=key ][System:PageBreak ]And Carna lost someone[XENO:n ]\nso close to her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Many lives were sacrificed. More[XENO:n ]\nthan could ever be justified.[XENO:wait wait=key ][System:PageBreak ]Even now that I know the reasons[XENO:n ]\nbehind the Mechon's actions.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "Everyone here just wanted to[XENO:n ]\nprotect the people they loved.[XENO:wait wait=key ][System:PageBreak ]They didn't deserve this.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]To protect those who we love,[XENO:n ]\nwe often must sacrifice everything.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT12 ][XENO:sel sel=・But why, Dunban?/・It must have been really tough. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]Why couldn't we have[XENO:n ]\nall lived in peace?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Hindsight is a wonderful thing,[XENO:n ]\nFiorung. But what's done is done.[XENO:wait wait=key ][System:PageBreak ]I, too, wish we could have[XENO:n ]\nsettled our differences sooner.[XENO:wait wait=key ][System:PageBreak ]Unfortunately, it was not to be.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Just think... If this stupid war with[XENO:n ]\nthe Mechon had never happened...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I know.[XENO:wait wait=key ][System:PageBreak ]We might have had an even better[XENO:n ]\npeace than we're striving for.[XENO:wait wait=key ][System:PageBreak ]But I'll tell you a secret, Fiorung.[XENO:wait wait=key ][System:PageBreak ]I think I fit better into the world[XENO:n ]\nwe're living in now.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Me too, Dunban.[XENO:wait wait=key ][System:PageBreak ]The world is a complicated place,[XENO:n ]\nwith all its war and struggle.[XENO:wait wait=key ][System:PageBreak ]But I can't quite imagine life[XENO:n ]\nwithout all that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Hopefully Colony 6 is free of[XENO:n ]\nit now, though.[XENO:wait wait=key ][System:PageBreak ]The people here deserve[XENO:n ]\na real home.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yeah,[XENO:n ]\nyou're right.[XENO:wait wait=key ][System:PageBreak ]We've got to help with the reconstruction, then![XENO:wait wait=key ][System:PageBreak ]You do your part too, Onii-chan![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Of[XENO:n ]\ncourse.[XENO:wait wait=key ][System:PageBreak ]But don't push yourself, all right?[XENO:wait wait=key ][System:PageBreak ]You can leave the heavy[XENO:n ]\nlifting to Rein, you know.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]I know, I know.[XENO:wait wait=key ][System:PageBreak ]Anyway, we'd better not keep[XENO:n ]\nShulk waiting. He'll start to worry.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I still remember[XENO:n ]\nit even now.[XENO:wait wait=key ][System:PageBreak ]Shulk's face and his cry when I charged[XENO:n ]\nat that black Machine God Soldier...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]Shulk was a wreck after that. I'd[XENO:n ]\nnever seen the boy so distraught.[XENO:wait wait=key ][System:PageBreak ]I imagine that's how the[XENO:n ]\npeople of Colony 6 felt.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]I made up my mind after that.[XENO:wait wait=key ][System:PageBreak ]I decided I'd never endanger[XENO:n ]\nmyself so thoughtlessly again.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]I should hope so too, Fiorung.[XENO:wait wait=key ][System:PageBreak ]I won't forget his cries, and[XENO:n ]\nI don't wish to hear them again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]I'll be more careful in future.[XENO:wait wait=key ][System:PageBreak ]That's my promise to you, Dunban.[XENO:n ]\nI won't throw my life away.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]Yeah. Please do.[XENO:wait wait=key ][System:PageBreak ]It wouldn't just be Shulk who's sad.[XENO:n ]\nRein, the others and I would be too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I know. It was a silly thing to do.[XENO:wait wait=key ][System:PageBreak ]No matter how tough the battle is,[XENO:n ]\nhow scary it gets...[XENO:wait wait=key ][System:PageBreak ]We all need to stick together.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Yes. That's the only way.[XENO:wait wait=key ][System:PageBreak ]OK! I think it's time we were[XENO:n ]\ngetting back to the others.[XENO:wait wait=key ][System:PageBreak ]They might be getting worried.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]After what happened, I bet Shulk[XENO:n ]\nis afraid to let me out of his sight.[XENO:wait wait=key ][System:PageBreak ]Come on, Dunban, hurry it up![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT1 ]I promise you, Fiorung... I'll never[XENO:n ]\nlet you come to such harm again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "I mean...we should say something.[XENO:n ]\nYou know, to the survivors.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]What would we say?[XENO:wait wait=key ][System:PageBreak ]'Sorry we didn't get here in time[XENO:n ]\nwith our magical sword.'[XENO:wait wait=key ][System:PageBreak ]How well would they take that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I know, but...[XENO:wait wait=key ][System:PageBreak ]Here we are, alive and well.[XENO:wait wait=key ][System:PageBreak ]We've barely even helped with[XENO:n ]\nthe reconstruction.[XENO:wait wait=key ][System:PageBreak ]We could give money or food, but[XENO:n ]\nI feel like that wouldn't be enough.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]There's only so much we can do.[XENO:wait wait=key ][System:PageBreak ]Ultimately, the people who live[XENO:n ]\nhere have to rebuild their lives.[XENO:wait wait=key ][System:PageBreak ]And that's up to them.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Is that really how you feel?/・I guess you're right. ][XENO:del del=all ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]It is.[XENO:wait wait=key ][System:PageBreak ]I know it's hard not to worry.[XENO:n ]\nIt's not as if I don't want to help.[XENO:wait wait=key ][System:PageBreak ]But don't forget we have another[XENO:n ]\ntask ahead of us.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]You're right, as always.[XENO:wait wait=key ][System:PageBreak ]We need to finish what we set out[XENO:n ]\nto do. That's what matters most.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]And don't forget it benefits[XENO:n ]\nthem as much as us.[XENO:wait wait=key ][System:PageBreak ]We're fighting for the entire world.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]You're strong, Onii-chan.[XENO:n ]\nI still can't think that way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT16 ]It's all a matter of perspective.[XENO:wait wait=key ][System:PageBreak ]But I understand why you find[XENO:n ]\nit difficult to deal with this.[XENO:wait wait=key ][System:PageBreak ]It just means you truly care.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "Thank you.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]The truth is, my mind is made up.[XENO:n ]\nIt's my heart that wavers.[XENO:wait wait=key ][System:PageBreak ]I'm sorry, Dunban.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT18 ]What are you apologising for?[XENO:wait wait=key ][System:PageBreak ]You're my sister, and I wouldn't[XENO:n ]\nwant you to be any other way.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]I'm glad you're here by my side.[XENO:n ]\nYou make me proud.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT4 ]Eurgh, I can't believe you just[XENO:n ]\nsaid all that! How embarrassing![XENO:wait wait=key ][System:PageBreak ]Right, come on. We need to get[XENO:n ]\nback. Can't keep Shulk waiting![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]OK, I get the message.[XENO:n ]\nCome on then.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]So you see that they have to[XENO:n ]\ndo this with their own hands.[XENO:wait wait=key ][System:PageBreak ]It's an accomplishment that will[XENO:n ]\nstay with them forever.[XENO:wait wait=key ][System:PageBreak ]If we did it all for them,[XENO:n ]\nit wouldn't be the same.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]I see! That's[XENO:n ]\nmy Onii-chan![XENO:wait wait=key ][System:PageBreak ]You do have[XENO:n ]\nsome wise words![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "[XENO:act act=EVT2 ]I think it's just that I have a few[XENO:n ]\nyears on you and the others.[XENO:wait wait=key ][System:PageBreak ]When you get to my age, you'll[XENO:n ]\ncome to the same conclusion.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT7 ]I don't know about that.[XENO:wait wait=key ][System:PageBreak ]I think you can say that because of all[XENO:n ]\nthe experiences you've had, Onii-chan.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT1 ]Before my injury, I was fortunate[XENO:n ]\nenough to see a lot of Giant God.[XENO:wait wait=key ][System:PageBreak ]And I rebuilt our house more than[XENO:n ]\na few times.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT9 ]I remember![XENO:wait wait=key ][System:PageBreak ]We rebuilt our home, and that's[XENO:n ]\nwhat makes it so special.[XENO:wait wait=key ][System:PageBreak ]That feeling of getting back on our[XENO:n ]\nfeet made me happy and confident.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]That's exactly what I'm[XENO:n ]\ntalking about.[XENO:wait wait=key ][System:PageBreak ]Sounds like my work here is done.[XENO:n ]\nHow about we look for the others?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 51,
+      "style": 126,
+      "name": "[XENO:act act=EVT1 ]OK! Lots to do.[XENO:n ]\nAnd lots to see as well![XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

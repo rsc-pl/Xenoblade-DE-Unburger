@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "I have been to this place before.[XENO:n ]\nOnly once, however.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "Really? When was that?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "I remember it well.[XENO:wait wait=key ][System:PageBreak ]When Fiorung and I were much[XENO:n ]\nyounger, we came here together.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "All the way from Colony 9?[XENO:n ]\nThat's no small distance.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "I was so very afraid as we made[XENO:n ]\nour way through Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]I can barely even remember[XENO:n ]\nthe way now.[XENO:wait wait=key ][System:PageBreak ]At the time I was so busy making[XENO:n ]\nsure Fiorung was OK.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "[XENO:sel sel=・Was it just a day out?/・Did something bad happen? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "Are you serious? Do you think[XENO:n ]\nI'd bring her here for fun?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "I'm sorry. It was silly of me[XENO:n ]\nto say that.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "Was it twelve[XENO:n ]\nyears ago now...?[XENO:wait wait=key ][System:PageBreak ]The Machine God Soldiers attacked,[XENO:n ]\nand we fled the colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "I was only little at the time as[XENO:n ]\nwell, but I remember that day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "I thought you might.[XENO:wait wait=key ][System:PageBreak ]All I kept thinking was,[XENO:n ]\n'Don't let them hurt Fiorung.'[XENO:wait wait=key ][System:PageBreak ]We ran as fast as our legs would[XENO:n ]\ncarry us, trying not to look back.[XENO:wait wait=key ][System:PageBreak ]I didn't even know how far they'd[XENO:n ]\nchased us. And then here we were.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "[XENO:sel sel=・I know the feeling./・How could you be so stupid?! ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "When the Mechon attacked Colony[XENO:n ]\n6, Juujuu was my only concern.[XENO:wait wait=key ][System:PageBreak ]I couldn't think about[XENO:n ]\nanything else.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "Right, Carna, you've got a little[XENO:n ]\nbrother named Juujuu too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Yes. My decision[XENO:n ]\nto volunteer as a medic...[XENO:wait wait=key ][System:PageBreak ]I think my little brother had[XENO:n ]\nsomething to do with it too.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "I see.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "How about you, Dunban?[XENO:wait wait=key ][System:PageBreak ]Did you become a soldier because[XENO:n ]\nyou wanted to protect Fiorung?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "What about me,[XENO:n ]\nI wonder...?[XENO:wait wait=key ][System:PageBreak ]I just couldn't stand the Machine God[XENO:n ]\nSoldiers. Maybe that's all it was.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "Come on, that can't be[XENO:n ]\nthe only reason.[XENO:wait wait=key ][System:PageBreak ]I'm talking to the Hero of[XENO:n ]\nthe Homs, here![XENO:wait wait=key ][System:PageBreak ]Wasn't there something[XENO:n ]\nmore...heroic behind it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "Hmm... I suppose it doesn't[XENO:n ]\nmake for a very good story.[XENO:wait wait=key ][System:PageBreak ]Maybe I'll tell it your[XENO:n ]\nway in future.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "Why didn't you just[XENO:n ]\ngo into the shelter?[XENO:wait wait=key ][System:PageBreak ]Leaving the colony was very[XENO:n ]\nirresponsible of you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "[XENO:type type=def ]Well, if you put it like that,[XENO:n ]\nthere's not much I can say.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "[XENO:act act=EVT_EXT10 ]Sorry, Dunban. That was[XENO:n ]\na bit harsh of me.[XENO:wait wait=key ][System:PageBreak ]I know you didn't come here[XENO:n ]\nout of choice.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "Of course.[XENO:wait wait=key ][System:PageBreak ]My sister and I were the only ones[XENO:n ]\nwho didn't reach the shelter in time.[XENO:wait wait=key ][System:PageBreak ]In that situation we had no[XENO:n ]\nchoice but to flee the colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "I see...[XENO:wait wait=key ][System:PageBreak ]When Colony 6 was attacked,[XENO:wait wait=key ][System:PageBreak ]I ran for my life trying to protect[XENO:n ]\nmy little brother Juujuu too...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "I see. Then you must know[XENO:n ]\nhow I felt.[XENO:wait wait=key ][System:PageBreak ]You're the eldest sibling[XENO:n ]\nas well, aren't you?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 27,
+      "style": 126,
+      "name": "Yeah, just like you.[XENO:wait wait=key ][System:PageBreak ]That's probably why we[XENO:n ]\nget along so well![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 28,
+      "style": 126,
+      "name": "I mean...if you don't mind[XENO:n ]\ntelling me, that is.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 29,
+      "style": 126,
+      "name": "Was it twelve[XENO:n ]\nyears ago now...?[XENO:wait wait=key ][System:PageBreak ]The Machine God Soldiers attacked,[XENO:n ]\nand we fled the colony.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 30,
+      "style": 126,
+      "name": "Oh, I see. That sounds horrible.[XENO:wait wait=key ][System:PageBreak ]I was only little at the time as[XENO:n ]\nwell, but I remember that day.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 31,
+      "style": 126,
+      "name": "When the Machine God Soldiers surrounded[XENO:n ]\nour house, I thought it was all over. [XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 32,
+      "style": 126,
+      "name": "That's when you made a run for it?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 33,
+      "style": 126,
+      "name": "Yes. But on our way to the shelter,[XENO:n ]\nFiorung let go of my hand.[XENO:wait wait=key ][System:PageBreak ]She started running back to get[XENO:n ]\nsomething she'd forgotten.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 34,
+      "style": 126,
+      "name": "[XENO:sel sel=・She should have just left it./・Was it important to her? ][XENO:del del=this ]"
+    },
+    {
+      "$id": 35,
+      "style": 126,
+      "name": "[XENO:type type=anger ]Didn't she realise how dangerous[XENO:n ]\nit was to go back?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 36,
+      "style": 126,
+      "name": "I agree with you.[XENO:wait wait=key ][System:PageBreak ]But it was a keepsake that[XENO:n ]\nreminded her of our mother.[XENO:wait wait=key ][System:PageBreak ]To leave without it was too much[XENO:n ]\nfor Fiorung to bear.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 37,
+      "style": 126,
+      "name": "I see. She must have[XENO:n ]\ncherished it dearly.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 38,
+      "style": 126,
+      "name": "We barely managed to[XENO:n ]\nescape with our lives.[XENO:wait wait=key ][System:PageBreak ]A week passed before we[XENO:n ]\nreturned to Colony 9.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 39,
+      "style": 126,
+      "name": "I'm just happy you made it out.[XENO:n ]\nAnd made it back alive.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 40,
+      "style": 126,
+      "name": "The colonel gave me a bit of an[XENO:n ]\nearful when we got back.[XENO:wait wait=key ][System:PageBreak ]He wasn't happy with me[XENO:n ]\nto say the least.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 41,
+      "style": 126,
+      "name": "Haha! Well, he'd probably just[XENO:n ]\nspent a week worrying about you.[XENO:wait wait=key ][System:PageBreak ]There are worse things.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+    },
+    {
+      "$id": 42,
+      "style": 126,
+      "name": "Yeah. And when I look back on it[XENO:n ]\nnow, it's actually quite funny.[XENO:wait wait=key ][System:PageBreak ]Just like any rant from Vangarre![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 43,
+      "style": 126,
+      "name": "So you braved the onslaught and[XENO:n ]\nwent all the way back?![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 44,
+      "style": 126,
+      "name": "Yes, that we did.[XENO:wait wait=key ][System:PageBreak ]It was a keepsake that reminded[XENO:n ]\nher of our mother.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]Losing it would have[XENO:n ]\ndevastated her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 45,
+      "style": 126,
+      "name": "But why didn't you send Fiorung[XENO:n ]\nto the shelter first?[XENO:wait wait=key ][System:PageBreak ]You could have gone and[XENO:n ]\ngot it on your own.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 46,
+      "style": 126,
+      "name": "There was no time.[XENO:wait wait=key ][System:PageBreak ]And...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 47,
+      "style": 126,
+      "name": "And what?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 48,
+      "style": 126,
+      "name": "She burst into tears.[XENO:wait wait=key ][System:PageBreak ]She said she didn't want me to[XENO:n ]\nleave her on her own.[XENO:wait wait=key ][System:PageBreak ]So with Fiorung crying on my back,[XENO:n ]\nwe braved it all for that keepsake.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 49,
+      "style": 126,
+      "name": "Wow. That's quite a story.[XENO:wait wait=key ][System:PageBreak ]Sounds like you were as much[XENO:n ]\na hero then as you are today.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 50,
+      "style": 126,
+      "name": "You think so? Well,[XENO:n ]\nthank you, Carna.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "[XENO:fade fade=outin:100 ] "
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "You...[XENO:wait wait=key ][System:PageBreak ]So you found me...[XENO:wait wait=key ][System:PageBreak ]But I'm not moving from here.[XENO:n ]\nGo away.[XENO:wait wait=key ][System:PageBreak ]There's no way you can make me[XENO:n ]\nchange my mind.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Shulk...[XENO:wait wait=key ][System:PageBreak ]Did you come to laugh at me?[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "No, that's not it.[XENO:wait wait=key ][System:PageBreak ]Miller-san asked me to do this...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "A letter?[XENO:wait wait=key ][System:PageBreak ]What is this about? There are[XENO:n ]\nmessages from so many people.[XENO:wait wait=key ][System:PageBreak ]Miller, Luhiol, Minnie, Dorothy,[XENO:n ]\nMonika, Adolf...[XENO:wait wait=key ][System:PageBreak ]Even Lieutenant Colonel Kantan[XENO:n ]\nand old Jan...[XENO:wait wait=key ][System:PageBreak ]There are even some people[XENO:n ]\nI don't really know...[XENO:wait wait=key ][System:PageBreak ]Let me read over it.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 6,
+      "style": 126,
+      "name": "They're all so naïve expecting[XENO:n ]\nanything from a fool like me.[XENO:wait wait=key ][System:PageBreak ]I'm just a weak little girl.[XENO:n ]\nI can't do anything![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 7,
+      "style": 126,
+      "name": "That's not true.[XENO:wait wait=key ][System:PageBreak ]Look. You have so many people[XENO:n ]\noffering you support.[XENO:wait wait=key ][System:PageBreak ]If I didn't have my friends, I[XENO:n ]\ncouldn't have made it this far.[XENO:wait wait=key ][System:PageBreak ]So...[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 8,
+      "style": 126,
+      "name": "You're lying.[XENO:n ]\nYou have that Monado thingy.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 9,
+      "style": 126,
+      "name": "I do...[XENO:wait wait=key ][System:PageBreak ]But I couldn't have got this far[XENO:n ]\nwith the Monado alone.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 10,
+      "style": 126,
+      "name": "I'm only joking.[XENO:wait wait=key ][System:PageBreak ]I understand now.[XENO:wait wait=key ][System:PageBreak ]It's because your friends are[XENO:n ]\nthere for you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 11,
+      "style": 126,
+      "name": "Yes.[XENO:wait wait=key ][System:PageBreak ]However hard or painful things got,[XENO:n ]\nI had Rein, Dunban-san and my friends.[XENO:wait wait=key ][System:PageBreak ]By helping each other,[XENO:n ]\nwe've managed to get through.[XENO:wait wait=key ][System:PageBreak ]So Emmy Leater-san,[XENO:n ]\nwith help from your friends...[XENO:wait wait=key ][System:PageBreak ]You can still move forward.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 12,
+      "style": 126,
+      "name": "You're right.[XENO:wait wait=key ][System:PageBreak ]Those guys may be naïve but[XENO:n ]\nthey want to help me.[XENO:wait wait=key ][System:PageBreak ]I must do my best to repay[XENO:n ]\ntheir kindness.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 13,
+      "style": 126,
+      "name": "Now you get it.[XENO:n ]\nThat's the spirit.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 14,
+      "style": 126,
+      "name": "I can't believe I'm hearing all this[XENO:n ]\nfrom you. You used to be so weak.[XENO:wait wait=key ][System:PageBreak ]It's funny how things turn out.[XENO:wait wait=key ][System:PageBreak ]There is still a possibility that I[XENO:n ]\ncan end up like you.[XENO:wait wait=key ][System:PageBreak ]Right...[XENO:n ]\nI'm going to head back home.[XENO:wait wait=key ][System:PageBreak ]I won't give up. I'll try taking the [XENO:n ]\nlieutenant colonel test again.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 15,
+      "style": 126,
+      "name": "Do your best.[XENO:n ]\nWe're behind you all the way.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 16,
+      "style": 126,
+      "name": "[XENO:trust trust= p:1:i:28:5 ]Thank you, Shulk.[XENO:wait wait=key ][System:PageBreak ]Don't be embarrassed, but I want[XENO:n ]\nto be a brave hero just like you.[XENO:wait wait=key ][System:PageBreak ]I am so happy you believe in me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 17,
+      "style": 126,
+      "name": "Th-that th-thing is terrifying![XENO:n ]\nBut maybe I can handle it...[XENO:wait wait=key ][System:PageBreak ]No. It's too dangerous.[XENO:n ]\nI'm going to get eaten![XENO:wait wait=key ][System:PageBreak ]Please, help me![XENO:n ]\nTake down Elegant Marin for me.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 18,
+      "style": 126,
+      "name": "I-I could have handled that.[XENO:n ]\nI didn't need your help![XENO:wait wait=key ][System:PageBreak ]Anyway, I feel brave enough to[XENO:n ]\ngive my book to Matryona now.[XENO:wait wait=key ][System:PageBreak ]Thank you.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 19,
+      "style": 126,
+      "name": "You came to get me-mo?![XENO:wait wait=key ][System:PageBreak ]I went inside but was[XENO:n ]\ntoo scared to move-mo...[XENO:wait wait=key ][System:PageBreak ]But Kiroro got farther[XENO:n ]\nin than Nikita-mo!![XENO:wait wait=key ][System:PageBreak ]Last time Nikita beat Kiroro[XENO:n ]\nat picking pretty flowers...[XENO:wait wait=key ][System:PageBreak ]This time Kiroro won by a landslide-mo![XENO:wait wait=key ][System:PageBreak ]That's 156 wins and 156[XENO:n ]\nlosses in all-mo![XENO:wait wait=key ][System:PageBreak ]Now I'll go back[XENO:n ]\nto Colony 6 and brag-mo!![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 20,
+      "style": 126,
+      "name": "These tunnels are complex, so[XENO:n ]\nit's easy to get lost-mo.[XENO:wait wait=key ][System:PageBreak ]But don't worry-mo![XENO:wait wait=key ][System:PageBreak ]Follow the glowing moss on the walls[XENO:n ]\nand you can reach the back-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 21,
+      "style": 126,
+      "name": "[XENO:type type=anger ]It's important, so I'll keep repeating it-mo![XENO:wait wait=key ][System:PageBreak ]The glowing moss![XENO:wait wait=key ][System:PageBreak ]As your guide![XENO:wait wait=key ][System:PageBreak ]Follow it-mo![XENO:wait wait=key ][System:PageBreak ]Then you won't get lost-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 22,
+      "style": 126,
+      "name": "The explosion cut off the Central Pit-mo.[XENO:wait wait=key ][System:PageBreak ]Rocks block the way, so no one[XENO:n ]\ncan get through-mo.[XENO:wait wait=key ][System:PageBreak ]There's no choice but to give up on going[XENO:n ]\nthere-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 23,
+      "style": 126,
+      "name": "You can't reach[XENO:n ]\nthe Central Pit, but...[XENO:wait wait=key ][System:PageBreak ]There are lots of ether crystals[XENO:n ]\nin these underground tunnels-mo.[XENO:wait wait=key ][System:PageBreak ]Come and mine as many as you[XENO:n ]\nlike whenever you need them-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 24,
+      "style": 126,
+      "name": "[XENO:shp shp=7 ]"
+    },
+    {
+      "$id": 25,
+      "style": 126,
+      "name": "Thank you-mo![XENO:n ]\nPlease come again-mo![XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 26,
+      "style": 126,
+      "name": "Shulk's 'Bravery' Skill Line[XENO:n ]\nhas been unlocked."
+    }
+  ]
+}

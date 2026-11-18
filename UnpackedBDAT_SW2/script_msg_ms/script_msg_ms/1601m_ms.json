@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 126,
+      "name": "That's the last of the five[XENO:n ]\nElectric Filaments.[XENO:wait wait=key ][System:PageBreak ]Now Leanna-san can fix the door of[XENO:n ]\nher house.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 2,
+      "style": 126,
+      "name": "They said they need two of these[XENO:n ]\nto rebuild Colony 6.[XENO:wait wait=key ][System:PageBreak ]I wonder what they would want[XENO:n ]\nRainbow Sea Cukes for.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 3,
+      "style": 126,
+      "name": "Leanna needs five Electric Upa[XENO:n ]\nTears for the mechanical flower.[XENO:wait wait=key ][System:PageBreak ]We'd better take them to her.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 4,
+      "style": 126,
+      "name": "This is the second Flier Bloom[XENO:n ]\nScale we needed to find.[XENO:wait wait=key ][System:PageBreak ]Let's get them to Minis.[XENO:wait wait=key ][XENO:del del=this ]"
+    },
+    {
+      "$id": 5,
+      "style": 126,
+      "name": "They needed Silver Antol Fibres to[XENO:n ]\nrestore Colony 6's commerce.[XENO:wait wait=key ][System:PageBreak ]This is the last of the eight that[XENO:n ]\nJuujuu asked us to collect.[XENO:wait wait=key ][XENO:del del=this ]"
+    }
+  ]
+}

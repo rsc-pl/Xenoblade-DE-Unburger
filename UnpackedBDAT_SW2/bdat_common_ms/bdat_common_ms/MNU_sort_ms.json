@@ -1,0 +1,224 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "Obtained"
+    },
+    {
+      "$id": 2,
+      "style": 9,
+      "name": "Sell Price"
+    },
+    {
+      "$id": 3,
+      "style": 9,
+      "name": "Max Auto-Attack"
+    },
+    {
+      "$id": 4,
+      "style": 9,
+      "name": "Slot Count"
+    },
+    {
+      "$id": 5,
+      "style": 9,
+      "name": "Unique Weapons"
+    },
+    {
+      "$id": 6,
+      "style": 9,
+      "name": "Physical Def"
+    },
+    {
+      "$id": 7,
+      "style": 9,
+      "name": "Ether Def"
+    },
+    {
+      "$id": 8,
+      "style": 9,
+      "name": "Light"
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Medium"
+    },
+    {
+      "$id": 10,
+      "style": 9,
+      "name": "Heavy"
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "With Slots"
+    },
+    {
+      "$id": 12,
+      "style": 9,
+      "name": "Unique Armour"
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "Owned"
+    },
+    {
+      "$id": 14,
+      "style": 9,
+      "name": "Quest Items"
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "Not Yet Learnt"
+    },
+    {
+      "$id": 16,
+      "style": 9,
+      "name": "Learnt"
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Weight"
+    },
+    {
+      "$id": 18,
+      "style": 9,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 19,
+      "style": 9,
+      "name": "Guard Rate"
+    },
+    {
+      "$id": 20,
+      "style": 9,
+      "name": "Colour"
+    },
+    {
+      "$id": 21,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 22,
+      "style": 9,
+      "name": "Weapon Only"
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "Armour Only"
+    },
+    {
+      "$id": 24,
+      "style": 9,
+      "name": "Both"
+    },
+    {
+      "$id": 25,
+      "style": 9,
+      "name": "Stats"
+    },
+    {
+      "$id": 26,
+      "style": 9,
+      "name": "Attack"
+    },
+    {
+      "$id": 27,
+      "style": 9,
+      "name": "Defence"
+    },
+    {
+      "$id": 28,
+      "style": 9,
+      "name": "Support"
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "Field"
+    },
+    {
+      "$id": 30,
+      "style": 9,
+      "name": "Special"
+    },
+    {
+      "$id": 31,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 32,
+      "style": 9,
+      "name": "Parameters"
+    },
+    {
+      "$id": 33,
+      "style": 9,
+      "name": "Attack"
+    },
+    {
+      "$id": 34,
+      "style": 9,
+      "name": "Defence"
+    },
+    {
+      "$id": 35,
+      "style": 9,
+      "name": "Support"
+    },
+    {
+      "$id": 36,
+      "style": 9,
+      "name": "Field"
+    },
+    {
+      "$id": 37,
+      "style": 9,
+      "name": "Special"
+    },
+    {
+      "$id": 38,
+      "style": 9,
+      "name": "Type"
+    },
+    {
+      "$id": 39,
+      "style": 9,
+      "name": "Name"
+    },
+    {
+      "$id": 40,
+      "style": 9,
+      "name": "Favourite"
+    },
+    {
+      "$id": 41,
+      "style": 9,
+      "name": "Rank"
+    },
+    {
+      "$id": 42,
+      "style": 9,
+      "name": "Likes"
+    }
+  ]
+}

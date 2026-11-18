@@ -13,27 +13,27 @@
     {
       "$id": 1,
       "style": 148,
-      "name": "The battle between the Chilkins and the Antols rages[XENO:n ]\non. Help the Nopon so they can continue their[XENO:n ]\nresearch of Valak Mountain in peace."
+      "name": "On Valak Mountain, the Chilkin and Antol are[XENO:n ]\nstill at war. Help the Nopon[XENO:n ]\nso they can conduct their survey safely."
     },
     {
       "$id": 2,
       "style": 138,
-      "name": "Defeat 5 [System:Color name=item ]Poleaxe Chilkins[/System:Color] on Valak Mountain."
+      "name": "Defeat 5 [System:Color name=item ]Poleaxe Chilkins[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 3,
       "style": 138,
-      "name": "Defeat 5 [System:Color name=item ]Ent Antols[/System:Color] on Valak Mountain."
+      "name": "Defeat 5 [System:Color name=item ]Ent Antols[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 4,
       "style": 138,
-      "name": "Return to the researcher."
+      "name": "Report to the survey team member."
     },
     {
       "$id": 5,
       "style": 138,
-      "name": "You defeated some of the warring Chilkins and[XENO:n ]\nAntols. Valak Mountain is quieter now."
+      "name": "After defeating the warring Chilkin and Antol,[XENO:n ]\nValak Mountain is a little safer."
     },
     {
       "$id": 6,
@@ -43,17 +43,17 @@
     {
       "$id": 7,
       "style": 138,
-      "name": "Take in the scenery from Befalgar Pedestal on[XENO:n ]\nValak Mountain."
+      "name": "Admire the view from near Befalgar Pedestal[XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 8,
       "style": 138,
-      "name": "Take in the scenery from Kana Peak on Valak[XENO:n ]\nMountain."
+      "name": "Admire the view from near Kaana Peak[XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 9,
       "style": 138,
-      "name": "Return to the researcher."
+      "name": "Report to the survey team member."
     },
     {
       "$id": 10,
@@ -63,22 +63,22 @@
     {
       "$id": 11,
       "style": 148,
-      "name": "You found a Nopon who is in danger of freezing to[XENO:n ]\ndeath! She might have some useful information.[XENO:n ]\nFind some things to warm her up."
+      "name": "You found a Nopon collapsed from the cold.[XENO:n ]\nThey seem to have some important information.[XENO:n ]\nFind something warm to help them."
     },
     {
       "$id": 12,
       "style": 138,
-      "name": "Collect 3 [System:Color name=item ]Hox Flints[/System:Color] from Porcu Hoxes on Valak[XENO:n ]\nMountain."
+      "name": "Obtain 3 [System:Color name=item ]Hogs Flints[/System:Color][XENO:n ]\nfrom Porcu Hogs on Valak Mountain."
     },
     {
       "$id": 13,
       "style": 138,
-      "name": "Collect 2 [System:Color name=item ]Antol Fire Pouches[/System:Color] from Ent Antols on[XENO:n ]\nValak Mountain."
+      "name": "Obtain 2 [System:Color name=item ]Antol Fire Pouches[/System:Color][XENO:n ]\nfrom Ent Antols on Valak Mountain."
     },
     {
       "$id": 14,
       "style": 138,
-      "name": "Collect 1 [System:Color name=item ]Feris Aged Ale[/System:Color] from a Noto Feris on[XENO:n ]\nValak Mountain."
+      "name": "Obtain 1 portion of [System:Color name=item ]Feris Aged Spirits[/System:Color][XENO:n ]\nfrom a Noto Feris on Valak Mountain."
     },
     {
       "$id": 15,
@@ -88,47 +88,47 @@
     {
       "$id": 16,
       "style": 138,
-      "name": "You warmed the Nopon up and she got the[XENO:n ]\ninformation back to the Research Team."
+      "name": "The Nopon warmed up and made a full recovery.[XENO:n ]\nThey returned to the survey team with their information."
     },
     {
       "$id": 17,
       "style": 148,
-      "name": "You saved a Nopon that had been kidnapped by[XENO:n ]\nChilkin. However, when the sentry came, the Chilkin[XENO:n ]\nrallied. Fight your way out."
+      "name": "You freed a Nopon held captive by the Chilkin.[XENO:n ]\nUnfortunately, the guards were due to arrive.[XENO:n ]\nScatter the Chilkin and escape!"
     },
     {
       "$id": 18,
       "style": 138,
-      "name": "Defeat 4 [System:Color name=item ]Cunning Chilkins[/System:Color] on Valak Mountain."
+      "name": "Defeat 4 [System:Color name=item ]Vicious Chilkins[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 19,
       "style": 138,
-      "name": "Return to the kidnapped Nopon."
+      "name": "Report to the freed Nopon."
     },
     {
       "$id": 20,
       "style": 138,
-      "name": "You helped the kidnapped Nopon who took some[XENO:n ]\namazing information to the Research Team."
+      "name": "You rescued the captive Nopon.[XENO:n ]\nThey returned to the team with remarkable information."
     },
     {
       "$id": 21,
       "style": 148,
-      "name": "According to the top-secret information, the Chilkin[XENO:n ]\nleader is not around. This is a chance to research the[XENO:n ]\nChilkin Lair."
+      "name": "Top-secret information says the Chilkin leader is away.[XENO:n ]\nTake this chance to investigate Chilkin Lair."
     },
     {
       "$id": 22,
       "style": 138,
-      "name": "Investigate the Chilkin Lair in Bagnar Snowfield[XENO:n ]\non Valak Mountain."
+      "name": "Investigate Chilkin Lair near Bagnar Snowfield[XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 23,
       "style": 138,
-      "name": "Return to Dakuku."
+      "name": "Return to Daruku."
     },
     {
       "$id": 24,
       "style": 138,
-      "name": "The research trip discovered that the Chilkin[XENO:n ]\nLair has been occupied by Antols."
+      "name": "The investigation revealed that Chilkin Lair[XENO:n ]\nhad been occupied by the Antol."
     },
     {
       "$id": 25,
@@ -138,32 +138,32 @@
     {
       "$id": 26,
       "style": 138,
-      "name": "Defeat [System:Color name=item ]Barbaric Sitri[/System:Color] in the Antol Den."
+      "name": "At Antol Den on Valak Mountain,[XENO:n ]\ndefeat [System:Color name=item ]Barbaric Sitri[/System:Color]."
     },
     {
       "$id": 27,
       "style": 138,
-      "name": "Defeat [System:Color name=item ]Banquet Vassago[/System:Color] who is somewhere in[XENO:n ]\nValak Mountain."
+      "name": "Somewhere on Valak Mountain,[XENO:n ]\ndefeat [System:Color name=item ]Banquet Vassago[/System:Color]."
     },
     {
       "$id": 28,
       "style": 138,
-      "name": "Return to Dakuku."
+      "name": "Return to Daruku."
     },
     {
       "$id": 29,
       "style": 138,
-      "name": "The war between the Antols and Chilkins is over[XENO:n ]\nand balance is restored to Valak Mountain."
+      "name": "You ended the conflict between the Chilkin and Antol[XENO:n ]\nand maintained Valak Mountain's ecological balance."
     },
     {
       "$id": 30,
       "style": 148,
-      "name": "Zain has risked his life to go alone to the top of the[XENO:n ]\nmountain to try and change things. Go to the top of[XENO:n ]\nValak Mountain and help him!"
+      "name": "To break the deadlock, Zain apparently went[XENO:n ]\nto the dangerous summit alone.[XENO:n ]\nHead to Valak Mountain's summit and help him!"
     },
     {
       "$id": 31,
       "style": 138,
-      "name": "Talk to Zain who is somewhere on Three Sage[XENO:n ]\nSummit at Valak Mountain."
+      "name": "Talk to Zain near 3 Great Sages' Summit[XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 32,
@@ -173,42 +173,42 @@
     {
       "$id": 33,
       "style": 138,
-      "name": "Zain is safe. But what of the ruins he went up[XENO:n ]\nthere to investigate...?"
+      "name": "You safely rescued Zain, who went to the summit alone.[XENO:n ]\nHe said something interesting when he asked for help[XENO:line ]"
     },
     {
       "$id": 34,
       "style": 148,
-      "name": "Collect the Giants' Treasures and use them to unseal[XENO:n ]\nthe door to the ruins on Three Sage Summit."
+      "name": "Gather the Giants' treasures scattered around the world[XENO:n ]\nand break the seal on the ruins at 3 Great Sages' Summit."
     },
     {
       "$id": 35,
       "style": 138,
-      "name": "Collect 3 Giants' Treasures from all around[XENO:n ]\nthe world."
+      "name": "Collect 3 Giants' treasures[XENO:n ]\nfrom around the world."
     },
     {
       "$id": 36,
       "style": 138,
-      "name": "Go to the Giants' ruins at Three Sage Summit[XENO:n ]\non Valak Mountain."
+      "name": "Go to the Giants' ruins at 3 Great Sages' Summit[XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 37,
       "style": 138,
-      "name": "The door to the ruins on Three Sage Summit[XENO:n ]\nis open. Inside a great power rests."
+      "name": "The door to the ruins on 3 Great Sages' Summit[XENO:n ]\nis open. Inside a great power rests."
     },
     {
       "$id": 38,
       "style": 148,
-      "name": "Collect the Giants' treasures scattered around the[XENO:n ]\nworld. You don't know where they are or who has[XENO:n ]\nthem, but researchers may be a good place to start..."
+      "name": "Gather the Giants' treasures scattered around the world.[XENO:n ]\nYou don't know where they are or who has them.[XENO:n ]\nBut someone researching them might know[XENO:line ]"
     },
     {
       "$id": 39,
       "style": 138,
-      "name": "Collect the [System:Color name=item ]Truth of the Giants[/System:Color]."
+      "name": "Collect the [System:Color name=item ]Giants' Wisdom[/System:Color]."
     },
     {
       "$id": 40,
       "style": 138,
-      "name": "Collect the [System:Color name=item ]Daring of the Giants[/System:Color]."
+      "name": "Collect the [System:Color name=item ]Giants' Courage[/System:Color]."
     },
     {
       "$id": 41,
@@ -218,87 +218,87 @@
     {
       "$id": 42,
       "style": 138,
-      "name": "You have collected the three treasures of the[XENO:n ]\nGiants. You should be able to open the door now."
+      "name": "All three Giants' treasures have been gathered.[XENO:n ]\nThe seal on the ruins at 3 Great Sages' Summit may open."
     },
     {
       "$id": 43,
       "style": 148,
-      "name": "Clear the monsters so there is a safe route to the[XENO:n ]\nResearch Team on Valak Mountain."
+      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
     },
     {
       "$id": 44,
       "style": 138,
-      "name": "Defeat 2 [System:Color name=item ]Monta Moramoras[/System:Color] on Valak Mountain."
+      "name": "Defeat 2 [System:Color name=item ]Monta Moramoras[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 45,
       "style": 138,
-      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nThe route to the Research Team is safer now."
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to the survey team is a little safer."
     },
     {
       "$id": 46,
       "style": 148,
-      "name": "Clear the monsters so there is a safe route to the[XENO:n ]\nResearch Team on Valak Mountain."
+      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
     },
     {
       "$id": 47,
       "style": 138,
-      "name": "Defeat 5 [System:Color name=item ]Sparas Paguls[/System:Color] on Valak Mountain."
+      "name": "Defeat 5 [System:Color name=item ]Sparas Paguurs[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 48,
       "style": 138,
-      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nThe route to the Research Team is safer now."
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to the survey team is a little safer."
     },
     {
       "$id": 49,
       "style": 148,
-      "name": "Clear the monsters so there is a safe route to the[XENO:n ]\nResearch Team on Valak Mountain."
+      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
     },
     {
       "$id": 50,
       "style": 138,
-      "name": "Defeat 3 [System:Color name=item ]Bow Chilkins[/System:Color] on Valak Mountain."
+      "name": "Defeat 3 [System:Color name=item ]Bow Chilkins[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 51,
       "style": 138,
-      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nThe route to the Research Team is safer now."
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to the survey team is a little safer."
     },
     {
       "$id": 52,
       "style": 148,
-      "name": "Clear the monsters so there is a safe route to the[XENO:n ]\nResearch Team on Valak Mountain."
+      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
     },
     {
       "$id": 53,
       "style": 138,
-      "name": "Defeat 1 [System:Color name=item ]Sesna Lexos[/System:Color] on Valak Mountain."
+      "name": "Defeat 1 [System:Color name=item ]Sesta Lexos[/System:Color][XENO:n ]\non Valak Mountain."
     },
     {
       "$id": 54,
       "style": 138,
-      "name": "You completed the Nopon Merchant's request.[XENO:n ]\nThe route to the Research Team is safer now."
+      "name": "You fulfilled the Nopon Merchant Company's request.[XENO:n ]\nThe route to the survey team is a little safer."
     },
     {
       "$id": 55,
       "style": 148,
-      "name": "The door to the tower that Alvis spoke of is covered in[XENO:n ]\nice. You could melt it with a Magma Rock which is[XENO:n ]\nfound near a geyser in a cave on Valak Mountain."
+      "name": "Thick ice covered the door to the tower Alviss mentioned.[XENO:n ]\nMagma Rock can be found in a cave near the geyser[XENO:n ]\non Valak Mountain. Perhaps it can melt the ice."
     },
     {
       "$id": 56,
       "style": 138,
-      "name": "Collect a [System:Color name=item ]Magma Rock[/System:Color] from a cave near[XENO:n ]\na geyser."
+      "name": "Obtain [System:Color name=item ]Magma Rock[/System:Color] in the cave near the geyser."
     },
     {
       "$id": 57,
       "style": 138,
-      "name": "Use the [System:Color name=item ]Magma Rock[/System:Color] to melt the ice covering[XENO:n ]\nthe door."
+      "name": "Use [System:Color name=item ]Magma Rock[/System:Color] to melt the ice covering the door."
     },
     {
       "$id": 58,
       "style": 138,
-      "name": "You melted the ice covering the door."
+      "name": "You melted the door's ice, opening the way to the tower."
     }
   ]
 }

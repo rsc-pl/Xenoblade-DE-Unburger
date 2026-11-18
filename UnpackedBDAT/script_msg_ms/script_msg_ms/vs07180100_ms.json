@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "Heropon Riki be proud![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hero Riki is great-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 125,
-      "name": "Heropon Riki tough guy![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hero Riki is strong-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "Heropon Riki bestest![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hero Riki is amazing-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -48,57 +48,57 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki beat Dinobeast![XENO:n ]\nDoes Riki still have debt?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki defeated the great dinosaur-mo.[XENO:n ]\nThat means all Riki's debt is gone now-mo! Right-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]No Riki. Your debts are repaid.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Indeed. That clears your old debt-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]However, while you were gone, your littlepons ate like[XENO:n ]\nravenous Orluga. It set Chief Donga back quite a bit.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]But while you were away, those little ones ate and[XENO:n ]\nate, so now you'll have to pay that back-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Nopon of Frontier Village![XENO:n ]\nA new prophecy has been told![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Fellow Nopon! A new[XENO:n ]\nprophecy is now fulfilled-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
       "style": 125,
-      "name": "Our Heropon, slayer of Dinobeast, will further his legend[XENO:n ]\nby accompanying the Hom Hom on their travels![XENO:wait wait=key ]"
+      "name": "Hero Riki, who defeated the great dinosaur, shall lead[XENO:n ]\nhis Hom Hom attendants and depart this village-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 13,
       "style": 125,
-      "name": "And bringing peace to the lands of Giant God![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "And he shall bring true peace to the Giant's world-ja-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Riki never hear this![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]I-I never heard about this-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
       "style": 125,
-      "name": "It was prophecised many years ago.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It is a prophecy from long, long ago-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Chief lying! Chief make up prophecy[XENO:n ]\none minute ago! Riki mad![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]That's a lie-mo! You looked like you only just[XENO:n ]\nthought of it-mo! Didn't you-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki. Go with these people. For the[XENO:n ]\nsake of the village, you must go.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki, go with them-ja-mo. That[XENO:n ]\nwill help protect us Nopon-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 18,
       "style": 125,
-      "name": "My instinct is never wrong.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Well... it's just my intuition-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -108,32 +108,32 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Do not worry Riki. Your littlepons[XENO:n ]\nwill be taken care of.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Don't worry-mo. In return, I'll make sure those little[XENO:n ]\nones are properly looked after-ja-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
       "style": 125,
-      "name": "Dadapon! Stomach rumble![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dad, tummy rumbling-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
       "style": 125,
-      "name": "Dadapon! Need food![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dad, food-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
       "style": 125,
-      "name": "Dadapon! Need food now![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dad, grub-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Dada? Riki, what on Giant God is going on?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Dad? Riki, what on Giant God is going on?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
       "style": 125,
-      "name": "Friends, meet Riki wifeypon and littlepon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "They're Riki's wife and children-mo. What about it-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "Riki have 40 years![XENO:n ]\nFriends look puzzled.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki is forty this[XENO:n ]\nyear-mo. What about it-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -158,27 +158,27 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "Riki. Oka borrow monies[XENO:n ]\nfor littlepons' food.[XENO:wait wait=key ]"
+      "name": "The extra amount you borrowed has already[XENO:n ]\nbeen eaten up by these children-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 31,
       "style": 125,
-      "name": "Chief Donga know best! Riki must[XENO:n ]\nwork for littlepons to have good life.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Just like Chief-sama said, you're going[XENO:n ]\nto work hard-mo. We're counting on you-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Riki will! OK, Oka.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]Um... ah... so that's how it is-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 33,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki happy to join friends![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Everyone, Riki looks forward to traveling with you-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 34,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn happy too! Come on, furball.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rein happy too! Come on, furball.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

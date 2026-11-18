@@ -18,12 +18,12 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Shulk! Riki tired.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Shulk, Riki is tired-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki sleep in castle now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki wants to rest at the castle now-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,

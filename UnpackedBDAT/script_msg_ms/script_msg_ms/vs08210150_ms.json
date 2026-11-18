@@ -28,12 +28,12 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Somebody mean Reyn![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]By \"someone,\" Riki means Rein-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Shut it, hairball.[XENO:n ]\nIt was just a button![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Shut up, old man.[XENO:n ]\nI know.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 6,

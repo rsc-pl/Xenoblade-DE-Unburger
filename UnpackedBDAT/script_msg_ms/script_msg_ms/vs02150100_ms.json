@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]The colonel... The guys... I'm gonna destroy[XENO:n ]\nevery last one of those damn Mechon![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]The colonel... The guys... I'm gonna destroy[XENO:n ]\nevery last one of those damn Machine God Soldiers![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Reyn, Fiorung! There's still the mobile artillery![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rein, Fiorung! There's still the mobile artillery![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 6,

@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 14,
+      "name": "Whitewing Palace Door"
+    },
+    {
+      "$id": 2,
+      "style": 117,
+      "name": "The emergency lock is activated."
+    },
+    {
+      "$id": 3,
+      "style": 14,
+      "name": "Ether Furnace Controls"
+    },
+    {
+      "$id": 4,
+      "style": 117,
+      "name": "It appears to be broken."
+    }
+  ]
+}

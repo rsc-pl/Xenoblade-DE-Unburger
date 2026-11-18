@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 9,
+      "name": "Integrity"
+    },
+    {
+      "$id": 2,
+      "style": 75,
+      "name": "■ Shulk's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases guard rate."
+    },
+    {
+      "$id": 3,
+      "style": 9,
+      "name": "Love"
+    },
+    {
+      "$id": 4,
+      "style": 75,
+      "name": "■ Shulk's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Ether."
+    },
+    {
+      "$id": 5,
+      "style": 9,
+      "name": "Intuition"
+    },
+    {
+      "$id": 6,
+      "style": 75,
+      "name": "■ Shulk's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Agility."
+    },
+    {
+      "$id": 7,
+      "style": 9,
+      "name": "Heroism"
+    },
+    {
+      "$id": 8,
+      "style": 75,
+      "name": "■ Shulk's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 9,
+      "style": 9,
+      "name": "Timidity"
+    },
+    {
+      "$id": 10,
+      "style": 75,
+      "name": "■ Shulk's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 11,
+      "style": 9,
+      "name": "Guts"
+    },
+    {
+      "$id": 12,
+      "style": 75,
+      "name": "■ Rein's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Strength."
+    },
+    {
+      "$id": 13,
+      "style": 9,
+      "name": "Passion"
+    },
+    {
+      "$id": 14,
+      "style": 75,
+      "name": "■ Rein's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 15,
+      "style": 9,
+      "name": "Effort"
+    },
+    {
+      "$id": 16,
+      "style": 75,
+      "name": "■ Rein's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Agility."
+    },
+    {
+      "$id": 17,
+      "style": 9,
+      "name": "Friendship"
+    },
+    {
+      "$id": 18,
+      "style": 75,
+      "name": "■ Rein's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases physical defence."
+    },
+    {
+      "$id": 19,
+      "style": 9,
+      "name": "Impatience"
+    },
+    {
+      "$id": 20,
+      "style": 75,
+      "name": "■ Rein's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases counterattack rate."
+    },
+    {
+      "$id": 21,
+      "style": 9,
+      "name": "Courage"
+    },
+    {
+      "$id": 22,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 23,
+      "style": 9,
+      "name": "Daring"
+    },
+    {
+      "$id": 24,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Strength."
+    },
+    {
+      "$id": 25,
+      "style": 9,
+      "name": "Active"
+    },
+    {
+      "$id": 26,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases max HP."
+    },
+    {
+      "$id": 27,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 28,
+      "style": 75,
+      "name": "■ Fiorung's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 29,
+      "style": 9,
+      "name": "Competitive"
+    },
+    {
+      "$id": 30,
+      "style": 75,
+      "name": "■ Fiorung's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases counterattack rate."
+    },
+    {
+      "$id": 31,
+      "style": 9,
+      "name": "Heroism"
+    },
+    {
+      "$id": 32,
+      "style": 75,
+      "name": "■ Dunban's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases counterattack rate."
+    },
+    {
+      "$id": 33,
+      "style": 9,
+      "name": "Style"
+    },
+    {
+      "$id": 34,
+      "style": 75,
+      "name": "■ Dunban's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Agility."
+    },
+    {
+      "$id": 35,
+      "style": 9,
+      "name": "Prudence"
+    },
+    {
+      "$id": 36,
+      "style": 75,
+      "name": "■ Dunban's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases guard rate."
+    },
+    {
+      "$id": 37,
+      "style": 9,
+      "name": "Passion"
+    },
+    {
+      "$id": 38,
+      "style": 75,
+      "name": "■ Dunban's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Strength."
+    },
+    {
+      "$id": 39,
+      "style": 9,
+      "name": "Stubbornness"
+    },
+    {
+      "$id": 40,
+      "style": 75,
+      "name": "■ Dunban's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases physical defence."
+    },
+    {
+      "$id": 41,
+      "style": 9,
+      "name": "Devotion"
+    },
+    {
+      "$id": 42,
+      "style": 75,
+      "name": "■ Carna's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Ether."
+    },
+    {
+      "$id": 43,
+      "style": 9,
+      "name": "Patience"
+    },
+    {
+      "$id": 44,
+      "style": 75,
+      "name": "■ Carna's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases physical defence."
+    },
+    {
+      "$id": 45,
+      "style": 9,
+      "name": "Nerve"
+    },
+    {
+      "$id": 46,
+      "style": 75,
+      "name": "■ Carna's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Strength."
+    },
+    {
+      "$id": 47,
+      "style": 9,
+      "name": "Affection"
+    },
+    {
+      "$id": 48,
+      "style": 75,
+      "name": "■ Carna's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases max HP."
+    },
+    {
+      "$id": 49,
+      "style": 9,
+      "name": "Reliance"
+    },
+    {
+      "$id": 50,
+      "style": 75,
+      "name": "■ Carna's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 51,
+      "style": 9,
+      "name": "Cheerful"
+    },
+    {
+      "$id": 52,
+      "style": 75,
+      "name": "■ Riki's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases max HP."
+    },
+    {
+      "$id": 53,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 54,
+      "style": 75,
+      "name": "■ Riki's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 55,
+      "style": 9,
+      "name": "Flexibility"
+    },
+    {
+      "$id": 56,
+      "style": 75,
+      "name": "■ Riki's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Agility."
+    },
+    {
+      "$id": 57,
+      "style": 9,
+      "name": "Heroism"
+    },
+    {
+      "$id": 58,
+      "style": 75,
+      "name": "■ Riki's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 59,
+      "style": 9,
+      "name": "Cowardice"
+    },
+    {
+      "$id": 60,
+      "style": 75,
+      "name": "■ Riki's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases guard rate."
+    },
+    {
+      "$id": 61,
+      "style": 9,
+      "name": "Calm"
+    },
+    {
+      "$id": 62,
+      "style": 75,
+      "name": "■ Melia's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Agility."
+    },
+    {
+      "$id": 63,
+      "style": 9,
+      "name": "Frank"
+    },
+    {
+      "$id": 64,
+      "style": 75,
+      "name": "■ Melia's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 65,
+      "style": 9,
+      "name": "Steady"
+    },
+    {
+      "$id": 66,
+      "style": 75,
+      "name": "■ Melia's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases physical defence."
+    },
+    {
+      "$id": 67,
+      "style": 9,
+      "name": "Passion"
+    },
+    {
+      "$id": 68,
+      "style": 75,
+      "name": "■ Melia's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Ether."
+    },
+    {
+      "$id": 69,
+      "style": 9,
+      "name": "Reticence"
+    },
+    {
+      "$id": 70,
+      "style": 75,
+      "name": "■ Melia's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 71,
+      "style": 9,
+      "name": "Courage"
+    },
+    {
+      "$id": 72,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases critical rate."
+    },
+    {
+      "$id": 73,
+      "style": 9,
+      "name": "Daring"
+    },
+    {
+      "$id": 74,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases Strength."
+    },
+    {
+      "$id": 75,
+      "style": 9,
+      "name": "Active"
+    },
+    {
+      "$id": 76,
+      "style": 75,
+      "name": "■ Fiorung's basic trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases max HP."
+    },
+    {
+      "$id": 77,
+      "style": 9,
+      "name": "Innocence"
+    },
+    {
+      "$id": 78,
+      "style": 75,
+      "name": "■ Fiorung's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases ether defence."
+    },
+    {
+      "$id": 79,
+      "style": 9,
+      "name": "Competitive"
+    },
+    {
+      "$id": 80,
+      "style": 75,
+      "name": "■ Fiorung's essential trait[XENO:n ]\nPrioritising this trait[XENO:n ]\nincreases counterattack rate."
+    }
+  ]
+}
