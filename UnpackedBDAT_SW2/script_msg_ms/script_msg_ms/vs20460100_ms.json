@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Sounds just like her.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sounds just like Talco.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "Lady Melia-san, I'm glad we trusted you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Melia-san, I'm glad I put my trust in you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 125,
-      "name": " Melia-sama, we Companions will form your honour guard.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": " Melia-sama, we shall accompany you as your guards.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "You Companions will join Talco and guard[XENO:n ]\nGran Dell from Fogbeast incursion.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Stay here with Talco and protect[XENO:n ]\nGran Dell from the Fogbeasts.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "The Companions' strength, Gran Dell's[XENO:n ]\nknowledge, Talco's will...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Your strength, Gran Dell's knowledge,[XENO:n ]\nand Talco's leadership...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": " Melia-sama... Take care.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": " Melia-sama, please...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 125,
-      "name": "Maxis-san and his Companions...[XENO:n ]\nThey're counting on us too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We've got to defeat the Fog King[XENO:n ]\nfor Maxis-san and the others, too.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 55,
@@ -293,7 +293,7 @@
     {
       "$id": 57,
       "style": 125,
-      "name": "Ah, only too gladly,[XENO:n ]\nMiss Melia-san.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes, of course,[XENO:n ]\nMelia-san.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

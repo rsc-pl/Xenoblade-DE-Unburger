@@ -53,12 +53,12 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "Is it because of the girl who was operating that Machine Soldier?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You mean whoever was piloting that Machine God Soldier?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,

@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]...Aha![XENO:wait wait=key ][System:PageBreak ]Found it! My pocket watch![XENO:wait wait=key ][System:PageBreak ]And still in one piece...[XENO:n ]\nmore or less.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:line len=2 ]![XENO:wait wait=key ][System:PageBreak ]There it is, my pocket watch![XENO:n ]\nThank goodness it's safe[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・I can fix it!/・It's ticked its last tock. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'll fix it/・Then it can't be helped][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:sel sel=・You should sell it!/・Was it a present from someone? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・How much would it sell for?/・Was it a present from someone? ][XENO:del del=this ]"
     },
     {
       "$id": 30,

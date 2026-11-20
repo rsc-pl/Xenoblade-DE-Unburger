@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・You're scared of spiders!/・You love spiders! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Spiders bothered you, right, Rein?/・You liked spiders, right, Rein? ][XENO:del del=all ]"
     },
     {
       "$id": 7,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]That's not a problem at all.[XENO:wait wait=key ][System:PageBreak ]Hmm. I'm just trying to think[XENO:n ]\nwhen your phobia started.[XENO:wait wait=key ][System:PageBreak ]If I remember right, it was[XENO:n ]\nthat time when...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]That's not a problem at all.[XENO:wait wait=key ][System:PageBreak ]Hmm. I'm just trying to think[XENO:n ]\nwhen your spider phobia started, Rein.[XENO:wait wait=key ][System:PageBreak ]If I remember right, it was[XENO:n ]\nthat time when...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -63,12 +63,12 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・I played a prank on you!/・Fiorung played a prank on you! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・It was my prank, wasn't it?/・It was Fiorung's prank, wasn't it? ][XENO:del del=all ]"
     },
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Sorry. It's because I put[XENO:n ]\na spider in your shoe, isn't it...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Sorry. It's because I put[XENO:n ]\na spider in your shoe, Rein...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT19 ]That reminds me.[XENO:wait wait=key ][System:PageBreak ]Do you remember why I put[XENO:n ]\nthat spider in your shoe?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT19 ]That reminds me.[XENO:wait wait=key ][System:PageBreak ]Do you remember why I put[XENO:n ]\nthat spider in your shoe, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 126,
-      "name": "She stuck a spider in your food.[XENO:n ]\nIt was hilarious![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "If I remember right, I put a spider[XENO:n ]\nin your food, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
@@ -193,12 +193,12 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:sel sel=・You were bugging me./・It needed a good home. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Because I was annoyed/・It was perfect as a bug cage ][XENO:del del=all ]"
     },
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You put a caterpillar in my[XENO:n ]\ndrawer, remember?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Rein, you put a caterpillar in my[XENO:n ]\ndrawer, remember?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]If I recall, your shoe looked just[XENO:n ]\nthe right size for the spider.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Rein, your shoe was so big it was just[XENO:n ]\nthe right size for the spider.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT22 ]At least you're back to your[XENO:n ]\nold self again![XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]I'm glad you're back to your[XENO:n ]\nold self, Rein![XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][XENO:del del=this ]"
     },
     {
       "$id": 49,

@@ -13,12 +13,12 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Hey, Fiorung![XENO:wait wait=key ][System:PageBreak ]Can a big brother ask his[XENO:n ]\nlittle sister a question?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Hey, Fiorung![XENO:wait wait=key ][System:PageBreak ]Mind if I ask you[XENO:n ]\na question?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
       "style": 126,
-      "name": "Sure, Onii-chan. What is it?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What is it, Onii-chan?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・You caught me./・I'm not hiding anything. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・You caught me./・That's not true ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・Onii-chan wouldn't understand./・It's awful, isn't it? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Onii-chan wouldn't understand./・You were frustrated, weren't you? ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Do you understand, Onii-chan, what's[XENO:n ]\nhappened to me?[XENO:wait wait=key ][System:PageBreak ]I'll never get to grow old[XENO:n ]\nwith the ones I love.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]This body could stop functioning[XENO:n ]\nnext year, or next week.[XENO:wait wait=key ][System:PageBreak ]Or anytime, for all I know.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Do you understand,[XENO:n ]\nOnii-chan?[XENO:wait wait=key ][System:PageBreak ]How I feel knowing I can't[XENO:n ]\ngrow old with everyone anymore?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]The fear of not[XENO:n ]\nknowing when my body[XENO:wait wait=key ][System:PageBreak ]will stop working?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]No I won't, Onii-chan![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Wait. Are you making me[XENO:n ]\nangry on purpose?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]That's not what I mean![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Huh? Onii-chan, did[XENO:n ]\nyou do that on purpose?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Onii-chan, I'm sorry I was so[XENO:n ]\nrude to you just now.[XENO:wait wait=key ][System:PageBreak ]You're right. I do feel a little[XENO:n ]\nbetter getting it off my chest.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]I'm sorry,[XENO:n ]\nOnii-chan.[XENO:wait wait=key ][System:PageBreak ]I feel a little better now that[XENO:n ]\nI've said what I wanted to say.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Then you better be ready.[XENO:n ]\nI think I have a lot to say.[XENO:wait wait=key ][System:PageBreak ]Thanks, Onii-chan![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Yeah. From now on, I'll tell you,[XENO:n ]\nOnii-chan, instead of bottling it up.[XENO:wait wait=key ][System:PageBreak ]Thank you so much.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -158,12 +158,12 @@
     {
       "$id": 30,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]As much as it frightens me,[XENO:n ]\nI know you're probably right.[XENO:wait wait=key ][System:PageBreak ]Thank you, Onii-chan.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Yeah, I know.[XENO:n ]\nThank you,[XENO:wait wait=key ][System:PageBreak ]Onii-chan.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]This is me, your big brother.[XENO:n ]\nDo you think I wouldn't notice?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Hey, Fiorung.[XENO:n ]\nDo you have to lie even to me?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:sel sel=・You say that, but.../・I know that. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・That's true, but.../・I know that. ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Thanks, Onii-chan.[XENO:wait wait=key ][System:PageBreak ]I'm sorry I'm not being more open[XENO:n ]\nwith you, but someday I will be.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Thanks, Onii-chan. I can't tell you now,[XENO:wait wait=key ][System:PageBreak ]but I'll explain it[XENO:n ]\nproperly someday.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]You're right. You're always[XENO:n ]\nthere for me, Onii-chan. Thanks.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Okay, I understand.[XENO:n ]\nI'll count on you, Onii-chan.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Of course I'm looking out for you![XENO:wait wait=key ][System:PageBreak ]If I failed in my older brotherly duties, I[XENO:n ]\nwouldn't be much of an older brother![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Come on, of course I would![XENO:wait wait=key ][System:PageBreak ]Please rely on me a little more. Otherwise I'll[XENO:n ]\nfeel a little lonely as your older brother.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I know, I know. He'll be as sweet[XENO:n ]\nas he always is.[XENO:wait wait=key ][System:PageBreak ]That's one of the things[XENO:n ]\nI like most about him.[XENO:wait wait=key ][System:PageBreak ]Do you like Shulk, Onii-chan?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Right? But that's what[XENO:n ]\nI like about Shulk.[XENO:wait wait=key ][System:PageBreak ]Don't you[XENO:n ]\nthink so too,[XENO:wait wait=key ][System:PageBreak ]Onii-chan?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]OK...[XENO:wait wait=key ][System:PageBreak ]I'm so happy you're my older brother.[XENO:n ]\nYou know that, right?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Yeah.[XENO:wait wait=key ][System:PageBreak ]I'm really glad I'm[XENO:n ]\nyour younger sister.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

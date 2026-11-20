@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Chief Donga makes them up?/・They're delivered from on high? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・The village chief's nonsense?/・From someone higher up? ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -53,12 +53,12 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "Melia-chan, why did you[XENO:n ]\ncome down here-mo?[XENO:wait wait=key ][System:PageBreak ]Do you hate your home-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Melia-chan, why did[XENO:n ]\nyou come down here-mo?[XENO:wait wait=key ][System:PageBreak ]Don't you like your home-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・That's true in a sense./・I like my home, but... ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I wonder/・That's not it ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "Oh, right. Then when we're done,[XENO:wait wait=key ][System:PageBreak ]everyone come to my house-mo![XENO:n ]\nIt'll be a party-mo.[XENO:wait wait=key ][System:PageBreak ]I can't[XENO:n ]\nwait-mo~![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Ah, right...[XENO:wait wait=key ][System:PageBreak ]Then when you're done being busy,[XENO:n ]\neveryone come to my house-mo![XENO:wait wait=key ][System:PageBreak ]It'll be a party-mo![XENO:n ]\nI can't wait-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "Through Apex Lake, you can see those[XENO:n ]\nwho returned to the Giant God-mo.[XENO:wait wait=key ][System:PageBreak ]Those sparkles are them-mo.[XENO:wait wait=key ][System:PageBreak ]Donga said so, so it's true-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "If you look at Eryth Sea through Apex Lake, you[XENO:n ]\ncan see those who've returned to the Giant God-mo.[XENO:wait wait=key ][System:PageBreak ]That's what all those sparkles are-mo.[XENO:wait wait=key ][System:PageBreak ]Donga said so, so it must be true-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:sel sel=・You mean...Shulk?/・You mean...you? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Shulk?/・Riki? ][XENO:del del=this ]"
     },
     {
       "$id": 30,

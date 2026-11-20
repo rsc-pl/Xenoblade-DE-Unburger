@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・When I get my real body back.../・Never mind. It's fine. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・When I get my real body back.../・On second thought, never mind ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・You mean...with the others?/・Y-yeah. If you like... ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Huh, all of us?/・Y-yeah ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:sel sel=・OK. Here I go./・I'm sorry. I can't. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Yeah, I understand/・I'm sorry ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Then we'll move to somewhere[XENO:n ]\nthey can't look at you.[XENO:wait wait=key ][System:PageBreak ]Rein and Dunban-san would follow us.[XENO:n ]\nI know they would.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Then we'll just go somewhere you[XENO:n ]\nwon't have to worry about that.[XENO:wait wait=key ][System:PageBreak ]Rein and Dunban-san[XENO:n ]\nwill come along, too.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,

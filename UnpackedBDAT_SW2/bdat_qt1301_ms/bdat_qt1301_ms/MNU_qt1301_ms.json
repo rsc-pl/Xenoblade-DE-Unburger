@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 148,
-      "name": "You freed a Nopon held captive by the Chilkin.[XENO:n ]\nUnfortunately, the guards were due to arrive.[XENO:n ]\nScatter the Chilkin and escape!"
+      "name": "You freed a Nopon held captive by the Chilkin.[XENO:n ]\nUnfortunately, it was time for the guards[XENO:n ]\nto arrive. Rout the Chilkin and escape!"
     },
     {
       "$id": 18,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 138,
-      "name": "You safely rescued Zain, who went to the summit alone.[XENO:n ]\nHe said something interesting when he asked for help[XENO:line ]"
+      "name": "You safely rescued Zain, who went to the summit alone.[XENO:n ]\nHe said something curious when he asked for help[XENO:line ]"
     },
     {
       "$id": 34,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 138,
-      "name": "The door to the ruins on 3 Great Sages' Summit[XENO:n ]\nis open. Inside a great power rests."
+      "name": "The door to the ruins on 3 Great Sages' Summit[XENO:n ]\nis open. A great power must lie dormant within."
     },
     {
       "$id": 38,
@@ -218,12 +218,12 @@
     {
       "$id": 42,
       "style": 138,
-      "name": "All three Giants' treasures have been gathered.[XENO:n ]\nThe seal on the ruins at 3 Great Sages' Summit may open."
+      "name": "You have all three Giants' treasures. This should[XENO:n ]\nbreak the seal on the ruins at 3 Great Sages' Summit."
     },
     {
       "$id": 43,
       "style": 148,
-      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
+      "name": "Defeat the monsters to make the route to the[XENO:n ]\nValak Mountain survey team safe."
     },
     {
       "$id": 44,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 148,
-      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
+      "name": "Defeat the monsters to make the route to the[XENO:n ]\nValak Mountain survey team safe."
     },
     {
       "$id": 47,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 148,
-      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
+      "name": "Defeat the monsters to make the route to the[XENO:n ]\nValak Mountain survey team safe."
     },
     {
       "$id": 50,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 148,
-      "name": "To make the route to the Valak Mountain survey team safe,[XENO:n ]\ndefeat the monsters."
+      "name": "Defeat the monsters to make the route to the[XENO:n ]\nValak Mountain survey team safe."
     },
     {
       "$id": 53,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 148,
-      "name": "Thick ice covered the door to the tower Alviss mentioned.[XENO:n ]\nMagma Rock can be found in a cave near the geyser[XENO:n ]\non Valak Mountain. Perhaps it can melt the ice."
+      "name": "Thick ice covered the tower door Alviss mentioned.[XENO:n ]\nMagma Rock is reportedly found in a cave near[XENO:n ]\nthe geyser on Valak Mountain. It might melt the ice."
     },
     {
       "$id": 56,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 138,
-      "name": "You melted the door's ice, opening the way to the tower."
+      "name": "You thawed the door, opening the way to the tower."
     }
   ]
 }

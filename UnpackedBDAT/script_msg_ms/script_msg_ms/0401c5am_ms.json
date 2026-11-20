@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "You met Orpheus, right?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust=p:2:a:319:3 ]I had growth problems when[XENO:n ]\nI was younger.[XENO:wait wait=key ][System:PageBreak ]It pains me to see him like that[XENO:n ]\nbecause I remember how I felt...[XENO:wait wait=key ][System:PageBreak ]But don't go worrying about him.[XENO:wait wait=key ][System:PageBreak ]His heart and mind are developing[XENO:n ]\nat a normal rate.[XENO:wait wait=key ][System:PageBreak ]He's already a grown-up inside.[XENO:wait wait=key ][System:PageBreak ]I hate growing old. It reminds me[XENO:n ]\nof how good it was to be young.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You met Orpheus, right?[XENO:wait wait=key ][System:PageBreak ]I had growth problems when[XENO:n ]\nI was younger.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust=p:2:a:319:3 ]It pains me to see him like that[XENO:n ]\nbecause I remember how I felt...[XENO:wait wait=key ][System:PageBreak ]But don't go worrying about him.[XENO:wait wait=key ][System:PageBreak ]His heart and mind are developing[XENO:n ]\nat a normal rate.[XENO:wait wait=key ][System:PageBreak ]He's already a grown-up inside.[XENO:wait wait=key ][System:PageBreak ]I hate growing old. It reminds me[XENO:n ]\nof how good it was to be young.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -493,7 +493,7 @@
     {
       "$id": 97,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Not interested/・Stay and chat. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Deny it/・Affirm it ][XENO:del del=all ]"
     },
     {
       "$id": 98,
@@ -513,7 +513,7 @@
     {
       "$id": 101,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Give her a harsh telling-off./・Softly explain the problem. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Scold her sternly/・Welcome her warmly ][XENO:del del=all ]"
     },
     {
       "$id": 102,
@@ -538,7 +538,7 @@
     {
       "$id": 106,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・If they're happy, why worry?/・They must show commitment. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・If they're both happy with it/・If their resolve is strong ][XENO:del del=all ]"
     },
     {
       "$id": 107,
@@ -583,7 +583,7 @@
     {
       "$id": 115,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・She's meeting someone./・We know nothing. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・She's meeting someone./・I haven't heard anything ][XENO:del del=all ]"
     },
     {
       "$id": 116,
@@ -603,7 +603,7 @@
     {
       "$id": 119,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・She's just spoilt./・She's strong minded. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Selfish/・Strong-willed ][XENO:del del=all ]"
     },
     {
       "$id": 120,
@@ -628,7 +628,7 @@
     {
       "$id": 124,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・If they're happy, why worry?/・They must show commitment. ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・If they're both happy with it/・If their resolve is strong ][XENO:del del=all ]"
     },
     {
       "$id": 125,
@@ -843,7 +843,7 @@
     {
       "$id": 167,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Yuuri-san is not a bad person./・Support a fellow resident! ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Yuuri-san isn't like that/・If you live here, you should help ][XENO:del del=all ]"
     },
     {
       "$id": 168,

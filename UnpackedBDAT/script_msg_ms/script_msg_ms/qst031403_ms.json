@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "... ...[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 15,

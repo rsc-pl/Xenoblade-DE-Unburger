@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・I quite agree./・You enjoy it up here? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I quite agree./・Is that so? ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]I have to say that sounds[XENO:n ]\njust like you, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Heh... So he was[XENO:n ]\nthe same as always.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,12 +73,12 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT15 ][XENO:sel sel=・Poppycock!/・I got that impression. ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT15 ][XENO:sel sel=・That's absurd/・I got that impression. ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]I cannot believe that Shulk[XENO:n ]\nis anything like you, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Shulk is nothing[XENO:n ]\nlike Rein![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "I somewhat get your point, Rein.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]I am jealous, in a way.[XENO:wait wait=key ][System:PageBreak ]I have spent my life constrained[XENO:n ]\nby the expectations of my peers.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see. How clumsy of him.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]And yet I rather envy him.[XENO:wait wait=key ][System:PageBreak ]I might have agonised over[XENO:n ]\nit and been unable to decide.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -138,17 +138,17 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I heard he even argued[XENO:n ]\nwith my older brother.[XENO:wait wait=key ][System:PageBreak ]He sensed I was in danger and[XENO:n ]\npersuaded him to let you find me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I heard you even stood[XENO:n ]\nup to my older brother.[XENO:wait wait=key ][System:PageBreak ]Worried about my safety,[XENO:n ]\nyou persuaded him, didn't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Wh-what is it, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]W-What's wrong?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:sel sel=・Such an irritating brute!/・I shall grant him this one. ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:sel sel=・What an irritating fellow/・I shall grant him this one. ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Everyone has a story or two[XENO:n ]\nto tell. This is mine.[XENO:wait wait=key ][System:PageBreak ]Now come on, Rein. Time to go.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Everyone has one or two strange[XENO:n ]\nexperiences, don't they?[XENO:wait wait=key ][System:PageBreak ]Let's go, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]Carna was right! Rein can be[XENO:n ]\nsweet...every now and then.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ]Hehe. Carna was right.[XENO:n ]\nRein is fun to tease.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -263,7 +263,7 @@
     {
       "$id": 51,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]And how is it, Rein?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Well?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 52,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 126,
-      "name": "Are you all right, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What's wrong?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I told you so, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Of course![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 56,

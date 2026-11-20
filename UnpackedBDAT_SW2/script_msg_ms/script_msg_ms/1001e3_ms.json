@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・You are getting on a bit./・I like flowers too. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Even though he's middle-aged/・I like flowers too ][XENO:del del=all ]"
     },
     {
       "$id": 5,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "Right-mo! They're delicious-mo![XENO:n ]\nCarna wants some-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's right-mo! They're really tasty-mo![XENO:n ]\nDoes Carna want to try some-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:sel sel=・I think I'll pass. Thanks./・I'd like to try one. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I think I'll pass. Thanks./・I-I'd like to try it! ][XENO:del del=all ]"
     },
     {
       "$id": 14,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 126,
-      "name": "Let's go to Frontier Village-mo~![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Then let's head straight to Frontier Village-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "Any colour is a no-no.[XENO:wait wait=key ][System:PageBreak ]It has to have no colour at all![XENO:wait wait=key ][System:PageBreak ]But you know what? I heard Rein[XENO:n ]\nsay he wanted to try one![XENO:wait wait=key ][System:PageBreak ]I'll go get him now. Wait here.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "W-well then...[XENO:wait wait=key ][System:PageBreak ]Oh, I just remembered![XENO:wait wait=key ][System:PageBreak ]Rein said he wanted[XENO:n ]\nto try some the other day![XENO:wait wait=key ][System:PageBreak ]I'll go get him, so wait here![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "Really-mo~? They're[XENO:n ]\nyummy when you eat them-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's right-mo! They're[XENO:n ]\nyummy when you eat them-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:sel sel=・She'd be so happy!/・Wait a moment, Riki! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・She'll surely be happy!/・Wait a minute! ][XENO:del del=all ]"
     },
     {
       "$id": 34,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 126,
-      "name": "That's right-mo.[XENO:n ]\nMelia-chan is admirable-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's right-mo.[XENO:n ]\nMelia-chan is remarkable-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -243,12 +243,12 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "Riki will become a better man so[XENO:n ]\nMelia-chan approves-mo~!![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki will make himself a better man so[XENO:n ]\nMelia-chan will acknowledge him-mo!![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
       "style": 126,
-      "name": "I'm sure you will. Just don't forget[XENO:n ]\nyou're doing all this for Oka-san![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes, yes. Make sure you look[XENO:n ]\nafter Oka-san too, all right?[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

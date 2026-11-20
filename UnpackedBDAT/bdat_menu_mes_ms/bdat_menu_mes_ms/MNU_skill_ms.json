@@ -118,12 +118,12 @@
     {
       "$id": 22,
       "style": 117,
-      "name": "\\[Recovery Up\\][XENO:n ]\nIncreases HP recovery received."
+      "name": "\\[Recovery Up\\][XENO:n ]\nIncreases HP restored to you."
     },
     {
       "$id": 23,
       "style": 117,
-      "name": "\\[Aura Heal\\][XENO:n ]\nRestores HP periodically during an aura."
+      "name": "\\[Aura Heal\\][XENO:n ]\nPeriodically restores HP in an active aura."
     },
     {
       "$id": 24,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 117,
-      "name": "\\[Aquatic Cloak\\][XENO:n ]\nShorter aquatic monster detection range."
+      "name": "\\[Aquatic Cloak\\][XENO:n ]\nReduces aquatic monsters' detection range."
     },
     {
       "$id": 30,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 117,
-      "name": "\\[First Atk Boost\\][XENO:n ]\nBoosts the first hit after drawing."
+      "name": "\\[First Atk Boost\\][XENO:n ]\nBoosts first hit after drawing your weapon."
     },
     {
       "$id": 44,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 117,
-      "name": "\\[Critical Resist\\][XENO:n ]\nLess likely to receive critical hits."
+      "name": "\\[Critical Resist\\][XENO:n ]\nReduces chance of taking critical hits."
     },
     {
       "$id": 54,

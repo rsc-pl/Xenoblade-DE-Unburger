@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・It makes me sad./・We should say sorry. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・It makes me sad./・Is this really okay? ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ][XENO:sel sel=・But why, Dunban?/・It must have been really tough. ][XENO:del del=all ]"
+      "name": "[XENO:act act=EVT_EXT12 ][XENO:sel sel=・But it's just too cruel/・They must have felt so frustrated ][XENO:del del=all ]"
     },
     {
       "$id": 11,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Is that really how you feel?/・I guess you're right. ][XENO:del del=all ]"
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Is that really how you feel?/・I see ][XENO:del del=all ]"
     },
     {
       "$id": 35,

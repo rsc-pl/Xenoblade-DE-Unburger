@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・Will I be able to answer this?/・What is it, Riki? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Wait a minute!/・What's wrong? ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,17 +38,17 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "Hm? Is it no good-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hm? Can't you tell me-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 126,
-      "name": "That could be for the best.[XENO:wait wait=key ][System:PageBreak ]I might look like a Machina, but[XENO:n ]\nI'm not like Migol-san or Linada-san.[XENO:wait wait=key ][System:PageBreak ]I don't have their wisdom.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I may have a Machina body,[XENO:wait wait=key ][System:PageBreak ]but... I'm nowhere near[XENO:n ]\nas knowledgeable as[XENO:wait wait=key ][System:PageBreak ]Migol-san or Linada-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 126,
-      "name": "Those two are special-mo![XENO:wait wait=key ][System:PageBreak ]They lived in Machine God Realm long[XENO:n ]\nbefore Riki and Fiorung were born-mo.[XENO:wait wait=key ][System:PageBreak ]Of course they know a lot-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Those two are special-mo![XENO:wait wait=key ][System:PageBreak ]They lived in the Machine God Realm[XENO:n ]\nlong before Riki or Fiorung was born-mo.[XENO:wait wait=key ][System:PageBreak ]Of course they know so much-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "Migol is about 6,000 years old-mo.[XENO:wait wait=key ][System:PageBreak ]Linada wouldn't tell me-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I hear Migol's about 6,000 years old-mo.[XENO:wait wait=key ][System:PageBreak ]Linada wouldn't tell Riki her age-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:sel sel=・Forever and ever./・I don't really know. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Maybe/・I don't really know. ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "I think I might get a little lonely.[XENO:wait wait=key ][System:PageBreak ]Everyone will have died.[XENO:n ]\nMy older brother, Riki, the others...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "But, you know, I think it would be a little lonely.[XENO:wait wait=key ][System:PageBreak ]Thousands of years in a world without[XENO:n ]\nmy older brother, Riki or any of the others...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "Umm... Umm... I[XENO:n ]\nforgot-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Um, um...[XENO:n ]\nRiki forgot-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 126,
-      "name": "Umm... Umm...[XENO:wait wait=key ][System:PageBreak ]Fiorung's body is more[XENO:n ]\nimportant-mo, so I forgot-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Well, um...[XENO:wait wait=key ][System:PageBreak ]Fiorung's body is more important-mo.[XENO:n ]\nSo Riki's forgotten all about it-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 126,
-      "name": "Fiorung, will you tell me-mo?[XENO:n ]\nWhat's beyond Machine God Realm-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Will you tell Riki, Fiorung-mo?[XENO:n ]\nWhat's beyond the Machine God Realm-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
@@ -193,12 +193,12 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "[XENO:sel sel=・You do? Wow!/・Why bother? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Th-that's amazing/・That's impossible ][XENO:del del=this ]"
     },
     {
       "$id": 38,
       "style": 126,
-      "name": "That's an amazing idea, Riki![XENO:wait wait=key ][System:PageBreak ]I bet Shulk and Rein are planning[XENO:n ]\nto just sit around doing nothing.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's our Riki![XENO:wait wait=key ][System:PageBreak ]You're nothing like[XENO:n ]\nShulk and Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "So, Fiorung,[XENO:n ]\nlet's keep at it[XENO:wait wait=key ][System:PageBreak ]a little[XENO:n ]\nlonger-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "So,[XENO:n ]\nFiorung,[XENO:wait wait=key ][System:PageBreak ]let's give it[XENO:n ]\none last push-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,
       "style": 126,
-      "name": "Yeah, that's right.[XENO:wait wait=key ][System:PageBreak ]As Riki's companion, leave the[XENO:n ]\nsupport to me from now on.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes, you're right.[XENO:wait wait=key ][System:PageBreak ]You can count on me to back[XENO:n ]\nyou up as your companion, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 126,
-      "name": "I won't take that[XENO:n ]\nlong-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Don't drag your feet[XENO:n ]\nso much-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 126,
-      "name": "That's no good-mo![XENO:wait wait=key ][System:PageBreak ]Fiorung will get her Hom Hom[XENO:n ]\nbody back-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's no good-mo![XENO:wait wait=key ][System:PageBreak ]Fiorung has to get[XENO:n ]\nher Hom Hom body back-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 126,
-      "name": "Don't give up-mo![XENO:wait wait=key ][System:PageBreak ]A Machina doctor will surely[XENO:n ]\nrestore your original body-mo![XENO:wait wait=key ][System:PageBreak ]Leave the new world to Hero Riki-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Don't give up-mo![XENO:wait wait=key ][System:PageBreak ]The Machina doctors will surely[XENO:n ]\nrestore your original body-mo![XENO:wait wait=key ][System:PageBreak ]So leave the search for a new world to Hero Riki-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 56,

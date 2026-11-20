@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 126,
-      "name": "I bet dinner's going to be[XENO:n ]\nnasty again tonight.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:12:3 ]Wait! If you see someone called[XENO:n ]\nSonia, don't tell her I said that![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I bet dinner's going to be[XENO:n ]\nnasty again tonight.[XENO:wait wait=key ][System:PageBreak ]Wait![XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:a:12:3 ]If you see someone called[XENO:n ]\nSonia, don't tell her I said that![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,
@@ -528,7 +528,7 @@
     {
       "$id": 104,
       "style": 126,
-      "name": "You'd better promise![XENO:wait wait=key ][System:PageBreak ]Even though you forget every[XENO:n ]\npromise you ever make...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You'd better promise![XENO:wait wait=key ][System:PageBreak ]Rein, you forget every[XENO:n ]\npromise you ever make...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 105,
@@ -548,7 +548,7 @@
     {
       "$id": 108,
       "style": 126,
-      "name": "Nerine-chan and I are rivals![XENO:wait wait=key ][System:PageBreak ]Unless Shulk and Rein[XENO:n ]\nget along even better,[XENO:wait wait=key ][System:PageBreak ]we always will be.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Nerine-chan and I are rivals![XENO:wait wait=key ][System:PageBreak ]Unless Shulk and Rein get along[XENO:n ]\neven better, we always will be.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 109,
@@ -1238,7 +1238,7 @@
     {
       "$id": 246,
       "style": 126,
-      "name": "So you wiped out the Machine[XENO:n ]\nGod Soldiers infesting Colony 6.[XENO:wait wait=key ][System:PageBreak ]That makes our[XENO:n ]\ntown safe now.[XENO:wait wait=key ][System:PageBreak ]It's chilling[XENO:n ]\nto think[XENO:wait wait=key ][System:PageBreak ]our town could've ended up like Colony 6.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "So you wiped out the Machine[XENO:n ]\nGod Soldiers infesting Colony 6.[XENO:wait wait=key ][System:PageBreak ]That makes our[XENO:n ]\ntown safe now.[XENO:wait wait=key ][System:PageBreak ]It's chilling to think our town[XENO:n ]\ncould've ended up like Colony 6.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 247,
@@ -1303,7 +1303,7 @@
     {
       "$id": 259,
       "style": 126,
-      "name": "Grandpa and Grandma have lived here since[XENO:n ]\nretiring from the Nopon Merchant Company-mo~.[XENO:wait wait=key ][System:PageBreak ]I carry their merchant blood and run a shop-mo~.[XENO:wait wait=key ][System:PageBreak ]But at least once[XENO:n ]\nI'd like to see[XENO:wait wait=key ][System:PageBreak ]Grandpa and Grandma's birthplace-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Grandpa and Grandma have lived here since[XENO:n ]\nretiring from the Nopon Merchant Company-mo~.[XENO:wait wait=key ][System:PageBreak ]I carry their merchant blood and run a shop-mo~.[XENO:wait wait=key ][System:PageBreak ]But at least once I'd like to see[XENO:n ]\nGrandpa and Grandma's birthplace-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 260,
@@ -1778,7 +1778,7 @@
     {
       "$id": 354,
       "style": 126,
-      "name": "I see you're setting off.[XENO:n ]\nBe careful, both of you.[XENO:wait wait=key ][System:PageBreak ]I do worry that you're rushing into[XENO:n ]\nall this. Just...exercise caution.[XENO:wait wait=key ][System:PageBreak ]Fiorung wouldn't want you to get[XENO:n ]\nyourselves hurt.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see you're setting off.[XENO:n ]\nBe careful, Shulk and Rein.[XENO:wait wait=key ][System:PageBreak ]I do worry that you're rushing into[XENO:n ]\nall this. Just...exercise caution.[XENO:wait wait=key ][System:PageBreak ]Fiorung wouldn't want you to get[XENO:n ]\nyourselves hurt.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 355,
@@ -1953,7 +1953,7 @@
     {
       "$id": 389,
       "style": 126,
-      "name": "I imagine this all must be[XENO:n ]\nquite difficult for Riruka.[XENO:wait wait=key ][System:PageBreak ]She was a real daddy's girl. This[XENO:n ]\nnew man has a lot to live up to![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I imagine this all must be[XENO:n ]\nquite difficult for Riruka-chan.[XENO:wait wait=key ][System:PageBreak ]She was a real daddy's girl. This[XENO:n ]\nnew man has a lot to live up to![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 390,
@@ -2283,7 +2283,7 @@
     {
       "$id": 455,
       "style": 126,
-      "name": "Turns out she was just pretending.[XENO:n ]\nI gave her a right old telling off.[XENO:wait wait=key ][System:PageBreak ]But I know why she did it,[XENO:n ]\nand it's all my fault.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:4 ]I haven't been spending enough[XENO:n ]\ntime with her. I'm a bad daddy![XENO:wait wait=key ][System:PageBreak ]But I'm gonna fix it, even though[XENO:n ]\nit means making less curry.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Turns out she was just pretending.[XENO:n ]\nI gave her a right old telling off.[XENO:wait wait=key ][System:PageBreak ]But I know why she did it,[XENO:n ]\nand it's all my fault.[XENO:wait wait=key ][System:PageBreak ]I haven't been spending enough[XENO:n ]\ntime with her. I'm a bad daddy![XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:4 ]But I'm gonna fix it, even though[XENO:n ]\nit means making less curry.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 456,
@@ -2333,7 +2333,7 @@
     {
       "$id": 465,
       "style": 126,
-      "name": "You can hang out with her again[XENO:n ]\nsometime, you know?[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:3 ]Wait, no! I need to stop doing this.[XENO:wait wait=key ][System:PageBreak ]I'm the one that has to spend[XENO:n ]\ntime with her. I'm being selfish.[XENO:wait wait=key ][System:PageBreak ]Thanks for today, anyhow![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You can hang out with her again[XENO:n ]\nsometime, you know?[XENO:wait wait=key ][System:PageBreak ]Wait, no! I need to stop doing this.[XENO:wait wait=key ][System:PageBreak ][XENO:trust trust= p:1:c:55:3 ]I'm the one that has to spend[XENO:n ]\ntime with her. I'm being selfish.[XENO:wait wait=key ][System:PageBreak ]Thanks for today, anyhow![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 466,

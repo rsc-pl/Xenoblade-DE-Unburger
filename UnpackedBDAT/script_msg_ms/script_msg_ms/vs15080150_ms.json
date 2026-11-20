@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -73,12 +73,12 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "It's the part that holds Maynus-san's feelings,[XENO:n ]\nand I can't see them.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You can't look into that part[XENO:n ]\nof Maynus-san's heart, can you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 15,

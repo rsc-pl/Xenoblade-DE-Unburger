@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・Thanks...I think./・Oh no! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Th-thank you/・I don't know what to say ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・He has? How do you mean?/・I don't think he's changed. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Huh? In what way?/・Is he that different? ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "But not Melia and Rein?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Didn't Melia and Rein notice?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]They saw him differently.[XENO:wait wait=key ][System:PageBreak ]Rein's been going through almost[XENO:n ]\nthe same thing as Shulk.[XENO:wait wait=key ][System:PageBreak ]And Melia...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Neither of them had much room[XENO:wait wait=key ][System:PageBreak ]to think about anything else.[XENO:n ]\nRein was in the same boat as Shulk,[XENO:wait wait=key ][System:PageBreak ]and as for Melia...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・You can?/・No you can't! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Right?/・Is that really true? ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,

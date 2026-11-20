@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Can I tell you something?[XENO:wait wait=key ][System:PageBreak ]When I heard you call Juujuu 'kid',[XENO:n ]\nit made me smile.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Can I tell you something?[XENO:wait wait=key ][System:PageBreak ]Rein, when you called Juujuu 'kid',[XENO:n ]\nit made me smile.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Gado, of course!/・You, by a whisker. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Gado, of course!/・Rein, maybe? ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I see. Sounds like a good[XENO:n ]\ntactic for Shulk.[XENO:wait wait=key ][System:PageBreak ]A clever fighter always uses[XENO:n ]\nhis head to defeat an opponent.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]I see. Sounds like a good[XENO:n ]\ntactic for Shulk.[XENO:wait wait=key ][System:PageBreak ]That might be the kind of opponent[XENO:n ]\nyou find hardest, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "You might not be the quickest[XENO:n ]\nthinker, but you act decisively.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I didn't mean you don't[XENO:n ]\nthink at all, Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -113,12 +113,12 @@
     {
       "$id": 21,
       "style": 126,
-      "name": "All right, I admit it. It's Fiorung.[XENO:n ]\nI don't stand a chance against her.[XENO:wait wait=key ][System:PageBreak ]It's been years of humiliation.[XENO:wait wait=key ][System:PageBreak ]I'd start winning, and she'd cry[XENO:n ]\nand run off to Dunban![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "All right, I admit it. It's Fiorung.[XENO:n ]\nI don't stand a chance against her.[XENO:wait wait=key ][System:PageBreak ]It's been years of humiliation.[XENO:wait wait=key ][System:PageBreak ]If I fought back, she'd fake tears[XENO:n ]\nand tell her older brother![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 22,
       "style": 126,
-      "name": "I can guess how that turned out![XENO:wait wait=key ][System:PageBreak ]I used to give Gado what for too,[XENO:n ]\nactually. He always gave in.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You seem to have trouble with that, Rein.[XENO:wait wait=key ][System:PageBreak ]I used to give Gado what for too,[XENO:n ]\nactually. He always gave in.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Who knows?[XENO:wait wait=key ][System:PageBreak ]I suppose it's because[XENO:wait wait=key ][System:PageBreak ]you and Gado[XENO:n ]\nare both kind.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Who knows?[XENO:wait wait=key ][System:PageBreak ]I suppose it's because[XENO:wait wait=key ][System:PageBreak ]Rein and Gado[XENO:n ]\nare both kind.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:sel sel=・You have...dignified qualities./・Er...give me a second. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・You've got a certain dignity/・Um... ][XENO:del del=this ]"
     },
     {
       "$id": 40,

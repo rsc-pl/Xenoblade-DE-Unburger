@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "I thought it was you.[XENO:n ]\nNice to see you, Dikson.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "So it was you after[XENO:n ]\nall... Dikson.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Wait... Dikson? Dunban? You're the heroes who risked[XENO:n ]\nyour lives a year ago, in the battle to defend the colonies.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dunban? Dikson? Are you the heroes[XENO:n ]\nfrom the defence battle a year ago?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]So, what's your plan from here?[XENO:n ]\nFollow that metal-faced machine, I presume?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Shulk, Rein, what's your plan from here?[XENO:n ]\nFollow that metal-faced machine, I presume?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Easy, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Wait, Rein![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -153,12 +153,12 @@
     {
       "$id": 29,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Wait... You saw another one.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Did you see it? Another vision?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Saw what? What're you on about?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]A vision? What the heck's that?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Wow! Dikson-san, man, you're just full of surprises![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Dikson-san really is amazing![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -333,7 +333,7 @@
     {
       "$id": 65,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Dunban-san, you want to come with us too?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Even Dunban-san?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 66,
@@ -368,7 +368,7 @@
     {
       "$id": 72,
       "style": 125,
-      "name": "Sharp, light. Perfect for cutting through steel.[XENO:n ]\nShow me a Machine God Soldier and I'll slice it in two.[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ]"
+      "name": "It's thin and light, but incredibly sharp. It should at[XENO:n ]\nleast let you strike before a Machine God Soldier can.[XENO:act act=EVT_EXT3 ][XENO:wait wait=key ]"
     },
     {
       "$id": 73,
@@ -393,7 +393,7 @@
     {
       "$id": 77,
       "style": 125,
-      "name": "Miserly old coot? That sword is forged from[XENO:n ]\nMachine Soldier armour. It's worth every penny.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Who's a miser? It's specially carved from Machine[XENO:n ]\nGod Soldier armour. Of course it costs a lot![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 78,

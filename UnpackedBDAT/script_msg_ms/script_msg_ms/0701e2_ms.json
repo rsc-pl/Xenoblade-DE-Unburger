@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・You mean...Shulk?/・You mean...Rein? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・You mean...Shulk?/・You mean Rein ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -48,17 +48,17 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "Wh-what do you mean?[XENO:wait wait=key ][System:PageBreak ]I get along well with everyone![XENO:n ]\nYou, Rein, my brother...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Huh?[XENO:wait wait=key ][System:PageBreak ]I like everyone,[XENO:n ]\nnot just Shulk, you know.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "I get it. Playing it close[XENO:n ]\nto your chest.[XENO:wait wait=key ][System:PageBreak ]But I know what happened...[XENO:n ]\nafter you woke up.[XENO:wait wait=key ][System:PageBreak ]Rein told me.[XENO:wait wait=key ][System:PageBreak ]You were all nervous. Didn't know[XENO:n ]\nwhether to hold hands or not.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's all right, you don't[XENO:n ]\nhave to spare my feelings.[XENO:wait wait=key ][System:PageBreak ]Something happened after you fell[XENO:n ]\nfrom the great sword, didn't it?[XENO:wait wait=key ][System:PageBreak ]Rein told me.[XENO:wait wait=key ][System:PageBreak ]He said it's frustrating how you two[XENO:n ]\nalmost get together but never do.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・I'm not telling./・Rein said that? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・That's a secret.../・Rein told you that? ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "My older brother? Even Riki knows more[XENO:n ]\nabout relationships than him![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "My older brother is hopeless.[XENO:n ]\nRiki might be better at it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "Rein and my older brother? They need[XENO:n ]\nto take a look in the mirror.[XENO:wait wait=key ][System:PageBreak ]I'm sure they have bigger things to[XENO:n ]\nworry about than my love life![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh no, both Rein and my older[XENO:n ]\nbrother said that?[XENO:wait wait=key ][System:PageBreak ]They're always worrying about others[XENO:n ]\nand ignoring their own problems![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -123,12 +123,12 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "Rein didn't jump![XENO:n ]\nHe fell, and fell hard.[XENO:wait wait=key ][System:PageBreak ]I'm talking about Shulk. You[XENO:n ]\nknow, the one you fancy...[XENO:wait wait=key ][System:PageBreak ]When the fortress collapsed,[XENO:n ]\nhe jumped straight off.[XENO:wait wait=key ][System:PageBreak ]He spared no thought for himself.[XENO:n ]\nAll he cared about was saving you![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein didn't jump,[XENO:n ]\nhe just fell, didn't he?[XENO:wait wait=key ][System:PageBreak ]I mean Shulk. When the Great[XENO:n ]\nSword Fortress collapsed,[XENO:wait wait=key ][System:PageBreak ]didn't he jump down[XENO:n ]\nto the lower level[XENO:wait wait=key ][System:PageBreak ]to save you without[XENO:n ]\na moment's hesitation?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 126,
-      "name": "But it's the same with you and[XENO:n ]\nRein, isn't it? He kept you safe.[XENO:wait wait=key ][System:PageBreak ]We talked about it once.[XENO:wait wait=key ][System:PageBreak ]I think his exact words were[XENO:n ]\n'I saved her! It was me!'[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "But Carna, you avoided[XENO:n ]\nserious injuries because[XENO:wait wait=key ][System:PageBreak ]Rein was there too,[XENO:wait wait=key ][System:PageBreak ]right? He was saying,[XENO:n ]\n\"I shielded her!\"[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,12 +138,12 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:sel sel=・He seemed happy with himself./・Kidding! He didn't say that. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・It's true/・I'm joking ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "Sounds like Rein all right.[XENO:wait wait=key ][System:PageBreak ]If it was just between you and[XENO:n ]\nhim then I guess it's OK.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see...[XENO:wait wait=key ][System:PageBreak ]But he was happy to tell you[XENO:n ]\nbecause it was you, Fiorung.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -153,27 +153,27 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "You remember how Rein[XENO:n ]\nmade you that promise?[XENO:wait wait=key ][System:PageBreak ]That he'd protect Shulk[XENO:n ]\nno matter what happened.[XENO:wait wait=key ][System:PageBreak ]Now Shulk is a stronger person,[XENO:n ]\nRein is feeling a little inadequate.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "He promised you he'd[XENO:n ]\nprotect Shulk, didn't he?[XENO:wait wait=key ][System:PageBreak ]But Shulk has become[XENO:n ]\nstronger than him.[XENO:wait wait=key ][System:PageBreak ]He sounded a little lonely saying Shulk[XENO:n ]\ndoesn't need his protection anymore.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 126,
-      "name": "I didn't realise...[XENO:wait wait=key ][System:PageBreak ]So that was all about showing me[XENO:n ]\nhe could protect someone. You.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I didn't realise...[XENO:wait wait=key ][System:PageBreak ]So Rein was declaring he would[XENO:n ]\nprotect Carna instead of Shulk?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
       "style": 126,
-      "name": "Or it was just Rein being a dolt.[XENO:n ]\nNo need for any big leaps of logic![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, you're jumping[XENO:n ]\nto conclusions, Fiorung![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
       "style": 126,
-      "name": "Phew! I guess even Rein[XENO:n ]\nisn't that stupid.[XENO:wait wait=key ][System:PageBreak ]Even he knows we survived[XENO:n ]\nbecause we fell into the water.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, you[XENO:n ]\nstartled me![XENO:wait wait=key ][System:PageBreak ]We were only saved because we were[XENO:n ]\nlucky enough to have water below us.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
       "style": 126,
-      "name": "You could have hurt yourself[XENO:n ]\neven falling into the sea.[XENO:wait wait=key ][System:PageBreak ]But no, Rein didn't say a thing.[XENO:n ]\nI know he really likes you though![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Wouldn't you get hurt falling from[XENO:n ]\nthat height even into the sea?[XENO:wait wait=key ][System:PageBreak ]Say, Rein hasn't said anything,[XENO:n ]\nbut maybe he really...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,

@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]I'm ready for anything. I'll trash any[XENO:n ]\nMachine God Soldiers that tries to mess with us![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]So what if there are Machine God Soldiers?[XENO:n ]\nWe'll knock every last one of them down![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     }
   ]
 }

@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "Captain, what did you want to do with the[XENO:n ]\nGolden Shroom-mo? You're way too devastated[XENO:n ]\nfor this to be normal-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Captain, what did you want[XENO:n ]\nto do with the Golden Shroom-mo?[XENO:n ]\nYou look terribly upset-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "If we could cultivate the Golden Shroom[XENO:n ]\nwe found and sell it, we were supposed to[XENO:n ]\nnever have money troubles again-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "If we'd been able to grow and sell[XENO:n ]\nthe Golden Shroom, we'd never have[XENO:n ]\nto worry about money again-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -123,12 +123,12 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "To save money, Wanawana reduced surveying[XENO:n ]\nwork and shifted our policy toward[XENO:n ]\nvolunteer activities-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "To save money, Wanawana cut[XENO:n ]\nback on surveying and switched[XENO:n ]\nour focus to volunteer work-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 126,
-      "name": "Wanawana even came up with a password[XENO:n ]\nto raise the Noponjaa's morale,[XENO:n ]\neven just a little-mo...[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Wanawana even came up with a motto[XENO:n ]\nto raise the Noponjaa's spirits,[XENO:n ]\nif only a little-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 126,
-      "name": "[XENO:type type=anger ]I-I didn't know-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]I had no idea-ssu-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 0,
-      "name": "No treasure, but we found something dear-mo."
+      "name": "[XENO:line ]We didn't find the treasure, but[XENO:n ]\nwe found something much more precious-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -178,12 +178,12 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "Captain, you didn't search the chest fully-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Captain, you didn't check the bottom of the chest-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
       "style": 126,
-      "name": "Let's search every last corner properly-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Let's search every nook and cranny-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:type type=anger ]We did it-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]We did it-ssu-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 45,

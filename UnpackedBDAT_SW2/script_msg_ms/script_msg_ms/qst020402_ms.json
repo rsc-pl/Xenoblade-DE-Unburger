@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "Nee-chan, your mood changed when[XENO:n ]\nyou heard 'tree climbing'-mo.[XENO:n ]\nDid something happen-mo?[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Nee-chan, you seemed different when[XENO:n ]\nyou heard about tree climbing-mo.[XENO:n ]\nDid something happen-mo?[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "Mo-mo! Kino never heard that before-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Mo-mo! That's the first I've heard of it-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 126,
-      "name": "Oh dear... Poor Nee-chan...[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Nee-chan...[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "After that, Dad was[XENO:n ]\nconsiderate and practiced tree[XENO:n ]\nclimbing with Nene-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "After that, Dad was[XENO:n ]\nconsiderate enough to help Nene[XENO:n ]\npractise climbing trees-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 24,

@@ -38,12 +38,12 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・Rein mean Hom Hom!/・Riki do want to go home. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What are you saying-mo?!/・I really want to go home-mo ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]If Riki went home, his companions[XENO:n ]\nwould die on the road-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]Riki's companions would die on the road[XENO:n ]\nif Riki went back to Frontier Village-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・Why?/・Because you're the Hero? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Why?/・Because you're a hero? ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT19 ]You know who's next though?[XENO:n ]\nDikson.[XENO:wait wait=key ][System:PageBreak ]He's not going down easily.[XENO:n ]\nThings might get messy, Riki.[XENO:wait wait=key ][System:PageBreak ]You ready for that? 'Cos if not,[XENO:n ]\nget running, fuzzball![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT19 ]Dikson is[XENO:n ]\nup ahead.[XENO:wait wait=key ][System:PageBreak ]He's strong. If you[XENO:n ]\nthink you're in danger,[XENO:wait wait=key ][System:PageBreak ]you ought[XENO:n ]\nto run away.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -183,12 +183,12 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]Riki wants some famous pollen[XENO:n ]\ndumplings too-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ][XENO:act act=EVT_EXT4 ]Riki wants to eat the famous[XENO:n ]\npollen dango too-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 36,
       "style": 126,
-      "name": "[XENO:act act=EVT4 ]Sounds like you'd rather eat cake[XENO:n ]\nthan see your family, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]Is it just me, or do you sound more enthusiastic[XENO:n ]\nabout pollen dango than your family?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:sel sel=・Rein really think so?/・Cheer up, Rein! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Maybe?/・Cheer up-mo! ][XENO:del del=this ]"
     },
     {
       "$id": 42,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]But it's true—going home makes[XENO:n ]\nme feel really at ease-mo.[XENO:wait wait=key ][System:PageBreak ]Is that what you mean-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]But it's true that Riki feels really[XENO:n ]\nat ease when Riki gets home-mo.[XENO:wait wait=key ][System:PageBreak ]Is that what you mean-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 45,

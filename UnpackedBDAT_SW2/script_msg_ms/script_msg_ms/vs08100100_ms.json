@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]And what is your conclusion, Seer-dono?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]And what does Seer-dono think of this?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "Consort of Light, such a ritual has not been[XENO:n ]\nconducted for generations.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "But, Consort of Light...[XENO:n ]\nReviving such an ancient ritual...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,

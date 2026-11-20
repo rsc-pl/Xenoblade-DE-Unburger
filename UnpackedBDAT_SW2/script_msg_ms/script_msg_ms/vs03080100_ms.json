@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Monsters' egg sacs...I think... But it looks like[XENO:n ]\nthere are Machine Soldier parts inside as well.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]A monster's egg sac? Like a cocoon, it's even[XENO:n ]\nabsorbed the wreckage of Machine God Soldiers.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 3,

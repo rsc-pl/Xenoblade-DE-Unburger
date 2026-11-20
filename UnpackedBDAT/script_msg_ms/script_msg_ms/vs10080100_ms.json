@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]I am sure my older brother understands.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]Aniue will understand.[XENO:wait wait=key ]"
     },
     {
       "$id": 3,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I see. Very well. Let us hope my younger sister[XENO:n ]\ndoes not shed too many tears.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I see... But my poor sister looks rather[XENO:n ]\nlonely at the thought of being left behind.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Yes. My younger sister needs to learn more[XENO:n ]\nof the lands of Giant God.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Yes. My sister still has much[XENO:n ]\nto learn about the Giant God Realm.[XENO:wait wait=key ]"
     },
     {
       "$id": 31,
@@ -183,12 +183,12 @@
     {
       "$id": 35,
       "style": 125,
-      "name": "I request that you accompany Shulk-dono in his quest[XENO:n ]\nto find the Machine God Soldiers that attacked Achamoth.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I ask that you pursue the Machine God Soldiers who[XENO:n ]\nattacked the imperial capital, alongside Shulk-dono.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Are you sure?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Your Highness![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -233,12 +233,12 @@
     {
       "$id": 45,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]We have recently received a report that the[XENO:n ]\nsilver-faced Machine God Soldiers fled to Galahad Fortress,[XENO:n ]\nthe Machine God Soldiers stronghold at Sword Valley.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]We've heard that the silver Machine God[XENO:n ]\nSoldier flew toward Galahad Fortress,[XENO:n ]\ntheir stronghold beyond Sword Valley.[XENO:wait wait=key ]"
     },
     {
       "$id": 46,
       "style": 125,
-      "name": "It will be a treacherous path.[XENO:n ]\nMy Younger Sister is in your hands.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "The journey will be dangerous,[XENO:n ]\nbut please take care of my sister.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Regent, I accept your request.[XENO:n ]\nI will return victorious with Shulk-dono.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Regent, I accept your request. Together[XENO:n ]\nwith Shulk-dono, I shall fulfil it without fail.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -263,7 +263,7 @@
     {
       "$id": 51,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Do you want to come?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Alviss? You?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 52,
@@ -323,7 +323,7 @@
     {
       "$id": 63,
       "style": 125,
-      "name": "See you soon, Kallian-san.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm off, Kallian-san...[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

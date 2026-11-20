@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:type type=anger ]It did-mo!![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]It did-mo[XENO:line len=2 ]![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 10,

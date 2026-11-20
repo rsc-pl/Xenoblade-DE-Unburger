@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・You've seen right through me./・I do not know what you mean. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I can't lie to you, Riki/・That's not true ][XENO:del del=this ]"
     },
     {
       "$id": 6,
       "style": 126,
-      "name": "I was thinking about my father[XENO:n ]\nand older brother. It still hurts...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I was thinking about my father and older[XENO:n ]\nbrother. It seems I got a little sentimental.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -48,12 +48,12 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "Hehe. You did, did you?[XENO:n ]\nThat is sweet of you, Riki.[XENO:wait wait=key ][System:PageBreak ]I am proud to have been Father's daughter[XENO:n ]\nand my older brother's younger sister.[XENO:wait wait=key ][System:PageBreak ]Those truly were happy times.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hehe, I see.[XENO:n ]\nThank you.[XENO:wait wait=key ][System:PageBreak ]I'm proud to have been my father's daughter[XENO:n ]\nand my older brother's younger sister.[XENO:wait wait=key ][System:PageBreak ]Those were truly happy times.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・Arguably./・That is simply not true. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Perhaps you're right/・That is simply not true. ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "Was the title of hero really[XENO:n ]\nsomething that simple to Riki?[XENO:wait wait=key ][System:PageBreak ]With that attitude, there's no[XENO:n ]\nway he could fulfill the role.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Did the title of Hero mean[XENO:n ]\nso little to you, Riki?[XENO:wait wait=key ][System:PageBreak ]With that attitude,[XENO:n ]\nyou're not up to the task.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "You should not let this bother[XENO:n ]\nyou to such an extent.[XENO:wait wait=key ][System:PageBreak ]Life is all about learning[XENO:n ]\nto come to terms with things.[XENO:wait wait=key ][System:PageBreak ]As I have with the passing[XENO:n ]\nof my father and older brother.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There's no need[XENO:n ]\nto torment yourself, Riki.[XENO:wait wait=key ][System:PageBreak ]I've come to terms[XENO:n ]\nwith what happened[XENO:wait wait=key ][System:PageBreak ]to my father and older[XENO:n ]\nbrother in my own way.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・That makes a lot of sense./・I must simply live with that. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・That makes a lot of sense./・Some things can't be helped ][XENO:del del=this ]"
     },
     {
       "$id": 36,

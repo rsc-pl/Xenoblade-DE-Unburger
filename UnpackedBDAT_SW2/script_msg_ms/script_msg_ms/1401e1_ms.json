@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・Well, I was glad you came back./・Don't talk like that! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I was glad/・Don't talk like that! ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:sel sel=・I can't help it, Dunban./・I know how you feel. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・That's impossible/・I know how you feel. ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]No one thinks any less of you,[XENO:n ]\nRein. You did your part.[XENO:wait wait=key ][System:PageBreak ]Protecting the people back home[XENO:n ]\nis something to be proud of.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]You needn't[XENO:n ]\nfeel guilty.[XENO:wait wait=key ][System:PageBreak ]Defending the colony was an important[XENO:n ]\nduty in its own right, wasn't it?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "You were young then, Rein.[XENO:n ]\nToo young to go to war.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][System:PageBreak ]But I would not say that anymore.[XENO:wait wait=key ][System:PageBreak ]You've changed a lot in a year.[XENO:n ]\nYou're stronger now.[XENO:wait wait=key ][System:PageBreak ]Mentally and physically.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I couldn't have taken you[XENO:n ]\nalong with me back then.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][System:PageBreak ]But things are different now.[XENO:wait wait=key ][System:PageBreak ]You're far stronger than[XENO:n ]\nyou were a year ago,[XENO:wait wait=key ][System:PageBreak ]both physically and mentally.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 126,
-      "name": "[XENO:sel sel=・I was worried too./・But I didn't worry a bit! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'm the same/・I'm different, though ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]I always wonder where you[XENO:n ]\nget that confidence, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]Heh. That's[XENO:n ]\njust like you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,

@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・You can't think like that!/・Could've been veeery different. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Don't be ridiculous/・Things might have changed ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・Lighten up. It's in the past./・But I'm the bigger screw-up. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Don't dwell on it too much, okay?/・Then I'm just as guilty ][XENO:del del=all ]"
     },
     {
       "$id": 11,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Yeah.[XENO:wait wait=key ][System:PageBreak ]So that no one else ever has[XENO:n ]\nto go through what we did.[XENO:wait wait=key ][System:PageBreak ]I can't rely on the Monado[XENO:n ]\nfor everything.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]I have to keep going.[XENO:n ]\nKeep fighting![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yeah.[XENO:wait wait=key ][System:PageBreak ]So that no one else ever has[XENO:n ]\nto go through what we did.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]I can't rely on the Monado[XENO:n ]\nfor everything.[XENO:wait wait=key ][System:PageBreak ]I have to keep going.[XENO:n ]\nKeep fighting![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]You? What have you done wrong?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Why would you be guilty too, Rein?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT22 ]Hahaha! You got that right.[XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][System:PageBreak ]So I better watch your back,[XENO:n ]\nwhile you watch mine![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]Hahaha! You got that right.[XENO:wait wait=key ][XENO:act act=EVT_EXT24 ][System:PageBreak ]Then I'd better do my best[XENO:n ]\nso you don't get scolded, Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]It definitely couldn't hurt.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]And so we soldier on![XENO:n ]\nYou and me, saving the world![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]It definitely couldn't hurt.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Let's do our best, Rein![XENO:n ]\nFor the future of all life![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     }
   ]
 }

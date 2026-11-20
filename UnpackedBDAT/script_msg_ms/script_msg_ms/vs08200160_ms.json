@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]What a mess, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]That's mean, Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]I'm with these guys, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]You're not a child anymore.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]What about your visions?! You'd think the[XENO:n ]\ntwo of you could come up with something![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]What about the visions? The visions?![XENO:n ]\nI thought both of you could see the future![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT19 ]You got us into this mess![XENO:n ]\nAnd it's not the first time either.[XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT19 ]Oh, that's how you're going to put it?[XENO:n ]\nYou're the one who caused this, Rein![XENO:wait wait=key ][XENO:act act=EVT_EXT21 ][XENO:del del=this ]"
     },
     {
       "$id": 12,

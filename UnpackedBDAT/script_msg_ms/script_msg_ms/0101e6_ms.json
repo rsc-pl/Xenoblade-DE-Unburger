@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Do you wanna go back there?/・It'll all be fine! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Do you want to go back?/・Don't worry! ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:sel sel=・Let me put it this way.../・So? ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・What if you look at it this way?/・So, what's your point? ][XENO:del del=all ]"
     },
     {
       "$id": 34,
@@ -223,12 +223,12 @@
     {
       "$id": 43,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Wait, are you talking about[XENO:n ]\nactual sparring now?[XENO:wait wait=key ][System:PageBreak ]Because I'm up for that too![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yes, please do that[XENO:n ]\nfor me.[XENO:wait wait=key ][System:PageBreak ]Thank you, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]What are you talking about?[XENO:n ]\nThis is important![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Huh?[XENO:n ]\nRein?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -258,7 +258,7 @@
     {
       "$id": 50,
       "style": 126,
-      "name": "Yeah, I can see what you mean.[XENO:wait wait=key ][System:PageBreak ]I should concentrate on[XENO:n ]\nthe road ahead.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]Right now, my goal is[XENO:n ]\nmaking them pay.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Maybe you are right, Rein.[XENO:wait wait=key ][System:PageBreak ]I should concentrate on[XENO:n ]\nthe road ahead.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]Right now, my goal is[XENO:n ]\nmaking them pay.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 51,

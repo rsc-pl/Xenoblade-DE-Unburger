@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT7 ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I'll be OK. I need you to look after the group.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'll be OK. Rein, you and the others keep watch here.[XENO:wait wait=key ]"
     },
     {
       "$id": 20,

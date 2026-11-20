@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "Inquisitors of the Giant God Order,[XENO:n ]\ndedicated and devoted to the Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Inquisitors of the Giant God Order... Those who[XENO:n ]\nfollow the Giant God and give their lives for him.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "You have returned unharmed from the Tomb.[XENO:n ]\nThe forefathers have spoken.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You have safely completed your visit[XENO:n ]\nto the Tomb and gained the Founder's approval.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,

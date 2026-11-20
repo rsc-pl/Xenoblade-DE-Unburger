@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・But you're bad with directions./・I could get used to it too. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・You're bad with directions, right?/・It certainly isn't bad ][XENO:del del=all ]"
     },
     {
       "$id": 7,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・Of course! Don't you remember?/・No, I take it back. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Well, that time.../・Sorry, I take it back ][XENO:del del=all ]"
     },
     {
       "$id": 13,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "Wherever you go in this place, Onii-chan,[XENO:n ]\nI can see where you are![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'll know where you are no matter where[XENO:n ]\nyou go in the imperial capital, Onii-chan![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "You never change, Onii-chan![XENO:n ]\nAlways on about fighting.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Honestly, you haven't[XENO:n ]\nchanged a bit, Onii-chan![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "You know there's more to you[XENO:n ]\nthan that, Onii-chan![XENO:wait wait=key ][System:PageBreak ]I heard you saved everyone's[XENO:n ]\nlife, and more than once.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There you go being[XENO:n ]\nmodest again.[XENO:wait wait=key ][System:PageBreak ]You saved everyone,[XENO:n ]\nOnii-chan.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:sel sel=・You worry too much./・You certainly look...different. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Don't worry/・That's true ][XENO:del del=all ]"
     },
     {
       "$id": 39,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "One 'Onii-chan Special' coming up![XENO:wait wait=key ][System:PageBreak ]But you and Shulk need to work[XENO:n ]\non your vocabulary![XENO:wait wait=key ][System:PageBreak ]If I hear 'Yeah, great, thanks!'[XENO:n ]\none more time...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Of course![XENO:wait wait=key ][System:PageBreak ]You're just like[XENO:n ]\nShulk, Onii-chan.[XENO:wait wait=key ][System:PageBreak ]I'll cook up something that gets more[XENO:n ]\nthan just a \"delicious\" out of you![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -253,7 +253,7 @@
     {
       "$id": 49,
       "style": 126,
-      "name": "You're right...[XENO:wait wait=key ][System:PageBreak ]I'll probably remind everyone[XENO:n ]\nof the Machine Soldier attack.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You're right.[XENO:wait wait=key ][System:PageBreak ]I'm sure it'll bring back memories[XENO:n ]\nof the Machine God Soldiers' attack.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 50,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 126,
-      "name": "Yay! You're the best[XENO:n ]\nbig brother ever![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Do you really[XENO:n ]\nmean it?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 54,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 126,
-      "name": "Thank you, Onii-chan.[XENO:wait wait=key ][System:PageBreak ]With you around, I'll never need[XENO:n ]\nto be afraid again.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thank you![XENO:wait wait=key ][System:PageBreak ]I'm sure everything will be all[XENO:n ]\nright with you here, Onii-chan![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

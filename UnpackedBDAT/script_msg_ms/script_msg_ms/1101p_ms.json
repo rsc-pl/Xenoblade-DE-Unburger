@@ -18,22 +18,22 @@
     {
       "$id": 2,
       "style": 126,
-      "name": "Shulk-dono, will you not consider[XENO:n ]\nvisiting Melia?[XENO:wait wait=key ][System:PageBreak ]She has something on her mind.[XENO:n ]\nI hope you can speak with her.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk-dono, if you don't mind,[XENO:n ]\nwould you pay Melia a visit?[XENO:wait wait=key ][System:PageBreak ]She tends to bottle things up. I'd like[XENO:n ]\nyou to give her someone to talk to.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
       "style": 126,
-      "name": "I am grateful to you for saving[XENO:n ]\nmy younger sister.[XENO:wait wait=key ][System:PageBreak ]I hope she can relax and calm[XENO:n ]\ndown as Dunban suggested.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I am grateful to you for saving[XENO:n ]\nmy younger sister.[XENO:wait wait=key ][System:PageBreak ]I hope she can relax and calm[XENO:n ]\ndown as Dunban-dono suggested.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 126,
-      "name": "Melia will likely be in her Villa.[XENO:wait wait=key ][System:PageBreak ]My younger sister always goes there when she[XENO:n ]\nwants to relax.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Melia should be in her Imperial Villa.[XENO:wait wait=key ][System:PageBreak ]My younger sister always goes there[XENO:n ]\nwhen she needs to calm herself.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
       "style": 126,
-      "name": "I appreciate Dunban's[XENO:n ]\nquick thinking.[XENO:wait wait=key ][System:PageBreak ]His Majesty departed for Prison[XENO:n ]\nIsland alone.[XENO:wait wait=key ][System:PageBreak ]Please. You must help His[XENO:n ]\nMajesty... My father.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I appreciate Dunban-dono's[XENO:n ]\nquick thinking.[XENO:wait wait=key ][System:PageBreak ]His Majesty departed for Prison[XENO:n ]\nIsland alone.[XENO:wait wait=key ][System:PageBreak ]Please. You must help His[XENO:n ]\nMajesty... My father.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "The Machine Soldier attack was horrific.[XENO:wait wait=key ][System:PageBreak ]I wonder if we shall live to see[XENO:n ]\nanother year...[XENO:wait wait=key ][System:PageBreak ]But of course we shall. We must![XENO:n ]\nAnd Melia will be crowned![XENO:wait wait=key ][System:PageBreak ]For it was our father's dying wish.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "With the Machine God[XENO:wait wait=key ][System:PageBreak ]Soldiers invading,[XENO:n ]\nwill we see another year?[XENO:wait wait=key ][System:PageBreak ]No, we must see to it that we do,[XENO:n ]\nand put Melia on the throne.[XENO:wait wait=key ][System:PageBreak ]That is Father's dying wish.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "It will be trying, but please leave the[XENO:n ]\nallied force to me.[XENO:wait wait=key ][System:PageBreak ]And, Shulk-dono, I humbly ask you[XENO:n ]\nto keep Her Highness safe.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Your Highness, leave the allied army[XENO:n ]\nto me. I, Kallian, shall do all I can.[XENO:wait wait=key ][System:PageBreak ]And Shulk-dono, I entrust[XENO:n ]\nHer Highness to you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -63,12 +63,12 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "Hehehe. Pleased to make your[XENO:n ]\nacquaintance.[XENO:wait wait=key ][System:PageBreak ]Dear Homs, I trust everything is[XENO:n ]\nto your satisfaction?[XENO:wait wait=key ][System:PageBreak ]My name is Laulan. I serve as[XENO:n ]\na minister here in Achamoth.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hehehe. Pleased[XENO:n ]\nto meet you.[XENO:wait wait=key ][System:PageBreak ]Is that the right[XENO:n ]\nthing to say, you Homs?[XENO:wait wait=key ][System:PageBreak ]I'm Laulan. It may surprise you,[XENO:n ]\nbut I serve as Chancellor.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
       "style": 126,
-      "name": "You are just what I expected from[XENO:n ]\nhe who wields the Monado.[XENO:wait wait=key ][System:PageBreak ]I owe you my thanks for returning[XENO:n ]\n Melia-sama to us in one piece.[XENO:wait wait=key ][System:PageBreak ]Hehehe. It is such a relief.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "As expected of the bearer of the Monado.[XENO:n ]\nYou've accomplished quite a feat.[XENO:wait wait=key ][System:PageBreak ]Thanks to you,[XENO:n ]\n Melia-sama survived.[XENO:wait wait=key ][System:PageBreak ]Hehehe. I'm so glad.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "Huh? Out enjoying a stroll by[XENO:n ]\nourselves, are we Shulk-sama?[XENO:wait wait=key ][System:PageBreak ]Hehehe. I am only joking.[XENO:n ]\nDo not look so offended.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh? Shulk-sama, out[XENO:n ]\nfor a leisurely stroll by yourself?[XENO:wait wait=key ][System:PageBreak ]Hehehe. Only joking.[XENO:n ]\nPlease don't look so stern.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "I'll report this to Garuda-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Let's report to Garuda-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 126,
-      "name": "Where did Dunban go by himself-mo?[XENO:wait wait=key ][System:PageBreak ]Did he go eat by himself-mo? That's[XENO:n ]\nnot fair-mo![XENO:wait wait=key ][System:PageBreak ]Riki wanted to go too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Where did Dunban go all by himself-mo?[XENO:wait wait=key ][System:PageBreak ]Did he go to eat[XENO:n ]\nall by himself-mo?[XENO:wait wait=key ][System:PageBreak ]No fair-mo! Riki wanted to go too-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 55,
@@ -313,7 +313,7 @@
     {
       "$id": 61,
       "style": 126,
-      "name": "Please forgive me for keeping you.[XENO:wait wait=key ][System:PageBreak ]Only Shulk-sama may proceed beyond[XENO:n ]\nthis point.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We've been expecting you.[XENO:wait wait=key ][System:PageBreak ]Only you may go beyond[XENO:n ]\nthis point, Shulk-sama.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 62,
@@ -328,7 +328,7 @@
     {
       "$id": 64,
       "style": 126,
-      "name": "I have placed a great burden[XENO:n ]\nupon you.[XENO:wait wait=key ][System:PageBreak ]Please forgive my failings as[XENO:n ]\nan elder older brother.[XENO:wait wait=key ][System:PageBreak ]But keep this with you always.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I've made you shoulder[XENO:n ]\nso many burdens.[XENO:wait wait=key ][System:PageBreak ]Please forgive[XENO:n ]\nyour inadequate older brother.[XENO:wait wait=key ][System:PageBreak ]But there's one thing I want you never to forget.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 65,

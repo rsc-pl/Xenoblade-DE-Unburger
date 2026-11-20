@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "And then?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Talco?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 125,
-      "name": "You feel yourself indebted to them, right?[XENO:n ]\nTalco... You've changed.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "So you're here to repay what[XENO:n ]\nyou owe them... You've changed.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 125,
-      "name": "What do you mean? What don't you understand?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You don't know? What do you mean, Talco?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "Talco, that's wrong...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Talco, you...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "Hear me. You are strong enough.[XENO:n ]\nIn time, you will find your answers.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "But Talco, you are strong.[XENO:n ]\nIn time, you will find your answers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 125,
-      "name": "Enough. I'll hear no more of this self-loathing![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Talco, stop putting yourself down![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": "What's more, Talco...[XENO:n ]\nYou're all the family I have left...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And Talco... To me,[XENO:n ]\nyou're the last...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,
@@ -278,7 +278,7 @@
     {
       "$id": 54,
       "style": 125,
-      "name": "Listen. Once we have dealt with the matter at hand,[XENO:n ]\nwould you please give me your answer again?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Talco. Once we have dealt with the matter at hand,[XENO:n ]\nwould you please give me your answer again?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 55,
@@ -308,7 +308,7 @@
     {
       "$id": 60,
       "style": 125,
-      "name": "Yumea... Mother. Please, give me a sign...![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yumea-sama... Mother. Please, give me a sign...![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

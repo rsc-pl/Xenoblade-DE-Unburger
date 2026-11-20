@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Does this come as a surprise?/・I am saying exactly that. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Why are you so surprised?/・Exactly ][XENO:del del=all ]"
     },
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]I feel my explanation[XENO:n ]\nis quite reasonable.[XENO:wait wait=key ][System:PageBreak ]Do you find something[XENO:n ]\namiss with it?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]What is it,[XENO:n ]\nRein?[XENO:wait wait=key ][System:PageBreak ]Do you find something[XENO:n ]\namiss with it?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・Hmm. I see./・And what of it, Rein? ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Hmm. I see./・What about it? ][XENO:del del=all ]"
     },
     {
       "$id": 11,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:sel sel=・If there were any survivors?/・What the ship was doing here? ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・The survivors?/・Why they came to the lower levels? ][XENO:del del=all ]"
     },
     {
       "$id": 34,

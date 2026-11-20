@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・I'm doing great! Don't worry!/・Sorry. Is it that obvious? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'm fine, really!/・Sorry for worrying you ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -48,12 +48,12 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I know a little about this, y'know?[XENO:wait wait=key ][System:PageBreak ]Linada-san gave me a great book on[XENO:n ]\nMachina anatomical circuitry.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]You know,[XENO:wait wait=key ][System:PageBreak ]I've been studying Machina[XENO:n ]\nanatomy under Linada-san.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,12 +73,12 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]The truth is, I figured something[XENO:n ]\nout recently.[XENO:wait wait=key ][System:PageBreak ]It was Maynus who kept your[XENO:n ]\ncardio-pulmonary functions going.[XENO:wait wait=key ][System:PageBreak ]Am I right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I've realized[XENO:n ]\nsomething.[XENO:wait wait=key ][System:PageBreak ]Wasn't it Maynus's Monado[XENO:n ]\nthat maintained Fiorung's[XENO:wait wait=key ][System:PageBreak ]heart and lung functions?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:sel sel=・Yes. Maynus gave me strength./・No, I'm fine without her. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Yes/・No ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]I know that without Maynus's[XENO:n ]\nMonado, your energy is depleted.[XENO:wait wait=key ][System:PageBreak ]You only have a small[XENO:n ]\nreserve left now.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]With Maynus's[XENO:n ]\nMonado gone,[XENO:wait wait=key ][System:PageBreak ]Fiorung must have very little energy[XENO:n ]\nleft to keep functioning, right?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -208,12 +208,12 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]How can you be so laid back[XENO:n ]\nabout this?![XENO:wait wait=key ][System:PageBreak ]You should be back in Linada-san's[XENO:n ]\ninfirmary, not here, doing this![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]\"It seems so\"? How can[XENO:n ]\nyou say that so casually!?[XENO:wait wait=key ][System:PageBreak ]Let's go back to Linada-san's[XENO:n ]\nclinic and continue treatment.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 41,
       "style": 126,
-      "name": "[XENO:sel sel=・You're right. I should go./・No. I'm fine here. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Yeah, you're right/・No, it's fine ][XENO:del del=this ]"
     },
     {
       "$id": 42,

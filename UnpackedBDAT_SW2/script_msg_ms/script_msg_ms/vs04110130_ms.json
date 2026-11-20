@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT6 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT6 ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]There's a Machine God Soldier... It's taken Juujuu![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Juujuu... The Machine God Soldiers...![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,

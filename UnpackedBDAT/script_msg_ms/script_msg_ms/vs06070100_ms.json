@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I want to help Shulk.[XENO:n ]\nThe Machine God Soldiers must pay for what they did.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'm going with Shulk and the others.[XENO:n ]\nI can't forgive the Machine God Soldiers.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ]"
     },
     {
       "$id": 13,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I've never seen anything cooler than Shulk-san[XENO:n ]\nsmashing Machine God Soldiers with the Monado![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I've seen how Shulk-san and the others fight[XENO:n ]\nMachine God Soldiers. It was incredible.[XENO:wait wait=key ]"
     },
     {
       "$id": 19,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "Compared to Shulk-san and the others, I know[XENO:n ]\nI'm pretty useless.[XENO:wait wait=key ]"
+      "name": "I can't do nearly as much as[XENO:n ]\nShulk-san and the others, but...[XENO:wait wait=key ]"
     },
     {
       "$id": 23,
@@ -148,12 +148,12 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Shulk, Rein. Keep Carna safe for me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Shulk, Rein, please look after my daughter.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Dikson-san, are you leaving too?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Dikson-san, can't you come with us?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 30,

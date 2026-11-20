@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:type type=anger ]Mo-mo-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]Mo-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "It's not that I want to go somewhere-mo. I'm looking for my companions.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm not going anywhere-mo. I'm looking for my teammates.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -83,12 +83,12 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "We measure things like the height and size of the land-mo![XENO:wait wait=key ][System:PageBreak ]Oh! I forgot to introduce myself-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "We measure things like the height and size of the land-mo![XENO:wait wait=key ][System:PageBreak ]Mo! I forgot to introduce myself-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
       "style": 126,
-      "name": "Accurate! Reliable! Proven results! Leave the surveying to me-mo! Unini of the Noponjaa![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=anger ]Accurate! Dependable! Proven results!\nLeave the surveying to me-mo!\nUnini of the Noponjaa![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -103,12 +103,12 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "My curiosity is a little piqued...\nMight I ask what a 'Noponjaa' is?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I am a little curious. What exactly are the Noponjaa?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
       "style": 126,
-      "name": "Glad you asked-mo![XENO:wait wait=key ][System:PageBreak ]Noponjaa is the name of our Nopon surveying team-mo![XENO:wait wait=key ][System:PageBreak ]Any Nopon from Frontier Village should have heard of us at least once-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm glad you asked-mo! Noponjaa is the name of Unini's[XENO:wait wait=key ][System:PageBreak ]Nopon survey team-mo! Any Nopon who's lived[XENO:wait wait=key ][System:PageBreak ]in Frontier Village must have heard of us-mo, right?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "What a shock-mo... We've been inactive so long that our name recognition has really suffered...[XENO:wait wait=key ][System:PageBreak ]Mo! Never mind that-mo![XENO:wait wait=key ][System:PageBreak ]We Noponjaa came to survey the Giant's Shoulder-mo.[XENO:wait wait=key ][System:PageBreak ]But our leader, Wanawana, forgot to tell us where to meet afterward.[XENO:wait wait=key ][System:PageBreak ]So after surveying, none of us knows where to go-mo. Everyone else must be in trouble too-mo.[XENO:wait wait=key ][System:PageBreak ]That's why I was going to look for everyone-mo.[XENO:wait wait=key ][System:PageBreak ]But there are monsters around, and even for me, finding everyone would be tough-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "How could this be-mo? We've practically been on hiatus so long[XENO:wait wait=key ][System:PageBreak ]that our reputation is... Mo! Let's pull ourselves together-mo![XENO:wait wait=key ][System:PageBreak ]Unini and the Noponjaa came to survey Giant God's Shoulder-mo.[XENO:wait wait=key ][System:PageBreak ]But our captain, Wanawana, forgot to tell us where to meet.[XENO:wait wait=key ][System:PageBreak ]So we don't know where to go once we're done surveying-mo. Everyone else must[XENO:wait wait=key ][System:PageBreak ]be in trouble too-mo. That's why Unini was going to look for everyone-mo.[XENO:wait wait=key ][System:PageBreak ]But there are monsters around, and finding everyone would be tough even for Unini-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -153,17 +153,17 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "Well... If it were only two...[XENO:wait wait=key ][System:PageBreak ]Those two might know where the others are-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Well... I know where about two of them are.[XENO:wait wait=key ][System:PageBreak ]They might know where the others are-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 126,
-      "name": "Then I'll start by looking for those two-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Let's go and look for those two first, then-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
       "style": 126,
-      "name": "Wait-mo, Kino! We have other things we need to do...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Wait, Kino-mo! Nene's group has other things to do[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -203,12 +203,12 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "One of them is assigned from the slope at the three-way fork on the way to Companions'[XENO:wait wait=key ][System:PageBreak ]Cape all the way to Nerve Cemetery-mo. They're timid, so I'm worried whether they're surveying properly-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "One covers the slope at the fork toward Companions' Cape up to Nerthis Necropolis-mo.[XENO:wait wait=key ][System:PageBreak ]They're timid, so I'm worried they can't survey properly-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
       "style": 126,
-      "name": "The other covers the pond left of this cave and the area around Pillar Hill-mo.[XENO:wait wait=key ][System:PageBreak ]They may be shouting because something unexpected happened-mo. I want to put their mind at ease-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "One covers the pond left of Cragmaw Caverns' exit to Pillar Knoll-mo.[XENO:wait wait=key ][System:PageBreak ]They may be yelling if trouble came up-mo. I'd like to put them at ease-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,

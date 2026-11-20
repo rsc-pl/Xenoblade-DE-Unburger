@@ -53,12 +53,12 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "Heh.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 125,
-      "name": "Hey... Why do you think the Machine God Soldiers attacked?[XENO:wait wait=key ]"
+      "name": "Hey... Why do the Machine God Soldiers attack us?[XENO:wait wait=key ]"
     },
     {
       "$id": 11,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "I suppose...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 125,
-      "name": "And then Dikson-san found you and brought you back.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dikson-san went to the rescue and saved you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 47,

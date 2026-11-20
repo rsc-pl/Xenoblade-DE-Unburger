@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Rein, you really remind me[XENO:n ]\nof Gado when you get angry.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Rein earlier reminded me a little[XENO:n ]\nof Gado when he was angry.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 17,

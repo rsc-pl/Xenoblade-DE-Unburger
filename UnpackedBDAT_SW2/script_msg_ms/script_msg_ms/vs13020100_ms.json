@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Who was Maynus-sama?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Who is Maynus-sama?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "He's blinded by revenge. Even Maynus-sama[XENO:n ]\nherself couldn't convince him to stop.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "He can no longer see anything,[XENO:n ]\nnot even the teachings of Maynus-sama.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]I haven't forgotten, or forgiven![XENO:n ]\nBut Egil's clearly suffered a lot in his life.[XENO:n ]\nYou don't feel any sympathy at all?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I haven't forgotten, or forgiven![XENO:n ]\nBut Egil's clearly suffered a lot in his life.[XENO:n ]\nDon't you think so, Rein?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 31,

@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:sel sel=・What are you talking about-mo!/・I agree-mo~! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What are you saying-mo?!/・I agree-mo~! ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Tut, tut, tut. Rein doesn't[XENO:n ]\nunderstand-mo. Nopon have wings-mo?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]That's why creatures with wings[XENO:n ]\nmust be treasured-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Tut, tut! Rein doesn't understand-mo.[XENO:n ]\nNopon have wings, right-mo?[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT1 ]That's why we have to cherish[XENO:n ]\ncreatures with wings-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Don't compare it like that-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't use such a strange example-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Bring it on-mo![XENO:n ]\nRiki won't lose-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]That's just what Riki wanted-mo![XENO:n ]\nRiki won't lose-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "I heard your inner[XENO:n ]\nvoice-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "Riki heard what you[XENO:n ]\nwere thinking-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:sel sel=・I guess you were right./・You know what's stranger? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Yeah/・Never mind that ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki wants to travel[XENO:n ]\nto lots of places-mo.[XENO:wait wait=key ][System:PageBreak ]I might meet even[XENO:n ]\nstranger creatures-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki wants to travel[XENO:n ]\nto all sorts of places-mo.[XENO:wait wait=key ][System:PageBreak ]Riki might meet even[XENO:n ]\nstranger creatures-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 126,
-      "name": "You're much younger than Riki,[XENO:n ]\nbut big in body and attitude-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You're much younger than Riki, but you're huge[XENO:n ]\nand you've got a huge attitude to match-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 48,

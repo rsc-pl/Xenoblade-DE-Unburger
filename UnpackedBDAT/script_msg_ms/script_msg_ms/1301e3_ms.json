@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・Riki has cold./・Ghosts are here. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I've caught a cold-mo/・There's a ghost-mo ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "Riki wants some sticky soup-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I want some sticky soup-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "When Riki catches a cold,[XENO:n ]\nOka makes it for him-mo.[XENO:wait wait=key ][System:PageBreak ]It's a sticky soup made by mixing[XENO:n ]\nfifty kinds of secret medicine-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oka makes it whenever[XENO:n ]\nRiki catches a cold-mo.[XENO:wait wait=key ][System:PageBreak ]It's a sticky soup made with fifty[XENO:n ]\nkinds of secret medicine-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:sel sel=・Dundun make Riki soup!/・Riki want to eat Fiorung's soup! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Make some, Dunban-mo!/・Riki wants some too-mo! ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -98,17 +98,17 @@
     {
       "$id": 18,
       "style": 126,
-      "name": "Riki wants you to make[XENO:n ]\nherb soup for him-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'd like you to cook some[XENO:n ]\nherb soup for Riki-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 19,
       "style": 126,
-      "name": "I'm possibly the worst cook on[XENO:n ]\nGiant God, apart from Rein.[XENO:wait wait=key ][System:PageBreak ]And it would take me a while to[XENO:n ]\nfind all the ingredients.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sorry, but spare me.[XENO:n ]\nI'm no good at that.[XENO:wait wait=key ][System:PageBreak ]I can't tell weeds from medicinal herbs,[XENO:n ]\nand I've no idea how to season it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
       "style": 126,
-      "name": "No weed soup, thanks-mo.[XENO:wait wait=key ][System:PageBreak ]Dunban, you can't keep[XENO:n ]\nrelying on your little sister-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki doesn't want weed soup-mo.[XENO:wait wait=key ][System:PageBreak ]Dunban, you shouldn't always[XENO:n ]\nrely on your younger sister-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,12 +118,12 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "Oh, fine-mo.[XENO:wait wait=key ][System:PageBreak ]I'm expecting better from Dunban's[XENO:n ]\ncooking next time-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Well, it can't be helped-mo.[XENO:wait wait=key ][System:PageBreak ]Riki looks forward to Dunban's[XENO:n ]\ncooking next time-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
       "style": 126,
-      "name": "Riki is interested[XENO:n ]\nin Hom Hom herb soup-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm curious about[XENO:n ]\nHom Hom herb soup-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 126,
-      "name": "Oh, a kindred[XENO:n ]\nspirit-mo! Well said-mo.[XENO:wait wait=key ][System:PageBreak ]Now I think I can[XENO:n ]\ndie without regrets-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, a kindred spirit-mo![XENO:n ]\nWell said-mo![XENO:wait wait=key ][System:PageBreak ]Now I don't think I[XENO:n ]\nhave any regrets-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:sel sel=・Dundun know what ghost is?/・Riki feel scary scary! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What do you know-mo?/・I'm getting scared-mo ][XENO:del del=this ]"
     },
     {
       "$id": 34,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "Shulk's dad and mum[XENO:n ]\nnot come home?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "What about Shulk's[XENO:n ]\ndad and mum-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "Riki has felt something[XENO:n ]\never since he came here-mo.[XENO:wait wait=key ][System:PageBreak ]It feels like he can hear a voice that's[XENO:n ]\nvery worried about Shulk-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki's been sensing something[XENO:n ]\never since we arrived-mo.[XENO:wait wait=key ][System:PageBreak ]I feel as though I can hear voices[XENO:n ]\nterribly worried about Shulk-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -248,7 +248,7 @@
     {
       "$id": 48,
       "style": 126,
-      "name": "They were found dead by[XENO:n ]\nthe entrance to the ruins.[XENO:wait wait=key ][System:PageBreak ]I heard about it from Dikson,[XENO:n ]\nwho found Shulk at the time.[XENO:wait wait=key ][System:PageBreak ]The bodies had no external[XENO:n ]\nwounds, but they looked starved.[XENO:wait wait=key ][System:PageBreak ]Perhaps the Monado rejected[XENO:n ]\nthem. Or perhaps...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Apparently, they all died[XENO:n ]\nat the entrance to the ruins.[XENO:wait wait=key ][System:PageBreak ]Dikson rescued Shulk[XENO:n ]\nand told me about it once.[XENO:wait wait=key ][System:PageBreak ]Their bodies were uninjured,[XENO:n ]\nbut looked as if they'd dried up.[XENO:wait wait=key ][System:PageBreak ]Were they rejected[XENO:n ]\nby the Monado, or...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 49,

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ]Carna, tell Riki about the Mechon-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]Carna, tell Riki about the Machine God Soldiers-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "Riki doesn't know anything about[XENO:n ]\nthe history between Hom Hom and Mechon-mo.[XENO:wait wait=key ][System:PageBreak ]That's no good-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki knows nothing about the history[XENO:n ]\nbetween Hom Hom and Machine God Soldiers-mo.[XENO:wait wait=key ][System:PageBreak ]That won't do-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・I'm not the best person to ask./・This is unusual for you, Riki. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Even if you say that.../・Unusual things do happen ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "I'm sorry, Riki. It's just...[XENO:wait wait=key ][System:PageBreak ]For as long as I remember, the[XENO:n ]\nMachine God Soldiers have been the enemy.[XENO:wait wait=key ][System:PageBreak ]But if you asked me why,[XENO:n ]\nI couldn't answer you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm sorry.[XENO:wait wait=key ][System:PageBreak ]Ever since I can remember, I've been[XENO:n ]\ntaught that they're our sworn enemies.[XENO:wait wait=key ][System:PageBreak ]I've never thought about the real reason[XENO:n ]\nwhy the Machine God Soldiers attack us.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -53,17 +53,17 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]Riki, what do you think of when[XENO:n ]\nsomeone mentions the Machine God Soldiers?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]What do you think of the Machine[XENO:n ]\nGod Soldiers, Riki?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,
       "style": 126,
-      "name": "What a pitiful machine-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "They're pitiful machines-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・That's an unusual perspective./・What are you talking about?! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・That's one way to look at it/・I don't really understand ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]No, Riki, it's not that.[XENO:wait wait=key ][System:PageBreak ]It's actually quite nice to find[XENO:n ]\nsomeone who thinks differently.[XENO:wait wait=key ][System:PageBreak ]The Machine God Soldiers have never attacked[XENO:n ]\nyour home, thank goodness.[XENO:wait wait=key ][System:PageBreak ]So it's natural that you'd have[XENO:n ]\na different perspective.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]No, Riki.[XENO:wait wait=key ][System:PageBreak ]I'm really glad that[XENO:n ]\nat least Frontier Village[XENO:wait wait=key ][System:PageBreak ]was spared the Machine[XENO:n ]\nGod Soldier attacks.[XENO:wait wait=key ][System:PageBreak ]It's understandable that you don't[XENO:n ]\nknow their history with Homs.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "The Mechon with faces are even more[XENO:n ]\npitiful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Machine God Soldiers with faces[XENO:n ]\nare even more pitiful-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Riki learned so much traveling[XENO:n ]\nwith Carna and the others-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]Most of it[XENO:n ]\nwas scary.[XENO:wait wait=key ][System:PageBreak ]Riki will learn more and be a wise Hero-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Travelling with Carna and the others[XENO:n ]\nhas taught Riki all sorts of things-mo![XENO:wait wait=key ][System:PageBreak ]It's all very scary.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT4 ]But Riki will see and hear more[XENO:n ]\nand become a wise hero-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -138,17 +138,17 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Good question-mo.[XENO:wait wait=key ][System:PageBreak ]Carna and the others[XENO:n ]\nfought the Mechon.[XENO:wait wait=key ][System:PageBreak ]Frontier Village knew nothing and[XENO:n ]\nstayed carefree-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]I'm glad you asked-mo.[XENO:wait wait=key ][System:PageBreak ]While Carna and the others were being[XENO:n ]\nattacked by Machine God Soldiers,[XENO:wait wait=key ][System:PageBreak ]Frontier Village was none the wiser[XENO:n ]\nand didn't have a care in the world-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]I guess Makna wasn't really on[XENO:n ]\nthe Machine God Soldiers' radar.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]It's true that the Makna area wasn't[XENO:n ]\ntargeted by the Machine God Soldiers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki only knew Mechon from[XENO:n ]\nrumors-mo.[XENO:wait wait=key ][System:PageBreak ]Seeing a Faced Mechon on[XENO:n ]\nPrison Island scared him-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]But Carna and the others were brave-mo. Riki[XENO:n ]\nis the Hero, yet he feels pathetic-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki had only heard rumours[XENO:n ]\nabout Machine God Soldiers-mo.[XENO:wait wait=key ][System:PageBreak ]When Riki first saw a Face at Prison[XENO:n ]\nIsland, he was terrified-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]But Carna and the others were so brave-mo.[XENO:n ]\nRiki feels pathetic, even though he's a hero-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:sel sel=・That's nonsense, Riki!/・No, Riki. That's not true. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What are you saying?/・That's not true ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -178,12 +178,12 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "I know the Nopon and Machine God Soldiers[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nany less of you in a fight.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Just because the Nopon of Frontier Village[XENO:n ]\nhave no history with the Machine God Soldiers,[XENO:wait wait=key ][System:PageBreak ]do you think we'd deny you[XENO:n ]\nthe right to fight alongside us?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Ugh... Riki doesn't[XENO:n ]\nthink so-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Ooh, no,[XENO:n ]\nI don't-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 126,
-      "name": "We know the Nopon and Machine God Soldiers[XENO:n ]\nnever crossed paths before...[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we think[XENO:n ]\nyou're not up to the challenge.[XENO:wait wait=key ][System:PageBreak ]You're one of us, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's true that you may not have the history[XENO:n ]\nwith the Machine God Soldiers that we do.[XENO:wait wait=key ][System:PageBreak ]But that doesn't mean we[XENO:n ]\nthink you have no right[XENO:wait wait=key ][System:PageBreak ]to fight alongside us, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 42,

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Donga chose me-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Donga chose Riki-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "But the village promised to clear Riki's debt[XENO:n ]\nif Riki defeats the great dinosaur-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ]"
+      "name": "But the village promised to clear Riki's debt[XENO:n ]\nif Riki defeats the Dinobeast-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT12 ]"
     },
     {
       "$id": 11,

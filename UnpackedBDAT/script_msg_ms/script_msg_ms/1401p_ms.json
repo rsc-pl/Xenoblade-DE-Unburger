@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Tell Dikson what has happened/・Not right now ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Talk about what's happened so far/・Not right now ][XENO:del del=all ]"
     },
     {
       "$id": 3,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "We have been busy building up[XENO:n ]\nthe allied force.[XENO:wait wait=key ][System:PageBreak ]Even so, Dikson-san told us to come[XENO:n ]\nhere to bring you supplies.[XENO:wait wait=key ][System:PageBreak ]He is probably worried about[XENO:n ]\nyou all.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Even though we're busy[XENO:n ]\npreparing the allied forces,[XENO:wait wait=key ][System:PageBreak ]Dikson-san volunteered[XENO:n ]\nto come here with supplies.[XENO:wait wait=key ][System:PageBreak ]He was probably[XENO:n ]\nworried about Shulk.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "Some of us will remain here to[XENO:n ]\nsupport you after Dikson-san leaves.[XENO:wait wait=key ][System:PageBreak ]Come and see us when you need[XENO:n ]\nany supplies.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Even after Dikson-san goes back, some[XENO:n ]\nsoldiers will stay here to support you.[XENO:wait wait=key ][System:PageBreak ]So you can concentrate[XENO:n ]\non your preparations.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,

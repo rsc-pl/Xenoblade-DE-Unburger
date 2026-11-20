@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Yes. And Alviss too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yes. Probably Alviss as well.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki won't lose-mo! For Riki's[XENO:n ]\nfamily too, Riki absolutely won't lose-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I won't lose-mo! For my family,[XENO:n ]\nI absolutely won't lose-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 17,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]The crimes against our friends will not go unpunished![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]We'll make you atone for the sin of toying with all life![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 20,

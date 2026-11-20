@@ -543,7 +543,7 @@
     {
       "$id": 107,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Investigate the street light/・Ignore ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Examine the streetlight/・Ignore it ][XENO:del del=this ]"
     },
     {
       "$id": 108,
@@ -1063,7 +1063,7 @@
     {
       "$id": 211,
       "style": 126,
-      "name": "Don't forget to bring me the Ultra[XENO:n ]\nSmall Reactor.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Don't forget to bring me the Ultra-Compact[XENO:n ]\nReactor.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 212,

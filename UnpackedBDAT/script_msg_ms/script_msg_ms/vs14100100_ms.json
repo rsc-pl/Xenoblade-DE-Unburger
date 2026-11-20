@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "What happened to the Machina was a tragedy,[XENO:n ]\nbut we cannot forgive the Machine Soldier attack on Giant God.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Even if the Machina suffered a tragedy, that doesn't excuse[XENO:n ]\nwhat the Machine God Soldiers did to the Giant God Realm.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "Maynus-sama once said this of the Monado.[XENO:wait wait=key ]"
+      "name": "Maynus-sama once said this...[XENO:wait wait=key ]"
     },
     {
       "$id": 20,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "Perhaps Maynus-sama[XENO:n ]\nwas drawn to your light.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Perhaps Maynus-sama saw[XENO:n ]\nthat glimmer of hope in you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 125,
-      "name": "We understand the history of Machine God Realm now.[XENO:n ]\nIf he is willing to listen, we will try to reason with him.[XENO:wait wait=key ]"
+      "name": "We've glimpsed the history of the Machine God Realm.[XENO:n ]\nI think there's still room for discussion.[XENO:wait wait=key ]"
     },
     {
       "$id": 28,

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・If it wasn't for you./・If it wasn't for Shulk. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Thanks to Dunban/・Thanks to Shulk ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・Made me wish I could use it./・Ain't fair! I wanna use it too! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I wanted to wield the Monado too/・Why Shulk and not me? ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "Still, there's no point in thinking[XENO:n ]\nabout what ifs.[XENO:wait wait=key ][System:PageBreak ]The sword chooses its wielder.[XENO:wait wait=key ][System:PageBreak ]Maybe it was even lying in wait[XENO:n ]\nfor him to come along.[XENO:wait wait=key ][System:PageBreak ]The time has passed for anyone[XENO:n ]\nbut him to wield that sword.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, give up on[XENO:n ]\nthe Monado.[XENO:wait wait=key ][System:PageBreak ]The sword chooses its wielder.[XENO:wait wait=key ][System:PageBreak ]Maybe it was even lying in wait[XENO:n ]\nfor him to come along.[XENO:wait wait=key ][System:PageBreak ]The time has passed for anyone[XENO:n ]\nbut him to wield that sword.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Now you're thinking along[XENO:n ]\nthe right lines.[XENO:wait wait=key ][System:PageBreak ]It's all about how we support him.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Now you're thinking along[XENO:n ]\nthe right lines.[XENO:wait wait=key ][System:PageBreak ]Do your best, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Ah! It's the great dinosaur-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Ah! It's the Dinobeast-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT15 ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]This may very well be the[XENO:n ]\nappearance of my forefathers.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Perhaps this is what[XENO:n ]\nour Founder looked like.[XENO:wait wait=key ]"
     },
     {
       "$id": 7,
@@ -58,12 +58,12 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Great dinosaur~! Great dinosaur-mo~![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dinobeast~! Dinobeast-mo~![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT8 ]You might be right.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT8 ]Dinobeasts, huh...[XENO:wait wait=key ]"
     },
     {
       "$id": 12,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]No. The stories tell of this place[XENO:n ]\nexisting long before my people.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]No. Legend says it existed long[XENO:n ]\nbefore our Founder was born.[XENO:wait wait=key ]"
     },
     {
       "$id": 15,
       "style": 125,
-      "name": "No one knows for sure, but we think our[XENO:n ]\nforefathers are the ones who sealed it.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Who built it and why is unclear,[XENO:n ]\nbut our Founder is said to have sealed it.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "There! An engraving by the forefathers.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Look! An inscription left by the Founder.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "The sealed door of Prison Island.[XENO:wait wait=key ]"
+      "name": "The prison door said to be sealed by the Founder...[XENO:wait wait=key ]"
     },
     {
       "$id": 25,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "Forefathers.[XENO:wait wait=key ]"
+      "name": "O Founder...[XENO:wait wait=key ]"
     },
     {
       "$id": 29,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ]![XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     }
   ]
 }

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Yes, Sire. We received a report from our[XENO:n ]\nsouth station. Machine God Soldiers are approaching.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes, sir! The southern guard reports that[XENO:n ]\na group of Machine God Soldiers is approaching![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,

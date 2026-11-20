@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]We have Odama-san...the Colonel...[XENO:n ]\nto thank for that. Him and Gado.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Odama-san... it's thanks[XENO:n ]\nto the defence captain and Gado.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]If anyone can do it, it's Rein-san and Shulk-san.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]No, if it's Rein-san and Shulk-san, then...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -148,17 +148,17 @@
     {
       "$id": 28,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,

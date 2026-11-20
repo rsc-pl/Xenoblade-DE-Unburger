@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "A hero, huh? He seems a little[XENO:n ]\nunreliable, but... fine.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "A hero, huh? I'm not entirely[XENO:n ]\nreassured, but very well.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I've told Riki all the details about[XENO:n ]\nthe great dinosaur Telethia-ja-mo.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I've told Riki all the details about[XENO:n ]\nthe Dinobeast Telethia-ja-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 17,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Listen carefully, companions-mo. The great[XENO:n ]\ndinosaur is incredibly strong-mo![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Listen carefully, companions-mo. The Dinobeast[XENO:n ]\nis incredibly strong-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 19,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "And all your information on the Telethia[XENO:n ]\namounts to is, \"It's incredibly strong-mo!\"![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And all he told us about Telethia was,[XENO:n ]\n'It's incredibly strong-mo!'[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,

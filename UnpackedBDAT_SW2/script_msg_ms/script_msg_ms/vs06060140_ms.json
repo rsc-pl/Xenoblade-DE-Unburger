@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "If Dikson-san hadn't found me that day, I wouldn't[XENO:n ]\nbe here now, discovering the world.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm here today only because[XENO:n ]\nDikson-san saved me back then.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]That's why I wanna discover its true[XENO:n ]\npower and help defeat the Machine God Soldiers.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
+      "name": "[XENO:act act=EVT_EXT4 ]So I want to learn this sword's secret and help[XENO:n ]\nin the fight against Machine God Soldiers.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ]"
     },
     {
       "$id": 10,

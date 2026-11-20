@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・The first time I came here./・Tomorrow's dinner. What else?! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・About that day/・About tomorrow's dinner ][XENO:del del=all ]"
     },
     {
       "$id": 7,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:sel sel=・No one thinks that, Fiorung./・You can say that again. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・That's not it, is it?/・That might be true ][XENO:del del=all ]"
     },
     {
       "$id": 14,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "And you know why, too![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT7 ]Because you just cook meat![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And you know why, too![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT7 ]Because all you cook is meat, Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "[XENO:sel sel=・Sautéed beast-on-the-bone!/・Gourmet cabbage parcels! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Roasted bone-in beast meat/・Special cabbage rolls ][XENO:del del=all ]"
     },
     {
       "$id": 43,

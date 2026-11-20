@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ]What should I do? I could tell Rein.[XENO:n ]\nBut... I don't know...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ](What should I do? Should[XENO:n ]\nI tell Rein? No, but...)[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

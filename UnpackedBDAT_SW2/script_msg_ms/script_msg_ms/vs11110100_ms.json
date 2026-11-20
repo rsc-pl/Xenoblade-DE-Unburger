@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Why did you have to include him?[XENO:n ]\nYou know how he disgusts me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Hey, why did you call that guy Dikson?[XENO:n ]\nYou know I can't stand him![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]We must respect our elders.[XENO:n ]\nDikson has known him far longer than us.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]We should respect our elders. He's known[XENO:n ]\n\"him\" longer than we have, after all.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

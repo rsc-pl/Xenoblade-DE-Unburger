@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Go back to the village/・Not right now ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Go back to the village/・Don't return now ][XENO:del del=all ]"
     },
     {
       "$id": 24,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 126,
-      "name": "Please talk to my father when you[XENO:n ]\nwant to return to the village.[XENO:wait wait=key ][System:PageBreak ]May the power of Lady Maynus[XENO:n ]\nprotect us.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Please speak to my father when[XENO:n ]\nyou wish to return to the village.[XENO:wait wait=key ][System:PageBreak ]We've arranged for you to return at any[XENO:n ]\ntime. May Maynus-sama bless you all.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,

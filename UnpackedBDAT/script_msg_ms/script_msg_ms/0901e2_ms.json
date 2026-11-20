@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "[XENO:sel sel=・Let's go and take a look./・You mean you don't know? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'd like to investigate/・You mean you don't know? ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:sel sel=・Mind sharing it with us?/・But you kept it to yourselves! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Mind sharing it with us?/・You could at least spare some! ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ]You are right, Rein...[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ][System:PageBreak ]We High Entia chose to turn[XENO:n ]\na blind eye. I'm not proud.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ]You're quite right.[XENO:wait wait=key ][XENO:act act=EVT_EXT10 ][System:PageBreak ]There must have been[XENO:n ]\nsomething we could have done.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Telling-offs? What are you[XENO:n ]\ntalking about?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Punishment?! Rein, what are you[XENO:n ]\ntalking about?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・Battle? What battle?/・It's really that old?! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・The Giant God and Machine God fought?/・Records from that long ago exist?! ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]You're a strange one, Rein.[XENO:wait wait=key ][System:PageBreak ]But yes, these are thought to be[XENO:n ]\nwritings of that ancient battle.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]W-well, never mind.[XENO:wait wait=key ][System:PageBreak ]In any case, it's said to be[XENO:n ]\na legend from the distant past.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 40,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]You do know a few things, Rein.[XENO:wait wait=key ][System:PageBreak ]Yes. The battle was so fierce[XENO:n ]\nit destroyed most of everything.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Indeed, you know your history well.[XENO:wait wait=key ][System:PageBreak ]By all accounts, it was[XENO:n ]\na battle of such intensity.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 47,

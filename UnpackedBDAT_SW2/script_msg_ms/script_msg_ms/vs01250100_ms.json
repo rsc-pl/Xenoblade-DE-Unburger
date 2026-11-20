@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]Was this built by the Machine God Soldiers?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Does this belong to a Machine God Soldier, too?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,

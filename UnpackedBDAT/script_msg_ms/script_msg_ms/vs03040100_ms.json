@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "They weren't made by no Machine God Soldiers.[XENO:wait wait=key ]"
+      "name": "These wounds weren't caused by Machine God Soldiers.[XENO:wait wait=key ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]Man, that's grim. I don't wanna go like this. Not even[XENO:n ]\nkilled by Machine God Soldiers, just some monsters in a cave.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ]They must be so frustrated, dying here at the hands[XENO:n ]\nof ordinary monsters instead of Machine God Soldiers.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,

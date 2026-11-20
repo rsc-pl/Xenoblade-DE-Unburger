@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Alviss?! What are you doing here?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]A-Alviss!? What are you doing here!?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 125,
-      "name": "[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,

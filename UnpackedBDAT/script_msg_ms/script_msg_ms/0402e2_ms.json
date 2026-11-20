@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]Didn't think you were[XENO:n ]\neven paying attention.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]Even you noticed,[XENO:n ]\ndense as you are, Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:sel sel=・Like fighting alongside Gado?/・Gado would just be a friend. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Want to fight alongside Gado?/・Can Gado be a friend too? ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 126,
-      "name": "[XENO:act act=EVT2 ]Hehe. Even the most ridiculous[XENO:n ]\nthing is a serious question to you.[XENO:wait wait=key ][System:PageBreak ]It's quite sweet actually. I guess[XENO:n ]\nthat's why I like you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Hehe. Rein, even the most ridiculous[XENO:n ]\nthing is a serious question to you.[XENO:wait wait=key ][System:PageBreak ]It's quite sweet actually. I guess[XENO:n ]\nthat's why I like you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 126,
-      "name": "[XENO:sel sel=・Electric, wind and water?/・Wind crystals and glowmoss? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Lightning and water to make wind?/・Mix glowmoss and wind? ][XENO:del del=this ]"
     },
     {
       "$id": 44,
@@ -308,7 +308,7 @@
     {
       "$id": 60,
       "style": 126,
-      "name": "Gado often experimented[XENO:n ]\nwith Odama-san[XENO:wait wait=key ][System:PageBreak ]to refine new[XENO:n ]\nether bullets.[XENO:act act=EVT_EXT9 ][XENO:wait wait=key ][System:PageBreak ]Sometimes he'd fail[XENO:n ]\nand get shouted at.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]Gado taught me everything, from[XENO:n ]\nhandling guns to refining ether bullets.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Gado often experimented[XENO:n ]\nwith Odama-san[XENO:wait wait=key ][System:PageBreak ]to refine new[XENO:n ]\nether bullets.[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][System:PageBreak ]Sometimes he'd fail[XENO:n ]\nand get shouted at.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT10 ]Gado taught me everything, from[XENO:n ]\nhandling guns to refining ether bullets.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 61,

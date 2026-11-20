@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Right! We head for the hilt of[XENO:n ]\nthe sword - Galahad Fortress.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Right! We're heading for the greatsword's guard,[XENO:n ]\nGalahad Fortress.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 3,

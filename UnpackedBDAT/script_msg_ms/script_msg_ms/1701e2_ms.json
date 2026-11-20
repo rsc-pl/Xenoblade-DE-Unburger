@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 126,
-      "name": "Sorry, Rein. I know it's a bit late[XENO:n ]\nto be striking up a conversation.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Sorry for calling you out[XENO:n ]\nall of a sudden at this hour.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・I'm being quite serious./・Speak your mind, Rein. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I'm being quite serious./・Your own opinion is fine ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・What of it?/・I see you share my view. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・What is it?/・You think so too? ][XENO:del del=all ]"
     },
     {
       "$id": 12,
@@ -123,12 +123,12 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]We should not need to see this[XENO:n ]\nas a cause for celebration.[XENO:wait wait=key ][System:PageBreak ]I am and will always be your ally.[XENO:n ]\nYou and I share the same goal.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Of course. I'm like an older[XENO:n ]\nbrother to you lot, aren't I?[XENO:wait wait=key ][System:PageBreak ]There's no way I wouldn't[XENO:n ]\nhave noticed.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]So! What are you gonna do about[XENO:n ]\nthem two then?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]So what are you going to do for them,[XENO:n ]\nas their older-brother figure?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Thank you, Rein.[XENO:wait wait=key ][System:PageBreak ]After talking to you I feel more[XENO:n ]\ncertain about how to handle them.[XENO:wait wait=key ][System:PageBreak ]And that means a lot.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]I'm sorry.[XENO:wait wait=key ][System:PageBreak ]But thanks to you, I've managed[XENO:n ]\nto sort out my own answer, too.[XENO:wait wait=key ][System:PageBreak ]I'm grateful.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・When you were kids?/・Rein, it would really help. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・In the past, huh?/・Think about it a little more ][XENO:del del=all ]"
     },
     {
       "$id": 36,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "Then maybe our role is just[XENO:n ]\nto give them a friendly push.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]What do you think, Rein?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Even if it seems impossible, we're[XENO:n ]\nthe ones who'll find a way to help.[XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT_EXT9 ]Right?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -258,7 +258,7 @@
     {
       "$id": 50,
       "style": 126,
-      "name": "Hmm...I see. In that case it seems[XENO:n ]\nour thoughts are in alignment.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hmm...I see. In that case it seems[XENO:n ]\nRein and I came to the same answer.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 51,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]You are a man, Rein.[XENO:wait wait=key ][System:PageBreak ]If you weren't, no one would[XENO:n ]\ndepend on you like Shulk does.[XENO:wait wait=key ][System:PageBreak ]Don't worry yourself. Just worry[XENO:n ]\nabout keeping them safe.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]You're already a man, Rein.[XENO:wait wait=key ][System:PageBreak ]Otherwise, do you think I'd[XENO:n ]\ntrust you to watch Shulk's back?[XENO:wait wait=key ][System:PageBreak ]Anyway, keep an eye[XENO:n ]\non those two for me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,

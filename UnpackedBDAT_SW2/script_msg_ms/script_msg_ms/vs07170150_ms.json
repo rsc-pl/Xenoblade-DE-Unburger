@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "Dikson would have been proud.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "That's an unusual way for you to fight, Shulk.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Don't think you've beaten Hero Riki with this-mo~~![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't think this beats Nopon hero Riki-mo~~![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT22 ]We couldn't have done it without[XENO:n ]\nyou, Hero-sama![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT22 ]Well, at least you did[XENO:n ]\nyour job, Hero-sama.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,

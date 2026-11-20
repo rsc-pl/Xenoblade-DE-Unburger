@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 125,
-      "name": "[XENO:act act=EVT4 ]But I don't think his motives are that simple.[XENO:n ]\nI'm sure Alviss has some kind of plan.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT4 ]I don't think his reasons are that simple.[XENO:n ]\nI feel Alviss has something in mind.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]You and me both.[XENO:n ]\nI must fulfil Maynus's wish![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]Yeah, me too. I have to carry[XENO:n ]\nout what Maynus entrusted to me![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 27,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Hey...umm... Can you go ahead?[XENO:n ]\nI'll go and see Linada-san in a minute.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT2 ]Sorry, Shulk. Go back ahead of me.[XENO:n ]\nI'll visit Linada-san later.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]If I go to see Linada-san, she'll find out[XENO:n ]\nwhat's happening to my body.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT7 ]If I go to see Linada-san, she'll[XENO:n ]\nfind out about this body, won't she?[XENO:wait wait=key ]"
     },
     {
       "$id": 37,

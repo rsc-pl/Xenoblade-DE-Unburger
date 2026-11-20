@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "The Three Sages are probably waiting[XENO:n ]\nfor you up ahead.[XENO:wait wait=key ][System:PageBreak ]You don't know how they'll attack[XENO:n ]\nso just be as ready as you can.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Three Sages are[XENO:n ]\nprobably waiting up ahead.[XENO:wait wait=key ][System:PageBreak ]We don't know what they'll do,[XENO:n ]\nso be ready for anything, okay?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Return to Colony 6/・Stay here ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Return to Colony 6/・Don't return ][XENO:del del=all ]"
     },
     {
       "$id": 9,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "Please inform my father when you[XENO:n ]\nwant to return to Colony 6.[XENO:wait wait=key ][System:PageBreak ]We are ready to leave any time.[XENO:wait wait=key ][System:PageBreak ]May the power of Lady Maynus[XENO:n ]\nprotect us.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "When you wish to return to Colony 6,[XENO:n ]\nplease speak to my father.[XENO:wait wait=key ][System:PageBreak ]We've arranged for you[XENO:wait wait=key ][System:PageBreak ]to return at any time. May[XENO:n ]\nMaynus-sama bless you all.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -148,27 +148,27 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "The Monado R Rudra has been[XENO:n ]\ndesigned for attack stability.[XENO:wait wait=key ][System:PageBreak ]Its lightweight materials narrow[XENO:n ]\nthe range of the Attack power.[XENO:wait wait=key ][System:PageBreak ]The damage is more focused,[XENO:n ]\nmaking it a reliable weapon.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Monado R Rudra was designed[XENO:n ]\nfor more consistent attack power.[XENO:wait wait=key ][System:PageBreak ]Its lightweight frame narrows[XENO:n ]\nthe attack power range.[XENO:wait wait=key ][System:PageBreak ]With less variation in damage,[XENO:n ]\nyou should be able to fight reliably.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
       "style": 126,
-      "name": "The Monado R Agni provides a[XENO:n ]\nhigh Guard Rate.[XENO:wait wait=key ][System:PageBreak ]It is made from hard materials[XENO:n ]\nfor increased durability.[XENO:wait wait=key ][System:PageBreak ]Damage is somewhat unfocused[XENO:n ]\nbut Guard Rate is greatly increased.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Monado R Agni was designed[XENO:n ]\nfor a higher guard rate.[XENO:wait wait=key ][System:PageBreak ]Its hard frame[XENO:n ]\nincreases durability.[XENO:wait wait=key ][System:PageBreak ]Damage will vary, but the guard[XENO:n ]\nrate should improve dramatically.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 126,
-      "name": "The Monado R Abyss has been[XENO:n ]\ndesigned for strong Attack power.[XENO:wait wait=key ][System:PageBreak ]The heavy materials used give it[XENO:n ]\na high maximum Attack power.[XENO:wait wait=key ][System:PageBreak ]Damage is somewhat unfocused[XENO:n ]\nbut it has immense strength.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Monado R Abyss was designed[XENO:n ]\nfor higher attack power.[XENO:wait wait=key ][System:PageBreak ]Its heavy frame allows[XENO:n ]\na higher maximum attack power.[XENO:wait wait=key ][System:PageBreak ]Damage will vary, but you can[XENO:n ]\nexpect exceptionally powerful hits.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 31,
       "style": 126,
-      "name": "The Monado R Dogma offers a[XENO:n ]\na higher critical hit rate.[XENO:wait wait=key ][System:PageBreak ]The thin materials used increase[XENO:n ]\nthe blade output.[XENO:wait wait=key ][System:PageBreak ]The high critical hit rate comes at[XENO:n ]\nthe cost of lower defence.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Monado R Dogma was designed[XENO:n ]\nfor a higher critical rate.[XENO:wait wait=key ][System:PageBreak ]Its thin frame[XENO:n ]\nincreases blade output.[XENO:wait wait=key ][System:PageBreak ]This sacrifices defense, but[XENO:n ]\nshould improve the critical rate.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
       "style": 126,
-      "name": "The Monado R Saga has been[XENO:n ]\ndesigned for superior defence.[XENO:wait wait=key ][System:PageBreak ]Its thick materials suppress[XENO:n ]\nthe blade output.[XENO:wait wait=key ][System:PageBreak ]Attack strength is greatly reduced[XENO:n ]\nbut it provides peerless Defence.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Monado R Saga was[XENO:n ]\ndesigned for higher defense.[XENO:wait wait=key ][System:PageBreak ]Its thick frame[XENO:n ]\nlimits blade output.[XENO:wait wait=key ][System:PageBreak ]Attack power has dropped noticeably,[XENO:n ]\nbut defense should be more than sufficient.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Make the Monado replica/・Not right now ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Make it/・Not right now ][XENO:del del=all ]"
     },
     {
       "$id": 35,

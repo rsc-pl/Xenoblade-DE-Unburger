@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Easier said than done!/・Do you think it's possible? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Don't say that so lightly!/・Are you serious? ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・Yes./・Well...not exactly. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Perhaps you're right/・That's not it ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ]...[XENO:wait wait=key ][System:PageBreak ][XENO:jaw jaw=on ][XENO:act act=EVT2 ]No... I will not do that.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ]!?[XENO:wait wait=key ][System:PageBreak ][XENO:jaw jaw=on ][XENO:act act=EVT2 ]That's not it[XENO:line ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 15,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT7 ]You mean the...Consort of Shadow?[XENO:n ]\nShe was your birth mother, right?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]Could it be about Melia's real mother,[XENO:n ]\nthe one they called the Consort of Shadow...?[XENO:wait wait=key ][XENO:act act=EVT_EXT9 ][XENO:del del=this ]"
     },
     {
       "$id": 33,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・You'll...look for them with me?/・I can't ask that of you. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・You'll come with me?!/・No, there's no need for that ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Then let's ask Fiorung and Rein![XENO:n ]\nThe four of us can go![XENO:wait wait=key ][System:PageBreak ]Then we'll be sure to find them.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't worry, Fiorung[XENO:n ]\nand Rein will help too![XENO:wait wait=key ][System:PageBreak ]We'll definitely find it![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 40,

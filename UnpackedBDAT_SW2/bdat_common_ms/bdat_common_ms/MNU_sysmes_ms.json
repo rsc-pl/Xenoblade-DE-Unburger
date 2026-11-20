@@ -428,7 +428,7 @@
     {
       "$id": 84,
       "style": 117,
-      "name": "Carry over[XENO:n ]\nclear data?"
+      "name": "Carry over completed[XENO:n ]\nsave data?"
     },
     {
       "$id": 85,
@@ -593,7 +593,7 @@
     {
       "$id": 117,
       "style": 117,
-      "name": "Cannot start using data from a game\nwhose story has not been cleared."
+      "name": "Cannot start with save data from a game\nwhose story is not yet complete."
     },
     {
       "$id": 118,
@@ -663,7 +663,7 @@
     {
       "$id": 131,
       "style": 19,
-      "name": "has joined the party (temporary)."
+      "name": "has temporarily joined the party."
     },
     {
       "$id": 132,

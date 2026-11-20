@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 125,
-      "name": "Dear younger sister, I can see the Emperor's[XENO:n ]\nwords have confused you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "My sister... Didn't you[XENO:n ]\nunderstand what His Majesty meant?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I, Minister Laulan, have no objection[XENO:n ]\nto your appointment.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]As Chancellor Laulan, I, too,[XENO:n ]\nhave no objection whatsoever.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 59,
@@ -343,7 +343,7 @@
     {
       "$id": 67,
       "style": 125,
-      "name": "They should be exchanging words as we speak.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "They must be speaking face to face by now.[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

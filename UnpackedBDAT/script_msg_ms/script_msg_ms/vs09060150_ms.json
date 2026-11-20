@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "I've seen us there. It must be true.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "That's what my vision is telling me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Rein. The Emperor's request was clear.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Rein, the Emperor said he needed time.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 10,

@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Yes. The Apocrypha Generator.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's the Apocrypha field generator.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Vanea-san, we need to find Egil.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Vanea-san, where's Egil?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 12,

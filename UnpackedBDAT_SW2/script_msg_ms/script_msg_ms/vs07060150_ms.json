@@ -43,12 +43,12 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]Sorry, Rein. I got attacked by Telethia.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]Sorry. A monster called a Telethia attacked me.[XENO:wait wait=key ]"
     },
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]If it hadn't been for Alviss I wouldn't have survived.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]But thanks to Alviss, I managed to drive it away.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "Alviss? [XENO:act act=EVT_EXT13 ]But he was...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Alviss? [XENO:act act=EVT_EXT13 ]Huh?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]He was here, Rein![XENO:n ]\nI didn't dream it. I'm not lying![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]No, Rein! Believe me![XENO:n ]\nHe really was there![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -133,12 +133,12 @@
     {
       "$id": 25,
       "style": 125,
-      "name": "I'm not lying![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
       "style": 125,
-      "name": "Alviss... Who are you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Alviss... Just who is he?[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

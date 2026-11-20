@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・How d'ya plan on doing that?/・What you gonna do with it? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・There's no way you can do that!/・What will you do with it back home? ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Go on then... What's the plan?/・I bet it's a stupid plan. ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・What are you going to use it for?/・For something silly, right? ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 126,
-      "name": "[XENO:sel sel=・You really are clueless./・You've gotta refine it! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・You don't even know that?/・Refine it in the ether furnace ][XENO:del del=this ]"
     },
     {
       "$id": 31,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ]...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT10 ][XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Really-mo?! Riki wants to eat[XENO:n ]\nlots of pollen dumplings-mo![XENO:wait wait=key ][System:PageBreak ]The whole family would be delighted too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Really-mo?! Riki wants to eat[XENO:n ]\nlots of pollen dango-mo![XENO:wait wait=key ][System:PageBreak ]The whole family would be delighted too-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 46,

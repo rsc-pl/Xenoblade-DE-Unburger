@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT2 ]I'd better talk to Dunban-san.[XENO:n ]\nDunban-san will know something.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT2 ](That's right. I should go see[XENO:n ]\nDunban-san. Dunban-san might...)[XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

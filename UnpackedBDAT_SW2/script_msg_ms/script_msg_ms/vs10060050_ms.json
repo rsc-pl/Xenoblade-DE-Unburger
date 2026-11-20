@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Yep. All thanks to Dunban-san.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Yeah. I feel better after talking to Dunban-san.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Shulk-dono, forgive me. Kallian-sama summons you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk-dono... Kallian-sama is calling for you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,

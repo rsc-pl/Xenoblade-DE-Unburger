@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]Of course-ja-mo. They are the ones who lent[XENO:n ]\nus their strength in defeating the great dinosaur too.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]Of course-ja-mo. They are the ones who lent[XENO:n ]\nus their strength in defeating the Dinobeast too.[XENO:wait wait=key ]"
     },
     {
       "$id": 9,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "I'll inform those above at once-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "I'll inform my superiors at once-ja-mo.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,

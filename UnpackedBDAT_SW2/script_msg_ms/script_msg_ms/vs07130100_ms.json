@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Melia-chan, you said the great dinosaur was hurt-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Melia-chan, you said you hurt the Dinobeast-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,12 +38,12 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT18 ]I hear the injured great[XENO:n ]\ndinosaur rests by ether crystals-mo.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT18 ]I hear the injured Dinobeast[XENO:n ]\nrests by ether crystals-mo.[XENO:wait wait=key ]"
     },
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]So if we find the ether crystals, the[XENO:n ]\ngreat dinosaur should be there too-mo![XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]So if we find the ether crystals, the[XENO:n ]\nDinobeast should be there too-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 8,

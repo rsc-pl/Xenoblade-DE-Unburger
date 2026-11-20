@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "Dikson-san, listen.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Dikson-san.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT7 ]I can't forgive Machine Soldiers for what they've done. But after[XENO:n ]\nlistening to Migol-san, I think there might be another way.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT7 ]I can't forgive what the Machine God Soldiers did. But hearing[XENO:n ]\nMigol-san, I think there's another way besides defeating them.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 28,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]I have to hand it to her. That Linada-san's pretty good.[XENO:n ]\nAnd not just with machines. She's also quite familiar[XENO:n ]\nwith organic physiology.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Linada-san's medical skills are[XENO:n ]\nbeyond doubt. I'm amazed she knows[XENO:n ]\nour bodies so well, not just machines.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 125,
-      "name": "I think that shows he has a strong character.[XENO:n ]\nAm I wrong, Dikson?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "That's another kind[XENO:n ]\nof strength, don't you think?[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Dikson-san, we're going to the Machine God capital.[XENO:n ]\nAbout the allied force...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Dikson-san, we're going to the Machine God Realm's[XENO:n ]\ncapital. So, please take care of the Allied Forces...[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 47,

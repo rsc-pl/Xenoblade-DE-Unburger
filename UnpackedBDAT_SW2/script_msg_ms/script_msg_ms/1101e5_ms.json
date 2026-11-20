@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・It's nothing but mumbo jumbo./・Of course I do! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I know, but I'm not interested/・Of course I do! ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -63,12 +63,12 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "Trust me, Melia. I know a little[XENO:n ]\nabout this sort of thing![XENO:wait wait=key ][System:PageBreak ]How about we do a reading?[XENO:n ]\nWhat star sign are you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm quite knowledgeable about astrology![XENO:n ]\nTell you what, Melia![XENO:wait wait=key ][System:PageBreak ]I'll do a reading for you.[XENO:n ]\nWhat was your birth period?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・My star sign is the Rhapsodist./・I will not answer that. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・The Chanting Star Period./・S-stop! ][XENO:del del=all ]"
     },
     {
       "$id": 13,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 126,
-      "name": "Shulk's is the Pedagogue.[XENO:n ]\nYou guys are a perfect match![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk was born in the Teaching Star Period.[XENO:n ]\nYou two are a perfect match![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 126,
-      "name": "Then this won't interest you at all.[XENO:wait wait=key ][System:PageBreak ]Shulk was born a Pedagogue. If[XENO:n ]\nyou happened to be a Rhapsodist...[XENO:wait wait=key ][System:PageBreak ]Well, you'd be a perfect match![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, I see. That's a shame.[XENO:wait wait=key ][System:PageBreak ]Shulk was born in the[XENO:n ]\nTeaching Star Period, you know.[XENO:wait wait=key ][System:PageBreak ]It's a good match for the Chanting Star Period...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 29,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 126,
-      "name": "It's about telling the future based[XENO:n ]\non one's star sign.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "It's divination that reads personality and compatibility[XENO:n ]\nfrom one's birth period and the stars.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "[XENO:sel sel=・No, I do not./・Yes, I do. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I don't believe it/・I believe it ][XENO:del del=all ]"
     },
     {
       "$id": 39,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "Melia... Your star sign is the[XENO:n ]\nRhapsodist. Am I right?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Say, Melia... You were born in the[XENO:n ]\nChanting Star Period, weren't you? Am I right?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -258,17 +258,17 @@
     {
       "$id": 50,
       "style": 126,
-      "name": "Tell me, Melia. What's your[XENO:n ]\nstar sign?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Say, Melia. What was your[XENO:n ]\nbirth period?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 51,
       "style": 126,
-      "name": "The Rhapsodist. How about[XENO:n ]\nyou, Carna?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The Chanting Star Period.[XENO:n ]\nHow about you, Carna?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 52,
       "style": 126,
-      "name": "My star sign's the Perfumer.[XENO:wait wait=key ][System:PageBreak ]You and me have great[XENO:n ]\ncompatibility, Melia![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Oh, mine was the Fragrant Star Period.[XENO:wait wait=key ][System:PageBreak ]You and I are supposed to be[XENO:n ]\na perfect match![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 53,

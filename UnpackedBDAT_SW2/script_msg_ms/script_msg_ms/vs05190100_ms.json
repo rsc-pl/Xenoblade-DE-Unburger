@@ -58,12 +58,12 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "But what of the others?[XENO:n ]\nWhat happened to Gado?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "Didn't you see them in that vision?[XENO:n ]\nGado... and the others...?![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 125,
-      "name": "[XENO:act act=EVT2 ]You're absolutely right. We need to move on[XENO:n ]\nand stop worrying about every little thing.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT2 ]No, Rein is right. We need to move on[XENO:n ]\nand stop worrying about every little thing.[XENO:wait wait=key ]"
     },
     {
       "$id": 22,

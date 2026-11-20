@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]The core is directly linked to the Apocrypha Generator.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]The core links directly to Apocrypha, the anti-Monado field generator.[XENO:wait wait=key ]"
     },
     {
       "$id": 12,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "Rein, you're going to scratch your head with your right hand.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein, you scratch your head with your right hand.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 31,

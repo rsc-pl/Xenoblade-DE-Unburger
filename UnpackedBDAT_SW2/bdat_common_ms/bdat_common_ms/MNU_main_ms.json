@@ -578,7 +578,7 @@
     {
       "$id": 114,
       "style": 144,
-      "name": "Set whether message pages advance automatically[XENO:n ]\nafter voices finish playing in events."
+      "name": "Set whether message pages advance automatically[XENO:n ]\nafter voiced lines finish in events."
     },
     {
       "$id": 115,
@@ -693,7 +693,7 @@
     {
       "$id": 137,
       "style": 144,
-      "name": "Set camera correction during battles[XENO:n ]\nwith large enemies."
+      "name": "Set whether to adjust the camera in battle[XENO:n ]\nwith large enemies."
     },
     {
       "$id": 138,
@@ -1403,7 +1403,7 @@
     {
       "$id": 279,
       "style": 144,
-      "name": "Set whether the camera resets automatically or manually while riding the Ether Jet."
+      "name": "Set whether the camera resets automatically\nor manually while riding the Ether Jet."
     }
   ]
 }

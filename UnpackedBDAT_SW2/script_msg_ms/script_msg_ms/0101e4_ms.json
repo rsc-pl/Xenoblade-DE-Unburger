@@ -28,12 +28,12 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Oh, did you want some too?[XENO:n ]\nI don't know if I made enough.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Rein, did you want some too?[XENO:n ]\nI don't know if I made enough.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・Of course I want some!/・Wait, so I can't have any?! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Of course I want some!/・Aren't you giving me any? ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]You know...[XENO:wait wait=key ][System:PageBreak ]Only you and my older[XENO:n ]\nbrother say that to me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]You know...[XENO:wait wait=key ][System:PageBreak ]Only you, Rein, and my older[XENO:n ]\nbrother say that to me.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
@@ -63,12 +63,12 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:act act=EVT1 ]Don't you worry! I'm going to![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT1 ]I was going to anyway, Rein![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・So...uh...when can we eat?/・Yeah, you might as well. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・So, when can I eat?/・That's it, keep it up ][XENO:del del=all ]"
     },
     {
       "$id": 13,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 126,
-      "name": "*sigh*[XENO:wait wait=key ][System:PageBreak ]I guess I can't stop you being you.[XENO:wait wait=key ][System:PageBreak ]OK, you can have some more.[XENO:n ]\nBut only a little.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "*sigh*[XENO:wait wait=key ][System:PageBreak ]That's what you get for sneaking a bite, Rein.[XENO:wait wait=key ][System:PageBreak ]OK, you can have some more.[XENO:n ]\nBut only a little.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 20,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・Yes! I mean, no! I mean.../・OK, I give up. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Don't say that/・Fine, forget it then ][XENO:del del=all ]"
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "I've never known anyone to die[XENO:n ]\nfrom missing one meal.[XENO:wait wait=key ][System:PageBreak ]A big guy like you? With that gut,[XENO:n ]\nyou'd last three days with no food![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I've never known anyone to die[XENO:n ]\nfrom missing one meal.[XENO:wait wait=key ][System:PageBreak ]Besides, you are a big guy, Rein,[XENO:n ]\nyou'd last three days with no food![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Anyway, you could at least[XENO:n ]\nhelp out a bit.[XENO:wait wait=key ][System:PageBreak ]The only reason you come round[XENO:n ]\nis to eat. I should charge you![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Anyway, you could at least[XENO:n ]\nhelp out a bit.[XENO:wait wait=key ][System:PageBreak ]Rein, you eat and eat[XENO:n ]\nwithout chipping in for food![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 40,

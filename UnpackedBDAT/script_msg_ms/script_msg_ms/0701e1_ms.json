@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 126,
-      "name": "[XENO:sel sel=・Why? Because of the Machine God Soldiers?/・Because it's not made of metal? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Reminds you of Machine God Soldiers?/・Because no metal was used? ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "The Machine God Soldiers are evil machines.[XENO:n ]\nI thought that might be the reason.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Machine God Soldiers are all machines. I wondered[XENO:n ]\nif that brought back frightening memories.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:sel sel=・Yes, they're scary./・Not a chance. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'm scared/・I'm not scared at all ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Fiorung... After what happened,[XENO:n ]\nof course the Machine God Soldiers scare me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]But Fiorung...[XENO:n ]\nThe Machine God Soldiers...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -118,17 +118,17 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]I just can't forget what[XENO:n ]\nhappened to Fiorung.[XENO:wait wait=key ][System:PageBreak ]And it's all the Machine God Soldiers' fault...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Because of the Machine[XENO:n ]\nGod Soldiers,[XENO:wait wait=key ][System:PageBreak ]Fiorung...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
       "style": 126,
-      "name": "Mmph! Shulk! I'm praising[XENO:n ]\nyou, so smile-mo![XENO:wait wait=key ][System:PageBreak ]Are you angry-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hmph! Shulk! I'm praising[XENO:n ]\nyou, so smile-mo![XENO:wait wait=key ][System:PageBreak ]Are you angry-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
       "style": 126,
-      "name": "Huh? Ah, sorry.[XENO:n ]\nI'm not angry.[XENO:wait wait=key ][System:PageBreak ]I was thinking how[XENO:n ]\nbrave you are, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Huh? Oh, sorry.[XENO:n ]\nI'm not angry.[XENO:wait wait=key ][System:PageBreak ]I was just thinking you're[XENO:n ]\nthe braver one, Riki.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 126,
-      "name": "[XENO:sel sel=・That's very resourceful of you!/・Is ALL of it from the forest? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・They're quite ingenious/・Is everything really from Makna? ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 126,
-      "name": "Shulk, you want to eat one-mo?[XENO:wait wait=key ][System:PageBreak ]Riki just can't handle those-mo.[XENO:wait wait=key ][System:PageBreak ]They make Riki's stomach tingle and[XENO:n ]\npound, and it's awful-mo. [XENO:wait wait=key ][System:PageBreak ]If you want to eat one, Shulk,[XENO:n ]\nRiki should call you a Hero too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You're going to eat them, Shulk-mo?[XENO:wait wait=key ][System:PageBreak ]Riki just can't stomach them-mo.[XENO:wait wait=key ][System:PageBreak ]They make your stomach tingle[XENO:n ]\nand rumble something awful-mo. [XENO:wait wait=key ][System:PageBreak ]If you want to eat those,[XENO:n ]\nI'll have to call you a Hero too-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 37,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "The bellows' core is tied with really[XENO:n ]\nstrong rope we got from the Bird People-mo.[XENO:wait wait=key ][System:PageBreak ]We coat it with oil the[XENO:n ]\nHoms taught us about,[XENO:wait wait=key ][System:PageBreak ]so it turns with only[XENO:n ]\na little force-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "The core of the bellows is tied with a very[XENO:n ]\nstrong cord we got from the Bird People-mo.[XENO:wait wait=key ][System:PageBreak ]We applied oil we learned[XENO:n ]\nabout from the Hom Hom.[XENO:wait wait=key ][System:PageBreak ]Now we can turn it[XENO:n ]\nwith very little effort-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "Nopon live all across[XENO:n ]\nthe Giant God-mo.[XENO:wait wait=key ][System:PageBreak ]New things make their[XENO:n ]\nway here quickly-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Nopon live in every corner[XENO:n ]\nof the Giant God Realm-mo.[XENO:wait wait=key ][System:PageBreak ]New things reach[XENO:n ]\nus quickly too-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 126,
-      "name": "Hehe! Riki didn't make it, but it makes[XENO:n ]\nhim happy when Shulk praises it-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hehe! Riki didn't make it,[XENO:n ]\nbut I'm happy Shulk praised me-mo![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・I can't wait to see the result./・A safe haven for everyone, huh? ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・I want to see its former glory soon/・A place to live in peace, huh? ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:sel sel=・Why would you say that?/・Don't worry about it! ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Why would you say that?/・That's not true ][XENO:del del=all ]"
     },
     {
       "$id": 10,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "You really think so?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:sel sel=・Just look around you./・Because it's everyone's dream. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Just look around you./・Because everyone's united ][XENO:del del=all ]"
     },
     {
       "$id": 35,

@@ -38,17 +38,17 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "Are you looking for Egil?[XENO:wait wait=key ][System:PageBreak ]Then the final battle must be near.[XENO:wait wait=key ][System:PageBreak ]But we've still got a job to do.[XENO:wait wait=key ][System:PageBreak ]I'll stay here and continue to[XENO:n ]\nmonitor the Machine God Soldiers' movements.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You... So you're going to see Egil?[XENO:wait wait=key ][System:PageBreak ]Then the final battle must be close.[XENO:wait wait=key ][System:PageBreak ]But our job remains the same.[XENO:wait wait=key ][System:PageBreak ]We'll keep watching the Machine[XENO:n ]\nGod Soldiers from here.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
       "style": 126,
-      "name": "You did well to find us here.[XENO:wait wait=key ][System:PageBreak ]That slope must have been quite[XENO:n ]\nslippery.[XENO:wait wait=key ][System:PageBreak ]But we have to hide out in this[XENO:n ]\nplace so the Machine God Soldiers don't find us.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I'm impressed you made it here.[XENO:wait wait=key ][System:PageBreak ]That slope must have been[XENO:n ]\na struggle to get down, right?[XENO:wait wait=key ][System:PageBreak ]But unless we hide somewhere like this,[XENO:n ]\nthe Machine God Soldiers will find us.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,
       "style": 126,
-      "name": "Why are we here?[XENO:wait wait=key ][System:PageBreak ]We're observing the Machine God Soldiers'[XENO:n ]\nmovements.[XENO:wait wait=key ][System:PageBreak ]Checking how strong they are and[XENO:n ]\nif they're preparing for battle.[XENO:wait wait=key ][System:PageBreak ]We take all the intelligence we[XENO:n ]\ngather back to the village.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Why are we here?[XENO:wait wait=key ][System:PageBreak ]To monitor the Machine[XENO:n ]\nGod Soldier forces.[XENO:wait wait=key ][System:PageBreak ]How much strength they have,[XENO:n ]\nwhether they're preparing to fight...[XENO:wait wait=key ][System:PageBreak ]We take the information we[XENO:n ]\ngather back to the village.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "It's a worthwhile job. I can spot[XENO:n ]\neven their slightest movements.[XENO:wait wait=key ][System:PageBreak ]Even so, I'm still just watching.[XENO:n ]\nI'm not able to destroy them.[XENO:wait wait=key ][System:PageBreak ]Sorry to ask but could you destroy[XENO:n ]\nsome Machine God Soldiers for me?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Our watch helped us notice some strange[XENO:n ]\nmovements among the Machine God Soldiers.[XENO:wait wait=key ][System:PageBreak ]But we're nothing more than lookouts.[XENO:n ]\nWe don't have the strength to defeat them.[XENO:wait wait=key ][System:PageBreak ]I'm sorry, but could we[XENO:n ]\nask you to take them down?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 36,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 126,
-      "name": "Thank you. May Maynus-sama[XENO:n ]\nprotect you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thank you. That's a great help.[XENO:n ]\nMay Maynus-sama bless you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 126,
-      "name": "[XENO:qst_start ]There are a couple of Machine God Soldiers that[XENO:n ]\nare targeting us.[XENO:wait wait=key ][System:PageBreak ]One called Revolutionary Bifrons[XENO:n ]\nis really powerful.[XENO:wait wait=key ][System:PageBreak ]Could you help out again?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:qst_start ]There's another Machine[XENO:n ]\nGod Soldier we're watching.[XENO:wait wait=key ][System:PageBreak ]It's called Revolutionary Bifrons,[XENO:n ]\nand it's a formidable enemy.[XENO:wait wait=key ][System:PageBreak ]Will you take this one on, too?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 41,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 126,
-      "name": "Thanks a lot.[XENO:wait wait=key ][System:PageBreak ]Revolutionary Bifrons is near[XENO:n ]\nPower Supply Area 1 on level 4.[XENO:wait wait=key ][System:PageBreak ]May Maynus-sama protect you.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Thank you. That's a great help.[XENO:wait wait=key ][System:PageBreak ]Revolutionary Bifrons should be near[XENO:n ]\nPower Supply Area 1 on the fifth floor.[XENO:wait wait=key ][System:PageBreak ]May Maynus-sama bless you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 43,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 126,
-      "name": "[XENO:qst_start ]There's one more Machine God Soldiers[XENO:n ]\ntargeting us.[XENO:wait wait=key ][System:PageBreak ]If Infernal Crocell was destroyed,[XENO:n ]\nthe village should be safe.[XENO:wait wait=key ][System:PageBreak ]Will you do it?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:qst_start ]There's one more Machine[XENO:n ]\nGod Soldier we're watching.[XENO:wait wait=key ][System:PageBreak ]If we deal with Infernal Crocell,[XENO:n ]\nthe village should be safe.[XENO:wait wait=key ][System:PageBreak ]Will you do it?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 45,

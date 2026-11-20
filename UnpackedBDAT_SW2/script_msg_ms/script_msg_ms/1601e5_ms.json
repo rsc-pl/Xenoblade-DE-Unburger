@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]That's right-mo![XENO:wait wait=key ][System:PageBreak ]Melia-chan slept right away.[XENO:n ]\nYou missed the grilled fish-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]That's right-mo![XENO:wait wait=key ][System:PageBreak ]Melia-chan went straight to sleep,[XENO:n ]\nso she didn't eat the grilled fish-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・Most intriguing./・That sounds gruesome. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Is that so?/・I'm not interested ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 126,
-      "name": "[XENO:sel sel=・But how will you catch it?/・I appreciate the offer, but no. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・But how would you get any?/・I appreciate the offer, but no. ][XENO:del del=this ]"
     },
     {
       "$id": 13,
@@ -173,12 +173,12 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT12 ]It really is delicious-mo![XENO:wait wait=key ][System:PageBreak ]Riki wants you to try it, even if you[XENO:n ]\nthink he might be tricking you-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT12 ]It's really delicious-mo![XENO:wait wait=key ][System:PageBreak ]Just trust me[XENO:n ]\nand give it a try-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:sel sel=・Eat it blindfolded?!/・That sounds like a bad idea. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I don't want to be deceived/・Even so... ][XENO:del del=this ]"
     },
     {
       "$id": 35,

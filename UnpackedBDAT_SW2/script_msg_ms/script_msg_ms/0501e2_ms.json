@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・That seems fitting./・Here?! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・So it seems/・Quite a feat in a place like this ][XENO:del del=this ]"
     },
     {
       "$id": 6,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・An adventurous one, no doubt./・A half-Homs like you? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What an eccentric emperor/・An emperor of mixed blood? ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 126,
-      "name": "...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 24,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 126,
-      "name": "[XENO:sel sel=・Perhaps it was stolen./・It might have fallen off. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Perhaps it was stolen./・Was it faulty construction? ][XENO:del del=this ]"
     },
     {
       "$id": 34,

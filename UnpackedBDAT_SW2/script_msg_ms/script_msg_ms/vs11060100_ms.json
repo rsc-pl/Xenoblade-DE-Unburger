@@ -18,7 +18,7 @@
     {
       "$id": 2,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT16 ]Galahad Fortress - the front line base of the Machine Soldiers.[XENO:n ]\nThe Machine Soldiers that attack Giant God must all come from here.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT16 ]Galahad Fortress is a Machine God Realm base. The Machine God[XENO:n ]\nSoldiers attacking the Giant God Realm must come from there.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 3,
@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "Shulk, don't leave Riki out-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk... Don't leave us out-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 8,

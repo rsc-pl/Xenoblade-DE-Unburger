@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "So Wanawana combined the information from[XENO:n ]\neveryone's surveying and pinpointed[XENO:n ]\nthe Golden Shroom's location-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "So Wanawana combined the results[XENO:n ]\nof everyone's surveys and pinpointed[XENO:n ]\nthe Golden Shroom's location-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 126,
-      "name": "The Golden Shroom is in the ruins[XENO:n ]\ndeep inside the Nelvus Cemetery-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "The Golden Shroom is in the ruins[XENO:n ]\ndeep inside Nerthis Necropolis-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "Hachoco surveyed the cemetery,[XENO:n ]\nbut there weren't any ruins in the[XENO:n ]\nback-mo![XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "Hachocho surveyed the graveyard,[XENO:n ]\nbut there weren't any[XENO:n ]\nruins at the back-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Mof... The[XENO:n ]\npath has been opened. At[XENO:n ]\nlast, 'the time has come'-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Mof[XENO:line ][XENO:wait wait=Key ][XENO:del del=this ]\nThe path is open[XENO:line ][XENO:wait wait=Key ][XENO:del del=this ]\nAt last, 'the time has come'-mo[XENO:line ][XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -153,12 +153,12 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]Even Ruins Research HQ surely forgive...[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "[XENO:type type=think ][XENO:jaw jaw=off ]And Ruins Research HQ will surely...[XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 30,
       "style": 126,
-      "name": "I want you to act as our bodyguards in the ruins[XENO:n ]\ndeep inside the Nelvus Cemetery until Wanawana[XENO:n ]\nand the others get the Golden Shroom-mo.[XENO:wait wait=Key ][XENO:del del=this ]"
+      "name": "You lot will be our bodyguards[XENO:n ]\nin the ruins deep inside Nerthis Necropolis[XENO:n ]\nuntil we get the Golden Shroom-mo![XENO:wait wait=Key ][XENO:del del=this ]"
     },
     {
       "$id": 31,

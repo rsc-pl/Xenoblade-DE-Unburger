@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Something's not right. The forefathers[XENO:n ]\nmust have had good reason to seal him![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]I cannot help wondering why[XENO:n ]\nthe Founders sealed this man here![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "I must do what I set out to.[XENO:n ]\nThe Machine God Soldiers must pay![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "There's something I have to do.[XENO:n ]\nI have to defeat the Machine God Soldiers![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT4 ]Amazing-mo, amazing-mo! You can see[XENO:n ]\nthe Giant God so well-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Is Oka and everyone[XENO:n ]\naround there-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Amazing-mo, amazing-mo! We can[XENO:n ]\nsee Giant God so clearly-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][System:PageBreak ]Are Oka and the others[XENO:n ]\nover there-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・What wrong, Shulk?/・Stop silly talk, Shulk! ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・What's wrong-mo?/・What are you saying-mo? ][XENO:del del=this ]"
     },
     {
       "$id": 6,
       "style": 126,
-      "name": "Shulk seems down-mo.[XENO:wait wait=key ][System:PageBreak ]Can you tell Riki about it-mo?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You seem down, Shulk-mo. If it's something[XENO:wait wait=key ][System:PageBreak ]you can tell Riki, why not talk about it-mo?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -53,7 +53,7 @@
     {
       "$id": 9,
       "style": 126,
-      "name": "[XENO:sel sel=・That was mean. I'm sorry./・OK. Here's the thing... ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I'm sorry/・All right ][XENO:del del=this ]"
     },
     {
       "$id": 10,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT13 ]Shulk doesn't trust Riki-mo?[XENO:wait wait=key ][System:PageBreak ]Riki is still the father of[XENO:n ]\neleven children-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]You don't trust Riki, Shulk-mo?[XENO:wait wait=key ][System:PageBreak ]I'm a dad of eleven[XENO:n ]\nchildren, you know-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 126,
-      "name": "Riki doesn't want to see Shulk[XENO:n ]\nlike that-mo![XENO:wait wait=key ][System:PageBreak ]Holding things in isn't good-mo. Hold[XENO:n ]\nin too much and you'll overflow-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Riki doesn't want to see you[XENO:n ]\nlooking like that, Shulk-mo![XENO:wait wait=key ][System:PageBreak ]Bottling things up isn't good-mo! If you[XENO:n ]\nhold too much in, it'll overwhelm you-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 126,
-      "name": "[XENO:act act=EVT3 ]Riki will wait as long as needed-mo![XENO:wait wait=key ][System:PageBreak ]Because Shulk matters to Riki.[XENO:wait wait=key ][System:PageBreak ]Not as a follower—as[XENO:n ]\na companion-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]Shall we head back-mo? Dunban[XENO:n ]\nand the others are worried-mo.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Of course, I'll wait as long as it takes-mo![XENO:wait wait=key ][System:PageBreak ]Because to Riki, Shulk is a dear follower...[XENO:wait wait=key ][System:PageBreak ]No,[XENO:n ]\na companion-mo![XENO:wait wait=key ][System:PageBreak ][XENO:act act=EVT1 ]Well, shall we head back-mo?[XENO:n ]\nDunban and the others are worried-mo.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Riki will become Shulk's father-mo![XENO:wait wait=key ][System:PageBreak ]Then Oka will be[XENO:n ]\nShulk's mother-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Riki will be Shulk's dad-mo![XENO:wait wait=key ][System:PageBreak ]Then Oka will be[XENO:n ]\nShulk's mum-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 23,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 126,
-      "name": "...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 26,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 126,
-      "name": "[XENO:sel sel=・About our journeys together?/・How is this relevant? ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Our journey so far?/・What about it? ][XENO:del del=this ]"
     },
     {
       "$id": 35,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT1 ]Ah! I understand now.[XENO:wait wait=key ][System:PageBreak ]Odama-san, Juujuu and even the[XENO:n ]\npeople of Hidden Village...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Ah![XENO:wait wait=key ][System:PageBreak ]Odama-san, Juujuu, and the people[XENO:n ]\nin the hidden village...[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 46,

@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:act act=EVT_EXT10 ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 11,

@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Riki defeated the great dinosaur-mo.[XENO:n ]\nThat means all Riki's debt is gone now-mo! Right-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Riki defeated the Dinobeast-mo.[XENO:n ]\nThat means all Riki's debt is gone now-mo! Right-mo?[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 9,
@@ -68,12 +68,12 @@
     {
       "$id": 12,
       "style": 125,
-      "name": "Hero Riki, who defeated the great dinosaur, shall lead[XENO:n ]\nhis Hom Hom attendants and depart this village-mo![XENO:wait wait=key ]"
+      "name": "Hero Riki, who defeated the Dinobeast, shall lead[XENO:n ]\nhis Hom Hom attendants and depart this village-mo![XENO:wait wait=key ]"
     },
     {
       "$id": 13,
       "style": 125,
-      "name": "And he shall bring true peace to the Giant's world-ja-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "And he'll bring true peace to the Giant God Realm-ja-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 14,
@@ -128,7 +128,7 @@
     {
       "$id": 24,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT13 ]Dad? Riki, what on Giant God is going on?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT13 ]Dad?! Hey, Riki, don't tell me these are...![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 25,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 125,
-      "name": "Just like Chief-sama said, you're going[XENO:n ]\nto work hard-mo. We're counting on you-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "As the village chief said, you'll have[XENO:n ]\nto work hard-mo. We're counting on you-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 32,
@@ -173,12 +173,12 @@
     {
       "$id": 33,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Everyone, Riki looks forward to traveling with you-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Everyone, let's get along from now on-mo![XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 34,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]Rein happy too! Come on, furball.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Don't give me that 'let's get along-mo'![XENO:wait wait=key ][XENO:del del=this ]"
     }
   ]
 }

@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Faces are created by directly integrating the brain stem[XENO:n ]\nand metabolic organs of Homs into Machine God Soldiers.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Faces are Machine God Soldiers built with brainstems[XENO:n ]\nand metabolic organs taken from captured Homs.[XENO:wait wait=key ]"
     },
     {
       "$id": 8,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]Explain it to me. I mean, why does Egil[XENO:n ]\nwant to make us into Machine God Soldiers? What's[XENO:n ]\nthe reason for all this?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]Please explain. Why did you... no,[XENO:n ]\nwhy did Egil turn us into Machine God[XENO:n ]\nSoldiers? What is he trying to achieve?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 21,
@@ -168,12 +168,12 @@
     {
       "$id": 32,
       "style": 125,
-      "name": "And once the friend of my older brother Egil,[XENO:n ]\nbefore they became sworn enemies.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "And he was once my brother Egil's[XENO:n ]\nfriend, and his greatest enemy.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 34,

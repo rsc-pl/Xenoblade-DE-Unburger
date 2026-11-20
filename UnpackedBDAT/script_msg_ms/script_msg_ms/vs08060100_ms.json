@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]You say the Consort of Shadow's child[XENO:n ]\nsurvived her ordeal?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]That the child of the Consort of Shadow[XENO:n ]\nshould survive by sheer good fortune...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "I, Talco, vow to see your orders fulfilled.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I, Talco, shall fulfil Her Highness the Consort of Light's command.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 4,

@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "If only we could find Dunban-san.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "You want to see Dunban-san soon, too, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "Hahaha![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Heh[XENO:line ][XENO:wait wait=key ]"
     },
     {
       "$id": 4,
       "style": 125,
-      "name": "I don't think he'd ever[XENO:n ]\ncry in front of you two.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I don't think he'd ever[XENO:n ]\ncry in front of Shulk or Rein.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 5,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 125,
-      "name": "[XENO:act act=EVT1 ]I'm OK. I want to see my older brother.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT1 ]I'm all right. I want to see Onii-chan soon too.[XENO:wait wait=key ]"
     },
     {
       "$id": 12,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "Rein, you really looked after Shulk for me.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Rein... You've been protecting Shulk all this time.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 125,
-      "name": "[XENO:act act=EVT3 ]Right, let's go. You wanna see[XENO:n ]\nmy older brother cry, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT3 ]Hehe. Come on, let's go. You want[XENO:n ]\nto see Onii-chan cry, don't you?[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 33,

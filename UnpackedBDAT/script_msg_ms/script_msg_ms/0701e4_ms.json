@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 126,
-      "name": "[XENO:sel sel=・Oh...yes, I like them./・I'll be honest... Not really. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・I like them/・I don't like them ][XENO:del del=this ]"
     },
     {
       "$id": 7,
@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 126,
-      "name": "[XENO:sel sel=・One day they wither and die./・Their pungent smell. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・Because flowers wither/・Because they have a scent ][XENO:del del=this ]"
     },
     {
       "$id": 12,
@@ -153,7 +153,7 @@
     {
       "$id": 29,
       "style": 126,
-      "name": "[XENO:sel sel=・Then tell me about Shulk./・As all wise rulers do. ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・How did Shulk look to you?/・It's training for a ruler, right? ][XENO:del del=this ]"
     },
     {
       "$id": 30,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 126,
-      "name": "A ruler must know his people.[XENO:wait wait=key ][System:PageBreak ]My father and older brother taught me[XENO:n ]\nmuch about imperial duties.[XENO:wait wait=key ][System:PageBreak ]I never thought I would actually[XENO:n ]\nneed those lessons...[XENO:wait wait=key ][System:PageBreak ]But I will certainly need them now.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes, indeed.[XENO:wait wait=key ][System:PageBreak ]From childhood, my father and older[XENO:n ]\nbrother taught me how to lead others.[XENO:wait wait=key ][System:PageBreak ]I never imagined I'd be[XENO:n ]\nin a position of leadership myself.[XENO:wait wait=key ][System:PageBreak ]I thought it was pointless.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 38,

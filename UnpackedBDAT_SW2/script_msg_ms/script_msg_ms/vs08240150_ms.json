@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 125,
-      "name": "Yes. The Machine God Soldiers devastated our homes,[XENO:n ]\nand we lost many loved ones.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Yes. Our home was attacked by the Machine God[XENO:n ]\nSoldiers, and many people lost their lives.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 11,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "Shulk-dono, you are the master of the Monado.[XENO:n ]\nBut there is something that must be said.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Shulk-dono, you wield the Monado.[XENO:n ]\nThen there's something I must tell you.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 125,
-      "name": "Long before our forefathers built this empire...[XENO:wait wait=key ]"
+      "name": "Long before our Founders established this nation...[XENO:wait wait=key ]"
     },
     {
       "$id": 20,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 125,
-      "name": "This is an inscription left by our forefathers.[XENO:wait wait=key ]"
+      "name": "A legend inscribed there by the Founder.[XENO:wait wait=key ]"
     },
     {
       "$id": 34,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 39,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT10 ]I saw it in a vision.[XENO:n ]\nWe will fight a faced Machine God Soldier.[XENO:wait wait=key ]"
+      "name": "[XENO:act act=EVT_EXT10 ]I saw it in a vision... This Monado[XENO:n ]\ncutting down a Faced Machine God Soldier.[XENO:wait wait=key ]"
     },
     {
       "$id": 57,
@@ -298,7 +298,7 @@
     {
       "$id": 58,
       "style": 125,
-      "name": "Then you will have seen him too.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I see... So you, too, saw it in a vision...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 59,
@@ -308,7 +308,7 @@
     {
       "$id": 60,
       "style": 125,
-      "name": "On Prison Island, our forefathers sealed something away,[XENO:n ]\njust as they did to the Monado.[XENO:wait wait=key ]"
+      "name": "They say the royal Founders sealed something else,[XENO:n ]\nlike the Monado, that lies dormant on Prison Island.[XENO:wait wait=key ]"
     },
     {
       "$id": 61,
@@ -323,12 +323,12 @@
     {
       "$id": 63,
       "style": 125,
-      "name": "I do not know. But our forefathers must have had[XENO:n ]\ngood reason. We must trust their decision.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I do not know. But since the Founders[XENO:n ]\nsealed it away, we must carry on their will.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 64,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 65,

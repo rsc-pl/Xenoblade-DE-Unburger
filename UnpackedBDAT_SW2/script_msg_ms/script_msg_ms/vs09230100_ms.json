@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]You waited for him? But I thought our[XENO:n ]\nforefathers imprisoned you here?![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]You were waiting? Were you not[XENO:n ]\nsealed here by our Founder?![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 2,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]That can't be true! Our forefathers[XENO:n ]\nwould have had better reason![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Impossible! That the Founders[XENO:n ]\nwould do it for such a reason...[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 18,

@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 125,
-      "name": "[XENO:jaw jaw=off ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ]"
     },
     {
       "$id": 4,
@@ -83,7 +83,7 @@
     {
       "$id": 15,
       "style": 125,
-      "name": "It...[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:jaw jaw=off ][XENO:line len=2 ][XENO:wait wait=key ][XENO:jaw jaw=on ][XENO:del del=this ]"
     },
     {
       "$id": 16,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 125,
-      "name": "I saw it. At the top of a black tower, you and I were[XENO:n ]\nfighting together. Fighting that faced Machine God Soldier.[XENO:wait wait=key ]"
+      "name": "I saw it. Atop a tall, black tower, I fought alongside[XENO:n ]\nyou against that Machine God Soldier with a face.[XENO:wait wait=key ]"
     },
     {
       "$id": 28,
@@ -203,7 +203,7 @@
     {
       "$id": 39,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT1 ]You've got my vote. A lady should not go[XENO:n ]\nunaccompanied onto the battlefield.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT1 ]I'll go along too. Any bastard who'd let a woman[XENO:n ]\ngo into battle alone is scum.[XENO:wait wait=key ][XENO:act act=EVT_EXT3 ][XENO:del del=this ]"
     },
     {
       "$id": 40,

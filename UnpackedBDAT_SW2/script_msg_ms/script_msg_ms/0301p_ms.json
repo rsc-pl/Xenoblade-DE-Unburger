@@ -1063,7 +1063,7 @@
     {
       "$id": 211,
       "style": 126,
-      "name": "[XENO:qst_start ]You'll hear me out, won't you?[XENO:wait wait=key ][System:PageBreak ]Have you seen them?[XENO:wait wait=key ][System:PageBreak ]The two monsters in the Arachno[XENO:n ]\nQueen's Nest in Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]They're fighting each other.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "[XENO:qst_start ]You'll hear me out, won't you?[XENO:wait wait=key ][System:PageBreak ]Have you seen them?[XENO:wait wait=key ][System:PageBreak ]The two monsters in the Queen Spider's[XENO:n ]\nDen in Tephra Cave.[XENO:wait wait=key ][System:PageBreak ]They're fighting each other.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 212,
@@ -1128,7 +1128,7 @@
     {
       "$id": 224,
       "style": 126,
-      "name": "I saw them in the Arachno[XENO:n ]\nQueen's Nest.[XENO:wait wait=key ][System:PageBreak ]They might still be there or they[XENO:n ]\nmight have gone somewhere else.[XENO:wait wait=key ][System:PageBreak ]Just get rid of them and make it[XENO:n ]\nsafe for people to go through.[XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "I saw them in the Queen Spider's[XENO:n ]\nDen.[XENO:wait wait=key ][System:PageBreak ]They might still be there or they[XENO:n ]\nmight have gone somewhere else.[XENO:wait wait=key ][System:PageBreak ]Just get rid of them and make it[XENO:n ]\nsafe for people to go through.[XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 225,
@@ -1243,7 +1243,7 @@
     {
       "$id": 247,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・Let's go/・In a little while ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel sel=・We're ready/・In a little while ][XENO:del del=all ]"
     },
     {
       "$id": 248,
@@ -1358,7 +1358,7 @@
     {
       "$id": 270,
       "style": 126,
-      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Listen/・Come back later ][XENO:del del=all ]"
+      "name": "[XENO:jaw jaw=off ][XENO:tail_off ][XENO:sel2 sel2=・Hear her out/・Come back later ][XENO:del del=all ]"
     },
     {
       "$id": 271,
@@ -1988,7 +1988,7 @@
     {
       "$id": 396,
       "style": 126,
-      "name": "Mo-mo? Weren't you going to investigate the Cylinder Warehouse[XENO:n ]\nnear Colony 9-mo?[XENO:wait wait=key ][System:PageBreak ]I want an Ether Cylinder soon-mo~[XENO:n ]\nOnce that thing is complete[XENO:line ][XENO:wait wait=key ][System:PageBreak ]J-just imagining it makes my brain juice[XENO:n ]\nfeel like it's going to overflow-mo!![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Mo-mo? Weren't you going to investigate the Cylinder Warehouse[XENO:n ]\nnear Colony 9-mo?[XENO:wait wait=key ][System:PageBreak ]I can't wait to get an Ether Cylinder-mo~[XENO:n ]\nOnce that thing is complete[XENO:line ][XENO:wait wait=key ][System:PageBreak ]J-just imagining it makes my brain juice[XENO:n ]\nfeel like it's going to overflow-mo!![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 397,
@@ -1998,7 +1998,7 @@
     {
       "$id": 398,
       "style": 126,
-      "name": "Hom Homs could race their Ether Jets[XENO:n ]\nto see who can reach the goal fastest[XENO:line ][XENO:wait wait=key ][System:PageBreak ]Th-this idea could work-mo!![XENO:wait wait=key ][System:PageBreak ]Mo-mo? What's wrong with you-mo?[XENO:wait wait=key ][System:PageBreak ]Do you like the Ether Jet-mo?[XENO:wait wait=key ][System:PageBreak ]Soon, I'm planning to hold[XENO:n ]\na tremendous competition using Ether Jets-mo![XENO:wait wait=key ][System:PageBreak ]When the time comes, I want you[XENO:n ]\nto take part too-mo![XENO:wait wait=key ][XENO:del del=this ]"
+      "name": "Hom Homs could race their Ether Jets[XENO:n ]\nto see who can reach the goal fastest[XENO:line ][XENO:wait wait=key ][System:PageBreak ]Th-this idea could work-mo!![XENO:wait wait=key ][System:PageBreak ]Mo-mo? What's the matter-mo?[XENO:wait wait=key ][System:PageBreak ]Do you like the Ether Jet-mo?[XENO:wait wait=key ][System:PageBreak ]Soon, I'm planning to hold[XENO:n ]\na tremendous competition using Ether Jets-mo![XENO:wait wait=key ][System:PageBreak ]When the time comes, I want you[XENO:n ]\nto take part too-mo![XENO:wait wait=key ][XENO:del del=this ]"
     },
     {
       "$id": 399,

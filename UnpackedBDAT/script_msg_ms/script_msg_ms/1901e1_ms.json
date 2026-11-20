@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 126,
-      "name": "[XENO:sel sel=・You are?/・OK. I'll tell you. ][XENO:del del=all ]"
+      "name": "[XENO:sel sel=・Huh, really?/・OK. I'll tell you. ][XENO:del del=all ]"
     },
     {
       "$id": 6,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 126,
-      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・It's quite tragic./・You don't mince words! ][XENO:del del=all ]"
+      "name": "[XENO:act act=EVT_EXT9 ][XENO:sel sel=・Yeah, that's true/・You don't mince words! ][XENO:del del=all ]"
     },
     {
       "$id": 11,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 126,
-      "name": "[XENO:sel sel=・No, nothing in particular./・Let me think... ][XENO:del del=this ]"
+      "name": "[XENO:sel sel=・It was just like any other day/・What was it like again? ][XENO:del del=this ]"
     },
     {
       "$id": 36,

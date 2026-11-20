@@ -238,12 +238,12 @@
     {
       "$id": 46,
       "style": 125,
-      "name": "The Mag Mell Ruins are in Tephra Cave, right?[XENO:n ]\nI heard that there's a Meld Lizard nest there.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
+      "name": "The Mag Mell Ruins are beyond Tephra Cave, right?[XENO:n ]\nI heard that area's crawling with Meld Lizards.[XENO:wait wait=key ][XENO:act act=EVT_EXT18 ][XENO:del del=this ]"
     },
     {
       "$id": 47,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]I couldn't take it if anything happened to Shulk.[XENO:n ]\nHe's delicate - not like you, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]What if Shulk gets hurt?[XENO:n ]\nHe's delicate, unlike you, Rein.[XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 48,
@@ -268,7 +268,7 @@
     {
       "$id": 52,
       "style": 125,
-      "name": "[XENO:act act=EVT_EXT4 ]A promise doesn't mean much[XENO:n ]\ncoming from you![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
+      "name": "[XENO:act act=EVT_EXT4 ]Rein, your promises[XENO:n ]\ncan't be trusted![XENO:wait wait=key ][XENO:act act=EVT_EXT6 ][XENO:del del=this ]"
     },
     {
       "$id": 53,
