@@ -1,9 +1,5 @@
 # Xenoblade 1 Definitive Edition UNBURGER Patch (Switch 1 & Switch 2)
 
-## Disclaimer
-
-**If you don't intend to use this patch and only want to comment for trolling purposes, don't bother. The world doesn't need any more clowns. You're not special.**
-
 ## About the Patch
 
 The Xenoblade 1 UNBURGER patch brings the English version of Xenoblade Definitive Edition closer to the original Japanese game. The patch is available for both Switch 1 and Switch 2.
